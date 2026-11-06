@@ -1,0 +1,42 @@
+[
+  {
+    "raw_id": "HB1301_e0078c5e454a19",
+    "entity_type": "spot",
+    "full_name": "小堡村",
+    "blind_name": "小堡*",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130128",
+    "area_name": "深泽县",
+    "township_name": "白庄乡",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "area_official_catalog_projection",
+    "search_query": null,
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_observation_ids": [
+      "official_rural:77"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "parent_id": null,
+    "sub_spots": [],
+    "parent_child_status": "unresolved",
+    "physical_entity_uniqueness": "not_asserted",
+    "exact_name_dedup_rule": "same full name; merge unknown admin only if exactly one explicit official admin exists for this name; never merge across distinct known areas",
+    "public_access_status": null,
+    "projection_of": "HB1301_e0078c5e454a19"
+  }
+]

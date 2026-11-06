@@ -1,0 +1,807 @@
+[
+  {
+    "raw_id": "AREA_13_SJZ01_f255054241a35e",
+    "source_entity_id": "13_SJZ01_f255054241a35e",
+    "entity_type": "spot",
+    "full_name": "东西韩村",
+    "blind_name": "*西*村",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130127",
+    "area_name": "高邑县",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": "万城镇",
+    "address": "石家庄市高邑县万城镇东西韩村",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_page": null,
+    "source_row": 62,
+    "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+    "retrieved_at": "2026-11-07T01:18:49.263627+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_f255054241a35e",
+    "raw_ids": [
+      "CITY_13_SJZ01_f255054241a35e",
+      "AREA_13_SJZ01_f255054241a35e"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "rural_village_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_rural:62",
+        "source_id": "official_rural",
+        "full_name_as_listed": "东西韩村",
+        "official_catalog_kind": "乡村旅游重点村镇",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "source_row": 62,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_rural.html",
+        "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+        "source_bytes": 439230,
+        "source_excerpt": {
+          "name": "东西韩村",
+          "location_text": "石家庄市高邑县万城镇东西韩村",
+          "catalog_kind": "乡村旅游重点村镇",
+          "grade": null,
+          "designation_type": "重点村",
+          "designation_level": "市级",
+          "township_name": "万城镇",
+          "designation_year": "2024"
+        },
+        "explicit_area_code_in_this_row": "130127",
+        "explicit_area_name_in_this_row": "高邑县",
+        "capture_time": "2026-11-07T01:18:49.263627+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_rural:62"
+    ],
+    "origin_candidate_id": "HB1301_f255054241a35e",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "rural_identity_notice": "Official key rural-tourism village/township designation, not a newly created scenic-area identity.",
+    "projection_of": "SP_13_SJZ01_f255054241a35e",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_b9b7ed691842ff",
+    "source_entity_id": "13_SJZ01_b9b7ed691842ff",
+    "entity_type": "spot",
+    "full_name": "北渎村",
+    "blind_name": "北*村",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130127",
+    "area_name": "高邑县",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": "富村镇",
+    "address": "石家庄市高邑县富村镇北渎村",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_page": null,
+    "source_row": 88,
+    "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+    "retrieved_at": "2026-11-07T01:18:49.263627+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_b9b7ed691842ff",
+    "raw_ids": [
+      "CITY_13_SJZ01_b9b7ed691842ff",
+      "AREA_13_SJZ01_b9b7ed691842ff"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "rural_village_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_rural:88",
+        "source_id": "official_rural",
+        "full_name_as_listed": "北渎村",
+        "official_catalog_kind": "乡村旅游重点村镇",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "source_row": 88,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_rural.html",
+        "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+        "source_bytes": 439230,
+        "source_excerpt": {
+          "name": "北渎村",
+          "location_text": "石家庄市高邑县富村镇北渎村",
+          "catalog_kind": "乡村旅游重点村镇",
+          "grade": null,
+          "designation_type": "重点村",
+          "designation_level": "市级",
+          "township_name": "富村镇",
+          "designation_year": "2025"
+        },
+        "explicit_area_code_in_this_row": "130127",
+        "explicit_area_name_in_this_row": "高邑县",
+        "capture_time": "2026-11-07T01:18:49.263627+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_rural:88"
+    ],
+    "origin_candidate_id": "HB1301_b9b7ed691842ff",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "rural_identity_notice": "Official key rural-tourism village/township designation, not a newly created scenic-area identity.",
+    "projection_of": "SP_13_SJZ01_b9b7ed691842ff",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_cec2a17ed698a3",
+    "source_entity_id": "13_SJZ01_cec2a17ed698a3",
+    "entity_type": "spot",
+    "full_name": "榆林村",
+    "blind_name": "*林村",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130127",
+    "area_name": "高邑县",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": "万城镇",
+    "address": "石家庄市高邑县万城镇榆林村",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_page": null,
+    "source_row": 87,
+    "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+    "retrieved_at": "2026-11-07T01:18:49.263627+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_cec2a17ed698a3",
+    "raw_ids": [
+      "CITY_13_SJZ01_cec2a17ed698a3",
+      "AREA_13_SJZ01_cec2a17ed698a3"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "rural_village_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_rural:87",
+        "source_id": "official_rural",
+        "full_name_as_listed": "榆林村",
+        "official_catalog_kind": "乡村旅游重点村镇",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "source_row": 87,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_rural.html",
+        "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+        "source_bytes": 439230,
+        "source_excerpt": {
+          "name": "榆林村",
+          "location_text": "石家庄市高邑县万城镇榆林村",
+          "catalog_kind": "乡村旅游重点村镇",
+          "grade": null,
+          "designation_type": "重点村",
+          "designation_level": "市级",
+          "township_name": "万城镇",
+          "designation_year": "2025"
+        },
+        "explicit_area_code_in_this_row": "130127",
+        "explicit_area_name_in_this_row": "高邑县",
+        "capture_time": "2026-11-07T01:18:49.263627+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_rural:87"
+    ],
+    "origin_candidate_id": "HB1301_cec2a17ed698a3",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "rural_identity_notice": "Official key rural-tourism village/township designation, not a newly created scenic-area identity.",
+    "projection_of": "SP_13_SJZ01_cec2a17ed698a3",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_4f4dfea6df0fa8",
+    "source_entity_id": "13_SJZ01_4f4dfea6df0fa8",
+    "entity_type": "spot",
+    "full_name": "河村",
+    "blind_name": "河村",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130127",
+    "area_name": "高邑县",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": "中韩镇",
+    "address": "石家庄市高邑县中韩镇河村",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_page": null,
+    "source_row": 89,
+    "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+    "retrieved_at": "2026-11-07T01:18:49.263627+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_4f4dfea6df0fa8",
+    "raw_ids": [
+      "CITY_13_SJZ01_4f4dfea6df0fa8",
+      "AREA_13_SJZ01_4f4dfea6df0fa8"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "rural_village_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_rural:89",
+        "source_id": "official_rural",
+        "full_name_as_listed": "河村",
+        "official_catalog_kind": "乡村旅游重点村镇",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "source_row": 89,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_rural.html",
+        "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+        "source_bytes": 439230,
+        "source_excerpt": {
+          "name": "河村",
+          "location_text": "石家庄市高邑县中韩镇河村",
+          "catalog_kind": "乡村旅游重点村镇",
+          "grade": null,
+          "designation_type": "重点村",
+          "designation_level": "市级",
+          "township_name": "中韩镇",
+          "designation_year": "2025"
+        },
+        "explicit_area_code_in_this_row": "130127",
+        "explicit_area_name_in_this_row": "高邑县",
+        "capture_time": "2026-11-07T01:18:49.263627+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_rural:89"
+    ],
+    "origin_candidate_id": "HB1301_4f4dfea6df0fa8",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "rural_identity_notice": "Official key rural-tourism village/township designation, not a newly created scenic-area identity.",
+    "projection_of": "SP_13_SJZ01_4f4dfea6df0fa8",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_8c38420f0e184a",
+    "source_entity_id": "13_SJZ01_8c38420f0e184a",
+    "entity_type": "spot",
+    "full_name": "花园村",
+    "blind_name": "花园*",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130127",
+    "area_name": "高邑县",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": "高邑镇",
+    "address": "石家庄市高邑县高邑镇花园村",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_page": null,
+    "source_row": 51,
+    "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+    "retrieved_at": "2026-11-07T01:18:49.263627+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_8c38420f0e184a",
+    "raw_ids": [
+      "CITY_13_SJZ01_8c38420f0e184a",
+      "AREA_13_SJZ01_8c38420f0e184a"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "rural_village_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_rural:51",
+        "source_id": "official_rural",
+        "full_name_as_listed": "花园村",
+        "official_catalog_kind": "乡村旅游重点村镇",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "source_row": 51,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_rural.html",
+        "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+        "source_bytes": 439230,
+        "source_excerpt": {
+          "name": "花园村",
+          "location_text": "石家庄市高邑县高邑镇花园村",
+          "catalog_kind": "乡村旅游重点村镇",
+          "grade": null,
+          "designation_type": "重点村",
+          "designation_level": "市级",
+          "township_name": "高邑镇",
+          "designation_year": "2023"
+        },
+        "explicit_area_code_in_this_row": "130127",
+        "explicit_area_name_in_this_row": "高邑县",
+        "capture_time": "2026-11-07T01:18:49.263627+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_rural:51"
+    ],
+    "origin_candidate_id": "HB1301_8c38420f0e184a",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "rural_identity_notice": "Official key rural-tourism village/township designation, not a newly created scenic-area identity.",
+    "projection_of": "SP_13_SJZ01_8c38420f0e184a",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_7dc444956ebaeb",
+    "source_entity_id": "13_SJZ01_7dc444956ebaeb",
+    "entity_type": "spot",
+    "full_name": "西塔影村",
+    "blind_name": "*塔影*",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130127",
+    "area_name": "高邑县",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": "富村镇",
+    "address": "石家庄市高邑县富村镇西塔影村",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_page": null,
+    "source_row": 63,
+    "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+    "retrieved_at": "2026-11-07T01:18:49.263627+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_7dc444956ebaeb",
+    "raw_ids": [
+      "CITY_13_SJZ01_7dc444956ebaeb",
+      "AREA_13_SJZ01_7dc444956ebaeb"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "rural_village_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_rural:63",
+        "source_id": "official_rural",
+        "full_name_as_listed": "西塔影村",
+        "official_catalog_kind": "乡村旅游重点村镇",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "source_row": 63,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_rural.html",
+        "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+        "source_bytes": 439230,
+        "source_excerpt": {
+          "name": "西塔影村",
+          "location_text": "石家庄市高邑县富村镇西塔影村",
+          "catalog_kind": "乡村旅游重点村镇",
+          "grade": null,
+          "designation_type": "重点村",
+          "designation_level": "市级",
+          "township_name": "富村镇",
+          "designation_year": "2024"
+        },
+        "explicit_area_code_in_this_row": "130127",
+        "explicit_area_name_in_this_row": "高邑县",
+        "capture_time": "2026-11-07T01:18:49.263627+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_rural:63"
+    ],
+    "origin_candidate_id": "HB1301_7dc444956ebaeb",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "rural_identity_notice": "Official key rural-tourism village/township designation, not a newly created scenic-area identity.",
+    "projection_of": "SP_13_SJZ01_7dc444956ebaeb",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_8ddf194b862d73",
+    "source_entity_id": "13_SJZ01_8ddf194b862d73",
+    "entity_type": "spot",
+    "full_name": "西良庄村",
+    "blind_name": "*良*村",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130127",
+    "area_name": "高邑县",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": "万城镇",
+    "address": "石家庄市高邑县万城镇西良庄村",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_page": null,
+    "source_row": 52,
+    "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+    "retrieved_at": "2026-11-07T01:18:49.263627+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_8ddf194b862d73",
+    "raw_ids": [
+      "CITY_13_SJZ01_8ddf194b862d73",
+      "AREA_13_SJZ01_8ddf194b862d73"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "rural_village_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_rural:52",
+        "source_id": "official_rural",
+        "full_name_as_listed": "西良庄村",
+        "official_catalog_kind": "乡村旅游重点村镇",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "source_row": 52,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_rural.html",
+        "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+        "source_bytes": 439230,
+        "source_excerpt": {
+          "name": "西良庄村",
+          "location_text": "石家庄市高邑县万城镇西良庄村",
+          "catalog_kind": "乡村旅游重点村镇",
+          "grade": null,
+          "designation_type": "重点村",
+          "designation_level": "市级",
+          "township_name": "万城镇",
+          "designation_year": "2023"
+        },
+        "explicit_area_code_in_this_row": "130127",
+        "explicit_area_name_in_this_row": "高邑县",
+        "capture_time": "2026-11-07T01:18:49.263627+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_rural:52"
+    ],
+    "origin_candidate_id": "HB1301_8ddf194b862d73",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "rural_identity_notice": "Official key rural-tourism village/township designation, not a newly created scenic-area identity.",
+    "projection_of": "SP_13_SJZ01_8ddf194b862d73",
+    "independent_observation": false
+  }
+]

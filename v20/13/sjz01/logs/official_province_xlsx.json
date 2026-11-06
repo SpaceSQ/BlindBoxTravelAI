@@ -1,0 +1,10 @@
+{
+  "source_id": "official_province_xlsx",
+  "url": "https://whly.hebei.gov.cn/zwf/ui/contentcore/resource/download?ID=48084",
+  "retrieved_at": "2026-11-07T01:18:50.650188+08:00",
+  "status": 200,
+  "final_url": "https://whly.hebei.gov.cn/zwf/ui/contentcore/resource/download?ID=48084",
+  "sha256": "8a593d935aca04a7e5d344a86c05bfeae2e1717952d8c67bacba6a0bdf839e68",
+  "bytes": 41022,
+  "raw_path": "raw/official_province_xlsx.xlsx"
+}

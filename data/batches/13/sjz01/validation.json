@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "assertions": 5141,
+  "unit_tests": 8,
+  "new_identity_count": 170,
+  "master_count": 1412,
+  "county_projection_new": 166,
+  "identity_review_excluded": 35,
+  "source_observations_accounted": 221,
+  "review_pairs": 55,
+  "duplicate_ids": 0,
+  "dangling_parent_child_ids": 0,
+  "preserved_baseline_edge_count": 12,
+  "new_parent_child_edges": 0,
+  "null_enrichment_ratio": 1.0,
+  "phase1_metrics_preserved": [
+    186,
+    60
+  ],
+  "baseline_v20_metric_counters_preserved": 1242,
+  "v20_metrics_after": 1412,
+  "quality_warning": "Offline evidence and model validation, not field survey, verified opening, or geographic net-new proof."
+}

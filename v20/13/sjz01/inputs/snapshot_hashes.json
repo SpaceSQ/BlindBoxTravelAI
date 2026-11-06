@@ -1,0 +1,22 @@
+[
+  {
+    "path": "inputs/areas_search_matrix.json",
+    "sha256": "bd83dc73560bd8c1604e8757659858ac0915d08da3941e976fb598e0ca4b2149",
+    "bytes": 2639870
+  },
+  {
+    "path": "inputs/cities_search_matrix.json",
+    "sha256": "9e09098bafc9a962b8beff3421c3bb7883b56d032c40674383bc823071250e5d",
+    "bytes": 212039
+  },
+  {
+    "path": "inputs/shijiazhuang_areas_matrix.json",
+    "sha256": "bf7907d7ff65580192680cad1781abdd2952ed58136c9c3f85921a120549ae33",
+    "bytes": 21656
+  },
+  {
+    "path": "inputs/tags_500.json",
+    "sha256": "50b6aa41c02f7280f33985fd30d95dcf23120a69956032dfe1bc34f5b5c33545",
+    "bytes": 11235
+  }
+]

@@ -1,0 +1,349 @@
+[
+  {
+    "raw_id": "AREA_13_SJZ01_0721679fc42f40",
+    "source_entity_id": "13_SJZ01_0721679fc42f40",
+    "entity_type": "spot",
+    "full_name": "上南庄烈士陵园",
+    "blind_name": "上****陵*",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130125",
+    "area_name": "行唐县",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": null,
+    "address": "行唐县",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "红色旅游",
+        "type": "strong"
+      }
+    ],
+    "tagging_status": "explicit_evidence_partial_pending_review",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": [
+        {
+          "tag": "红色旅游",
+          "observation_id": "official_red:19",
+          "basis": "official catalog category 红色旅游景区（点）"
+        }
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/202404/22/cde915e1-e3a0-40f6-a8c6-74161055dc7d.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/202404/22/cde915e1-e3a0-40f6-a8c6-74161055dc7d.html",
+    "source_page": null,
+    "source_row": 19,
+    "source_sha256": "f751aff838c8b40a105b7a87744bad249ace5468de4772d0ff57ebc53a6e59fb",
+    "retrieved_at": "2026-11-07T01:18:49.263134+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_0721679fc42f40",
+    "raw_ids": [
+      "CITY_13_SJZ01_0721679fc42f40",
+      "AREA_13_SJZ01_0721679fc42f40"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "red_tourism_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_red:19",
+        "source_id": "official_red",
+        "full_name_as_listed": "上南庄烈士陵园",
+        "official_catalog_kind": "红色旅游景区（点）",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/202404/22/cde915e1-e3a0-40f6-a8c6-74161055dc7d.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/202404/22/cde915e1-e3a0-40f6-a8c6-74161055dc7d.html",
+        "source_row": 19,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_red.html",
+        "source_sha256": "f751aff838c8b40a105b7a87744bad249ace5468de4772d0ff57ebc53a6e59fb",
+        "source_bytes": 97412,
+        "source_excerpt": {
+          "name": "上南庄烈士陵园",
+          "location_text": "行唐县",
+          "catalog_kind": "红色旅游景区（点）",
+          "grade": null
+        },
+        "explicit_area_code_in_this_row": "130125",
+        "explicit_area_name_in_this_row": "行唐县",
+        "capture_time": "2026-11-07T01:18:49.263134+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_red:19"
+    ],
+    "origin_candidate_id": "HB1301_0721679fc42f40",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "projection_of": "SP_13_SJZ01_0721679fc42f40",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_1775a7cf28d3d6",
+    "source_entity_id": "13_SJZ01_1775a7cf28d3d6",
+    "entity_type": "spot",
+    "full_name": "东寺庄村",
+    "blind_name": "**庄村",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130125",
+    "area_name": "行唐县",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": "九口子乡",
+    "address": "石家庄市行唐县九口子乡东寺庄村",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_page": null,
+    "source_row": 32,
+    "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+    "retrieved_at": "2026-11-07T01:18:49.263627+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_1775a7cf28d3d6",
+    "raw_ids": [
+      "CITY_13_SJZ01_1775a7cf28d3d6",
+      "AREA_13_SJZ01_1775a7cf28d3d6"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "rural_village_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_rural:32",
+        "source_id": "official_rural",
+        "full_name_as_listed": "东寺庄村",
+        "official_catalog_kind": "乡村旅游重点村镇",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "source_row": 32,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_rural.html",
+        "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+        "source_bytes": 439230,
+        "source_excerpt": {
+          "name": "东寺庄村",
+          "location_text": "石家庄市行唐县九口子乡东寺庄村",
+          "catalog_kind": "乡村旅游重点村镇",
+          "grade": null,
+          "designation_type": "重点村",
+          "designation_level": "省级",
+          "township_name": "九口子乡",
+          "designation_year": "2023"
+        },
+        "explicit_area_code_in_this_row": "130125",
+        "explicit_area_name_in_this_row": "行唐县",
+        "capture_time": "2026-11-07T01:18:49.263627+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_rural:32"
+    ],
+    "origin_candidate_id": "HB1301_1775a7cf28d3d6",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "rural_identity_notice": "Official key rural-tourism village/township designation, not a newly created scenic-area identity.",
+    "projection_of": "SP_13_SJZ01_1775a7cf28d3d6",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_f48dd83888e489",
+    "source_entity_id": "13_SJZ01_f48dd83888e489",
+    "entity_type": "spot",
+    "full_name": "东寺渔村",
+    "blind_name": "东*渔*",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130125",
+    "area_name": "行唐县",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": null,
+    "address": "行唐县九口子乡周家庄村南",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/e180a7a4-1769-4748-b305-ad6cea23d762.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/e180a7a4-1769-4748-b305-ad6cea23d762.html",
+    "source_page": null,
+    "source_row": 34,
+    "source_sha256": "332fcab7be34f6be09b7d99ebf67b54a52bd0d4713cad051893363c11ebc5576",
+    "retrieved_at": "2026-11-07T01:18:24.724304+08:00",
+    "retrieved_at_basis": "capture_file_mtime_not_exact_http_time",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_f48dd83888e489",
+    "raw_ids": [
+      "CITY_13_SJZ01_f48dd83888e489",
+      "AREA_13_SJZ01_f48dd83888e489"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "rated_scenic_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_sjz:34",
+        "source_id": "official_sjz",
+        "full_name_as_listed": "东寺渔村",
+        "official_catalog_kind": "A级旅游景区",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/e180a7a4-1769-4748-b305-ad6cea23d762.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/e180a7a4-1769-4748-b305-ad6cea23d762.html",
+        "source_row": 34,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_sjz.html",
+        "source_sha256": "332fcab7be34f6be09b7d99ebf67b54a52bd0d4713cad051893363c11ebc5576",
+        "source_bytes": 146554,
+        "source_excerpt": {
+          "name": "东寺渔村",
+          "location_text": "行唐县九口子乡周家庄村南",
+          "catalog_kind": "A级旅游景区",
+          "grade": "3A",
+          "operating_note": null
+        },
+        "explicit_area_code_in_this_row": "130125",
+        "explicit_area_name_in_this_row": "行唐县",
+        "capture_time": "2026-11-07T01:18:24.724304+08:00",
+        "capture_time_basis": "capture_file_mtime_not_exact_http_time"
+      }
+    ],
+    "source_observation_ids": [
+      "official_sjz:34"
+    ],
+    "origin_candidate_id": "HB1301_f48dd83888e489",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "projection_of": "SP_13_SJZ01_f48dd83888e489",
+    "independent_observation": false
+  }
+]

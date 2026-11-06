@@ -1,0 +1,11 @@
+{
+  "tool": "WebSearch",
+  "query": "石家庄市 2026 A级旅游景区 名录 2025 site.gov.cn",
+  "role": "official URL discovery, NOT actual Baidu/Google matrix completion",
+  "discovered_official_urls": [
+    "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/e180a7a4-1769-4748-b305-ad6cea23d762.html",
+    "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/index.html",
+    "https://whly.hebei.gov.cn/c/2026-01-30/584097.html"
+  ],
+  "warning": "Search synthesis said 42 scenic rows; direct official HTML table has 41, and only direct table is used."
+}

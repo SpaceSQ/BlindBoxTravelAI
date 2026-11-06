@@ -1,0 +1,226 @@
+[
+  {
+    "raw_id": "HB1301_d4dd532e666046",
+    "entity_type": "spot",
+    "full_name": "国御温泉度假小镇",
+    "blind_name": "*御****小*",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130109",
+    "area_name": "藁城区",
+    "township_name": null,
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "area_official_catalog_projection",
+    "search_query": null,
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null
+    },
+    "tags": [
+      {
+        "name": "温泉",
+        "type": "strong",
+        "evidence": "explicit catalog kind or exact full name"
+      }
+    ],
+    "tagging_status": "evidence_tags_partial",
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/e180a7a4-1769-4748-b305-ad6cea23d762.html",
+    "source_observation_ids": [
+      "official_sjz:22",
+      "official_province_xlsx:30"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "parent_id": null,
+    "sub_spots": [],
+    "parent_child_status": "unresolved",
+    "physical_entity_uniqueness": "not_asserted",
+    "exact_name_dedup_rule": "same full name; merge unknown admin only if exactly one explicit official admin exists for this name; never merge across distinct known areas",
+    "public_access_status": null,
+    "projection_of": "HB1301_d4dd532e666046"
+  },
+  {
+    "raw_id": "HB1301_fb0ecd27a29cf6",
+    "entity_type": "spot",
+    "full_name": "梅花惨案纪念馆",
+    "blind_name": "*花**纪**",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130109",
+    "area_name": "藁城区",
+    "township_name": null,
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "area_official_catalog_projection",
+    "search_query": null,
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null
+    },
+    "tags": [
+      {
+        "name": "红色旅游",
+        "type": "strong",
+        "evidence": "explicit catalog kind or exact full name"
+      },
+      {
+        "name": "纪念馆",
+        "type": "strong",
+        "evidence": "explicit catalog kind or exact full name"
+      }
+    ],
+    "tagging_status": "evidence_tags_partial",
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/202404/22/cde915e1-e3a0-40f6-a8c6-74161055dc7d.html",
+    "source_observation_ids": [
+      "official_red:18"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "parent_id": null,
+    "sub_spots": [],
+    "parent_child_status": "unresolved",
+    "physical_entity_uniqueness": "not_asserted",
+    "exact_name_dedup_rule": "same full name; merge unknown admin only if exactly one explicit official admin exists for this name; never merge across distinct known areas",
+    "public_access_status": null,
+    "projection_of": "HB1301_fb0ecd27a29cf6"
+  },
+  {
+    "raw_id": "HB1301_dd693224a76d15",
+    "entity_type": "spot",
+    "full_name": "河北藁城宫灯博物馆",
+    "blind_name": "******博*馆",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130109",
+    "area_name": "藁城区",
+    "township_name": null,
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "area_official_catalog_projection",
+    "search_query": null,
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null
+    },
+    "tags": [
+      {
+        "name": "博物馆",
+        "type": "strong",
+        "evidence": "explicit catalog kind or exact full name"
+      }
+    ],
+    "tagging_status": "evidence_tags_partial",
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/4950b767-8d94-42e4-a321-36ea715221d7.html",
+    "source_observation_ids": [
+      "official_industrial:10"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "parent_id": null,
+    "sub_spots": [],
+    "parent_child_status": "unresolved",
+    "physical_entity_uniqueness": "not_asserted",
+    "exact_name_dedup_rule": "same full name; merge unknown admin only if exactly one explicit official admin exists for this name; never merge across distinct known areas",
+    "public_access_status": null,
+    "projection_of": "HB1301_dd693224a76d15"
+  },
+  {
+    "raw_id": "HB1301_07e403e3b17ea3",
+    "entity_type": "spot",
+    "full_name": "耿村",
+    "blind_name": "耿村",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130109",
+    "area_name": "藁城区",
+    "township_name": "常安镇",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "area_official_catalog_projection",
+    "search_query": null,
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_observation_ids": [
+      "official_rural:69"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "parent_id": null,
+    "sub_spots": [],
+    "parent_child_status": "unresolved",
+    "physical_entity_uniqueness": "not_asserted",
+    "exact_name_dedup_rule": "same full name; merge unknown admin only if exactly one explicit official admin exists for this name; never merge across distinct known areas",
+    "public_access_status": null,
+    "projection_of": "HB1301_07e403e3b17ea3"
+  },
+  {
+    "raw_id": "HB1301_7bbf0955c94810",
+    "entity_type": "spot",
+    "full_name": "马邱村",
+    "blind_name": "*邱村",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130109",
+    "area_name": "藁城区",
+    "township_name": "贾市庄镇",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "area_official_catalog_projection",
+    "search_query": null,
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_observation_ids": [
+      "official_rural:68"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "parent_id": null,
+    "sub_spots": [],
+    "parent_child_status": "unresolved",
+    "physical_entity_uniqueness": "not_asserted",
+    "exact_name_dedup_rule": "same full name; merge unknown admin only if exactly one explicit official admin exists for this name; never merge across distinct known areas",
+    "public_access_status": null,
+    "projection_of": "HB1301_7bbf0955c94810"
+  }
+]

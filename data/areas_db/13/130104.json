@@ -1,0 +1,303 @@
+[
+  {
+    "raw_id": "AREA_13_SJZ01_17f0cc30b68671",
+    "source_entity_id": "13_SJZ01_17f0cc30b68671",
+    "entity_type": "spot",
+    "full_name": "华北军区烈士陵园",
+    "blind_name": "*北****陵*",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130104",
+    "area_name": "桥西区",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": null,
+    "address": "石家庄市中山西路343号",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "红色旅游",
+        "type": "strong"
+      }
+    ],
+    "tagging_status": "explicit_evidence_partial_pending_review",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": [
+        {
+          "tag": "红色旅游",
+          "observation_id": "official_red:7",
+          "basis": "official catalog category 红色旅游景区（点）"
+        }
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/e180a7a4-1769-4748-b305-ad6cea23d762.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/e180a7a4-1769-4748-b305-ad6cea23d762.html",
+    "source_page": null,
+    "source_row": 23,
+    "source_sha256": "332fcab7be34f6be09b7d99ebf67b54a52bd0d4713cad051893363c11ebc5576",
+    "retrieved_at": "2026-11-07T01:18:24.724304+08:00",
+    "retrieved_at_basis": "capture_file_mtime_not_exact_http_time",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_17f0cc30b68671",
+    "raw_ids": [
+      "CITY_13_SJZ01_17f0cc30b68671",
+      "AREA_13_SJZ01_17f0cc30b68671"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "rated_scenic_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_sjz:23",
+        "source_id": "official_sjz",
+        "full_name_as_listed": "华北军区烈士陵园",
+        "official_catalog_kind": "A级旅游景区",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/e180a7a4-1769-4748-b305-ad6cea23d762.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/e180a7a4-1769-4748-b305-ad6cea23d762.html",
+        "source_row": 23,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_sjz.html",
+        "source_sha256": "332fcab7be34f6be09b7d99ebf67b54a52bd0d4713cad051893363c11ebc5576",
+        "source_bytes": 146554,
+        "source_excerpt": {
+          "name": "华北军区烈士陵园",
+          "location_text": "石家庄市中山西路343号",
+          "catalog_kind": "A级旅游景区",
+          "grade": "4A",
+          "operating_note": null
+        },
+        "explicit_area_code_in_this_row": null,
+        "explicit_area_name_in_this_row": null,
+        "capture_time": "2026-11-07T01:18:24.724304+08:00",
+        "capture_time_basis": "capture_file_mtime_not_exact_http_time"
+      },
+      {
+        "observation_id": "official_red:7",
+        "source_id": "official_red",
+        "full_name_as_listed": "华北军区烈士陵园",
+        "official_catalog_kind": "红色旅游景区（点）",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/202404/22/cde915e1-e3a0-40f6-a8c6-74161055dc7d.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/202404/22/cde915e1-e3a0-40f6-a8c6-74161055dc7d.html",
+        "source_row": 7,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_red.html",
+        "source_sha256": "f751aff838c8b40a105b7a87744bad249ace5468de4772d0ff57ebc53a6e59fb",
+        "source_bytes": 97412,
+        "source_excerpt": {
+          "name": "华北军区烈士陵园",
+          "location_text": "桥西区",
+          "catalog_kind": "红色旅游景区（点）",
+          "grade": "4A"
+        },
+        "explicit_area_code_in_this_row": "130104",
+        "explicit_area_name_in_this_row": "桥西区",
+        "capture_time": "2026-11-07T01:18:49.263134+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      },
+      {
+        "observation_id": "official_province_xlsx:35",
+        "source_id": "official_province_xlsx",
+        "full_name_as_listed": "华北军区烈士陵园",
+        "official_catalog_kind": "河北省A级旅游景区",
+        "source_url": "https://whly.hebei.gov.cn/c/2026-01-30/584097.html",
+        "actual_raw_download_url": "https://whly.hebei.gov.cn/zwf/ui/contentcore/resource/download?ID=48084",
+        "source_row": 35,
+        "row_number_basis": "xlsx_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_province_xlsx.xlsx",
+        "source_sha256": "8a593d935aca04a7e5d344a86c05bfeae2e1717952d8c67bacba6a0bdf839e68",
+        "source_bytes": 41022,
+        "source_excerpt": {
+          "name": "华北军区烈士陵园",
+          "location_text": "石家庄市桥西区",
+          "catalog_kind": "河北省A级旅游景区",
+          "grade": "4A",
+          "operating_note": null
+        },
+        "explicit_area_code_in_this_row": "130104",
+        "explicit_area_name_in_this_row": "桥西区",
+        "capture_time": "2026-11-07T01:18:50.650188+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_sjz:23",
+      "official_red:7",
+      "official_province_xlsx:35"
+    ],
+    "origin_candidate_id": "HB1301_17f0cc30b68671",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "projection_of": "SP_13_SJZ01_17f0cc30b68671",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_b14792fd885d95",
+    "source_entity_id": "13_SJZ01_b14792fd885d95",
+    "entity_type": "spot",
+    "full_name": "白求恩和平医院白求恩柯棣华纪念馆",
+    "blind_name": "******院*****华***",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130104",
+    "area_name": "桥西区",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": null,
+    "address": "桥西区",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "红色旅游",
+        "type": "strong"
+      },
+      {
+        "name": "纪念馆",
+        "type": "strong"
+      }
+    ],
+    "tagging_status": "explicit_evidence_partial_pending_review",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": [
+        {
+          "tag": "红色旅游",
+          "observation_id": "official_red:26",
+          "basis": "official catalog category 红色旅游景区（点）"
+        },
+        {
+          "tag": "纪念馆",
+          "observation_id": "official_red:26",
+          "basis": "exact token in full_name"
+        }
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/202404/22/cde915e1-e3a0-40f6-a8c6-74161055dc7d.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/202404/22/cde915e1-e3a0-40f6-a8c6-74161055dc7d.html",
+    "source_page": null,
+    "source_row": 26,
+    "source_sha256": "f751aff838c8b40a105b7a87744bad249ace5468de4772d0ff57ebc53a6e59fb",
+    "retrieved_at": "2026-11-07T01:18:49.263134+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_b14792fd885d95",
+    "raw_ids": [
+      "CITY_13_SJZ01_b14792fd885d95",
+      "AREA_13_SJZ01_b14792fd885d95"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "red_tourism_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_red:26",
+        "source_id": "official_red",
+        "full_name_as_listed": "白求恩和平医院白求恩柯棣华纪念馆",
+        "official_catalog_kind": "红色旅游景区（点）",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/202404/22/cde915e1-e3a0-40f6-a8c6-74161055dc7d.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/202404/22/cde915e1-e3a0-40f6-a8c6-74161055dc7d.html",
+        "source_row": 26,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_red.html",
+        "source_sha256": "f751aff838c8b40a105b7a87744bad249ace5468de4772d0ff57ebc53a6e59fb",
+        "source_bytes": 97412,
+        "source_excerpt": {
+          "name": "白求恩和平医院白求恩柯棣华纪念馆",
+          "location_text": "桥西区",
+          "catalog_kind": "红色旅游景区（点）",
+          "grade": null
+        },
+        "explicit_area_code_in_this_row": "130104",
+        "explicit_area_name_in_this_row": "桥西区",
+        "capture_time": "2026-11-07T01:18:49.263134+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_red:26"
+    ],
+    "origin_candidate_id": "HB1301_b14792fd885d95",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "projection_of": "SP_13_SJZ01_b14792fd885d95",
+    "independent_observation": false
+  }
+]

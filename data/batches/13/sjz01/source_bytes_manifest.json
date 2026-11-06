@@ -1,0 +1,65 @@
+[
+  {
+    "source_id": "official_hebei",
+    "raw_path": "source_bundle/raw/official_hebei.html",
+    "sha256": "f508a635b72af131c0ed6257c9575703da09173bf99b2b8e5deebc379ea8fd9b",
+    "bytes": 8624,
+    "source_url": "https://whly.hebei.gov.cn/c/2026-01-30/584097.html",
+    "title": "河北省A级景区名录 _ 河北省文化和旅游厅",
+    "publication_date": null
+  },
+  {
+    "source_id": "official_index",
+    "raw_path": "source_bundle/raw/official_index.html",
+    "sha256": "d3e5e7856ab2a9c53ce39329deb38fb9d821caa25ae9ccdd45cb7eae10e5d20a",
+    "bytes": 24522,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/index.html",
+    "title": "旅游名录",
+    "publication_date": null
+  },
+  {
+    "source_id": "official_industrial",
+    "raw_path": "source_bundle/raw/official_industrial.html",
+    "sha256": "5c8de6f0aae3c776818dbbb1f3a041fe1cc5f93ef2d4635c6576387614adad3f",
+    "bytes": 56220,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/4950b767-8d94-42e4-a321-36ea715221d7.html",
+    "title": "工业旅游示范点",
+    "publication_date": "2023-07-20"
+  },
+  {
+    "source_id": "official_province_xlsx",
+    "raw_path": "source_bundle/raw/official_province_xlsx.xlsx",
+    "sha256": "8a593d935aca04a7e5d344a86c05bfeae2e1717952d8c67bacba6a0bdf839e68",
+    "bytes": 41022,
+    "source_url": "https://whly.hebei.gov.cn/zwf/ui/contentcore/resource/download?ID=48084",
+    "title": null,
+    "publication_date": null
+  },
+  {
+    "source_id": "official_red",
+    "raw_path": "source_bundle/raw/official_red.html",
+    "sha256": "f751aff838c8b40a105b7a87744bad249ace5468de4772d0ff57ebc53a6e59fb",
+    "bytes": 97412,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/202404/22/cde915e1-e3a0-40f6-a8c6-74161055dc7d.html",
+    "title": "石家庄市红色旅游景区（点）名录",
+    "publication_date": "2026-10-21"
+  },
+  {
+    "source_id": "official_rural",
+    "raw_path": "source_bundle/raw/official_rural.html",
+    "sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+    "bytes": 439230,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "title": "乡村旅游重点村镇名单",
+    "publication_date": "2025-06-19"
+  },
+  {
+    "source_id": "official_sjz",
+    "raw_path": "source_bundle/raw/official_sjz.html",
+    "sha256": "332fcab7be34f6be09b7d99ebf67b54a52bd0d4713cad051893363c11ebc5576",
+    "bytes": 146554,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/e180a7a4-1769-4748-b305-ad6cea23d762.html",
+    "title": "A级旅游景区名录",
+    "publication_date": "2026-01-19"
+  }
+]

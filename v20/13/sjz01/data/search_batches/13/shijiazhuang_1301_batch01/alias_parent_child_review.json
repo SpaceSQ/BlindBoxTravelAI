@@ -1,0 +1,442 @@
+[
+  {
+    "a": "HB1301_e84a398827e73d",
+    "a_name": "上段村",
+    "b": "HB1301_a7241bcd6626b4",
+    "b_name": "下段村",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_d22b3c419b6eb1",
+    "a_name": "东姚家庄村",
+    "b": "HB1301_a6d9fd47552cac",
+    "b_name": "杨家庄村",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_1775a7cf28d3d6",
+    "a_name": "东寺庄村",
+    "b": "HB1301_f48dd83888e489",
+    "b_name": "东寺渔村",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_88ad6ada3b4924",
+    "a_name": "东方巨龟苑",
+    "b": "HB1301_1aeffa331f922b",
+    "b_name": "东方巨龟苑（共和国雏形—华北人民政府展室）",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_99b892320b7de1",
+    "a_name": "中凤山村",
+    "b": "HB1301_8f8e3ef781d698",
+    "b_name": "南凤山村",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_3340858f435599",
+    "a_name": "于家乡",
+    "b": "HB1301_721e578ceff567",
+    "b_name": "于家村",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_721e578ceff567",
+    "a_name": "于家村",
+    "b": "HB1301_d828ddefd362a1",
+    "b_name": "于家石头村",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_721e578ceff567",
+    "a_name": "于家村",
+    "b": "HB1301_a89d4eaa82d06c",
+    "b_name": "吕家村",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_c0ed5a3ee47d1c",
+    "a_name": "五岳寨",
+    "b": "HB1301_fdf6311a094efc",
+    "b_name": "五岳寨风景区",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_e4f82b452ee4d6",
+    "a_name": "仙台山",
+    "b": "HB1301_8a86b97e66f2a1",
+    "b_name": "仙台山景区",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_109a9d3dc68b17",
+    "a_name": "伏羲台",
+    "b": "HB1301_735dfabeaef1d9",
+    "b_name": "伏羲台景区",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_f77d9ed1ae30dd",
+    "a_name": "何庄村",
+    "b": "HB1301_4075a6fcf8cb37",
+    "b_name": "南庄村",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_f77d9ed1ae30dd",
+    "a_name": "何庄村",
+    "b": "HB1301_3f0d545b06c644",
+    "b_name": "董庄村",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_fd032f423a27b5",
+    "a_name": "光禄山景区",
+    "b": "HB1301_16256ccc6c73df",
+    "b_name": "光禄山景区（华北军区司令部旧址）",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_574d2d54a73f50",
+    "a_name": "北庄村",
+    "b": "HB1301_a9f2f42da1db54",
+    "b_name": "南庄村",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_0ccf8bbfb422d6",
+    "a_name": "北捏盘村",
+    "b": "HB1301_d3c308fcc87c60",
+    "b_name": "北捏盘村（自然村）",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_4075a6fcf8cb37",
+    "a_name": "南庄村",
+    "b": "HB1301_3f0d545b06c644",
+    "b_name": "董庄村",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_54eba2bd24392d",
+    "a_name": "君乐宝乳业工业旅游区",
+    "b": "HB1301_d250c04aad592b",
+    "b_name": "石家庄市君乐宝乳业工业旅游区",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_a2881059dd9c31",
+    "a_name": "天桂山",
+    "b": "HB1301_88742dc430f982",
+    "b_name": "天桂山景区（白毛女）",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_a2881059dd9c31",
+    "a_name": "天桂山",
+    "b": "HB1301_f10c2e3e4b3270",
+    "b_name": "平山县天桂山风景名胜区",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_a03e3efc846ab5",
+    "a_name": "岸下村",
+    "b": "HB1301_fe8afb818cc95a",
+    "b_name": "岸下村景区",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_346ecba90b544e",
+    "a_name": "嶂石岩",
+    "b": "HB1301_04b0bf11e6c628",
+    "b_name": "嶂石岩村",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_346ecba90b544e",
+    "a_name": "嶂石岩",
+    "b": "HB1301_3fdc956fd4848a",
+    "b_name": "石家庄嶂石岩风景名胜区",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_3459e14bda86f8",
+    "a_name": "平安村",
+    "b": "HB1301_6841a3edea924f",
+    "b_name": "高平村",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_104ad3a2cfe265",
+    "a_name": "平山县沕沕水景区",
+    "b": "HB1301_ad8cf35d5c8842",
+    "b_name": "沕沕水",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_3b789ac839d412",
+    "a_name": "平山县紫云山景区",
+    "b": "HB1301_b85e210a691ec8",
+    "b_name": "平山县黑山大峡谷景区",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_3b789ac839d412",
+    "a_name": "平山县紫云山景区",
+    "b": "HB1301_62e756af9612b0",
+    "b_name": "紫云山",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_b85e210a691ec8",
+    "a_name": "平山县黑山大峡谷景区",
+    "b": "HB1301_1692c3ff479c8a",
+    "b_name": "黑山大峡谷",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_490f2ef6d957d5",
+    "a_name": "抱犊寨",
+    "b": "HB1301_0b0ee7df02cbe7",
+    "b_name": "抱犊寨风景区",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_aa754e449904d3",
+    "a_name": "梁庄村",
+    "b": "HB1301_d047332cada779",
+    "b_name": "段庄村",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_207af10f959188",
+    "a_name": "棋盘山",
+    "b": "HB1301_6a2dd49946afe9",
+    "b_name": "棋盘山景区",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_a3cb5b04a4c1f8",
+    "a_name": "正定荣国府",
+    "b": "HB1301_44a0cb8c91ce3c",
+    "b_name": "荣国府",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_ee27b2c602418c",
+    "a_name": "正定赵云庙",
+    "b": "HB1301_78d26e308b6ad6",
+    "b_name": "赵云庙",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_c0e38c72bdf3b5",
+    "a_name": "水泉溪",
+    "b": "HB1301_aa8d86643cd23b",
+    "b_name": "灵寿县水泉溪自然风景区",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_ad8cf35d5c8842",
+    "a_name": "沕沕水",
+    "b": "HB1301_5b6095c163d127",
+    "b_name": "沕沕水村",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_ad8cf35d5c8842",
+    "a_name": "沕沕水",
+    "b": "HB1301_ada026b984258d",
+    "b_name": "沕沕水生态风景区（发电厂旧址）",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_f30752f7eb78d6",
+    "a_name": "河北平山藤龙山",
+    "b": "HB1301_a1e39f484713e8",
+    "b_name": "藤龙山",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_addf1037e672b4",
+    "a_name": "清凉山",
+    "b": "HB1301_de81cb59389949",
+    "b_name": "清凉山景区",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_572a21e4fb996f",
+    "a_name": "温塘村",
+    "b": "HB1301_9e61190e1fbf3b",
+    "b_name": "温塘镇",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_76d093cb1d4a9d",
+    "a_name": "石家庄洛杉奇食品有限公司",
+    "b": "HB1301_1b93ce119778a3",
+    "b_name": "石家庄食草堂文化饰品有限公司",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_4e8e9c4b6c610b",
+    "a_name": "石柱山",
+    "b": "HB1301_ecb21fe0b8ca2b",
+    "b_name": "石柱山景区",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_a41b72a2774e7e",
+    "a_name": "秋山",
+    "b": "HB1301_7225ee817118c6",
+    "b_name": "秋山风景区",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_62e756af9612b0",
+    "a_name": "紫云山",
+    "b": "HB1301_1ec4e0cb249609",
+    "b_name": "紫云山景区（八路军后方医院旧址、鞋厂旧址）",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_d19f672db00724",
+    "a_name": "苍岩山",
+    "b": "HB1301_595458b928218b",
+    "b_name": "苍岩山景区",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_807315f196549f",
+    "a_name": "西柏坡",
+    "b": "HB1301_f13e95a1f030e9",
+    "b_name": "西柏坡景区",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_807315f196549f",
+    "a_name": "西柏坡",
+    "b": "HB1301_d9628caf014077",
+    "b_name": "西柏坡村",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_807315f196549f",
+    "a_name": "西柏坡",
+    "b": "HB1301_a5833fc5c3130e",
+    "b_name": "西柏坡纪念馆景区（中共中央旧址）",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_807315f196549f",
+    "a_name": "西柏坡",
+    "b": "HB1301_0309e0b3e0a387",
+    "b_name": "西柏坡镇",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_f13e95a1f030e9",
+    "a_name": "西柏坡景区",
+    "b": "HB1301_d9628caf014077",
+    "b_name": "西柏坡村",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_f13e95a1f030e9",
+    "a_name": "西柏坡景区",
+    "b": "HB1301_0309e0b3e0a387",
+    "b_name": "西柏坡镇",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_d9628caf014077",
+    "a_name": "西柏坡村",
+    "b": "HB1301_0309e0b3e0a387",
+    "b_name": "西柏坡镇",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_4b171c4ab479ae",
+    "a_name": "贾庄村",
+    "b": "HB1301_b31279ce884b78",
+    "b_name": "贾庄镇",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_bb320a7fc3df7c",
+    "a_name": "赵州桥",
+    "b": "HB1301_c35ab1435cf22b",
+    "b_name": "赵州桥景区",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_6a8747855c00a9",
+    "a_name": "锦绣大名川景区",
+    "b": "HB1301_30ef3f30d1949d",
+    "b_name": "锦绣大明川",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  },
+  {
+    "a": "HB1301_85486549542725",
+    "a_name": "驼梁",
+    "b": "HB1301_786d065c5c826a",
+    "b_name": "驼梁景区",
+    "reason": "possible_alias_or_parent_child",
+    "action": "review_only_no_merge"
+  }
+]

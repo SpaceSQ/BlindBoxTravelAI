@@ -1,0 +1,344 @@
+[
+  {
+    "raw_id": "AREA_13_SJZ01_7027e2e09a394d",
+    "source_entity_id": "13_SJZ01_7027e2e09a394d",
+    "entity_type": "spot",
+    "full_name": "佃户营村",
+    "blind_name": "*户营*",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130132",
+    "area_name": "元氏县",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": "黑水河乡",
+    "address": "石家庄市元氏县黑水河乡佃户营村",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_page": null,
+    "source_row": 85,
+    "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+    "retrieved_at": "2026-11-07T01:18:49.263627+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_7027e2e09a394d",
+    "raw_ids": [
+      "CITY_13_SJZ01_7027e2e09a394d",
+      "AREA_13_SJZ01_7027e2e09a394d"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "rural_village_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_rural:85",
+        "source_id": "official_rural",
+        "full_name_as_listed": "佃户营村",
+        "official_catalog_kind": "乡村旅游重点村镇",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "source_row": 85,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_rural.html",
+        "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+        "source_bytes": 439230,
+        "source_excerpt": {
+          "name": "佃户营村",
+          "location_text": "石家庄市元氏县黑水河乡佃户营村",
+          "catalog_kind": "乡村旅游重点村镇",
+          "grade": null,
+          "designation_type": "重点村",
+          "designation_level": "市级",
+          "township_name": "黑水河乡",
+          "designation_year": "2025"
+        },
+        "explicit_area_code_in_this_row": "130132",
+        "explicit_area_name_in_this_row": "元氏县",
+        "capture_time": "2026-11-07T01:18:49.263627+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_rural:85"
+    ],
+    "origin_candidate_id": "HB1301_7027e2e09a394d",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "rural_identity_notice": "Official key rural-tourism village/township designation, not a newly created scenic-area identity.",
+    "projection_of": "SP_13_SJZ01_7027e2e09a394d",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_f9d3266687bfaf",
+    "source_entity_id": "13_SJZ01_f9d3266687bfaf",
+    "entity_type": "spot",
+    "full_name": "石家庄市米莎贝尔饮食食品有限公司",
+    "blind_name": "石*庄*************",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130132",
+    "area_name": "元氏县",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": null,
+    "address": "石家庄市元氏县马村乡使庄村南107国道东侧",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/4950b767-8d94-42e4-a321-36ea715221d7.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/4950b767-8d94-42e4-a321-36ea715221d7.html",
+    "source_page": null,
+    "source_row": 5,
+    "source_sha256": "5c8de6f0aae3c776818dbbb1f3a041fe1cc5f93ef2d4635c6576387614adad3f",
+    "retrieved_at": "2026-11-07T01:18:49.266319+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_f9d3266687bfaf",
+    "raw_ids": [
+      "CITY_13_SJZ01_f9d3266687bfaf",
+      "AREA_13_SJZ01_f9d3266687bfaf"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "industrial_tourism_demonstration_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_industrial:5",
+        "source_id": "official_industrial",
+        "full_name_as_listed": "石家庄市米莎贝尔饮食食品有限公司",
+        "official_catalog_kind": "工业旅游示范点",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/4950b767-8d94-42e4-a321-36ea715221d7.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/4950b767-8d94-42e4-a321-36ea715221d7.html",
+        "source_row": 5,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_industrial.html",
+        "source_sha256": "5c8de6f0aae3c776818dbbb1f3a041fe1cc5f93ef2d4635c6576387614adad3f",
+        "source_bytes": 56220,
+        "source_excerpt": {
+          "name": "石家庄市米莎贝尔饮食食品有限公司",
+          "location_text": "石家庄市元氏县马村乡使庄村南107国道东侧",
+          "catalog_kind": "工业旅游示范点",
+          "grade": null,
+          "public_access_status": null
+        },
+        "explicit_area_code_in_this_row": "130132",
+        "explicit_area_name_in_this_row": "元氏县",
+        "capture_time": "2026-11-07T01:18:49.266319+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_industrial:5"
+    ],
+    "origin_candidate_id": "HB1301_f9d3266687bfaf",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "industrial_identity_notice": "Official industrial-tourism demonstration catalog identity; company/factory not asserted to be an independently open visitor attraction.",
+    "projection_of": "SP_13_SJZ01_f9d3266687bfaf",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_dddbe08a531ba7",
+    "source_entity_id": "13_SJZ01_dddbe08a531ba7",
+    "entity_type": "spot",
+    "full_name": "西岭底村",
+    "blind_name": "西岭**",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130132",
+    "area_name": "元氏县",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": "前仙乡",
+    "address": "石家庄市元氏县前仙乡西岭底村",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_page": null,
+    "source_row": 86,
+    "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+    "retrieved_at": "2026-11-07T01:18:49.263627+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_dddbe08a531ba7",
+    "raw_ids": [
+      "CITY_13_SJZ01_dddbe08a531ba7",
+      "AREA_13_SJZ01_dddbe08a531ba7"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "rural_village_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_rural:86",
+        "source_id": "official_rural",
+        "full_name_as_listed": "西岭底村",
+        "official_catalog_kind": "乡村旅游重点村镇",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "source_row": 86,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_rural.html",
+        "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+        "source_bytes": 439230,
+        "source_excerpt": {
+          "name": "西岭底村",
+          "location_text": "石家庄市元氏县前仙乡西岭底村",
+          "catalog_kind": "乡村旅游重点村镇",
+          "grade": null,
+          "designation_type": "重点村",
+          "designation_level": "市级",
+          "township_name": "前仙乡",
+          "designation_year": "2025"
+        },
+        "explicit_area_code_in_this_row": "130132",
+        "explicit_area_name_in_this_row": "元氏县",
+        "capture_time": "2026-11-07T01:18:49.263627+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_rural:86"
+    ],
+    "origin_candidate_id": "HB1301_dddbe08a531ba7",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "rural_identity_notice": "Official key rural-tourism village/township designation, not a newly created scenic-area identity.",
+    "projection_of": "SP_13_SJZ01_dddbe08a531ba7",
+    "independent_observation": false
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "assertions": 2969,
+  "official_observations": 221,
+  "city_candidate_names": 205,
+  "county_catalog_projections": 201,
+  "fresh_tag_whitelist_unique": 500,
+  "routes": 0,
+  "search_result_pages": 0,
+  "note": "Offline schema/evidence and raw SHA checks, not independent physical-entity verification."
+}

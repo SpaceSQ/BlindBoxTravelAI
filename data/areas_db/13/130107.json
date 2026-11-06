@@ -1,0 +1,1414 @@
+[
+  {
+    "raw_id": "AREA_13_SJZ01_99b892320b7de1",
+    "source_entity_id": "13_SJZ01_99b892320b7de1",
+    "entity_type": "spot",
+    "full_name": "中凤山村",
+    "blind_name": "中凤**",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130107",
+    "area_name": "井陉矿区",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": "凤山镇",
+    "address": "石家庄市井陉矿区凤山镇中凤山村",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_page": null,
+    "source_row": 54,
+    "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+    "retrieved_at": "2026-11-07T01:18:49.263627+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_99b892320b7de1",
+    "raw_ids": [
+      "CITY_13_SJZ01_99b892320b7de1",
+      "AREA_13_SJZ01_99b892320b7de1"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "rural_village_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_rural:54",
+        "source_id": "official_rural",
+        "full_name_as_listed": "中凤山村",
+        "official_catalog_kind": "乡村旅游重点村镇",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "source_row": 54,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_rural.html",
+        "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+        "source_bytes": 439230,
+        "source_excerpt": {
+          "name": "中凤山村",
+          "location_text": "石家庄市井陉矿区凤山镇中凤山村",
+          "catalog_kind": "乡村旅游重点村镇",
+          "grade": null,
+          "designation_type": "重点村",
+          "designation_level": "市级",
+          "township_name": "凤山镇",
+          "designation_year": "2023"
+        },
+        "explicit_area_code_in_this_row": "130107",
+        "explicit_area_name_in_this_row": "井陉矿区",
+        "capture_time": "2026-11-07T01:18:49.263627+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_rural:54"
+    ],
+    "origin_candidate_id": "HB1301_99b892320b7de1",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "rural_identity_notice": "Official key rural-tourism village/township designation, not a newly created scenic-area identity.",
+    "projection_of": "SP_13_SJZ01_99b892320b7de1",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_fcc28f6aec640b",
+    "source_entity_id": "13_SJZ01_fcc28f6aec640b",
+    "entity_type": "spot",
+    "full_name": "凤山镇",
+    "blind_name": "凤山*",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130107",
+    "area_name": "井陉矿区",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": "凤山镇",
+    "address": "石家庄市井陉矿区凤山镇",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_page": null,
+    "source_row": 45,
+    "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+    "retrieved_at": "2026-11-07T01:18:49.263627+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_fcc28f6aec640b",
+    "raw_ids": [
+      "CITY_13_SJZ01_fcc28f6aec640b",
+      "AREA_13_SJZ01_fcc28f6aec640b"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "rural_township_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_rural:45",
+        "source_id": "official_rural",
+        "full_name_as_listed": "凤山镇",
+        "official_catalog_kind": "乡村旅游重点村镇",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "source_row": 45,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_rural.html",
+        "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+        "source_bytes": 439230,
+        "source_excerpt": {
+          "name": "凤山镇",
+          "location_text": "石家庄市井陉矿区凤山镇",
+          "catalog_kind": "乡村旅游重点村镇",
+          "grade": null,
+          "designation_type": "重点镇",
+          "designation_level": "市级",
+          "township_name": "凤山镇",
+          "designation_year": "2025"
+        },
+        "explicit_area_code_in_this_row": "130107",
+        "explicit_area_name_in_this_row": "井陉矿区",
+        "capture_time": "2026-11-07T01:18:49.263627+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_rural:45"
+    ],
+    "origin_candidate_id": "HB1301_fcc28f6aec640b",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "rural_identity_notice": "Official key rural-tourism village/township designation, not a newly created scenic-area identity.",
+    "projection_of": "SP_13_SJZ01_fcc28f6aec640b",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_0f5dbfa29bf706",
+    "source_entity_id": "13_SJZ01_0f5dbfa29bf706",
+    "entity_type": "spot",
+    "full_name": "北寨村",
+    "blind_name": "*寨村",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130107",
+    "area_name": "井陉矿区",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": "贾庄镇",
+    "address": "石家庄市井陉矿区贾庄镇北寨村",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_page": null,
+    "source_row": 93,
+    "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+    "retrieved_at": "2026-11-07T01:18:49.263627+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_0f5dbfa29bf706",
+    "raw_ids": [
+      "CITY_13_SJZ01_0f5dbfa29bf706",
+      "AREA_13_SJZ01_0f5dbfa29bf706"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "rural_village_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_rural:93",
+        "source_id": "official_rural",
+        "full_name_as_listed": "北寨村",
+        "official_catalog_kind": "乡村旅游重点村镇",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "source_row": 93,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_rural.html",
+        "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+        "source_bytes": 439230,
+        "source_excerpt": {
+          "name": "北寨村",
+          "location_text": "石家庄市井陉矿区贾庄镇北寨村",
+          "catalog_kind": "乡村旅游重点村镇",
+          "grade": null,
+          "designation_type": "重点村",
+          "designation_level": "市级",
+          "township_name": "贾庄镇",
+          "designation_year": "2025"
+        },
+        "explicit_area_code_in_this_row": "130107",
+        "explicit_area_name_in_this_row": "井陉矿区",
+        "capture_time": "2026-11-07T01:18:49.263627+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_rural:93"
+    ],
+    "origin_candidate_id": "HB1301_0f5dbfa29bf706",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "rural_identity_notice": "Official key rural-tourism village/township designation, not a newly created scenic-area identity.",
+    "projection_of": "SP_13_SJZ01_0f5dbfa29bf706",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_8f8e3ef781d698",
+    "source_entity_id": "13_SJZ01_8f8e3ef781d698",
+    "entity_type": "spot",
+    "full_name": "南凤山村",
+    "blind_name": "南**村",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130107",
+    "area_name": "井陉矿区",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": "凤山镇",
+    "address": "石家庄市井陉矿区凤山镇南凤山村",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_page": null,
+    "source_row": 55,
+    "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+    "retrieved_at": "2026-11-07T01:18:49.263627+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_8f8e3ef781d698",
+    "raw_ids": [
+      "CITY_13_SJZ01_8f8e3ef781d698",
+      "AREA_13_SJZ01_8f8e3ef781d698"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "rural_village_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_rural:55",
+        "source_id": "official_rural",
+        "full_name_as_listed": "南凤山村",
+        "official_catalog_kind": "乡村旅游重点村镇",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "source_row": 55,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_rural.html",
+        "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+        "source_bytes": 439230,
+        "source_excerpt": {
+          "name": "南凤山村",
+          "location_text": "石家庄市井陉矿区凤山镇南凤山村",
+          "catalog_kind": "乡村旅游重点村镇",
+          "grade": null,
+          "designation_type": "重点村",
+          "designation_level": "市级",
+          "township_name": "凤山镇",
+          "designation_year": "2023"
+        },
+        "explicit_area_code_in_this_row": "130107",
+        "explicit_area_name_in_this_row": "井陉矿区",
+        "capture_time": "2026-11-07T01:18:49.263627+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_rural:55"
+    ],
+    "origin_candidate_id": "HB1301_8f8e3ef781d698",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "rural_identity_notice": "Official key rural-tourism village/township designation, not a newly created scenic-area identity.",
+    "projection_of": "SP_13_SJZ01_8f8e3ef781d698",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_5b580fa4bcb3b6",
+    "source_entity_id": "13_SJZ01_5b580fa4bcb3b6",
+    "entity_type": "spot",
+    "full_name": "天户峪村",
+    "blind_name": "*户*村",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130107",
+    "area_name": "井陉矿区",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": "贾庄镇",
+    "address": "石家庄市井陉矿区贾庄镇天户峪村",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_page": null,
+    "source_row": 30,
+    "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+    "retrieved_at": "2026-11-07T01:18:49.263627+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_5b580fa4bcb3b6",
+    "raw_ids": [
+      "CITY_13_SJZ01_5b580fa4bcb3b6",
+      "AREA_13_SJZ01_5b580fa4bcb3b6"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "rural_village_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_rural:30",
+        "source_id": "official_rural",
+        "full_name_as_listed": "天户峪村",
+        "official_catalog_kind": "乡村旅游重点村镇",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "source_row": 30,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_rural.html",
+        "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+        "source_bytes": 439230,
+        "source_excerpt": {
+          "name": "天户峪村",
+          "location_text": "石家庄市井陉矿区贾庄镇天户峪村",
+          "catalog_kind": "乡村旅游重点村镇",
+          "grade": null,
+          "designation_type": "重点村",
+          "designation_level": "省级",
+          "township_name": "贾庄镇",
+          "designation_year": "2022"
+        },
+        "explicit_area_code_in_this_row": "130107",
+        "explicit_area_name_in_this_row": "井陉矿区",
+        "capture_time": "2026-11-07T01:18:49.263627+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_rural:30"
+    ],
+    "origin_candidate_id": "HB1301_5b580fa4bcb3b6",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "rural_identity_notice": "Official key rural-tourism village/township designation, not a newly created scenic-area identity.",
+    "projection_of": "SP_13_SJZ01_5b580fa4bcb3b6",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_c019d31ab06706",
+    "source_entity_id": "13_SJZ01_c019d31ab06706",
+    "entity_type": "spot",
+    "full_name": "张家井村",
+    "blind_name": "*家*村",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130107",
+    "area_name": "井陉矿区",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": "凤山镇",
+    "address": "石家庄市井陉矿区凤山镇张家井村",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_page": null,
+    "source_row": 36,
+    "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+    "retrieved_at": "2026-11-07T01:18:49.263627+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_c019d31ab06706",
+    "raw_ids": [
+      "CITY_13_SJZ01_c019d31ab06706",
+      "AREA_13_SJZ01_c019d31ab06706"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "rural_village_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_rural:36",
+        "source_id": "official_rural",
+        "full_name_as_listed": "张家井村",
+        "official_catalog_kind": "乡村旅游重点村镇",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "source_row": 36,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_rural.html",
+        "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+        "source_bytes": 439230,
+        "source_excerpt": {
+          "name": "张家井村",
+          "location_text": "石家庄市井陉矿区凤山镇张家井村",
+          "catalog_kind": "乡村旅游重点村镇",
+          "grade": null,
+          "designation_type": "重点村",
+          "designation_level": "省级",
+          "township_name": "凤山镇",
+          "designation_year": "2023"
+        },
+        "explicit_area_code_in_this_row": "130107",
+        "explicit_area_name_in_this_row": "井陉矿区",
+        "capture_time": "2026-11-07T01:18:49.263627+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_rural:36"
+    ],
+    "origin_candidate_id": "HB1301_c019d31ab06706",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "rural_identity_notice": "Official key rural-tourism village/township designation, not a newly created scenic-area identity.",
+    "projection_of": "SP_13_SJZ01_c019d31ab06706",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_503d5763ebda2e",
+    "source_entity_id": "13_SJZ01_503d5763ebda2e",
+    "entity_type": "spot",
+    "full_name": "正丰矿·段家楼沉浸乐园",
+    "blind_name": "******楼***园",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130107",
+    "area_name": "井陉矿区",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": null,
+    "address": "石家庄市井陉矿区马西沟",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/e180a7a4-1769-4748-b305-ad6cea23d762.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/e180a7a4-1769-4748-b305-ad6cea23d762.html",
+    "source_page": null,
+    "source_row": 40,
+    "source_sha256": "332fcab7be34f6be09b7d99ebf67b54a52bd0d4713cad051893363c11ebc5576",
+    "retrieved_at": "2026-11-07T01:18:24.724304+08:00",
+    "retrieved_at_basis": "capture_file_mtime_not_exact_http_time",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_503d5763ebda2e",
+    "raw_ids": [
+      "CITY_13_SJZ01_503d5763ebda2e",
+      "AREA_13_SJZ01_503d5763ebda2e"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "rated_scenic_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_sjz:40",
+        "source_id": "official_sjz",
+        "full_name_as_listed": "正丰矿·段家楼沉浸乐园",
+        "official_catalog_kind": "A级旅游景区",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/e180a7a4-1769-4748-b305-ad6cea23d762.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/e180a7a4-1769-4748-b305-ad6cea23d762.html",
+        "source_row": 40,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_sjz.html",
+        "source_sha256": "332fcab7be34f6be09b7d99ebf67b54a52bd0d4713cad051893363c11ebc5576",
+        "source_bytes": 146554,
+        "source_excerpt": {
+          "name": "正丰矿·段家楼沉浸乐园",
+          "location_text": "石家庄市井陉矿区马西沟",
+          "catalog_kind": "A级旅游景区",
+          "grade": "3A",
+          "operating_note": null
+        },
+        "explicit_area_code_in_this_row": "130107",
+        "explicit_area_name_in_this_row": "井陉矿区",
+        "capture_time": "2026-11-07T01:18:24.724304+08:00",
+        "capture_time_basis": "capture_file_mtime_not_exact_http_time"
+      },
+      {
+        "observation_id": "official_province_xlsx:204",
+        "source_id": "official_province_xlsx",
+        "full_name_as_listed": "正丰矿·段家楼沉浸乐园",
+        "official_catalog_kind": "河北省A级旅游景区",
+        "source_url": "https://whly.hebei.gov.cn/c/2026-01-30/584097.html",
+        "actual_raw_download_url": "https://whly.hebei.gov.cn/zwf/ui/contentcore/resource/download?ID=48084",
+        "source_row": 204,
+        "row_number_basis": "xlsx_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_province_xlsx.xlsx",
+        "source_sha256": "8a593d935aca04a7e5d344a86c05bfeae2e1717952d8c67bacba6a0bdf839e68",
+        "source_bytes": 41022,
+        "source_excerpt": {
+          "name": "正丰矿·段家楼沉浸乐园",
+          "location_text": "石家庄市井陉矿区",
+          "catalog_kind": "河北省A级旅游景区",
+          "grade": "3A",
+          "operating_note": null
+        },
+        "explicit_area_code_in_this_row": "130107",
+        "explicit_area_name_in_this_row": "井陉矿区",
+        "capture_time": "2026-11-07T01:18:50.650188+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_sjz:40",
+      "official_province_xlsx:204"
+    ],
+    "origin_candidate_id": "HB1301_503d5763ebda2e",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "projection_of": "SP_13_SJZ01_503d5763ebda2e",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_addf1037e672b4",
+    "source_entity_id": "13_SJZ01_addf1037e672b4",
+    "entity_type": "spot",
+    "full_name": "清凉山",
+    "blind_name": "*凉山",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130107",
+    "area_name": "井陉矿区",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": null,
+    "address": "石家庄市井陉矿区西岗头村",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/e180a7a4-1769-4748-b305-ad6cea23d762.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/e180a7a4-1769-4748-b305-ad6cea23d762.html",
+    "source_page": null,
+    "source_row": 35,
+    "source_sha256": "332fcab7be34f6be09b7d99ebf67b54a52bd0d4713cad051893363c11ebc5576",
+    "retrieved_at": "2026-11-07T01:18:24.724304+08:00",
+    "retrieved_at_basis": "capture_file_mtime_not_exact_http_time",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_addf1037e672b4",
+    "raw_ids": [
+      "CITY_13_SJZ01_addf1037e672b4",
+      "AREA_13_SJZ01_addf1037e672b4"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "rated_scenic_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_sjz:35",
+        "source_id": "official_sjz",
+        "full_name_as_listed": "清凉山",
+        "official_catalog_kind": "A级旅游景区",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/e180a7a4-1769-4748-b305-ad6cea23d762.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/e180a7a4-1769-4748-b305-ad6cea23d762.html",
+        "source_row": 35,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_sjz.html",
+        "source_sha256": "332fcab7be34f6be09b7d99ebf67b54a52bd0d4713cad051893363c11ebc5576",
+        "source_bytes": 146554,
+        "source_excerpt": {
+          "name": "清凉山",
+          "location_text": "石家庄市井陉矿区西岗头村",
+          "catalog_kind": "A级旅游景区",
+          "grade": "3A",
+          "operating_note": null
+        },
+        "explicit_area_code_in_this_row": "130107",
+        "explicit_area_name_in_this_row": "井陉矿区",
+        "capture_time": "2026-11-07T01:18:24.724304+08:00",
+        "capture_time_basis": "capture_file_mtime_not_exact_http_time"
+      }
+    ],
+    "source_observation_ids": [
+      "official_sjz:35"
+    ],
+    "origin_candidate_id": "HB1301_addf1037e672b4",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "projection_of": "SP_13_SJZ01_addf1037e672b4",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_e32cc8c80587c2",
+    "source_entity_id": "13_SJZ01_e32cc8c80587c2",
+    "entity_type": "spot",
+    "full_name": "矿区“万人坑”纪念馆",
+    "blind_name": "*******纪念*",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130107",
+    "area_name": "井陉矿区",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": null,
+    "address": "井陉矿区",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "红色旅游",
+        "type": "strong"
+      },
+      {
+        "name": "纪念馆",
+        "type": "strong"
+      }
+    ],
+    "tagging_status": "explicit_evidence_partial_pending_review",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": [
+        {
+          "tag": "红色旅游",
+          "observation_id": "official_red:20",
+          "basis": "official catalog category 红色旅游景区（点）"
+        },
+        {
+          "tag": "纪念馆",
+          "observation_id": "official_red:20",
+          "basis": "exact token in full_name"
+        }
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/202404/22/cde915e1-e3a0-40f6-a8c6-74161055dc7d.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/202404/22/cde915e1-e3a0-40f6-a8c6-74161055dc7d.html",
+    "source_page": null,
+    "source_row": 20,
+    "source_sha256": "f751aff838c8b40a105b7a87744bad249ace5468de4772d0ff57ebc53a6e59fb",
+    "retrieved_at": "2026-11-07T01:18:49.263134+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_e32cc8c80587c2",
+    "raw_ids": [
+      "CITY_13_SJZ01_e32cc8c80587c2",
+      "AREA_13_SJZ01_e32cc8c80587c2"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "red_tourism_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_red:20",
+        "source_id": "official_red",
+        "full_name_as_listed": "矿区“万人坑”纪念馆",
+        "official_catalog_kind": "红色旅游景区（点）",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/202404/22/cde915e1-e3a0-40f6-a8c6-74161055dc7d.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/202404/22/cde915e1-e3a0-40f6-a8c6-74161055dc7d.html",
+        "source_row": 20,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_red.html",
+        "source_sha256": "f751aff838c8b40a105b7a87744bad249ace5468de4772d0ff57ebc53a6e59fb",
+        "source_bytes": 97412,
+        "source_excerpt": {
+          "name": "矿区“万人坑”纪念馆",
+          "location_text": "井陉矿区",
+          "catalog_kind": "红色旅游景区（点）",
+          "grade": null
+        },
+        "explicit_area_code_in_this_row": "130107",
+        "explicit_area_name_in_this_row": "井陉矿区",
+        "capture_time": "2026-11-07T01:18:49.263134+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_red:20"
+    ],
+    "origin_candidate_id": "HB1301_e32cc8c80587c2",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "projection_of": "SP_13_SJZ01_e32cc8c80587c2",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_b22128b238131c",
+    "source_entity_id": "13_SJZ01_b22128b238131c",
+    "entity_type": "spot",
+    "full_name": "西岗头村",
+    "blind_name": "西岗**",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130107",
+    "area_name": "井陉矿区",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": "贾庄镇",
+    "address": "石家庄市井陉矿区贾庄镇西岗头村",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_page": null,
+    "source_row": 53,
+    "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+    "retrieved_at": "2026-11-07T01:18:49.263627+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_b22128b238131c",
+    "raw_ids": [
+      "CITY_13_SJZ01_b22128b238131c",
+      "AREA_13_SJZ01_b22128b238131c"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "rural_village_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_rural:53",
+        "source_id": "official_rural",
+        "full_name_as_listed": "西岗头村",
+        "official_catalog_kind": "乡村旅游重点村镇",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "source_row": 53,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_rural.html",
+        "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+        "source_bytes": 439230,
+        "source_excerpt": {
+          "name": "西岗头村",
+          "location_text": "石家庄市井陉矿区贾庄镇西岗头村",
+          "catalog_kind": "乡村旅游重点村镇",
+          "grade": null,
+          "designation_type": "重点村",
+          "designation_level": "市级",
+          "township_name": "贾庄镇",
+          "designation_year": "2023"
+        },
+        "explicit_area_code_in_this_row": "130107",
+        "explicit_area_name_in_this_row": "井陉矿区",
+        "capture_time": "2026-11-07T01:18:49.263627+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_rural:53"
+    ],
+    "origin_candidate_id": "HB1301_b22128b238131c",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "rural_identity_notice": "Official key rural-tourism village/township designation, not a newly created scenic-area identity.",
+    "projection_of": "SP_13_SJZ01_b22128b238131c",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_4b171c4ab479ae",
+    "source_entity_id": "13_SJZ01_4b171c4ab479ae",
+    "entity_type": "spot",
+    "full_name": "贾庄村",
+    "blind_name": "*庄村",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130107",
+    "area_name": "井陉矿区",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": "贾庄镇",
+    "address": "石家庄市井陉矿区贾庄镇贾庄村",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_page": null,
+    "source_row": 25,
+    "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+    "retrieved_at": "2026-11-07T01:18:49.263627+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_4b171c4ab479ae",
+    "raw_ids": [
+      "CITY_13_SJZ01_4b171c4ab479ae",
+      "AREA_13_SJZ01_4b171c4ab479ae"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "rural_village_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_rural:25",
+        "source_id": "official_rural",
+        "full_name_as_listed": "贾庄村",
+        "official_catalog_kind": "乡村旅游重点村镇",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "source_row": 25,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_rural.html",
+        "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+        "source_bytes": 439230,
+        "source_excerpt": {
+          "name": "贾庄村",
+          "location_text": "石家庄市井陉矿区贾庄镇贾庄村",
+          "catalog_kind": "乡村旅游重点村镇",
+          "grade": null,
+          "designation_type": "重点村",
+          "designation_level": "省级",
+          "township_name": "贾庄镇",
+          "designation_year": "2021"
+        },
+        "explicit_area_code_in_this_row": "130107",
+        "explicit_area_name_in_this_row": "井陉矿区",
+        "capture_time": "2026-11-07T01:18:49.263627+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_rural:25"
+    ],
+    "origin_candidate_id": "HB1301_4b171c4ab479ae",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "rural_identity_notice": "Official key rural-tourism village/township designation, not a newly created scenic-area identity.",
+    "projection_of": "SP_13_SJZ01_4b171c4ab479ae",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_b31279ce884b78",
+    "source_entity_id": "13_SJZ01_b31279ce884b78",
+    "entity_type": "spot",
+    "full_name": "贾庄镇",
+    "blind_name": "贾庄*",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130107",
+    "area_name": "井陉矿区",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": "贾庄镇",
+    "address": "石家庄市井陉矿区贾庄镇",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_page": null,
+    "source_row": 13,
+    "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+    "retrieved_at": "2026-11-07T01:18:49.263627+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_b31279ce884b78",
+    "raw_ids": [
+      "CITY_13_SJZ01_b31279ce884b78",
+      "AREA_13_SJZ01_b31279ce884b78"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "rural_township_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_rural:13",
+        "source_id": "official_rural",
+        "full_name_as_listed": "贾庄镇",
+        "official_catalog_kind": "乡村旅游重点村镇",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "source_row": 13,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_rural.html",
+        "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+        "source_bytes": 439230,
+        "source_excerpt": {
+          "name": "贾庄镇",
+          "location_text": "石家庄市井陉矿区贾庄镇",
+          "catalog_kind": "乡村旅游重点村镇",
+          "grade": null,
+          "designation_type": "重点镇",
+          "designation_level": "省级",
+          "township_name": "贾庄镇",
+          "designation_year": "2024"
+        },
+        "explicit_area_code_in_this_row": "130107",
+        "explicit_area_name_in_this_row": "井陉矿区",
+        "capture_time": "2026-11-07T01:18:49.263627+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_rural:13"
+    ],
+    "origin_candidate_id": "HB1301_b31279ce884b78",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "rural_identity_notice": "Official key rural-tourism village/township designation, not a newly created scenic-area identity.",
+    "projection_of": "SP_13_SJZ01_b31279ce884b78",
+    "independent_observation": false
+  }
+]

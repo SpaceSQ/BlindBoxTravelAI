@@ -1,0 +1,140 @@
+[
+  {
+    "raw_id": "HB1301_0721679fc42f40",
+    "entity_type": "spot",
+    "full_name": "上南庄烈士陵园",
+    "blind_name": "上****陵*",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130125",
+    "area_name": "行唐县",
+    "township_name": null,
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "area_official_catalog_projection",
+    "search_query": null,
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null
+    },
+    "tags": [
+      {
+        "name": "红色旅游",
+        "type": "strong",
+        "evidence": "explicit catalog kind or exact full name"
+      }
+    ],
+    "tagging_status": "evidence_tags_partial",
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/202404/22/cde915e1-e3a0-40f6-a8c6-74161055dc7d.html",
+    "source_observation_ids": [
+      "official_red:19"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "parent_id": null,
+    "sub_spots": [],
+    "parent_child_status": "unresolved",
+    "physical_entity_uniqueness": "not_asserted",
+    "exact_name_dedup_rule": "same full name; merge unknown admin only if exactly one explicit official admin exists for this name; never merge across distinct known areas",
+    "public_access_status": null,
+    "projection_of": "HB1301_0721679fc42f40"
+  },
+  {
+    "raw_id": "HB1301_1775a7cf28d3d6",
+    "entity_type": "spot",
+    "full_name": "东寺庄村",
+    "blind_name": "**庄村",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130125",
+    "area_name": "行唐县",
+    "township_name": "九口子乡",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "area_official_catalog_projection",
+    "search_query": null,
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null
+    },
+    "tags": [
+      {
+        "name": "寺庙",
+        "type": "strong",
+        "evidence": "explicit catalog kind or exact full name"
+      }
+    ],
+    "tagging_status": "evidence_tags_partial",
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_observation_ids": [
+      "official_rural:32"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "parent_id": null,
+    "sub_spots": [],
+    "parent_child_status": "unresolved",
+    "physical_entity_uniqueness": "not_asserted",
+    "exact_name_dedup_rule": "same full name; merge unknown admin only if exactly one explicit official admin exists for this name; never merge across distinct known areas",
+    "public_access_status": null,
+    "projection_of": "HB1301_1775a7cf28d3d6"
+  },
+  {
+    "raw_id": "HB1301_f48dd83888e489",
+    "entity_type": "spot",
+    "full_name": "东寺渔村",
+    "blind_name": "东*渔*",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130125",
+    "area_name": "行唐县",
+    "township_name": null,
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "area_official_catalog_projection",
+    "search_query": null,
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null
+    },
+    "tags": [
+      {
+        "name": "寺庙",
+        "type": "strong",
+        "evidence": "explicit catalog kind or exact full name"
+      }
+    ],
+    "tagging_status": "evidence_tags_partial",
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/e180a7a4-1769-4748-b305-ad6cea23d762.html",
+    "source_observation_ids": [
+      "official_sjz:34"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "parent_id": null,
+    "sub_spots": [],
+    "parent_child_status": "unresolved",
+    "physical_entity_uniqueness": "not_asserted",
+    "exact_name_dedup_rule": "same full name; merge unknown admin only if exactly one explicit official admin exists for this name; never merge across distinct known areas",
+    "public_access_status": null,
+    "projection_of": "HB1301_f48dd83888e489"
+  }
+]

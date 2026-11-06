@@ -1,0 +1,256 @@
+{
+  "province": "河北省",
+  "city": "石家庄市",
+  "mode": "isolated_conservative_official_catalog_identity_promotion",
+  "source_commit": "39deb0139e73e94d9b9a8f8861ae7b1bf0359f40",
+  "baseline_master_count": 1242,
+  "approved_catalog_identity_increment": 170,
+  "master_count": 1412,
+  "city_new": 170,
+  "county_projection_new": 166,
+  "county_unknown_new": 4,
+  "county_projection_old": 1233,
+  "county_projection_total": 1399,
+  "area_units": 24,
+  "candidate_decisions": 205,
+  "decision_counts": {
+    "promoted": 170,
+    "linked": 0,
+    "review": 35
+  },
+  "observations_accounted": 221,
+  "review_pairs": 55,
+  "new_parent_child_edges": 0,
+  "routes_added": 0,
+  "routes_total": 0,
+  "phase1_spot_metrics_unchanged": 186,
+  "phase1_route_metrics_unchanged": 60,
+  "v20_spot_metrics": 1412,
+  "physical_geographic_net_new": null,
+  "actual_distinct_engine_combos_attempted": 1,
+  "actual_engine_requests": 2,
+  "usable_engine_pages": 0,
+  "initial_planned_combos": 41,
+  "full_matrix_planned_combos": 349,
+  "unexecuted_initial_combos": 40,
+  "search_matrix_complete": false,
+  "query_plan": "source_bundle/data/search_batches/13/shijiazhuang_1301_batch01/query_plan.json",
+  "tags_snapshot_sha256": "50b6aa41c02f7280f33985fd30d95dcf23120a69956032dfe1bc34f5b5c33545",
+  "per_area": [
+    {
+      "area_code": "130102",
+      "area_name": "长安区",
+      "catalog_identity_projections": 2,
+      "independent_county_observations": 0,
+      "engine_queries_executed": 0,
+      "target1000_met": false
+    },
+    {
+      "area_code": "130104",
+      "area_name": "桥西区",
+      "catalog_identity_projections": 2,
+      "independent_county_observations": 0,
+      "engine_queries_executed": 0,
+      "target1000_met": false
+    },
+    {
+      "area_code": "130105",
+      "area_name": "新华区",
+      "catalog_identity_projections": 2,
+      "independent_county_observations": 0,
+      "engine_queries_executed": 0,
+      "target1000_met": false
+    },
+    {
+      "area_code": "130107",
+      "area_name": "井陉矿区",
+      "catalog_identity_projections": 12,
+      "independent_county_observations": 0,
+      "engine_queries_executed": 0,
+      "target1000_met": false
+    },
+    {
+      "area_code": "130108",
+      "area_name": "裕华区",
+      "catalog_identity_projections": 0,
+      "independent_county_observations": 0,
+      "engine_queries_executed": 0,
+      "target1000_met": false
+    },
+    {
+      "area_code": "130109",
+      "area_name": "藁城区",
+      "catalog_identity_projections": 5,
+      "independent_county_observations": 0,
+      "engine_queries_executed": 0,
+      "target1000_met": false
+    },
+    {
+      "area_code": "130110",
+      "area_name": "鹿泉区",
+      "catalog_identity_projections": 20,
+      "independent_county_observations": 0,
+      "engine_queries_executed": 0,
+      "target1000_met": false
+    },
+    {
+      "area_code": "130111",
+      "area_name": "栾城区",
+      "catalog_identity_projections": 7,
+      "independent_county_observations": 0,
+      "engine_queries_executed": 0,
+      "target1000_met": false
+    },
+    {
+      "area_code": "130121",
+      "area_name": "井陉县",
+      "catalog_identity_projections": 17,
+      "independent_county_observations": 0,
+      "engine_queries_executed": 0,
+      "target1000_met": false
+    },
+    {
+      "area_code": "130123",
+      "area_name": "正定县",
+      "catalog_identity_projections": 14,
+      "independent_county_observations": 0,
+      "engine_queries_executed": 0,
+      "target1000_met": false
+    },
+    {
+      "area_code": "130125",
+      "area_name": "行唐县",
+      "catalog_identity_projections": 3,
+      "independent_county_observations": 0,
+      "engine_queries_executed": 0,
+      "target1000_met": false
+    },
+    {
+      "area_code": "130126",
+      "area_name": "灵寿县",
+      "catalog_identity_projections": 10,
+      "independent_county_observations": 0,
+      "engine_queries_executed": 0,
+      "target1000_met": false
+    },
+    {
+      "area_code": "130127",
+      "area_name": "高邑县",
+      "catalog_identity_projections": 7,
+      "independent_county_observations": 0,
+      "engine_queries_executed": 0,
+      "target1000_met": false
+    },
+    {
+      "area_code": "130128",
+      "area_name": "深泽县",
+      "catalog_identity_projections": 1,
+      "independent_county_observations": 0,
+      "engine_queries_executed": 0,
+      "target1000_met": false
+    },
+    {
+      "area_code": "130129",
+      "area_name": "赞皇县",
+      "catalog_identity_projections": 12,
+      "independent_county_observations": 0,
+      "engine_queries_executed": 0,
+      "target1000_met": false
+    },
+    {
+      "area_code": "130130",
+      "area_name": "无极县",
+      "catalog_identity_projections": 0,
+      "independent_county_observations": 0,
+      "engine_queries_executed": 0,
+      "target1000_met": false
+    },
+    {
+      "area_code": "130131",
+      "area_name": "平山县",
+      "catalog_identity_projections": 28,
+      "independent_county_observations": 0,
+      "engine_queries_executed": 0,
+      "target1000_met": false
+    },
+    {
+      "area_code": "130132",
+      "area_name": "元氏县",
+      "catalog_identity_projections": 3,
+      "independent_county_observations": 0,
+      "engine_queries_executed": 0,
+      "target1000_met": false
+    },
+    {
+      "area_code": "130133",
+      "area_name": "赵县",
+      "catalog_identity_projections": 12,
+      "independent_county_observations": 0,
+      "engine_queries_executed": 0,
+      "target1000_met": false
+    },
+    {
+      "area_code": "130171",
+      "area_name": "石家庄高新技术产业开发区",
+      "catalog_identity_projections": 0,
+      "independent_county_observations": 0,
+      "engine_queries_executed": 0,
+      "target1000_met": false
+    },
+    {
+      "area_code": "130172",
+      "area_name": "石家庄循环化工园区",
+      "catalog_identity_projections": 0,
+      "independent_county_observations": 0,
+      "engine_queries_executed": 0,
+      "target1000_met": false
+    },
+    {
+      "area_code": "130181",
+      "area_name": "辛集市",
+      "catalog_identity_projections": 0,
+      "independent_county_observations": 0,
+      "engine_queries_executed": 0,
+      "target1000_met": false
+    },
+    {
+      "area_code": "130183",
+      "area_name": "晋州市",
+      "catalog_identity_projections": 6,
+      "independent_county_observations": 0,
+      "engine_queries_executed": 0,
+      "target1000_met": false
+    },
+    {
+      "area_code": "130184",
+      "area_name": "新乐市",
+      "catalog_identity_projections": 3,
+      "independent_county_observations": 0,
+      "engine_queries_executed": 0,
+      "target1000_met": false
+    }
+  ],
+  "catalog_roles": {
+    "industrial_tourism_demonstration_catalog_identity": 16,
+    "rated_scenic_catalog_identity": 40,
+    "red_tourism_catalog_identity": 20,
+    "rural_township_catalog_identity": 9,
+    "rural_village_catalog_identity": 85
+  },
+  "warnings": [
+    "Counts are approved official catalog identities, not geographic net-new sites.",
+    "Held identities excluded from increments and counters, evidence retained.",
+    "Rural designations do not establish newly created scenic areas or access.",
+    "Industrial designation does not establish current opening or separate factory visits.",
+    "No tourism parent-child inferred from names, parentheses or administrative hierarchy.",
+    "Original input matrix contains24 units including Xinji and2 extensions; not independently corrected.",
+    "Only1/41 initial combos attempted across2 engines; zero usable pages.349 is a plan only.",
+    "Box snapshot metrics defect repaired by using committed186/60 Phase1 maps, not fabricated zero filling.",
+    "No registered machine, formal Beijing source, Phase1 source or Git content modified."
+  ],
+  "validation_report": "audit/validation.json",
+  "validation_assertions": 5141,
+  "unit_tests": 8,
+  "generated_at_asia_shanghai": "2026-11-07T01:26:40.174798+08:00",
+  "deployment_status": "isolated_box_proposal_not_synced_not_committed"
+}

@@ -1,0 +1,801 @@
+[
+  {
+    "raw_id": "AREA_13_SJZ01_ad9048161759f1",
+    "source_entity_id": "13_SJZ01_ad9048161759f1",
+    "entity_type": "spot",
+    "full_name": "东牛村",
+    "blind_name": "东牛*",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130111",
+    "area_name": "栾城区",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": "柳林屯乡",
+    "address": "石家庄市栾城区柳林屯乡东牛村",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_page": null,
+    "source_row": 96,
+    "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+    "retrieved_at": "2026-11-07T01:18:49.263627+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_ad9048161759f1",
+    "raw_ids": [
+      "CITY_13_SJZ01_ad9048161759f1",
+      "AREA_13_SJZ01_ad9048161759f1"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "rural_village_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_rural:96",
+        "source_id": "official_rural",
+        "full_name_as_listed": "东牛村",
+        "official_catalog_kind": "乡村旅游重点村镇",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "source_row": 96,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_rural.html",
+        "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+        "source_bytes": 439230,
+        "source_excerpt": {
+          "name": "东牛村",
+          "location_text": "石家庄市栾城区柳林屯乡东牛村",
+          "catalog_kind": "乡村旅游重点村镇",
+          "grade": null,
+          "designation_type": "重点村",
+          "designation_level": "市级",
+          "township_name": "柳林屯乡",
+          "designation_year": "2025"
+        },
+        "explicit_area_code_in_this_row": "130111",
+        "explicit_area_name_in_this_row": "栾城区",
+        "capture_time": "2026-11-07T01:18:49.263627+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_rural:96"
+    ],
+    "origin_candidate_id": "HB1301_ad9048161759f1",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "rural_identity_notice": "Official key rural-tourism village/township designation, not a newly created scenic-area identity.",
+    "projection_of": "SP_13_SJZ01_ad9048161759f1",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_1ef9f2c14ded45",
+    "source_entity_id": "13_SJZ01_1ef9f2c14ded45",
+    "entity_type": "spot",
+    "full_name": "中航通飞华北飞机工业有限公司",
+    "blind_name": "*******机工*****",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130111",
+    "area_name": "栾城区",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": null,
+    "address": "石家庄市栾城区衡井路99号",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/4950b767-8d94-42e4-a321-36ea715221d7.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/4950b767-8d94-42e4-a321-36ea715221d7.html",
+    "source_page": null,
+    "source_row": 6,
+    "source_sha256": "5c8de6f0aae3c776818dbbb1f3a041fe1cc5f93ef2d4635c6576387614adad3f",
+    "retrieved_at": "2026-11-07T01:18:49.266319+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_1ef9f2c14ded45",
+    "raw_ids": [
+      "CITY_13_SJZ01_1ef9f2c14ded45",
+      "AREA_13_SJZ01_1ef9f2c14ded45"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "industrial_tourism_demonstration_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_industrial:6",
+        "source_id": "official_industrial",
+        "full_name_as_listed": "中航通飞华北飞机工业有限公司",
+        "official_catalog_kind": "工业旅游示范点",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/4950b767-8d94-42e4-a321-36ea715221d7.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/4950b767-8d94-42e4-a321-36ea715221d7.html",
+        "source_row": 6,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_industrial.html",
+        "source_sha256": "5c8de6f0aae3c776818dbbb1f3a041fe1cc5f93ef2d4635c6576387614adad3f",
+        "source_bytes": 56220,
+        "source_excerpt": {
+          "name": "中航通飞华北飞机工业有限公司",
+          "location_text": "石家庄市栾城区衡井路99号",
+          "catalog_kind": "工业旅游示范点",
+          "grade": null,
+          "public_access_status": null
+        },
+        "explicit_area_code_in_this_row": "130111",
+        "explicit_area_name_in_this_row": "栾城区",
+        "capture_time": "2026-11-07T01:18:49.266319+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_industrial:6"
+    ],
+    "origin_candidate_id": "HB1301_1ef9f2c14ded45",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "industrial_identity_notice": "Official industrial-tourism demonstration catalog identity; company/factory not asserted to be an independently open visitor attraction.",
+    "projection_of": "SP_13_SJZ01_1ef9f2c14ded45",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_267de53a939a23",
+    "source_entity_id": "13_SJZ01_267de53a939a23",
+    "entity_type": "spot",
+    "full_name": "中车石家庄车辆有限公司",
+    "blind_name": "中*******限**",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130111",
+    "area_name": "栾城区",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": null,
+    "address": "石家庄市栾城区裕翔街168号",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/4950b767-8d94-42e4-a321-36ea715221d7.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/4950b767-8d94-42e4-a321-36ea715221d7.html",
+    "source_page": null,
+    "source_row": 15,
+    "source_sha256": "5c8de6f0aae3c776818dbbb1f3a041fe1cc5f93ef2d4635c6576387614adad3f",
+    "retrieved_at": "2026-11-07T01:18:49.266319+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_267de53a939a23",
+    "raw_ids": [
+      "CITY_13_SJZ01_267de53a939a23",
+      "AREA_13_SJZ01_267de53a939a23"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "industrial_tourism_demonstration_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_industrial:15",
+        "source_id": "official_industrial",
+        "full_name_as_listed": "中车石家庄车辆有限公司",
+        "official_catalog_kind": "工业旅游示范点",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/4950b767-8d94-42e4-a321-36ea715221d7.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/4950b767-8d94-42e4-a321-36ea715221d7.html",
+        "source_row": 15,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_industrial.html",
+        "source_sha256": "5c8de6f0aae3c776818dbbb1f3a041fe1cc5f93ef2d4635c6576387614adad3f",
+        "source_bytes": 56220,
+        "source_excerpt": {
+          "name": "中车石家庄车辆有限公司",
+          "location_text": "石家庄市栾城区裕翔街168号",
+          "catalog_kind": "工业旅游示范点",
+          "grade": null,
+          "public_access_status": null
+        },
+        "explicit_area_code_in_this_row": "130111",
+        "explicit_area_name_in_this_row": "栾城区",
+        "capture_time": "2026-11-07T01:18:49.266319+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_industrial:15"
+    ],
+    "origin_candidate_id": "HB1301_267de53a939a23",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "industrial_identity_notice": "Official industrial-tourism demonstration catalog identity; company/factory not asserted to be an independently open visitor attraction.",
+    "projection_of": "SP_13_SJZ01_267de53a939a23",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_f010d65ceacfbc",
+    "source_entity_id": "13_SJZ01_f010d65ceacfbc",
+    "entity_type": "spot",
+    "full_name": "南留村",
+    "blind_name": "*留村",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130111",
+    "area_name": "栾城区",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": "冶河镇",
+    "address": "石家庄市栾城区冶河镇南留村",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+    "source_page": null,
+    "source_row": 95,
+    "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+    "retrieved_at": "2026-11-07T01:18:49.263627+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_f010d65ceacfbc",
+    "raw_ids": [
+      "CITY_13_SJZ01_f010d65ceacfbc",
+      "AREA_13_SJZ01_f010d65ceacfbc"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "rural_village_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_rural:95",
+        "source_id": "official_rural",
+        "full_name_as_listed": "南留村",
+        "official_catalog_kind": "乡村旅游重点村镇",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html",
+        "source_row": 95,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_rural.html",
+        "source_sha256": "005499fc74b007bebe77ff689ac5511463d091ec26339effde85d78765d322b7",
+        "source_bytes": 439230,
+        "source_excerpt": {
+          "name": "南留村",
+          "location_text": "石家庄市栾城区冶河镇南留村",
+          "catalog_kind": "乡村旅游重点村镇",
+          "grade": null,
+          "designation_type": "重点村",
+          "designation_level": "市级",
+          "township_name": "冶河镇",
+          "designation_year": "2025"
+        },
+        "explicit_area_code_in_this_row": "130111",
+        "explicit_area_name_in_this_row": "栾城区",
+        "capture_time": "2026-11-07T01:18:49.263627+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_rural:95"
+    ],
+    "origin_candidate_id": "HB1301_f010d65ceacfbc",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "rural_identity_notice": "Official key rural-tourism village/township designation, not a newly created scenic-area identity.",
+    "projection_of": "SP_13_SJZ01_f010d65ceacfbc",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_6549f01579d694",
+    "source_entity_id": "13_SJZ01_6549f01579d694",
+    "entity_type": "spot",
+    "full_name": "栾城县双百人物园",
+    "blind_name": "****百*物*",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130111",
+    "area_name": "栾城区",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": null,
+    "address": "栾城区",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "红色旅游",
+        "type": "strong"
+      }
+    ],
+    "tagging_status": "explicit_evidence_partial_pending_review",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": [
+        {
+          "tag": "红色旅游",
+          "observation_id": "official_red:25",
+          "basis": "official catalog category 红色旅游景区（点）"
+        }
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/202404/22/cde915e1-e3a0-40f6-a8c6-74161055dc7d.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/202404/22/cde915e1-e3a0-40f6-a8c6-74161055dc7d.html",
+    "source_page": null,
+    "source_row": 25,
+    "source_sha256": "f751aff838c8b40a105b7a87744bad249ace5468de4772d0ff57ebc53a6e59fb",
+    "retrieved_at": "2026-11-07T01:18:49.263134+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_6549f01579d694",
+    "raw_ids": [
+      "CITY_13_SJZ01_6549f01579d694",
+      "AREA_13_SJZ01_6549f01579d694"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "red_tourism_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_red:25",
+        "source_id": "official_red",
+        "full_name_as_listed": "栾城县双百人物园",
+        "official_catalog_kind": "红色旅游景区（点）",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/202404/22/cde915e1-e3a0-40f6-a8c6-74161055dc7d.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/202404/22/cde915e1-e3a0-40f6-a8c6-74161055dc7d.html",
+        "source_row": 25,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_red.html",
+        "source_sha256": "f751aff838c8b40a105b7a87744bad249ace5468de4772d0ff57ebc53a6e59fb",
+        "source_bytes": 97412,
+        "source_excerpt": {
+          "name": "栾城县双百人物园",
+          "location_text": "栾城区",
+          "catalog_kind": "红色旅游景区（点）",
+          "grade": null
+        },
+        "explicit_area_code_in_this_row": "130111",
+        "explicit_area_name_in_this_row": "栾城区",
+        "capture_time": "2026-11-07T01:18:49.263134+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_red:25"
+    ],
+    "origin_candidate_id": "HB1301_6549f01579d694",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "projection_of": "SP_13_SJZ01_6549f01579d694",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_3897c27b89eba0",
+    "source_entity_id": "13_SJZ01_3897c27b89eba0",
+    "entity_type": "spot",
+    "full_name": "河北味道府酒业有限公司",
+    "blind_name": "*********公司",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130111",
+    "area_name": "栾城区",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": null,
+    "address": "石家庄市栾城区味道府路2号",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/4950b767-8d94-42e4-a321-36ea715221d7.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/4950b767-8d94-42e4-a321-36ea715221d7.html",
+    "source_page": null,
+    "source_row": 12,
+    "source_sha256": "5c8de6f0aae3c776818dbbb1f3a041fe1cc5f93ef2d4635c6576387614adad3f",
+    "retrieved_at": "2026-11-07T01:18:49.266319+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_3897c27b89eba0",
+    "raw_ids": [
+      "CITY_13_SJZ01_3897c27b89eba0",
+      "AREA_13_SJZ01_3897c27b89eba0"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "industrial_tourism_demonstration_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_industrial:12",
+        "source_id": "official_industrial",
+        "full_name_as_listed": "河北味道府酒业有限公司",
+        "official_catalog_kind": "工业旅游示范点",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/4950b767-8d94-42e4-a321-36ea715221d7.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/4950b767-8d94-42e4-a321-36ea715221d7.html",
+        "source_row": 12,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_industrial.html",
+        "source_sha256": "5c8de6f0aae3c776818dbbb1f3a041fe1cc5f93ef2d4635c6576387614adad3f",
+        "source_bytes": 56220,
+        "source_excerpt": {
+          "name": "河北味道府酒业有限公司",
+          "location_text": "石家庄市栾城区味道府路2号",
+          "catalog_kind": "工业旅游示范点",
+          "grade": null,
+          "public_access_status": null
+        },
+        "explicit_area_code_in_this_row": "130111",
+        "explicit_area_name_in_this_row": "栾城区",
+        "capture_time": "2026-11-07T01:18:49.266319+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_industrial:12"
+    ],
+    "origin_candidate_id": "HB1301_3897c27b89eba0",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "industrial_identity_notice": "Official industrial-tourism demonstration catalog identity; company/factory not asserted to be an independently open visitor attraction.",
+    "projection_of": "SP_13_SJZ01_3897c27b89eba0",
+    "independent_observation": false
+  },
+  {
+    "raw_id": "AREA_13_SJZ01_df4a63efe5bde7",
+    "source_entity_id": "13_SJZ01_df4a63efe5bde7",
+    "entity_type": "spot",
+    "full_name": "神威药业集团有限公司",
+    "blind_name": "**药***有***",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130111",
+    "area_name": "栾城区",
+    "area_assignment_basis": "exact_name_unique_explicit_official_area",
+    "township_name": null,
+    "address": "石家庄市栾城区石栾大街168号",
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "county_level",
+    "query": null,
+    "query_type": "official_directory_filter_not_engine_matrix_result",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "tagging_basis": {
+      "rules": "only exact unambiguous name tokens or actual red catalog category; no inferred visitor preferences",
+      "evidence": []
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/4950b767-8d94-42e4-a321-36ea715221d7.html",
+    "source_landing_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/4950b767-8d94-42e4-a321-36ea715221d7.html",
+    "source_page": null,
+    "source_row": 16,
+    "source_sha256": "5c8de6f0aae3c776818dbbb1f3a041fe1cc5f93ef2d4635c6576387614adad3f",
+    "retrieved_at": "2026-11-07T01:18:49.266319+08:00",
+    "retrieved_at_basis": "request_log_timestamp",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "identity_verification_status": "approved_official_catalog_identity",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "spot_id": "SP_13_SJZ01_df4a63efe5bde7",
+    "raw_ids": [
+      "CITY_13_SJZ01_df4a63efe5bde7",
+      "AREA_13_SJZ01_df4a63efe5bde7"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_identity_role": "industrial_tourism_demonstration_catalog_identity",
+    "catalog_evidence": [
+      {
+        "observation_id": "official_industrial:16",
+        "source_id": "official_industrial",
+        "full_name_as_listed": "神威药业集团有限公司",
+        "official_catalog_kind": "工业旅游示范点",
+        "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/4950b767-8d94-42e4-a321-36ea715221d7.html",
+        "actual_raw_download_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/4950b767-8d94-42e4-a321-36ea715221d7.html",
+        "source_row": 16,
+        "row_number_basis": "first_html_table_physical_row_1based",
+        "raw_file": "source_bundle/raw/official_industrial.html",
+        "source_sha256": "5c8de6f0aae3c776818dbbb1f3a041fe1cc5f93ef2d4635c6576387614adad3f",
+        "source_bytes": 56220,
+        "source_excerpt": {
+          "name": "神威药业集团有限公司",
+          "location_text": "石家庄市栾城区石栾大街168号",
+          "catalog_kind": "工业旅游示范点",
+          "grade": null,
+          "public_access_status": null
+        },
+        "explicit_area_code_in_this_row": "130111",
+        "explicit_area_name_in_this_row": "栾城区",
+        "capture_time": "2026-11-07T01:18:49.266319+08:00",
+        "capture_time_basis": "request_log_timestamp"
+      }
+    ],
+    "source_observation_ids": [
+      "official_industrial:16"
+    ],
+    "origin_candidate_id": "HB1301_df4a63efe5bde7",
+    "projection_provenance": "city official catalog extraction; county files only explicit-area projections, not independent observations",
+    "public_access_status": "not_verified_open",
+    "physical_entity_uniqueness": "not_asserted",
+    "geographic_net_new_asserted": false,
+    "parent_spot_id": null,
+    "sub_spots": [],
+    "parent_child_status": "not_asserted_without_explicit_official_relation",
+    "official_operating_notes": [],
+    "industrial_identity_notice": "Official industrial-tourism demonstration catalog identity; company/factory not asserted to be an independently open visitor attraction.",
+    "projection_of": "SP_13_SJZ01_df4a63efe5bde7",
+    "independent_observation": false
+  }
+]

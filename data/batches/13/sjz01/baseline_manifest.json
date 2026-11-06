@@ -1,0 +1,109 @@
+{
+  "formal_commit": "39deb0139e73e94d9b9a8f8861ae7b1bf0359f40",
+  "master_remote_read": true,
+  "master_matches_local_promoted_snapshot": true,
+  "metrics_remote_read": true,
+  "local_template_metrics_defect": "local spots_metrics/routes_metrics empty; not used. Committed metrics contain186/60, retained unchanged.",
+  "files": [
+    {
+      "path": "baseline/areas_db/11/110101.json",
+      "sha256": "96a980e80114463e8a88ee04da544681b094c4882dbf84461da11092c4ff9299",
+      "bytes": 204446
+    },
+    {
+      "path": "baseline/areas_db/11/110102.json",
+      "sha256": "3fd27a0c1f54accb9b0b0eb0c4632f7b57513feb80105fdd3b2c9a93514469b9",
+      "bytes": 281849
+    },
+    {
+      "path": "baseline/areas_db/11/110105.json",
+      "sha256": "14bd66012cd5185846e115a574dc7450f96294fe4fa8c5b1b3a0cedd942c95ac",
+      "bytes": 260172
+    },
+    {
+      "path": "baseline/areas_db/11/110106.json",
+      "sha256": "54c38badeb4de1f5bed8b4ae875a6ae49d7c35d45c3afbab61f5e931a366b801",
+      "bytes": 330132
+    },
+    {
+      "path": "baseline/areas_db/11/110107.json",
+      "sha256": "519407ffb0fd1099d4c0b3adeeebfc7a40c3498a3ffd86b1b3d72fb5a6b261a6",
+      "bytes": 181402
+    },
+    {
+      "path": "baseline/areas_db/11/110108.json",
+      "sha256": "f99750c3edc09eff9f6ebe98f34906b692af85e8b5ca32c39e0c319288505013",
+      "bytes": 384939
+    },
+    {
+      "path": "baseline/areas_db/11/110109.json",
+      "sha256": "0efe300cb991290e8e9e9d9ac4014782296f27b5e85c3d2e6b2d8ae4dc35674f",
+      "bytes": 137556
+    },
+    {
+      "path": "baseline/areas_db/11/110111.json",
+      "sha256": "6d6269a768ad5ba9887fa216e37421084e7093d6af394e3b3f820512d7543a29",
+      "bytes": 288606
+    },
+    {
+      "path": "baseline/areas_db/11/110112.json",
+      "sha256": "658da429f2733fa75e996e8b51b7767af2a18ae792a35734778e4f2338607e0b",
+      "bytes": 189801
+    },
+    {
+      "path": "baseline/areas_db/11/110113.json",
+      "sha256": "a6f28727f9aad19706451697150652d057ca267993e9196578a2e76cb2d68da0",
+      "bytes": 119194
+    },
+    {
+      "path": "baseline/areas_db/11/110114.json",
+      "sha256": "834acbdfdb26bf6c69a6e1d92ace13544451928acc9615dff1c1154a55c967d7",
+      "bytes": 171144
+    },
+    {
+      "path": "baseline/areas_db/11/110115.json",
+      "sha256": "e8ccd506b63d09cf1b4c811aad476915b1d95a154edcb5baf34c49fc07b03fe2",
+      "bytes": 224663
+    },
+    {
+      "path": "baseline/areas_db/11/110116.json",
+      "sha256": "fc07d2b49f02c5c2a996daff46b08f619ce93220f1ddc93d8920be4baf533841",
+      "bytes": 228686
+    },
+    {
+      "path": "baseline/areas_db/11/110117.json",
+      "sha256": "7ea4c947b682bc97179eac1f0e3486f3bc2ea0b08c3ce68c4b20589b5dc2c41c",
+      "bytes": 135139
+    },
+    {
+      "path": "baseline/areas_db/11/110118.json",
+      "sha256": "9c8fc58e773e776a67b31731ccde01f9a1be6da6bdda17ba44b4d3394653be28",
+      "bytes": 194931
+    },
+    {
+      "path": "baseline/areas_db/11/110119.json",
+      "sha256": "6c7f0168ea2af1ac59d4a77227e928885f2fa55163bc344910d99f06c55bf533",
+      "bytes": 95822
+    },
+    {
+      "path": "baseline/cities_db/11_1101.json",
+      "sha256": "f424b96d833b8894e82a7fe732aa7ff8f4012c9e348498be1863c46ca7ec7740",
+      "bytes": 3459815
+    },
+    {
+      "path": "baseline/evolution_metrics.json",
+      "sha256": "9298853143b628f2e836a83ed5d32d0aa58bd5f456b9e8c41fa847f1810552d2",
+      "bytes": 129935
+    },
+    {
+      "path": "baseline/national_routes_master.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "baseline/national_spots_master.json",
+      "sha256": "f424b96d833b8894e82a7fe732aa7ff8f4012c9e348498be1863c46ca7ec7740",
+      "bytes": 3459815
+    }
+  ]
+}

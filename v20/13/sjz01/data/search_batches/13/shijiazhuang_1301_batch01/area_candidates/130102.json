@@ -1,0 +1,89 @@
+[
+  {
+    "raw_id": "HB1301_d89878918a2719",
+    "entity_type": "spot",
+    "full_name": "勒泰中心",
+    "blind_name": "*泰中*",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130102",
+    "area_name": "长安区",
+    "township_name": null,
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "area_official_catalog_projection",
+    "search_query": null,
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null
+    },
+    "tags": [],
+    "tagging_status": "pending_evidence",
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/e180a7a4-1769-4748-b305-ad6cea23d762.html",
+    "source_observation_ids": [
+      "official_sjz:28",
+      "official_province_xlsx:191"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "parent_id": null,
+    "sub_spots": [],
+    "parent_child_status": "unresolved",
+    "physical_entity_uniqueness": "not_asserted",
+    "exact_name_dedup_rule": "same full name; merge unknown admin only if exactly one explicit official admin exists for this name; never merge across distinct known areas",
+    "public_access_status": null,
+    "projection_of": "HB1301_d89878918a2719"
+  },
+  {
+    "raw_id": "HB1301_ab0bd276edd412",
+    "entity_type": "spot",
+    "full_name": "河北省博物院",
+    "blind_name": "*北***院",
+    "province_code": "13",
+    "province_name": "河北省",
+    "city_code": "1301",
+    "city_name": "石家庄市",
+    "area_code": "130102",
+    "area_name": "长安区",
+    "township_name": null,
+    "matched_search_keyword": null,
+    "matched_search_keywords": [],
+    "search_tier": "area_official_catalog_projection",
+    "search_query": null,
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null
+    },
+    "tags": [
+      {
+        "name": "红色旅游",
+        "type": "strong",
+        "evidence": "explicit catalog kind or exact full name"
+      }
+    ],
+    "tagging_status": "evidence_tags_partial",
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/202404/22/cde915e1-e3a0-40f6-a8c6-74161055dc7d.html",
+    "source_observation_ids": [
+      "official_red:29"
+    ],
+    "verification_status": "catalog_indexed_pending_enrich",
+    "parent_id": null,
+    "sub_spots": [],
+    "parent_child_status": "unresolved",
+    "physical_entity_uniqueness": "not_asserted",
+    "exact_name_dedup_rule": "same full name; merge unknown admin only if exactly one explicit official admin exists for this name; never merge across distinct known areas",
+    "public_access_status": null,
+    "projection_of": "HB1301_ab0bd276edd412"
+  }
+]

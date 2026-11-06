@@ -1,0 +1,416 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="renderer" content="webkit" />
+    <link rel="stylesheet" href="https://wglj.sjz.gov.cn/templates/7cf5620f-149c-4774-93f7-cd3ea779470d/202506/05/images/styles.css" type="text/css" />
+    <link rel="stylesheet" href="https://wglj.sjz.gov.cn/templates/7cf5620f-149c-4774-93f7-cd3ea779470d/202506/05/images/mobile.css" type="text/css" />
+    <script src="https://wglj.sjz.gov.cn/templates/7cf5620f-149c-4774-93f7-cd3ea779470d/202506/05/images/jquery.min.js" type="text/javascript"></script>
+    <script src="https://wglj.sjz.gov.cn/templates/7cf5620f-149c-4774-93f7-cd3ea779470d/202506/05/images/set.js"></script>
+    <script src="https://wglj.sjz.gov.cn/templates/7cf5620f-149c-4774-93f7-cd3ea779470d/202506/05/images/script.js"></script>
+    <title>旅游名录</title>
+  <meta name='SiteName' content='石家庄市文化广电和旅游局'/>
+<meta name='SiteDomain' content='wglj.sjz.gov.cn'/>
+<meta name='SiteIDCode' content='1301000005'/>
+<meta name='ColumnName' content='旅游名录'/>
+<meta name='ColumnType' content='旅游名录'/>
+<meta name='ColumnKeywords' content='旅游名录'/>
+<meta name='ColumnDescription' content='旅游名录'/>
+<link rel='stylesheet' href='https://wglj.sjz.gov.cn/utils/css/jquery-ui.min.css'></link>
+<script src='https://wglj.sjz.gov.cn/utils/js/jquery.min.js'></script>
+<script src='https://wglj.sjz.gov.cn/utils/js/jquery-ui.min.js'></script>
+<script src='https://wglj.sjz.gov.cn/utils/js/jquery-ui-timepicker-addon.js'></script>
+<script src='https://wglj.sjz.gov.cn/utils/js/jquery.cookie.js'></script>
+<script src='https://wglj.sjz.gov.cn/utils/js/common.js'></script>
+<script src='https://wglj.sjz.gov.cn/utils/js/pv.js'></script>
+</head>
+  <body>
+    <!-- Top Header -->
+    <div class="top-header">
+      <div class="container">
+        <div><div class="slhheader1">
+<div class="slhdbdh">
+<div class="sj">
+<div class="tq">
+<div style="display: flex">
+<div style="
+                      display: -webkit-box;
+display: -webkit-flex;
+display: -ms-flexbox;
+display: flex;
+width: 12rem;
+margin: 0 auto;
+-webkit-box-pack: end;
+-webkit-justify-content: flex-end;
+-ms-flex-pack: end;
+justify-content: flex-end;
+                    ">
+<div style="display: flex; align-items: center"><img alt="" src="https://wglj.sjz.gov.cn/images/1/202407/23/%E6%97%A0%E9%9A%9C%E7%A2%8D20240723090310235.png?sid=3f94f16b-74af-4ac0-898e-959bf0b24b60" style="height: 0.2rem" /> <a href="javascript:void(0);" id="toolbarSwitch" style="color: #000"> 无障碍</a></div>
+<div style="
+                        display: flex;
+                        align-items: center;
+                        margin-left: 0.1rem;
+                      "><img alt="https://wglj.sjz.gov.cn/images/1/202407/23/%E9%80%82%E8%80%81%E5%8C%9620240723090310236.png?sid=4dd3125c-b416-44cd-b4a1-6ced3bfac11a" src="https://wglj.sjz.gov.cn/images/1/202407/23/%E9%80%82%E8%80%81%E5%8C%9620240723090310236.png?sid=4dd3125c-b416-44cd-b4a1-6ced3bfac11a" style="height: 0.185rem" /> <a href="javascript:void(0);" id="olderSwitch" onclick="setOlder()" style="color: #000">长者模式</a></div></div></div></div></div></div></div>
+<style type="text/css">.slhheader1 {
+            position: relative;
+            height: 0.25rem;
+            background-color: none;
+          }
+          .slhdbdh {
+            width: 11rem;
+            height: 0.35rem;
+            line-height: 0.35rem;
+            color: #ffffff;
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            margin: auto;
+            display: block;
+          }
+          .search {
+            width: 3.3rem;
+            height: 0.5rem;
+            float: right;
+            margin-top: 0.6rem;
+          }
+          .dh {
+            width: 12rem;
+            height: 0.6rem;
+            margin: 0 auto;
+            box-sizing: border-box;
+          }
+          .sj {
+            float: right;
+          }
+          #get {
+            float: left;
+          }
+          .tq {
+            float: right;
+            margin-left: 0.1rem;
+            font-size: 12px;
+          }
+</style>
+<div class="header-content">
+<div class="welcome-text">&nbsp;</div>
+<div class="header-right">
+<div class="social-icons">
+<div class="social-icon weibo">&nbsp;</div>
+<div class="social-icon wechat">&nbsp;</div></div></div></div></div>
+      </div>
+    </div>
+
+    <!-- Hero Banner -->
+    <div class="hero-banner">
+      <div class="container">
+        <div><div class="wuza"><a href="javascript:void(0);" id="toolbarSwitch" style="color: rgb(255, 255, 255); text-decoration: none; font-size:.16rem;">无障碍</a><span style="color: rgb(255, 255, 255); font-size:.18rem;">&nbsp;| </span><a href="javascript:void(0);" id="olderSwitch" onclick="setOlder()" style="color: rgb(255, 255, 255); text-decoration: none; font-size:.16rem;">进入适老化</a></div><img src="https://wglj.sjz.gov.cn/images/1/202505/30/top-bg20250530085115134.jpg?sid=21d474bd-ee3a-4e1b-b06c-f139f5d9c157" /><!-- 移动端汉堡菜单按钮 -->
+<div class="mobile-menu-toggle"><span></span><span></span><span></span></div>
+<style type="text/css">.wuza{display:none;}
+.hero-banner .container{overflow:hidden;}
+@media (max-width: 800px) {
+.hero-banner .container img{width:140% !important;}
+.mobile-menu-toggle{padding:.04rem !important;right:.6rem !important;}
+
+    .wuza{display:block;background:#f0f0f0;padding-right:.2rem;text-align:right;}
+    .wuza span,.wuza a{color:black !important;}
+}
+</style>
+</div>
+      </div>
+    </div>
+
+    <!-- Main Navigation -->
+    <div class="main-nav">
+      <div class="container">
+        <div class="nav-content">
+          <div><nav class="nav-links">
+            <a href="/" class="nav-link">网站首页</a>
+            <a href="https://wglj.sjz.gov.cn/columns/2b3364df-3f77-4575-ad48-532360b3ebb7/index.html" class="nav-link">全局概况</a>     <a href="http://wglj.sjz.gov.cn/columns/0bf7f332-8839-4a60-bd5c-40be9944632a/index.html" class="nav-link">政策法规</a>     <a href="/columns/cbaf38f5-f12c-41ce-8b72-c2dc3c1826d2/index.html" class="nav-link">政务公开</a>     <a href="http://www.hbzwfw.gov.cn/hbzw/foursxcx/itemList/bm_index.do?webId=2&deptid=130100061" class="nav-link">政务服务</a>     <a href="https://wglj.sjz.gov.cn/columns/49f44059-c946-40a4-bf7d-12a08e95d135/index.html" class="nav-link">互动交流</a> 
+          </nav></div>
+          <div class="search-box">
+            <div><div>
+<style type="text/css">select {
+  /*Chrome和Firefox里面的边框是不一样的，所以复写了一下*/
+  border:none;
+
+  /*很关键：将默认的select选择框样式清除*/
+  appearance:none;
+  -moz-appearance:none;
+  -webkit-appearance:none;
+
+  /*在选择框的最右侧中间显示小箭头图片*/
+  background: url("http://www.sjz.gov.cn/atm/1585203525737/20200831170447505.png") no-repeat scroll right center transparent;
+background-size:.12rem;
+
+  /*为下拉小箭头留出一点位置，避免被文字覆盖*/
+  padding-right: .05rem;
+}
+
+
+/*清除ie的默认选择框样式清除，隐藏下拉箭头*/
+select::-ms-expand { display: none; }
+</style>
+</div><script language="javascript">
+	
+	
+	function cbtn(){
+		var a =document.getElementById("search_c").value;
+		if(a == "1"){
+		var fbtn="javascript:lcy()";
+		var value=document.getElementById("searchButton").setAttribute('href',fbtn);
+		
+		}else{
+		var fbtn="javascript:ywtc()";
+		var value=document.getElementById("searchButton").setAttribute('href',fbtn);
+		}
+	}
+    function lcy(){
+        var temp = searchForm.temp.value;
+        if(temp==null || temp==""){
+            alert("请输入搜索条件");
+        }
+        else{
+            var url='/so/s?&qt='+encodeURIComponent(temp);
+            window.open(url);
+        }
+    }
+	function ywtc(){
+        var temp = searchForm.temp.value;
+        if(temp==null || temp==""){
+            alert("请输入搜索条件");
+        }
+        else{
+            var url='/tcso/s?&qt='+encodeURIComponent(temp);
+            window.open(url);
+        }
+    }
+
+
+</script>
+<div style="width: 2.65rem; background: #fff; ">
+<form action="" method="get" name="searchForm" onsubmit="return false" target="_blank">
+<div style="font-size: .15rem; border-top: 0rem; height: .28rem; font-family: 'Microsoft YaHei' !important; border-right: 0rem; width: .55rem; margin-top: .03rem; border-bottom: 0rem; float: left; color: #949496; margin-left: .05rem; border-left: 0rem; "><select id="search_c" onchange="cbtn()" style="font-size: .15rem; font-family: 'Microsoft YaHei' !important; margin-top: .02rem" title="请选择搜索范围"><option selected="selected" value="1">本站</option><option value="2">全网搜</option> </select></div>
+<div style="width: 1.57rem; margin-top: .02rem; float: left; margin-left: .08rem"><input maxlength="40" name="temp" style="border-top: medium none; height: .28rem; border-right: medium none; width: 1.57rem; border-bottom: medium none; border-left: medium none; line-height: .28rem" type="text" /></div>
+<div style="height: .3rem; width: .4rem; float: left"><a href="javascript:lcy()" id="searchButton" style="font-size: .12rem" title="点击搜索" type="submit" value=" "><img alt="" border="0" src="http://wglj.sjz.gov.cn/atm/1569484742034/20190927111434747.jpg" style="width:.4rem;" /></a></div>
+<div style="clear: both; line-height: 0rem">&nbsp;</div></form>
+</div></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 移动端侧边导航菜单 -->
+    <div class="mobile-menu">
+      <div class="mobile-menu-header">
+        <div><div class="mobile-menu-close">&times;</div>
+<div class="mobile-logo">石家庄市文化广电和旅游局</div></div>
+      </div>
+      <div class="mobile-search">
+        <div><div>
+<style type="text/css">select {
+      /*Chrome和Firefox里面的边框是不一样的，所以复写了一下*/
+      border:none;
+    
+      /*很关键：将默认的select选择框样式清除*/
+      appearance:none;
+      -moz-appearance:none;
+      -webkit-appearance:none;
+    
+      /*在选择框的最右侧中间显示小箭头图片*/
+      background: url("http://www.sjz.gov.cn/atm/1585203525737/20200831170447505.png") no-repeat scroll right center transparent;
+    background-size:.12rem;
+    
+      /*为下拉小箭头留出一点位置，避免被文字覆盖*/
+      padding-right: .05rem;
+    }
+    
+    
+    /*清除ie的默认选择框样式清除，隐藏下拉箭头*/
+    select::-ms-expand { display: none; }
+</style>
+</div><script language="javascript">
+        
+        
+        function cbtn1(){
+            var a =document.getElementById("search_c1").value;
+            if(a == "1"){
+            var fbtn="javascript:lcy1()";
+            var value=document.getElementById("searchButton1").setAttribute('href',fbtn);
+            
+            }else{
+            var fbtn="javascript:ywtc1()";
+            var value=document.getElementById("searchButton1").setAttribute('href',fbtn);
+            }
+        }
+        function lcy1(){
+            var temp = searchForm1.temp.value;
+            if(temp==null || temp==""){
+                alert("请输入搜索条件");
+            }
+            else{
+                var url='/so/s?&qt='+encodeURIComponent(temp);
+                window.open(url);
+            }
+        }
+        function ywtc1(){
+            var temp = searchForm1.temp.value;
+            if(temp==null || temp==""){
+                alert("请输入搜索条件");
+            }
+            else{
+                var url='/tcso/s?&qt='+encodeURIComponent(temp);
+                window.open(url);
+            }
+        }
+    
+    
+    </script>
+<div style="background: #fff; ">
+<form action="" method="get" name="searchForm1" onsubmit="return false" target="_blank">
+<div style="font-size: .15rem; border-top: 0rem; height: .28rem; font-family: 'Microsoft YaHei' !important; border-right: 0rem; width: .55rem; margin-top: .03rem; border-bottom: 0rem; float: left; color: #949496; margin-left: .05rem; border-left: 0rem; "><select id="search_c1" onchange="cbtn1()" style="font-size: .15rem; font-family: 'Microsoft YaHei' !important; margin-top: .02rem" title="请选择搜索范围"><option selected="selected" value="1">本站</option><option value="2">全网搜</option> </select></div>
+<div style="width: 1.2rem; margin-top: .02rem; float: left; margin-left: .08rem"><input maxlength="40" name="temp" style="border-top: medium none; height: .28rem; border-right: medium none; width: 100%; border-bottom: medium none; border-left: medium none; line-height: .28rem" type="text" /></div>
+<div style="height: .3rem; width: .4rem; float: left"><a href="javascript:lcy1()" id="searchButton1" style="font-size: .12rem" title="点击搜索" type="submit" value=" "><img alt="" border="0" src="http://wglj.sjz.gov.cn/atm/1569484742034/20190927111434747.jpg" style="width:.4rem;" /></a></div>
+<div style="clear: both; line-height: 0rem">&nbsp;</div></form>
+</div></div>
+      </div>
+
+      <div> <nav class="mobile-nav"> <a href="/" class="mobile-nav-link">网站首页</a>
+ 
+        <a href="https://wglj.sjz.gov.cn/columns/2b3364df-3f77-4575-ad48-532360b3ebb7/index.html" class="mobile-nav-link">全局概况</a>
+ 
+        <a href="http://wglj.sjz.gov.cn/columns/0bf7f332-8839-4a60-bd5c-40be9944632a/index.html" class="mobile-nav-link">政策法规</a>
+ 
+        <a href="/columns/cbaf38f5-f12c-41ce-8b72-c2dc3c1826d2/index.html" class="mobile-nav-link">政务公开</a>
+ 
+        <a href="http://www.hbzwfw.gov.cn/hbzw/foursxcx/itemList/bm_index.do?webId=2&deptid=130100061" class="mobile-nav-link">政务服务</a>
+ 
+        <a href="https://wglj.sjz.gov.cn/columns/49f44059-c946-40a4-bf7d-12a08e95d135/index.html" class="mobile-nav-link">互动交流</a>
+</nav></div>
+    </div>
+
+    <!-- 遮罩层 -->
+    <div class="mobile-overlay"></div>
+
+    <!-- 内容 -->
+    <div class="cont">
+      <div class="main">
+        <div class="list-left">
+          <div class="list-left-tit mobile-accordion-header">
+              <h3>文化旅游</h3>  
+            <span class="accordion-arrow">▼</span>
+          </div>
+          <div class="list-left-con mobile-accordion-content">
+            <ul>  <li><a href="https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/index.html"><span>旅游名录</span></a></li>  <li><a href="https://wglj.sjz.gov.cn/columns/1fe74d4c-cae6-414a-b73b-7a6f785e1f76/index.html"><span>文化场馆</span></a></li>  <li><a href="https://wglj.sjz.gov.cn/columns/1c896366-8004-4bc4-a4cf-2fe34f1882d4/index.html"><span>文化遗产</span></a></li>  <li><a href="https://wglj.sjz.gov.cn/columns/7e83d7fd-f7ef-4ead-9d5a-074a03d95c5b/index.html"><span>产业发展</span></a></li>  <li><a href="https://wglj.sjz.gov.cn/columns/9224be7b-d411-4a97-ac2a-7b5af5c85903/index.html"><span>展演信息</span></a></li>  <li><a href="https://wglj.sjz.gov.cn/columns/fe0104ee-ad62-4770-b099-5afbc2481b52/index.html"><span>旅游频道</span></a></li>  
+          </div>
+        </div>
+        <div class="list-right">
+          <div class="list-right-tit">
+            <div style=" float:left;font-size:.14rem; font-family:'Microsoft YaHei' ! important;color:#252525;line-height:.55rem;height:.55rem; padding-left:.05rem;">当前位置：<a href="http://wglj.sjz.gov.cn/"><font style="font-size:.14rem;color:#252525; padding-right:.01rem;">首页</font></a>
+&nbsp;>&nbsp;<a href="https://wglj.sjz.gov.cn/columns/9577c34c-64f6-46ee-857f-a3a1f4d5880f/index.html"><font style="font-size:.14rem;color:#252525;">文化旅游</font></a>&nbsp;>&nbsp;<a href="https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/index.html"><font style="font-size:.14rem;color:#252525;">旅游名录</font></a></div><div style="clear:both;"></div>
+          </div>
+          <div class="list-right-con">
+            <div id='pagingCont_38fa3a21-3729-4318-b893-c73e83048cb2'><div style="line-height:.38rem;font-size:.16rem;font-family:'Microsoft YaHei' !important;display:flex;align-items: center;justify-content: space-between;"><div style="display:flex;align-items: center;flex: 1;min-width: 0;">
+    <img style="width:.06rem;height:.1rem;" src="/atm/4/2011052509222478.gif">&nbsp;&nbsp;<a style="
+   display: block;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            flex: 1;
+            min-width: 0;
+" href="https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/202404/22/cde915e1-e3a0-40f6-a8c6-74161055dc7d.html" target="_blank">石家庄市红色旅游景区（点）名录</a></div>
+    <div style="flex-shrink: 0;">2026-10-21</div><div style="clear:both;font-size:0;height:0;"></div></div><div style="line-height:.38rem;font-size:.16rem;font-family:'Microsoft YaHei' !important;display:flex;align-items: center;justify-content: space-between;"><div style="display:flex;align-items: center;flex: 1;min-width: 0;">
+    <img style="width:.06rem;height:.1rem;" src="/atm/4/2011052509222478.gif">&nbsp;&nbsp;<a style="
+   display: block;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            flex: 1;
+            min-width: 0;
+" href="https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/e180a7a4-1769-4748-b305-ad6cea23d762.html" target="_blank">A级旅游景区名录</a></div>
+    <div style="flex-shrink: 0;">2026-01-19</div><div style="clear:both;font-size:0;height:0;"></div></div><div style="line-height:.38rem;font-size:.16rem;font-family:'Microsoft YaHei' !important;display:flex;align-items: center;justify-content: space-between;"><div style="display:flex;align-items: center;flex: 1;min-width: 0;">
+    <img style="width:.06rem;height:.1rem;" src="/atm/4/2011052509222478.gif">&nbsp;&nbsp;<a style="
+   display: block;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            flex: 1;
+            min-width: 0;
+" href="https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/05abcb49-9237-4cf9-b307-96c3de7b5410.html" target="_blank">星级酒店</a></div>
+    <div style="flex-shrink: 0;">2025-07-30</div><div style="clear:both;font-size:0;height:0;"></div></div><div style="line-height:.38rem;font-size:.16rem;font-family:'Microsoft YaHei' !important;display:flex;align-items: center;justify-content: space-between;"><div style="display:flex;align-items: center;flex: 1;min-width: 0;">
+    <img style="width:.06rem;height:.1rem;" src="/atm/4/2011052509222478.gif">&nbsp;&nbsp;<a style="
+   display: block;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            flex: 1;
+            min-width: 0;
+" href="https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/27c7cbd1-7bf7-4b4e-a8b9-7ae02b0cad6b.html" target="_blank">乡村旅游重点村镇名单</a></div>
+    <div style="flex-shrink: 0;">2025-06-19</div><div style="clear:both;font-size:0;height:0;"></div></div><div style="line-height:.38rem;font-size:.16rem;font-family:'Microsoft YaHei' !important;display:flex;align-items: center;justify-content: space-between;"><div style="display:flex;align-items: center;flex: 1;min-width: 0;">
+    <img style="width:.06rem;height:.1rem;" src="/atm/4/2011052509222478.gif">&nbsp;&nbsp;<a style="
+   display: block;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            flex: 1;
+            min-width: 0;
+" href="https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/4950b767-8d94-42e4-a321-36ea715221d7.html" target="_blank">工业旅游示范点</a></div>
+    <div style="flex-shrink: 0;">2023-07-20</div><div style="clear:both;font-size:0;height:0;"></div></div><div style="line-height:.38rem;font-size:.16rem;font-family:'Microsoft YaHei' !important;display:flex;align-items: center;justify-content: space-between;"><div style="display:flex;align-items: center;flex: 1;min-width: 0;">
+    <img style="width:.06rem;height:.1rem;" src="/atm/4/2011052509222478.gif">&nbsp;&nbsp;<a style="
+   display: block;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            flex: 1;
+            min-width: 0;
+" href="https://wglj.sjz.gov.cn/columns/78ae016a-9b7c-4e84-9855-358e950c4b6b/201909/29/76d2da16-0907-40b2-8182-781dad8c9781.html" target="_blank">旅行社</a></div>
+    <div style="flex-shrink: 0;">2022-02-16</div><div style="clear:both;font-size:0;height:0;"></div></div></div>
+          </div>
+        </div>
+        <div style="clear: both"></div>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="container">
+        <div><div style="padding-top: .15rem;">
+<table border="0" style="margin: 0rem auto; width: 8.5rem; text-align: center; color: rgb(255, 255, 255); font-size: .16rem;">
+<tbody>
+	<tr>
+	<td rowspan="2">
+	<div style="padding-top: .15rem; float: left;"><script id="_jiucuo_" sitecode='1301000005' src='https://zfwzgl.www.gov.cn/exposure/jiucuo.js'></script></div></td>
+	<td>版权所有：石家庄市文化广电和旅游局 | <a href="/columns/09441763-94c7-441e-8680-59dbfcedf693/index.html" style="color: rgb(255, 255, 255);" target="_blank">网站地图</a> | <a href="/columns/88305ca7-59ce-4f5d-a5ae-2b3d4165ffb8/202001/20/4d2b08ad-598b-40dd-969a-746bc8bf8a24.html" style="color: rgb(255, 255, 255);" target="_blank">联系我们</a></td>
+	<td rowspan="2"><script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/05/102/0000/41096379/CA051020000410963790003.js' type='text/javascript'%3E%3C/script%3E"));</script></td></tr>
+	<tr>
+	<td><img src="https://wglj.sjz.gov.cn/images/d4386412-bfba-4974-857a-d00009e40444/202509/25/%E5%85%AC%E5%AE%89%E5%A4%8720250925102652950.png?sid=d383df99-e26a-4654-97b3-878316e67c92" style="display: inline;width:0.2rem;" /><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=13010202001703" style="color: rgb(255, 255, 255);" target="_blank">冀公网安备：13010202001703号</a> | <a href="https://beian.miit.gov.cn/#/Integrated/index" style="color: rgb(255, 255, 255);" target="_blank">冀ICP备07501834号-3</a>
+	<div>网站标识码：1301000005</div></td>
+	<td>
+	<div style="margin-top:-.26rem; text-indent: 0em;"><a href="http://wza.isc.org.cn/rzpt/bsgl/dt/20240627/3433.html" target="_blank" onclick="return false;" onkeydown="if(event.key==='Enter'||event.keyCode===13)return false;"  aria-disabled="true"  tabindex="-1"><span style="display:flex; justify-content:center; margin:0 auto;"><img src="https://wglj.sjz.gov.cn/images/1/202407/09/%E6%97%A0%E9%9A%9C%E7%A2%8D%E5%9B%BE%E6%A0%87_0620240709130236736.png?sid=11358c3f-0d10-4cc0-ad82-74ae78cbfc4a" style="width:1rem;" /></span></a></div></td></tr>
+</tbody>
+</table></div>
+<style type="text/css">#_span_jiucuo img{width:1.1rem;}ul.paging li a,ul.paging li input,.remarks span {font-size:.16rem !important;}
+ul.paging li a,ul.paging li input{width:.5rem !important;height:.32rem !important;line-height:.32rem !important;}
+.remarks{font-size:.14rem !important;}
+.list-right-tit{height:.55rem !important;}
+.culture-news-item{width: 4.54rem;}
+</style>
+</div>
+      </div>
+    </footer>
+  <script id="initwzaTools" src="https://www.sjz.gov.cn:9791/resource/site/1301000005/wza/wza.js"></script>
+<script id="initolderTools" src="https://www.sjz.gov.cn:9791/resource/site/1301000005/wza/older.js"></script>
+<input type='hidden' id='pagingBlockSids' value='38fa3a21-3729-4318-b893-c73e83048cb2'>
+<link rel='stylesheet' href='https://wglj.sjz.gov.cn/utils/css/paging.css'></link>
+<script src='https://wglj.sjz.gov.cn/utils/js/paging.js'></script>
+<script>countPV('https://wglj.sjz.gov.cn/pv/EGXCLDEBYMCY@L@YMLAAYGALMAD@BX');</script>
+</body>
+</html>
+
+<!-- ©2026 石家庄市人民政府 / WebIMS (v8.0.2.RELEASE) 2021.07.07~2026.08.31@22:38 / 数字政府新一代信息技术平台 / 20261021152542122 -->

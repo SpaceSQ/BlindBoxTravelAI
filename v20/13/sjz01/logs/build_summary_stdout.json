@@ -1,0 +1,46 @@
+{
+  "province": "河北省",
+  "city": "石家庄市",
+  "snapshot_area_units": 24,
+  "standard_or_county_units_including_matrix_辛集市": 22,
+  "extension_units": 2,
+  "warning_area_scope": "以输入矩阵24个单元为准，不是16区县；矩阵含辛集市和2个扩展区，不另行臆改隶属关系。",
+  "initial_planned_queries": 41,
+  "initial_city_keywords": 13,
+  "initial_selected_counties": [
+    "正定县",
+    "平山县"
+  ],
+  "full_matrix_planned_queries": 349,
+  "distinct_queries_attempted": 1,
+  "engine_requests": 2,
+  "successful_engine_result_pages": 0,
+  "engine_extracted_names": 0,
+  "unexecuted_initial_queries": 40,
+  "source_observations": 221,
+  "source_counts": {
+    "official_industrial": 18,
+    "official_province_xlsx": 39,
+    "official_red": 28,
+    "official_rural": 95,
+    "official_sjz": 41
+  },
+  "city_exact_name_admin_candidates": 205,
+  "county_catalog_projections": 201,
+  "area_unknown_candidates": 4,
+  "route_candidates": 0,
+  "official_formal_routes": 0,
+  "review_pairs": 55,
+  "new_master_records": 0,
+  "target_min_entries_city": 1000,
+  "target_met": false,
+  "status": "partial_official_catalog_candidate_batch_engines_unavailable",
+  "warnings": [
+    "No matrix completion claimed: 1/41 initial distinct queries attempted, 0 usable pages.",
+    "Official row extraction is not Baidu/Google search completion. WebSearch was discovery only.",
+    "Exact name/admin grouping is not verified distinct geographic entity count.",
+    "Industrial enterprises are official tourism demonstration entries, not asserted currently open attractions.",
+    "No city/county master or Phase1/Beijing/Mac/Git files changed.",
+    "Names preserve official abbreviations and parenthetical titles; variants await review."
+  ]
+}
