@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Xcode / SwiftPM
+.build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.moved-aside
+BlindBoxTravelApp/BlindBoxTravelApp.xcodeproj/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/

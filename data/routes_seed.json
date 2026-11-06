@@ -1,0 +1,144 @@
+[
+  {
+    "route_id": "RT001",
+    "full_route_title": "甘孜稻城亚丁风景区·两日神山朝圣游",
+    "blind_route_title": "**稻**丁***·两日神山朝圣游",
+    "duration_days": 2,
+    "route_type": "single_spot",
+    "spot_ids": ["SP001"],
+    "region_tag": "西南秘境",
+    "search_keywords_matched": ["自由行", "两日游", "高原", "徒步"],
+    "daily_schedule": [
+      { "day": 1, "spot_id": "SP001", "blind_highlights": "首日短线适应：乘车进山，抵达高山湖泊拍摄雪山倒影，适应高海拔。" },
+      { "day": 2, "spot_id": "SP001", "blind_highlights": "次日长线徒步：深入核心草甸，冲刺两座冰川湖，预留充足体力与氧气。" }
+    ],
+    "evolution_stats": { "plan_mark_count": 0, "review_count": 0 }
+  },
+  {
+    "route_id": "RT002",
+    "full_route_title": "柳州螺蛳粉小镇·一日嗦粉逛吃游",
+    "blind_route_title": "*州**粉**·一日嗦粉逛吃游",
+    "duration_days": 1,
+    "route_type": "single_spot",
+    "spot_ids": ["SP002"],
+    "region_tag": "华南游",
+    "search_keywords_matched": ["自由行", "一日游", "美食"],
+    "daily_schedule": [
+      { "day": 1, "spot_id": "SP002", "blind_highlights": "走进空气中飘着奇妙味道的主题小镇，探访传统工艺车间，实现炸蛋与特色粉自由。" }
+    ],
+    "evolution_stats": { "plan_mark_count": 0, "review_count": 0 }
+  },
+  {
+    "route_id": "RT003",
+    "full_route_title": "泉州蟳埔村·一日簪花非遗游",
+    "blind_route_title": "泉***村·一日簪花非遗游",
+    "duration_days": 1,
+    "route_type": "single_spot",
+    "spot_ids": ["SP003"],
+    "region_tag": "华南游",
+    "search_keywords_matched": ["自由行", "一日游", "非遗", "乡村游"],
+    "daily_schedule": [
+      { "day": 1, "spot_id": "SP003", "blind_highlights": "午后抵达晋江入海口的古老渔村，体验盘发戴花非遗习俗，穿梭海蛎壳古厝拍夕阳大片。" }
+    ],
+    "evolution_stats": { "plan_mark_count": 0, "review_count": 0 }
+  },
+  {
+    "route_id": "RT004",
+    "full_route_title": "乌兰察布火山地质公园·两日露营观星游",
+    "blind_route_title": "**察**山****·两日露营观星游",
+    "duration_days": 2,
+    "route_type": "single_spot",
+    "spot_ids": ["SP004"],
+    "region_tag": "华北自驾",
+    "search_keywords_matched": ["自由行", "两日游", "自驾", "露营"],
+    "daily_schedule": [
+      { "day": 1, "spot_id": "SP004", "blind_highlights": "自驾进入草原腹地的火山群，登高俯瞰黑色火山岩地貌，穿宇航服拍异星大片。" },
+      { "day": 2, "spot_id": "SP004", "blind_highlights": "睡到自然醒，午后穿行风蚀地貌，夜晚在火山脚下露营仰望星空。" }
+    ],
+    "evolution_stats": { "plan_mark_count": 0, "review_count": 0 }
+  },
+  {
+    "route_id": "RT005",
+    "full_route_title": "长沙橘子洲头·一日江洲漫步游",
+    "blind_route_title": "*沙**洲*·一日江洲漫步游",
+    "duration_days": 1,
+    "route_type": "single_spot",
+    "spot_ids": ["SP005"],
+    "region_tag": "华中",
+    "search_keywords_matched": ["自由行", "一日游"],
+    "daily_schedule": [
+      { "day": 1, "spot_id": "SP005", "blind_highlights": "乘观光小火车直达江心洲洲头，打卡巨型雕像，再沿步道慢走吹江风看日落。" }
+    ],
+    "evolution_stats": { "plan_mark_count": 0, "review_count": 0 }
+  },
+  {
+    "route_id": "RT006",
+    "full_route_title": "柳州螺蛳粉小镇·长沙橘子洲头·湘桂美食双城三日游",
+    "blind_route_title": "*州**粉**·*沙**洲*·湘桂美食双城三日游",
+    "duration_days": 3,
+    "route_type": "multi_spot",
+    "spot_ids": ["SP002", "SP005"],
+    "region_tag": "华南游",
+    "search_keywords_matched": ["自由行", "三日游", "美食"],
+    "daily_schedule": [
+      { "day": 1, "spot_id": "SP002", "blind_highlights": "抵达美食主题小镇，夜宵第一碗特色粉配炸蛋鸭脚，开启味蕾之旅。" },
+      { "day": 2, "spot_id": "SP005", "blind_highlights": "转场江畔之城，登临江心洲寻访伟人足迹，傍晚等一场江天晚霞。" },
+      { "day": 3, "spot_id": "SP005", "blind_highlights": "老城早茶与湘味小吃自由，午后返程。" }
+    ],
+    "evolution_stats": { "plan_mark_count": 0, "review_count": 0 }
+  },
+  {
+    "route_id": "RT007",
+    "full_route_title": "泉州蟳埔村·长沙橘子洲头·闽湘文化三日游",
+    "blind_route_title": "泉***村·*沙**洲*·闽湘文化三日游",
+    "duration_days": 3,
+    "route_type": "multi_spot",
+    "spot_ids": ["SP003", "SP005"],
+    "region_tag": "华南游",
+    "search_keywords_matched": ["自由行", "三日游", "文化", "非遗"],
+    "daily_schedule": [
+      { "day": 1, "spot_id": "SP003", "blind_highlights": "探访晋江入海口古老渔村，盘发戴花，穿梭海蛎壳古厝出片。" },
+      { "day": 2, "spot_id": "SP005", "blind_highlights": "转场江畔之城，登江心洲访伟人足迹，夜游江边。" },
+      { "day": 3, "spot_id": "SP005", "blind_highlights": "湘味早茶与非遗手艺体验，午后返程。" }
+    ],
+    "evolution_stats": { "plan_mark_count": 0, "review_count": 0 }
+  },
+  {
+    "route_id": "RT008",
+    "full_route_title": "甘孜稻城亚丁风景区·乌兰察布火山地质公园·高原草原自驾七日远征",
+    "blind_route_title": "**稻**丁***·**察**山****·高原草原自驾七日远征",
+    "duration_days": 7,
+    "route_type": "multi_spot",
+    "spot_ids": ["SP001", "SP004"],
+    "region_tag": "西南秘境",
+    "search_keywords_matched": ["自由行", "自驾", "露营", "七日游"],
+    "daily_schedule": [
+      { "day": 1, "spot_id": "SP001", "blind_highlights": "抵达高原秘境，短线适应，拍摄神山倒影。" },
+      { "day": 2, "spot_id": "SP001", "blind_highlights": "长线徒步，冲刺冰川湖，尽览雪山草甸。" },
+      { "day": 3, "spot_id": "SP001", "blind_highlights": "自由活动，休整补给，为远征蓄力。" },
+      { "day": 4, "spot_id": "SP004", "blind_highlights": "长途转场草原腹地，夜宿火山群边缘。" },
+      { "day": 5, "spot_id": "SP004", "blind_highlights": "自驾穿行火山群，登高俯瞰异星地貌，穿宇航服出片。" },
+      { "day": 6, "spot_id": "SP004", "blind_highlights": "风蚀地貌探索，夜晚火山脚下露营观星。" },
+      { "day": 7, "spot_id": "SP004", "blind_highlights": "草原日出后返程。" }
+    ],
+    "evolution_stats": { "plan_mark_count": 0, "review_count": 0 }
+  },
+  {
+    "route_id": "RT009",
+    "full_route_title": "泉州蟳埔村·长沙橘子洲头·柳州螺蛳粉小镇·闽湘桂美食文化五日游",
+    "blind_route_title": "泉***村·*沙**洲*·*州**粉**·闽湘桂美食文化五日游",
+    "duration_days": 5,
+    "route_type": "multi_spot",
+    "spot_ids": ["SP003", "SP005", "SP002"],
+    "region_tag": "华南游",
+    "search_keywords_matched": ["自由行", "五日游", "美食", "文化"],
+    "daily_schedule": [
+      { "day": 1, "spot_id": "SP003", "blind_highlights": "晋江入海口渔村，盘发戴花非遗体验，海蛎壳古厝出片。" },
+      { "day": 2, "spot_id": "SP005", "blind_highlights": "转场江畔之城，登江心洲寻访伟人足迹，夜赏江景。" },
+      { "day": 3, "spot_id": "SP005", "blind_highlights": "湘味早茶与特色小吃，午后转场。" },
+      { "day": 4, "spot_id": "SP002", "blind_highlights": "抵达美食主题小镇，夜宵特色粉配炸蛋鸭脚。" },
+      { "day": 5, "spot_id": "SP002", "blind_highlights": "探访传统工艺车间与采摘基地，午后返程。" }
+    ],
+    "evolution_stats": { "plan_mark_count": 0, "review_count": 0 }
+  }
+]

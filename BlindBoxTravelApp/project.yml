@@ -1,0 +1,59 @@
+name: BlindBoxTravelApp
+options:
+  bundleIdPrefix: com.spacesq
+  deploymentTarget:
+    iOS: "17.0"
+    macOS: "14.0"
+  createIntermediateGroups: true
+
+packages:
+  BlindBoxCore:
+    path: BlindBoxCore
+
+settings:
+  base:
+    SWIFT_VERSION: "5.9"
+    MARKETING_VERSION: "1.0.0"
+    CURRENT_PROJECT_VERSION: "1"
+
+targets:
+  BlindBoxTravelApp:
+    type: application
+    platform: iOS
+    destinations: [iOS, macOS]
+    sources:
+      - path: App
+      - path: Views
+      - path: Support
+      - path: Resources
+    dependencies:
+      - package: BlindBoxCore
+    info:
+      path: Support/Info.plist
+      properties:
+        CFBundleDisplayName: 盲盒旅行AI
+        CFBundleShortVersionString: "$(MARKETING_VERSION)"
+        CFBundleVersion: "$(CURRENT_PROJECT_VERSION)"
+        LSApplicationCategoryType: public.app-category.travel
+        UILaunchScreen: {}
+        UISupportedInterfaceOrientations:
+          - UIInterfaceOrientationPortrait
+          - UIInterfaceOrientationLandscapeLeft
+          - UIInterfaceOrientationLandscapeRight
+        # 自有专有格式 .bbx 的 UTI 与深链（Milestone 3 完善导入/导出）
+        CFBundleURLTypes:
+          - CFBundleURLName: com.spacesq.blindboxtravel
+            CFBundleURLSchemes: [blindboxtravel]
+        UTImportedTypeDeclarations:
+          - UTTypeIdentifier: com.spacesq.blindboxtravel.itinerary
+            UTTypeConformsTo: [public.data, public.content]
+            UTTypeDescription: 盲盒旅行行程单
+            UTTypeTagSpecification:
+              public.filename-extension: [bbx]
+              public.mime-type: [application/x-blindbox-travel]
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.spacesq.blindboxtravel
+        TARGETED_DEVICE_FAMILY: "1,2"
+        SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD: YES
+        ENABLE_PREVIEWS: YES

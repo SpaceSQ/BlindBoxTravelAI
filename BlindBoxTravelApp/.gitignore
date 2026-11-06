@@ -1,0 +1,13 @@
+# Xcode / SwiftPM
+.build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.moved-aside
+
+# xcodegen 生成的项目文件（可用 `xcodegen generate` 重新生成）
+BlindBoxTravelApp.xcodeproj/
+
+# macOS
+.DS_Store

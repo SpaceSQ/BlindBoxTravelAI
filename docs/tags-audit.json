@@ -1,0 +1,48 @@
+{
+  "schema_declared_total": 500,
+  "actual_entries": 475,
+  "unique_tags": 471,
+  "duplicate_tags": [
+    "探险",
+    "溯溪",
+    "赶海",
+    "穷游"
+  ],
+  "category_count_mismatches": [
+    {
+      "category_id": "emotion_mood",
+      "declared": 75,
+      "actual": 73
+    },
+    {
+      "category_id": "weather_environment",
+      "declared": 60,
+      "actual": 59
+    },
+    {
+      "category_id": "terrain_landscape",
+      "declared": 75,
+      "actual": 71
+    },
+    {
+      "category_id": "food_taste",
+      "declared": 70,
+      "actual": 63
+    },
+    {
+      "category_id": "culture_history",
+      "declared": 80,
+      "actual": 75
+    },
+    {
+      "category_id": "experience_gameplay",
+      "declared": 80,
+      "actual": 77
+    },
+    {
+      "category_id": "scale_audience",
+      "declared": 60,
+      "actual": 57
+    }
+  ]
+}

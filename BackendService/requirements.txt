@@ -1,0 +1,8 @@
+# 核心算法层（core/）仅依赖 Python 标准库，可直接运行。
+# 以下为 main.py（FastAPI 辅助推理服务，Milestone 2 启用）所需依赖：
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pydantic>=2.6
+
+# 单元测试：unittest（标准库）即可运行；如需 pytest 风格：
+# pytest>=8.0
