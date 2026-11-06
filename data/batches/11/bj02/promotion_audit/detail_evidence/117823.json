@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/117823",
+  "retrieved_at": "2026-11-07T00:58:36.663440+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/117823",
+  "response_sha256": "0449864f6c322537ac3629fe73439d08d3172d713992975e83e3eac18c419500",
+  "title": "妙峰山风景名胜区",
+  "identity_excerpt_quotes": [
+    "北京市名山之一，京郊游览胜地，区位于京西门头沟区境内，门头沟区与昌平县界山，属太行山余脉。",
+    "位于北京西北30余公里，距市区55公里，海拔1291米，面积20平方公里。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 384,
+  "fetch_state": "usable_identity_page"
+}

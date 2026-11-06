@@ -1,0 +1,19 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/117983",
+  "retrieved_at": "2026-11-07T00:58:39.385259+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/117983",
+  "response_sha256": "a7bbbad6bdc5dd305cbe4f6f3257a472315b87756c22394f35d2dc459379a2ef",
+  "title": "明城墙遗址公园",
+  "identity_excerpt_quotes": [
+    "历史上明城墙全长40公里，始建于明永乐17年（公元1419年），距今已有580多年的历史。",
+    "现存的崇文门至城东南角楼一线的城墙遗址全长1.5公里，是原北京内城城垣的组成部分，是仅存的一段，也是北京城的标志。",
+    "北京明城墙遗址公园位于市中心地域，北京明城墙遗址公园东起城东南角楼，北京明城墙遗址公园西至崇文门，北京明城墙遗址公园总面积约：15.5公顷，北京明城墙遗址公园其中城墙遗址及城东南角楼占地3.3公顷，北京明城墙遗址公园绿地面积12.2公顷。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 500,
+  "fetch_state": "usable_identity_page"
+}

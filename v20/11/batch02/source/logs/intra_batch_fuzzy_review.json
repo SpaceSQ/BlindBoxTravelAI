@@ -1,0 +1,6874 @@
+[
+  {
+    "a": "BJ02_SCENIC_0003",
+    "b": "BJ02_MUSEUMS_0064",
+    "a_name": "恭王府景区",
+    "b_name": "文化和旅游部恭王府博物馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_SCENIC_0006",
+    "b": "BJ02_MUSEUMS_0136",
+    "a_name": "颐和园景区",
+    "b_name": "颐和园博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_SCENIC_0008",
+    "b": "BJ02_MUSEUMS_0023",
+    "a_name": "明十三陵景区",
+    "b_name": "明十三陵博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_SCENIC_0047",
+    "b": "BJ02_MUSEUMS_0036",
+    "a_name": "北京市房山区云居寺景区",
+    "b_name": "北京房山云居寺石经博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_SCENIC_0055",
+    "b": "BJ02_MUSEUMS_0088",
+    "a_name": "居庸关长城景区",
+    "b_name": "居庸关长城博物馆",
+    "bigram_jaccard": 0.5714,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_SCENIC_0057",
+    "b": "BJ02_MUSEUMS_0038",
+    "a_name": "中国航空博物馆旅游区",
+    "b_name": "昌平区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_SCENIC_0085",
+    "b": "BJ02_MUSEUMS_0159",
+    "a_name": "北京市宣南文化博物馆景区",
+    "b_name": "北京宣南文化博物馆管理处",
+    "bigram_jaccard": 0.6667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_SCENIC_0087",
+    "b": "BJ02_MUSEUMS_0012",
+    "a_name": "宋庆龄故居景区",
+    "b_name": "宋庆龄故居管理中心",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_SCENIC_0109",
+    "b": "BJ02_MUSEUMS_0051",
+    "a_name": "北京大觉寺景区",
+    "b_name": "北京大觉寺与团城管理处（团城演武厅）",
+    "bigram_jaccard": 0.1429,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_SCENIC_0109",
+    "b": "BJ02_MUSEUMS_0058",
+    "a_name": "北京大觉寺景区",
+    "b_name": "北京大觉寺与团城管理处（大觉寺）",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_SCENIC_0114",
+    "b": "BJ02_MUSEUMS_0114",
+    "a_name": "皇家菜博物馆",
+    "b_name": "北京御仙都皇家菜博物馆",
+    "bigram_jaccard": 0.625,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_SCENIC_0155",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "北京二锅头酒博物馆景区",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0002",
+    "b": "BJ02_MUSEUMS_0037",
+    "a_name": "中国国家博物馆",
+    "b_name": "密云区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0002",
+    "b": "BJ02_MUSEUMS_0038",
+    "a_name": "中国国家博物馆",
+    "b_name": "昌平区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0002",
+    "b": "BJ02_MUSEUMS_0039",
+    "a_name": "中国国家博物馆",
+    "b_name": "通州区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0002",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "中国国家博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0002",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "中国国家博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0002",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "中国国家博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0002",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "中国国家博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0003",
+    "b": "BJ02_MUSEUMS_0037",
+    "a_name": "北京鲁迅博物馆（北京新文化运动纪念馆）",
+    "b_name": "密云区博物馆",
+    "bigram_jaccard": 0.125,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0003",
+    "b": "BJ02_MUSEUMS_0038",
+    "a_name": "北京鲁迅博物馆（北京新文化运动纪念馆）",
+    "b_name": "昌平区博物馆",
+    "bigram_jaccard": 0.125,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0003",
+    "b": "BJ02_MUSEUMS_0039",
+    "a_name": "北京鲁迅博物馆（北京新文化运动纪念馆）",
+    "b_name": "通州区博物馆",
+    "bigram_jaccard": 0.125,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0003",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "北京鲁迅博物馆（北京新文化运动纪念馆）",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.125,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0003",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "北京鲁迅博物馆（北京新文化运动纪念馆）",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.125,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0003",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京鲁迅博物馆（北京新文化运动纪念馆）",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.125,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0003",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京鲁迅博物馆（北京新文化运动纪念馆）",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.125,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0006",
+    "b": "BJ02_MUSEUMS_0037",
+    "a_name": "民族文化宫博物馆",
+    "b_name": "密云区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0006",
+    "b": "BJ02_MUSEUMS_0038",
+    "a_name": "民族文化宫博物馆",
+    "b_name": "昌平区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0006",
+    "b": "BJ02_MUSEUMS_0039",
+    "a_name": "民族文化宫博物馆",
+    "b_name": "通州区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0006",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "民族文化宫博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0006",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "民族文化宫博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0006",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "民族文化宫博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0006",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "民族文化宫博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0008",
+    "b": "BJ02_MUSEUMS_0037",
+    "a_name": "中国农业博物馆",
+    "b_name": "密云区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0008",
+    "b": "BJ02_MUSEUMS_0038",
+    "a_name": "中国农业博物馆",
+    "b_name": "昌平区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0008",
+    "b": "BJ02_MUSEUMS_0039",
+    "a_name": "中国农业博物馆",
+    "b_name": "通州区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0008",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "中国农业博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0008",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "中国农业博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0008",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "中国农业博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0008",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "中国农业博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0010",
+    "b": "BJ02_MUSEUMS_0037",
+    "a_name": "中国航天博物馆",
+    "b_name": "密云区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0010",
+    "b": "BJ02_MUSEUMS_0038",
+    "a_name": "中国航天博物馆",
+    "b_name": "昌平区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0010",
+    "b": "BJ02_MUSEUMS_0039",
+    "a_name": "中国航天博物馆",
+    "b_name": "通州区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0010",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "中国航天博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0010",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "中国航天博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0010",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "中国航天博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0010",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "中国航天博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0013",
+    "b": "BJ02_MUSEUMS_0037",
+    "a_name": "中国人民革命军事博物馆",
+    "b_name": "密云区博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0013",
+    "b": "BJ02_MUSEUMS_0038",
+    "a_name": "中国人民革命军事博物馆",
+    "b_name": "昌平区博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0013",
+    "b": "BJ02_MUSEUMS_0039",
+    "a_name": "中国人民革命军事博物馆",
+    "b_name": "通州区博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0013",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "中国人民革命军事博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0013",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "中国人民革命军事博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0013",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "中国人民革命军事博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0013",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "中国人民革命军事博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0015",
+    "b": "BJ02_MUSEUMS_0037",
+    "a_name": "国家自然博物馆",
+    "b_name": "密云区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0015",
+    "b": "BJ02_MUSEUMS_0038",
+    "a_name": "国家自然博物馆",
+    "b_name": "昌平区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0015",
+    "b": "BJ02_MUSEUMS_0039",
+    "a_name": "国家自然博物馆",
+    "b_name": "通州区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0015",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "国家自然博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0015",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "国家自然博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0015",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "国家自然博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0015",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "国家自然博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0017",
+    "b": "BJ02_MUSEUMS_0037",
+    "a_name": "大钟寺古钟博物馆",
+    "b_name": "密云区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0017",
+    "b": "BJ02_MUSEUMS_0038",
+    "a_name": "大钟寺古钟博物馆",
+    "b_name": "昌平区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0017",
+    "b": "BJ02_MUSEUMS_0039",
+    "a_name": "大钟寺古钟博物馆",
+    "b_name": "通州区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0017",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "大钟寺古钟博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0017",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "大钟寺古钟博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0017",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "大钟寺古钟博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0017",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "大钟寺古钟博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0018",
+    "b": "BJ02_MUSEUMS_0020",
+    "a_name": "北京艺术博物馆",
+    "b_name": "北京石刻艺术博物馆",
+    "bigram_jaccard": 0.6667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0018",
+    "b": "BJ02_MUSEUMS_0027",
+    "a_name": "北京艺术博物馆",
+    "b_name": "雍和宫藏传佛教艺术博物馆",
+    "bigram_jaccard": 0.3636,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0018",
+    "b": "BJ02_MUSEUMS_0029",
+    "a_name": "北京艺术博物馆",
+    "b_name": "北京大学赛克勒考古与艺术博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0018",
+    "b": "BJ02_MUSEUMS_0037",
+    "a_name": "北京艺术博物馆",
+    "b_name": "密云区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0018",
+    "b": "BJ02_MUSEUMS_0038",
+    "a_name": "北京艺术博物馆",
+    "b_name": "昌平区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0018",
+    "b": "BJ02_MUSEUMS_0039",
+    "a_name": "北京艺术博物馆",
+    "b_name": "通州区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0018",
+    "b": "BJ02_MUSEUMS_0048",
+    "a_name": "北京艺术博物馆",
+    "b_name": "北京红楼文化艺术博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0018",
+    "b": "BJ02_MUSEUMS_0077",
+    "a_name": "北京艺术博物馆",
+    "b_name": "保利艺术博物馆",
+    "bigram_jaccard": 0.6667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0018",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "北京艺术博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0018",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "北京艺术博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0018",
+    "b": "BJ02_MUSEUMS_0116",
+    "a_name": "北京艺术博物馆",
+    "b_name": "北京英杰硬石艺术博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0018",
+    "b": "BJ02_MUSEUMS_0118",
+    "a_name": "北京艺术博物馆",
+    "b_name": "清华大学艺术博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0018",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京艺术博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0018",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京艺术博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0018",
+    "b": "BJ02_MUSEUMS_0146",
+    "a_name": "北京艺术博物馆",
+    "b_name": "北京金漆镶嵌艺术博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0018",
+    "b": "BJ02_MUSEUMS_0175",
+    "a_name": "北京艺术博物馆",
+    "b_name": "国家大剧院台湖舞美艺术博物馆",
+    "bigram_jaccard": 0.3077,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0018",
+    "b": "BJ02_MUSEUMS_0183",
+    "a_name": "北京艺术博物馆",
+    "b_name": "景泰蓝艺术博物馆",
+    "bigram_jaccard": 0.5714,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0018",
+    "b": "BJ02_MUSEUMS_0193",
+    "a_name": "北京艺术博物馆",
+    "b_name": "北京外国语大学校史馆、世界语言艺术博物馆",
+    "bigram_jaccard": 0.2353,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0018",
+    "b": "BJ02_MUSEUMS_0201",
+    "a_name": "北京艺术博物馆",
+    "b_name": "北京遇见艺术博物馆",
+    "bigram_jaccard": 0.6667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0019",
+    "b": "BJ02_MUSEUMS_0037",
+    "a_name": "北京古代建筑博物馆",
+    "b_name": "密云区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0019",
+    "b": "BJ02_MUSEUMS_0038",
+    "a_name": "北京古代建筑博物馆",
+    "b_name": "昌平区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0019",
+    "b": "BJ02_MUSEUMS_0039",
+    "a_name": "北京古代建筑博物馆",
+    "b_name": "通州区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0019",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "北京古代建筑博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0019",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "北京古代建筑博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0019",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京古代建筑博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0019",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京古代建筑博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0020",
+    "b": "BJ02_MUSEUMS_0037",
+    "a_name": "北京石刻艺术博物馆",
+    "b_name": "密云区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0020",
+    "b": "BJ02_MUSEUMS_0038",
+    "a_name": "北京石刻艺术博物馆",
+    "b_name": "昌平区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0020",
+    "b": "BJ02_MUSEUMS_0039",
+    "a_name": "北京石刻艺术博物馆",
+    "b_name": "通州区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0020",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "北京石刻艺术博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0020",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "北京石刻艺术博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0020",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京石刻艺术博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0020",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京石刻艺术博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0023",
+    "b": "BJ02_MUSEUMS_0037",
+    "a_name": "明十三陵博物馆",
+    "b_name": "密云区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0023",
+    "b": "BJ02_MUSEUMS_0038",
+    "a_name": "明十三陵博物馆",
+    "b_name": "昌平区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0023",
+    "b": "BJ02_MUSEUMS_0039",
+    "a_name": "明十三陵博物馆",
+    "b_name": "通州区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0023",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "明十三陵博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0023",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "明十三陵博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0023",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "明十三陵博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0023",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "明十三陵博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0027",
+    "b": "BJ02_MUSEUMS_0037",
+    "a_name": "雍和宫藏传佛教艺术博物馆",
+    "b_name": "密云区博物馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0027",
+    "b": "BJ02_MUSEUMS_0038",
+    "a_name": "雍和宫藏传佛教艺术博物馆",
+    "b_name": "昌平区博物馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0027",
+    "b": "BJ02_MUSEUMS_0039",
+    "a_name": "雍和宫藏传佛教艺术博物馆",
+    "b_name": "通州区博物馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0027",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "雍和宫藏传佛教艺术博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0027",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "雍和宫藏传佛教艺术博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0027",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "雍和宫藏传佛教艺术博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0027",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "雍和宫藏传佛教艺术博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0028",
+    "b": "BJ02_MUSEUMS_0037",
+    "a_name": "北京考古遗址博物馆（北京大葆台遗址博物馆）",
+    "b_name": "密云区博物馆",
+    "bigram_jaccard": 0.1429,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0028",
+    "b": "BJ02_MUSEUMS_0038",
+    "a_name": "北京考古遗址博物馆（北京大葆台遗址博物馆）",
+    "b_name": "昌平区博物馆",
+    "bigram_jaccard": 0.1429,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0028",
+    "b": "BJ02_MUSEUMS_0039",
+    "a_name": "北京考古遗址博物馆（北京大葆台遗址博物馆）",
+    "b_name": "通州区博物馆",
+    "bigram_jaccard": 0.1429,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0028",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "北京考古遗址博物馆（北京大葆台遗址博物馆）",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.1429,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0028",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "北京考古遗址博物馆（北京大葆台遗址博物馆）",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.1429,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0028",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京考古遗址博物馆（北京大葆台遗址博物馆）",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.1429,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0028",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京考古遗址博物馆（北京大葆台遗址博物馆）",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.1429,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0029",
+    "b": "BJ02_MUSEUMS_0037",
+    "a_name": "北京大学赛克勒考古与艺术博物馆",
+    "b_name": "密云区博物馆",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0029",
+    "b": "BJ02_MUSEUMS_0038",
+    "a_name": "北京大学赛克勒考古与艺术博物馆",
+    "b_name": "昌平区博物馆",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0029",
+    "b": "BJ02_MUSEUMS_0039",
+    "a_name": "北京大学赛克勒考古与艺术博物馆",
+    "b_name": "通州区博物馆",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0029",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "北京大学赛克勒考古与艺术博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0029",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "北京大学赛克勒考古与艺术博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0029",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京大学赛克勒考古与艺术博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0029",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京大学赛克勒考古与艺术博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0034",
+    "b": "BJ02_MUSEUMS_0037",
+    "a_name": "中央民族大学民族博物馆",
+    "b_name": "密云区博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0034",
+    "b": "BJ02_MUSEUMS_0038",
+    "a_name": "中央民族大学民族博物馆",
+    "b_name": "昌平区博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0034",
+    "b": "BJ02_MUSEUMS_0039",
+    "a_name": "中央民族大学民族博物馆",
+    "b_name": "通州区博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0034",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "中央民族大学民族博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0034",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "中央民族大学民族博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0034",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "中央民族大学民族博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0034",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "中央民族大学民族博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0035",
+    "b": "BJ02_MUSEUMS_0037",
+    "a_name": "北京航空航天博物馆",
+    "b_name": "密云区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0035",
+    "b": "BJ02_MUSEUMS_0038",
+    "a_name": "北京航空航天博物馆",
+    "b_name": "昌平区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0035",
+    "b": "BJ02_MUSEUMS_0039",
+    "a_name": "北京航空航天博物馆",
+    "b_name": "通州区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0035",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "北京航空航天博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0035",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "北京航空航天博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0035",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京航空航天博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0035",
+    "b": "BJ02_MUSEUMS_0141",
+    "a_name": "北京航空航天博物馆",
+    "b_name": "北京航空航天模型博物馆",
+    "bigram_jaccard": 0.5556,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0035",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京航空航天博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0036",
+    "b": "BJ02_MUSEUMS_0037",
+    "a_name": "北京房山云居寺石经博物馆",
+    "b_name": "密云区博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0036",
+    "b": "BJ02_MUSEUMS_0038",
+    "a_name": "北京房山云居寺石经博物馆",
+    "b_name": "昌平区博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0036",
+    "b": "BJ02_MUSEUMS_0039",
+    "a_name": "北京房山云居寺石经博物馆",
+    "b_name": "通州区博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0036",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "北京房山云居寺石经博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0036",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "北京房山云居寺石经博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0036",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京房山云居寺石经博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0036",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京房山云居寺石经博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0045",
+    "a_name": "密云区博物馆",
+    "b_name": "周口店北京人遗址博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0048",
+    "a_name": "密云区博物馆",
+    "b_name": "北京红楼文化艺术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0053",
+    "a_name": "密云区博物馆",
+    "b_name": "永定河文化博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0055",
+    "a_name": "密云区博物馆",
+    "b_name": "北京法海寺博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0061",
+    "a_name": "密云区博物馆",
+    "b_name": "观复博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0062",
+    "a_name": "密云区博物馆",
+    "b_name": "古陶文明博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0063",
+    "a_name": "密云区博物馆",
+    "b_name": "中国钱币博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0064",
+    "a_name": "密云区博物馆",
+    "b_name": "文化和旅游部恭王府博物馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0067",
+    "a_name": "密云区博物馆",
+    "b_name": "中国蜜蜂博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0069",
+    "a_name": "密云区博物馆",
+    "b_name": "卢沟桥历史博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0072",
+    "a_name": "密云区博物馆",
+    "b_name": "北京中医药大学中医药博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0076",
+    "a_name": "密云区博物馆",
+    "b_name": "北京戏曲博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0077",
+    "a_name": "密云区博物馆",
+    "b_name": "保利艺术博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0078",
+    "a_name": "密云区博物馆",
+    "b_name": "北京民俗博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0082",
+    "a_name": "密云区博物馆",
+    "b_name": "北京王府井古人类文化遗址博物馆",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0084",
+    "a_name": "密云区博物馆",
+    "b_name": "中国铁道博物馆（东郊展馆）",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0085",
+    "a_name": "密云区博物馆",
+    "b_name": "中国铁道博物馆正阳门展馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0087",
+    "a_name": "密云区博物馆",
+    "b_name": "北京御生堂中医药博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0088",
+    "a_name": "密云区博物馆",
+    "b_name": "居庸关长城博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0089",
+    "a_name": "密云区博物馆",
+    "b_name": "北京人民艺术剧院戏剧博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0092",
+    "a_name": "密云区博物馆",
+    "b_name": "北京老爷车博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0093",
+    "a_name": "密云区博物馆",
+    "b_name": "中国电影博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0095",
+    "a_name": "密云区博物馆",
+    "b_name": "北京励志堂科举匾额博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0097",
+    "a_name": "密云区博物馆",
+    "b_name": "中国法院博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0099",
+    "a_name": "密云区博物馆",
+    "b_name": "延庆博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0100",
+    "a_name": "密云区博物馆",
+    "b_name": "北京西瓜博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0101",
+    "a_name": "密云区博物馆",
+    "b_name": "中国人民大学博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0102",
+    "a_name": "密云区博物馆",
+    "b_name": "北京空竹博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0105",
+    "a_name": "密云区博物馆",
+    "b_name": "北京怀柔喇叭沟门满族民俗博物馆",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0106",
+    "a_name": "密云区博物馆",
+    "b_name": "中国妇女儿童博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0107",
+    "a_name": "密云区博物馆",
+    "b_name": "民航博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0108",
+    "a_name": "密云区博物馆",
+    "b_name": "中国传媒大学传媒博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0110",
+    "a_name": "密云区博物馆",
+    "b_name": "北京奥运博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0111",
+    "a_name": "密云区博物馆",
+    "b_name": "和苑博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0113",
+    "a_name": "密云区博物馆",
+    "b_name": "中国海关博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0114",
+    "a_name": "密云区博物馆",
+    "b_name": "北京御仙都皇家菜博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0116",
+    "a_name": "密云区博物馆",
+    "b_name": "北京英杰硬石艺术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0117",
+    "a_name": "密云区博物馆",
+    "b_name": "北京税务博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0118",
+    "a_name": "密云区博物馆",
+    "b_name": "清华大学艺术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0119",
+    "a_name": "密云区博物馆",
+    "b_name": "中国华侨历史博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0120",
+    "a_name": "密云区博物馆",
+    "b_name": "中国人民大学家书博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0121",
+    "a_name": "密云区博物馆",
+    "b_name": "北京文旺阁木作博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0123",
+    "a_name": "密云区博物馆",
+    "b_name": "北京市姜杰钢琴手风琴博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0124",
+    "a_name": "密云区博物馆",
+    "b_name": "首都粮食博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0126",
+    "a_name": "密云区博物馆",
+    "b_name": "北京荣唐连环画博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0129",
+    "a_name": "密云区博物馆",
+    "b_name": "北京皇城御窑金砖博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0130",
+    "a_name": "密云区博物馆",
+    "b_name": "北京燕京八绝博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0131",
+    "a_name": "密云区博物馆",
+    "b_name": "北京东璧堂中医药博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0132",
+    "a_name": "密云区博物馆",
+    "b_name": "北京市和光书院博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0133",
+    "a_name": "密云区博物馆",
+    "b_name": "北京大戚收音机电影机博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0134",
+    "a_name": "密云区博物馆",
+    "b_name": "北京菜百黄金珠宝博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0136",
+    "a_name": "密云区博物馆",
+    "b_name": "颐和园博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0138",
+    "a_name": "密云区博物馆",
+    "b_name": "北京京华茶叶博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0139",
+    "a_name": "密云区博物馆",
+    "b_name": "北京文景珍本期刊博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0140",
+    "a_name": "密云区博物馆",
+    "b_name": "国家典籍博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0141",
+    "a_name": "密云区博物馆",
+    "b_name": "北京航空航天模型博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0142",
+    "a_name": "密云区博物馆",
+    "b_name": "北京法和律师博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0143",
+    "a_name": "密云区博物馆",
+    "b_name": "北京龙顺成京作非遗博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0146",
+    "a_name": "密云区博物馆",
+    "b_name": "北京金漆镶嵌艺术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0147",
+    "a_name": "密云区博物馆",
+    "b_name": "北京云汇网球木拍博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0148",
+    "a_name": "密云区博物馆",
+    "b_name": "北京自来水博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0150",
+    "a_name": "密云区博物馆",
+    "b_name": "北京劲飞京作红木文化博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0151",
+    "a_name": "密云区博物馆",
+    "b_name": "中国考古博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0152",
+    "a_name": "密云区博物馆",
+    "b_name": "西黄寺博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0153",
+    "a_name": "密云区博物馆",
+    "b_name": "北京中药炮制技术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0157",
+    "a_name": "密云区博物馆",
+    "b_name": "北京中梦足球博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0158",
+    "a_name": "密云区博物馆",
+    "b_name": "北京九鼎灶文化博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0159",
+    "a_name": "密云区博物馆",
+    "b_name": "北京宣南文化博物馆管理处",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0161",
+    "a_name": "密云区博物馆",
+    "b_name": "北京莱恩堡葡萄酒文化博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0163",
+    "a_name": "密云区博物馆",
+    "b_name": "北京百年世界老电话博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0164",
+    "a_name": "密云区博物馆",
+    "b_name": "国家动物博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0165",
+    "a_name": "密云区博物馆",
+    "b_name": "中国电信博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0167",
+    "a_name": "密云区博物馆",
+    "b_name": "中国化工博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0168",
+    "a_name": "密云区博物馆",
+    "b_name": "北京服装学院民族服饰博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0169",
+    "a_name": "密云区博物馆",
+    "b_name": "北京工艺美术博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0171",
+    "a_name": "密云区博物馆",
+    "b_name": "北京警察博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0172",
+    "a_name": "密云区博物馆",
+    "b_name": "北京考古遗址博物馆（金中都水关遗址）",
+    "bigram_jaccard": 0.1429,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0173",
+    "a_name": "密云区博物馆",
+    "b_name": "北京大运河博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0175",
+    "a_name": "密云区博物馆",
+    "b_name": "国家大剧院台湖舞美艺术博物馆",
+    "bigram_jaccard": 0.1538,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0176",
+    "a_name": "密云区博物馆",
+    "b_name": "北京天桥印象博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0177",
+    "a_name": "密云区博物馆",
+    "b_name": "北京牛栏山二锅头酒文化博物馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0180",
+    "a_name": "密云区博物馆",
+    "b_name": "北京天元中医药博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0181",
+    "a_name": "密云区博物馆",
+    "b_name": "视障文化博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0182",
+    "a_name": "密云区博物馆",
+    "b_name": "中国木偶艺术剧院博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0183",
+    "a_name": "密云区博物馆",
+    "b_name": "景泰蓝艺术博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0184",
+    "a_name": "密云区博物馆",
+    "b_name": "北京六必居博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0185",
+    "a_name": "密云区博物馆",
+    "b_name": "北京福履布鞋文化博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0187",
+    "a_name": "密云区博物馆",
+    "b_name": "科学家博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0188",
+    "a_name": "密云区博物馆",
+    "b_name": "全聚德博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0189",
+    "a_name": "密云区博物馆",
+    "b_name": "对外经贸博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0191",
+    "a_name": "密云区博物馆",
+    "b_name": "北京舞蹈学院舞蹈博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0193",
+    "a_name": "密云区博物馆",
+    "b_name": "北京外国语大学校史馆、世界语言艺术博物馆",
+    "bigram_jaccard": 0.1176,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0194",
+    "a_name": "密云区博物馆",
+    "b_name": "北京宝翠宫翡翠博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0196",
+    "a_name": "密云区博物馆",
+    "b_name": "水峪村生态博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0197",
+    "a_name": "密云区博物馆",
+    "b_name": "北京神州连环画博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0198",
+    "a_name": "密云区博物馆",
+    "b_name": "北京果脯博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0199",
+    "a_name": "密云区博物馆",
+    "b_name": "延庆石刻博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0201",
+    "a_name": "密云区博物馆",
+    "b_name": "北京遇见艺术博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0202",
+    "a_name": "密云区博物馆",
+    "b_name": "北京神农农耕文化博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0037",
+    "b": "BJ02_MUSEUMS_0203",
+    "a_name": "密云区博物馆",
+    "b_name": "清华大学科学博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0045",
+    "a_name": "昌平区博物馆",
+    "b_name": "周口店北京人遗址博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0048",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京红楼文化艺术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0053",
+    "a_name": "昌平区博物馆",
+    "b_name": "永定河文化博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0055",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京法海寺博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0061",
+    "a_name": "昌平区博物馆",
+    "b_name": "观复博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0062",
+    "a_name": "昌平区博物馆",
+    "b_name": "古陶文明博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0063",
+    "a_name": "昌平区博物馆",
+    "b_name": "中国钱币博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0064",
+    "a_name": "昌平区博物馆",
+    "b_name": "文化和旅游部恭王府博物馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0067",
+    "a_name": "昌平区博物馆",
+    "b_name": "中国蜜蜂博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0069",
+    "a_name": "昌平区博物馆",
+    "b_name": "卢沟桥历史博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0072",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京中医药大学中医药博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0076",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京戏曲博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0077",
+    "a_name": "昌平区博物馆",
+    "b_name": "保利艺术博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0078",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京民俗博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0082",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京王府井古人类文化遗址博物馆",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0084",
+    "a_name": "昌平区博物馆",
+    "b_name": "中国铁道博物馆（东郊展馆）",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0085",
+    "a_name": "昌平区博物馆",
+    "b_name": "中国铁道博物馆正阳门展馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0087",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京御生堂中医药博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0088",
+    "a_name": "昌平区博物馆",
+    "b_name": "居庸关长城博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0089",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京人民艺术剧院戏剧博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0092",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京老爷车博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0093",
+    "a_name": "昌平区博物馆",
+    "b_name": "中国电影博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0095",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京励志堂科举匾额博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0097",
+    "a_name": "昌平区博物馆",
+    "b_name": "中国法院博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0099",
+    "a_name": "昌平区博物馆",
+    "b_name": "延庆博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0100",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京西瓜博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0101",
+    "a_name": "昌平区博物馆",
+    "b_name": "中国人民大学博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0102",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京空竹博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0105",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京怀柔喇叭沟门满族民俗博物馆",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0106",
+    "a_name": "昌平区博物馆",
+    "b_name": "中国妇女儿童博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0107",
+    "a_name": "昌平区博物馆",
+    "b_name": "民航博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0108",
+    "a_name": "昌平区博物馆",
+    "b_name": "中国传媒大学传媒博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0110",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京奥运博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0111",
+    "a_name": "昌平区博物馆",
+    "b_name": "和苑博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0113",
+    "a_name": "昌平区博物馆",
+    "b_name": "中国海关博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0114",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京御仙都皇家菜博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0116",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京英杰硬石艺术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0117",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京税务博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0118",
+    "a_name": "昌平区博物馆",
+    "b_name": "清华大学艺术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0119",
+    "a_name": "昌平区博物馆",
+    "b_name": "中国华侨历史博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0120",
+    "a_name": "昌平区博物馆",
+    "b_name": "中国人民大学家书博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0121",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京文旺阁木作博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0123",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京市姜杰钢琴手风琴博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0124",
+    "a_name": "昌平区博物馆",
+    "b_name": "首都粮食博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0126",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京荣唐连环画博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0129",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京皇城御窑金砖博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0130",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京燕京八绝博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0131",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京东璧堂中医药博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0132",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京市和光书院博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0133",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京大戚收音机电影机博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0134",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京菜百黄金珠宝博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0136",
+    "a_name": "昌平区博物馆",
+    "b_name": "颐和园博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0138",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京京华茶叶博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0139",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京文景珍本期刊博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0140",
+    "a_name": "昌平区博物馆",
+    "b_name": "国家典籍博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0141",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京航空航天模型博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0142",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京法和律师博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0143",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京龙顺成京作非遗博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0146",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京金漆镶嵌艺术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0147",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京云汇网球木拍博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0148",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京自来水博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0150",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京劲飞京作红木文化博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0151",
+    "a_name": "昌平区博物馆",
+    "b_name": "中国考古博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0152",
+    "a_name": "昌平区博物馆",
+    "b_name": "西黄寺博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0153",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京中药炮制技术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0157",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京中梦足球博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0158",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京九鼎灶文化博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0159",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京宣南文化博物馆管理处",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0161",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京莱恩堡葡萄酒文化博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0163",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京百年世界老电话博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0164",
+    "a_name": "昌平区博物馆",
+    "b_name": "国家动物博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0165",
+    "a_name": "昌平区博物馆",
+    "b_name": "中国电信博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0167",
+    "a_name": "昌平区博物馆",
+    "b_name": "中国化工博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0168",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京服装学院民族服饰博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0169",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京工艺美术博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0171",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京警察博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0172",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京考古遗址博物馆（金中都水关遗址）",
+    "bigram_jaccard": 0.1429,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0173",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京大运河博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0175",
+    "a_name": "昌平区博物馆",
+    "b_name": "国家大剧院台湖舞美艺术博物馆",
+    "bigram_jaccard": 0.1538,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0176",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京天桥印象博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0177",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京牛栏山二锅头酒文化博物馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0180",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京天元中医药博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0181",
+    "a_name": "昌平区博物馆",
+    "b_name": "视障文化博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0182",
+    "a_name": "昌平区博物馆",
+    "b_name": "中国木偶艺术剧院博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0183",
+    "a_name": "昌平区博物馆",
+    "b_name": "景泰蓝艺术博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0184",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京六必居博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0185",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京福履布鞋文化博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0187",
+    "a_name": "昌平区博物馆",
+    "b_name": "科学家博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0188",
+    "a_name": "昌平区博物馆",
+    "b_name": "全聚德博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0189",
+    "a_name": "昌平区博物馆",
+    "b_name": "对外经贸博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0191",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京舞蹈学院舞蹈博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0193",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京外国语大学校史馆、世界语言艺术博物馆",
+    "bigram_jaccard": 0.1176,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0194",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京宝翠宫翡翠博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0196",
+    "a_name": "昌平区博物馆",
+    "b_name": "水峪村生态博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0197",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京神州连环画博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0198",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京果脯博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0199",
+    "a_name": "昌平区博物馆",
+    "b_name": "延庆石刻博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0201",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京遇见艺术博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0202",
+    "a_name": "昌平区博物馆",
+    "b_name": "北京神农农耕文化博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0038",
+    "b": "BJ02_MUSEUMS_0203",
+    "a_name": "昌平区博物馆",
+    "b_name": "清华大学科学博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0045",
+    "a_name": "通州区博物馆",
+    "b_name": "周口店北京人遗址博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0048",
+    "a_name": "通州区博物馆",
+    "b_name": "北京红楼文化艺术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0053",
+    "a_name": "通州区博物馆",
+    "b_name": "永定河文化博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0055",
+    "a_name": "通州区博物馆",
+    "b_name": "北京法海寺博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0061",
+    "a_name": "通州区博物馆",
+    "b_name": "观复博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0062",
+    "a_name": "通州区博物馆",
+    "b_name": "古陶文明博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0063",
+    "a_name": "通州区博物馆",
+    "b_name": "中国钱币博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0064",
+    "a_name": "通州区博物馆",
+    "b_name": "文化和旅游部恭王府博物馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0067",
+    "a_name": "通州区博物馆",
+    "b_name": "中国蜜蜂博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0069",
+    "a_name": "通州区博物馆",
+    "b_name": "卢沟桥历史博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0072",
+    "a_name": "通州区博物馆",
+    "b_name": "北京中医药大学中医药博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0076",
+    "a_name": "通州区博物馆",
+    "b_name": "北京戏曲博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0077",
+    "a_name": "通州区博物馆",
+    "b_name": "保利艺术博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0078",
+    "a_name": "通州区博物馆",
+    "b_name": "北京民俗博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0082",
+    "a_name": "通州区博物馆",
+    "b_name": "北京王府井古人类文化遗址博物馆",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0084",
+    "a_name": "通州区博物馆",
+    "b_name": "中国铁道博物馆（东郊展馆）",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0085",
+    "a_name": "通州区博物馆",
+    "b_name": "中国铁道博物馆正阳门展馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0087",
+    "a_name": "通州区博物馆",
+    "b_name": "北京御生堂中医药博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0088",
+    "a_name": "通州区博物馆",
+    "b_name": "居庸关长城博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0089",
+    "a_name": "通州区博物馆",
+    "b_name": "北京人民艺术剧院戏剧博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0092",
+    "a_name": "通州区博物馆",
+    "b_name": "北京老爷车博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0093",
+    "a_name": "通州区博物馆",
+    "b_name": "中国电影博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0095",
+    "a_name": "通州区博物馆",
+    "b_name": "北京励志堂科举匾额博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0097",
+    "a_name": "通州区博物馆",
+    "b_name": "中国法院博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0099",
+    "a_name": "通州区博物馆",
+    "b_name": "延庆博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0100",
+    "a_name": "通州区博物馆",
+    "b_name": "北京西瓜博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0101",
+    "a_name": "通州区博物馆",
+    "b_name": "中国人民大学博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0102",
+    "a_name": "通州区博物馆",
+    "b_name": "北京空竹博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0105",
+    "a_name": "通州区博物馆",
+    "b_name": "北京怀柔喇叭沟门满族民俗博物馆",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0106",
+    "a_name": "通州区博物馆",
+    "b_name": "中国妇女儿童博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0107",
+    "a_name": "通州区博物馆",
+    "b_name": "民航博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0108",
+    "a_name": "通州区博物馆",
+    "b_name": "中国传媒大学传媒博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0110",
+    "a_name": "通州区博物馆",
+    "b_name": "北京奥运博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0111",
+    "a_name": "通州区博物馆",
+    "b_name": "和苑博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0113",
+    "a_name": "通州区博物馆",
+    "b_name": "中国海关博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0114",
+    "a_name": "通州区博物馆",
+    "b_name": "北京御仙都皇家菜博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0116",
+    "a_name": "通州区博物馆",
+    "b_name": "北京英杰硬石艺术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0117",
+    "a_name": "通州区博物馆",
+    "b_name": "北京税务博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0118",
+    "a_name": "通州区博物馆",
+    "b_name": "清华大学艺术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0119",
+    "a_name": "通州区博物馆",
+    "b_name": "中国华侨历史博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0120",
+    "a_name": "通州区博物馆",
+    "b_name": "中国人民大学家书博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0121",
+    "a_name": "通州区博物馆",
+    "b_name": "北京文旺阁木作博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0123",
+    "a_name": "通州区博物馆",
+    "b_name": "北京市姜杰钢琴手风琴博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0124",
+    "a_name": "通州区博物馆",
+    "b_name": "首都粮食博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0126",
+    "a_name": "通州区博物馆",
+    "b_name": "北京荣唐连环画博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0129",
+    "a_name": "通州区博物馆",
+    "b_name": "北京皇城御窑金砖博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0130",
+    "a_name": "通州区博物馆",
+    "b_name": "北京燕京八绝博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0131",
+    "a_name": "通州区博物馆",
+    "b_name": "北京东璧堂中医药博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0132",
+    "a_name": "通州区博物馆",
+    "b_name": "北京市和光书院博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0133",
+    "a_name": "通州区博物馆",
+    "b_name": "北京大戚收音机电影机博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0134",
+    "a_name": "通州区博物馆",
+    "b_name": "北京菜百黄金珠宝博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0136",
+    "a_name": "通州区博物馆",
+    "b_name": "颐和园博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0138",
+    "a_name": "通州区博物馆",
+    "b_name": "北京京华茶叶博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0139",
+    "a_name": "通州区博物馆",
+    "b_name": "北京文景珍本期刊博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0140",
+    "a_name": "通州区博物馆",
+    "b_name": "国家典籍博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0141",
+    "a_name": "通州区博物馆",
+    "b_name": "北京航空航天模型博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0142",
+    "a_name": "通州区博物馆",
+    "b_name": "北京法和律师博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0143",
+    "a_name": "通州区博物馆",
+    "b_name": "北京龙顺成京作非遗博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0146",
+    "a_name": "通州区博物馆",
+    "b_name": "北京金漆镶嵌艺术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0147",
+    "a_name": "通州区博物馆",
+    "b_name": "北京云汇网球木拍博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0148",
+    "a_name": "通州区博物馆",
+    "b_name": "北京自来水博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0150",
+    "a_name": "通州区博物馆",
+    "b_name": "北京劲飞京作红木文化博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0151",
+    "a_name": "通州区博物馆",
+    "b_name": "中国考古博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0152",
+    "a_name": "通州区博物馆",
+    "b_name": "西黄寺博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0153",
+    "a_name": "通州区博物馆",
+    "b_name": "北京中药炮制技术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0157",
+    "a_name": "通州区博物馆",
+    "b_name": "北京中梦足球博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0158",
+    "a_name": "通州区博物馆",
+    "b_name": "北京九鼎灶文化博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0159",
+    "a_name": "通州区博物馆",
+    "b_name": "北京宣南文化博物馆管理处",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0161",
+    "a_name": "通州区博物馆",
+    "b_name": "北京莱恩堡葡萄酒文化博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0163",
+    "a_name": "通州区博物馆",
+    "b_name": "北京百年世界老电话博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0164",
+    "a_name": "通州区博物馆",
+    "b_name": "国家动物博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0165",
+    "a_name": "通州区博物馆",
+    "b_name": "中国电信博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0167",
+    "a_name": "通州区博物馆",
+    "b_name": "中国化工博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0168",
+    "a_name": "通州区博物馆",
+    "b_name": "北京服装学院民族服饰博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0169",
+    "a_name": "通州区博物馆",
+    "b_name": "北京工艺美术博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0171",
+    "a_name": "通州区博物馆",
+    "b_name": "北京警察博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0172",
+    "a_name": "通州区博物馆",
+    "b_name": "北京考古遗址博物馆（金中都水关遗址）",
+    "bigram_jaccard": 0.1429,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0173",
+    "a_name": "通州区博物馆",
+    "b_name": "北京大运河博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0175",
+    "a_name": "通州区博物馆",
+    "b_name": "国家大剧院台湖舞美艺术博物馆",
+    "bigram_jaccard": 0.1538,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0176",
+    "a_name": "通州区博物馆",
+    "b_name": "北京天桥印象博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0177",
+    "a_name": "通州区博物馆",
+    "b_name": "北京牛栏山二锅头酒文化博物馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0180",
+    "a_name": "通州区博物馆",
+    "b_name": "北京天元中医药博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0181",
+    "a_name": "通州区博物馆",
+    "b_name": "视障文化博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0182",
+    "a_name": "通州区博物馆",
+    "b_name": "中国木偶艺术剧院博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0183",
+    "a_name": "通州区博物馆",
+    "b_name": "景泰蓝艺术博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0184",
+    "a_name": "通州区博物馆",
+    "b_name": "北京六必居博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0185",
+    "a_name": "通州区博物馆",
+    "b_name": "北京福履布鞋文化博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0187",
+    "a_name": "通州区博物馆",
+    "b_name": "科学家博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0188",
+    "a_name": "通州区博物馆",
+    "b_name": "全聚德博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0189",
+    "a_name": "通州区博物馆",
+    "b_name": "对外经贸博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0191",
+    "a_name": "通州区博物馆",
+    "b_name": "北京舞蹈学院舞蹈博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0193",
+    "a_name": "通州区博物馆",
+    "b_name": "北京外国语大学校史馆、世界语言艺术博物馆",
+    "bigram_jaccard": 0.1176,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0194",
+    "a_name": "通州区博物馆",
+    "b_name": "北京宝翠宫翡翠博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0196",
+    "a_name": "通州区博物馆",
+    "b_name": "水峪村生态博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0197",
+    "a_name": "通州区博物馆",
+    "b_name": "北京神州连环画博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0198",
+    "a_name": "通州区博物馆",
+    "b_name": "北京果脯博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0199",
+    "a_name": "通州区博物馆",
+    "b_name": "延庆石刻博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0201",
+    "a_name": "通州区博物馆",
+    "b_name": "北京遇见艺术博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0202",
+    "a_name": "通州区博物馆",
+    "b_name": "北京神农农耕文化博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0039",
+    "b": "BJ02_MUSEUMS_0203",
+    "a_name": "通州区博物馆",
+    "b_name": "清华大学科学博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0045",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "周口店北京人遗址博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0045",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "周口店北京人遗址博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0045",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "周口店北京人遗址博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0045",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "周口店北京人遗址博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0048",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "北京红楼文化艺术博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0048",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "北京红楼文化艺术博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0048",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京红楼文化艺术博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0048",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京红楼文化艺术博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0051",
+    "b": "BJ02_MUSEUMS_0058",
+    "a_name": "北京大觉寺与团城管理处（团城演武厅）",
+    "b_name": "北京大觉寺与团城管理处（大觉寺）",
+    "bigram_jaccard": 0.5625,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0053",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "永定河文化博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0053",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "永定河文化博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0053",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "永定河文化博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0053",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "永定河文化博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0055",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "北京法海寺博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0055",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "北京法海寺博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0055",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京法海寺博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0055",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京法海寺博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0061",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "观复博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0061",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "观复博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0061",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "观复博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0061",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "观复博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0062",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "古陶文明博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0062",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "古陶文明博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0062",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "古陶文明博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0062",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "古陶文明博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0063",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "中国钱币博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0063",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "中国钱币博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0063",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "中国钱币博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0063",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "中国钱币博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0064",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "文化和旅游部恭王府博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0064",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "文化和旅游部恭王府博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0064",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "文化和旅游部恭王府博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0064",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "文化和旅游部恭王府博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0067",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "中国蜜蜂博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0067",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "中国蜜蜂博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0067",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "中国蜜蜂博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0067",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "中国蜜蜂博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0068",
+    "b": "BJ02_MUSEUMS_0155",
+    "a_name": "平北抗日战争纪念馆",
+    "b_name": "平西抗日战争纪念馆",
+    "bigram_jaccard": 0.6,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0069",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "卢沟桥历史博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0069",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "卢沟桥历史博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0069",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "卢沟桥历史博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0069",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "卢沟桥历史博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0072",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "北京中医药大学中医药博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0072",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "北京中医药大学中医药博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0072",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京中医药大学中医药博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0072",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京中医药大学中医药博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0076",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "北京戏曲博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0076",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "北京戏曲博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0076",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京戏曲博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0076",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京戏曲博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0077",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "保利艺术博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0077",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "保利艺术博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0077",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "保利艺术博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0077",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "保利艺术博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0078",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "北京民俗博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0078",
+    "b": "BJ02_MUSEUMS_0105",
+    "a_name": "北京民俗博物馆",
+    "b_name": "北京怀柔喇叭沟门满族民俗博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0078",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "北京民俗博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0078",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京民俗博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0078",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京民俗博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0082",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "北京王府井古人类文化遗址博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0082",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "北京王府井古人类文化遗址博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0082",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京王府井古人类文化遗址博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0082",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京王府井古人类文化遗址博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0084",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "中国铁道博物馆（东郊展馆）",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0084",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "中国铁道博物馆（东郊展馆）",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0084",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "中国铁道博物馆（东郊展馆）",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0084",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "中国铁道博物馆（东郊展馆）",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0085",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "中国铁道博物馆正阳门展馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0085",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "中国铁道博物馆正阳门展馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0085",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "中国铁道博物馆正阳门展馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0085",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "中国铁道博物馆正阳门展馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0087",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "北京御生堂中医药博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0087",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "北京御生堂中医药博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0087",
+    "b": "BJ02_MUSEUMS_0131",
+    "a_name": "北京御生堂中医药博物馆",
+    "b_name": "北京东璧堂中医药博物馆",
+    "bigram_jaccard": 0.6,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0087",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京御生堂中医药博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0087",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京御生堂中医药博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0088",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "居庸关长城博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0088",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "居庸关长城博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0088",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "居庸关长城博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0088",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "居庸关长城博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0089",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "北京人民艺术剧院戏剧博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0089",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "北京人民艺术剧院戏剧博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0089",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京人民艺术剧院戏剧博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0089",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京人民艺术剧院戏剧博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0092",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "北京老爷车博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0092",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "北京老爷车博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0092",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京老爷车博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0092",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京老爷车博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0093",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "中国电影博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0093",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "中国电影博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0093",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "中国电影博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0093",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "中国电影博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0095",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "北京励志堂科举匾额博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0095",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "北京励志堂科举匾额博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0095",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京励志堂科举匾额博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0095",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京励志堂科举匾额博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0097",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "中国法院博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0097",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "中国法院博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0097",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "中国法院博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0097",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "中国法院博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0099",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "延庆博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0099",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "延庆博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0099",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "延庆博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0099",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "延庆博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0100",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "北京西瓜博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0100",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "北京西瓜博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0100",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京西瓜博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0100",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京西瓜博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0101",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "中国人民大学博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0101",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "中国人民大学博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0101",
+    "b": "BJ02_MUSEUMS_0120",
+    "a_name": "中国人民大学博物馆",
+    "b_name": "中国人民大学家书博物馆",
+    "bigram_jaccard": 0.6364,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0101",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "中国人民大学博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0101",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "中国人民大学博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0102",
+    "b": "BJ02_MUSEUMS_0103",
+    "a_name": "北京空竹博物馆",
+    "b_name": "北京市怀柔区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0102",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "北京空竹博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0102",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京空竹博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0102",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京空竹博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0105",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京怀柔喇叭沟门满族民俗博物馆",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0106",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "中国妇女儿童博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0107",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "民航博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0108",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "中国传媒大学传媒博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0110",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京奥运博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0111",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "和苑博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0113",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "中国海关博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0114",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京御仙都皇家菜博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0116",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京英杰硬石艺术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0117",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京税务博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0118",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "清华大学艺术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0119",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "中国华侨历史博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0120",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "中国人民大学家书博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0121",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京文旺阁木作博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0123",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京市姜杰钢琴手风琴博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0124",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "首都粮食博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0126",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京荣唐连环画博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0129",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京皇城御窑金砖博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0130",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京燕京八绝博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0131",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京东璧堂中医药博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0132",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京市和光书院博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0133",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京大戚收音机电影机博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0134",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京菜百黄金珠宝博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0136",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "颐和园博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0138",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京京华茶叶博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0139",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京文景珍本期刊博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0140",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "国家典籍博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0141",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京航空航天模型博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0142",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京法和律师博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0143",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京龙顺成京作非遗博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0146",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京金漆镶嵌艺术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0147",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京云汇网球木拍博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0148",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京自来水博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0150",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京劲飞京作红木文化博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0151",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "中国考古博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0152",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "西黄寺博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0153",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京中药炮制技术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0157",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京中梦足球博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0158",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京九鼎灶文化博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0159",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京宣南文化博物馆管理处",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0161",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京莱恩堡葡萄酒文化博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0163",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京百年世界老电话博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0164",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "国家动物博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0165",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "中国电信博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0167",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "中国化工博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0168",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京服装学院民族服饰博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0169",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京工艺美术博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0171",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京警察博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0172",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京考古遗址博物馆（金中都水关遗址）",
+    "bigram_jaccard": 0.1429,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0173",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京大运河博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0175",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "国家大剧院台湖舞美艺术博物馆",
+    "bigram_jaccard": 0.1538,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0176",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京天桥印象博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0177",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京牛栏山二锅头酒文化博物馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0180",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京天元中医药博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0181",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "视障文化博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0182",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "中国木偶艺术剧院博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0183",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "景泰蓝艺术博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0184",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京六必居博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0185",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京福履布鞋文化博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0187",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "科学家博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0188",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "全聚德博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0189",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "对外经贸博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0191",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京舞蹈学院舞蹈博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0193",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京外国语大学校史馆、世界语言艺术博物馆",
+    "bigram_jaccard": 0.1176,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0194",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京宝翠宫翡翠博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0196",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "水峪村生态博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0197",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京神州连环画博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0198",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京果脯博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0199",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "延庆石刻博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0201",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京遇见艺术博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0202",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "北京神农农耕文化博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0103",
+    "b": "BJ02_MUSEUMS_0203",
+    "a_name": "北京市怀柔区博物馆",
+    "b_name": "清华大学科学博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0105",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "北京怀柔喇叭沟门满族民俗博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0105",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京怀柔喇叭沟门满族民俗博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0105",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京怀柔喇叭沟门满族民俗博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.1667,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0106",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "中国妇女儿童博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0106",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "中国妇女儿童博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0106",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "中国妇女儿童博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0107",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "民航博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0107",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "民航博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0107",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "民航博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0108",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "中国传媒大学传媒博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0108",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "中国传媒大学传媒博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0108",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "中国传媒大学传媒博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0110",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "北京奥运博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0110",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京奥运博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0110",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京奥运博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0111",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "和苑博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0111",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "和苑博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0111",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "和苑博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0113",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "中国海关博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0113",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "中国海关博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0113",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "中国海关博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0114",
+    "b": "BJ02_MUSEUMS_0115",
+    "a_name": "北京御仙都皇家菜博物馆",
+    "b_name": "北京市平谷区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0114",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京御仙都皇家菜博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0114",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京御仙都皇家菜博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0116",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京英杰硬石艺术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0117",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京税务博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0118",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "清华大学艺术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0119",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "中国华侨历史博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0120",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "中国人民大学家书博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0121",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京文旺阁木作博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0123",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京市姜杰钢琴手风琴博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0124",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "首都粮食博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0126",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京荣唐连环画博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0129",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京皇城御窑金砖博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0130",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京燕京八绝博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0131",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京东璧堂中医药博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0132",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京市和光书院博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0133",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京大戚收音机电影机博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0134",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京菜百黄金珠宝博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0136",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "颐和园博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0138",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京京华茶叶博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0139",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京文景珍本期刊博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0140",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "国家典籍博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0141",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京航空航天模型博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0142",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京法和律师博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0143",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京龙顺成京作非遗博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0146",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京金漆镶嵌艺术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0147",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京云汇网球木拍博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0148",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京自来水博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0150",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京劲飞京作红木文化博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0151",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "中国考古博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0152",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "西黄寺博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0153",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京中药炮制技术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0157",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京中梦足球博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0158",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京九鼎灶文化博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0159",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京宣南文化博物馆管理处",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0161",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京莱恩堡葡萄酒文化博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0163",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京百年世界老电话博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0164",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "国家动物博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0165",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "中国电信博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0167",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "中国化工博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0168",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京服装学院民族服饰博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0169",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京工艺美术博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0171",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京警察博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0172",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京考古遗址博物馆（金中都水关遗址）",
+    "bigram_jaccard": 0.1429,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0173",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京大运河博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0175",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "国家大剧院台湖舞美艺术博物馆",
+    "bigram_jaccard": 0.1538,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0176",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京天桥印象博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0177",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京牛栏山二锅头酒文化博物馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0180",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京天元中医药博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0181",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "视障文化博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0182",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "中国木偶艺术剧院博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0183",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "景泰蓝艺术博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0184",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京六必居博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0185",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京福履布鞋文化博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0187",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "科学家博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0188",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "全聚德博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0189",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "对外经贸博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0191",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京舞蹈学院舞蹈博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0193",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京外国语大学校史馆、世界语言艺术博物馆",
+    "bigram_jaccard": 0.1176,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0194",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京宝翠宫翡翠博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0196",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "水峪村生态博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0197",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京神州连环画博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0198",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京果脯博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0199",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "延庆石刻博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0201",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京遇见艺术博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0202",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "北京神农农耕文化博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0115",
+    "b": "BJ02_MUSEUMS_0203",
+    "a_name": "北京市平谷区博物馆",
+    "b_name": "清华大学科学博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0116",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京英杰硬石艺术博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0116",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京英杰硬石艺术博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0117",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京税务博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0117",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京税务博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0118",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "清华大学艺术博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0118",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "清华大学艺术博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0119",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "中国华侨历史博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0119",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "中国华侨历史博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0120",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "中国人民大学家书博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0120",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "中国人民大学家书博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0121",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京文旺阁木作博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0121",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京文旺阁木作博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0123",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京市姜杰钢琴手风琴博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0123",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京市姜杰钢琴手风琴博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0124",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "首都粮食博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0124",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "首都粮食博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0126",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京荣唐连环画博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0126",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京荣唐连环画博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0126",
+    "b": "BJ02_MUSEUMS_0197",
+    "a_name": "北京荣唐连环画博物馆",
+    "b_name": "北京神州连环画博物馆",
+    "bigram_jaccard": 0.5556,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0129",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京皇城御窑金砖博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0129",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京皇城御窑金砖博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0130",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京燕京八绝博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0130",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京燕京八绝博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0131",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京东璧堂中医药博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0131",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京东璧堂中医药博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0132",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京市和光书院博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0132",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京市和光书院博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0133",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京大戚收音机电影机博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0133",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京大戚收音机电影机博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0134",
+    "b": "BJ02_MUSEUMS_0135",
+    "a_name": "北京菜百黄金珠宝博物馆",
+    "b_name": "北京市石景山区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0134",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京菜百黄金珠宝博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0136",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "颐和园博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0138",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京京华茶叶博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0139",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京文景珍本期刊博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0140",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "国家典籍博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0141",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京航空航天模型博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0142",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京法和律师博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0143",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京龙顺成京作非遗博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0146",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京金漆镶嵌艺术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0147",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京云汇网球木拍博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0148",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京自来水博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0150",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京劲飞京作红木文化博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0151",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "中国考古博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0152",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "西黄寺博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0153",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京中药炮制技术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0157",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京中梦足球博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0158",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京九鼎灶文化博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0159",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京宣南文化博物馆管理处",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0161",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京莱恩堡葡萄酒文化博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0163",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京百年世界老电话博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0164",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "国家动物博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0165",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "中国电信博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0167",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "中国化工博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0168",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京服装学院民族服饰博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0169",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京工艺美术博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0171",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京警察博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0172",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京考古遗址博物馆（金中都水关遗址）",
+    "bigram_jaccard": 0.1429,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0173",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京大运河博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0175",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "国家大剧院台湖舞美艺术博物馆",
+    "bigram_jaccard": 0.1538,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0176",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京天桥印象博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0177",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京牛栏山二锅头酒文化博物馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0178",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "石景山区石刻博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0180",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京天元中医药博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0181",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "视障文化博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0182",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "中国木偶艺术剧院博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0183",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "景泰蓝艺术博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0184",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京六必居博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0185",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京福履布鞋文化博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0187",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "科学家博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0188",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "全聚德博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0189",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "对外经贸博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0191",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京舞蹈学院舞蹈博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0193",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京外国语大学校史馆、世界语言艺术博物馆",
+    "bigram_jaccard": 0.1176,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0194",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京宝翠宫翡翠博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0196",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "水峪村生态博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0197",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京神州连环画博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0198",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京果脯博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0199",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "延庆石刻博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0201",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京遇见艺术博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0202",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "北京神农农耕文化博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0135",
+    "b": "BJ02_MUSEUMS_0203",
+    "a_name": "北京市石景山区博物馆",
+    "b_name": "清华大学科学博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0136",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "颐和园博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0138",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京京华茶叶博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0139",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京文景珍本期刊博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0140",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "国家典籍博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0141",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京航空航天模型博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0142",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京法和律师博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0143",
+    "b": "BJ02_MUSEUMS_0145",
+    "a_name": "北京龙顺成京作非遗博物馆",
+    "b_name": "北京市顺义区博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0146",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京金漆镶嵌艺术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0147",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京云汇网球木拍博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0148",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京自来水博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0150",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京劲飞京作红木文化博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0151",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "中国考古博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0152",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "西黄寺博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0153",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京中药炮制技术博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0157",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京中梦足球博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0158",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京九鼎灶文化博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0159",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京宣南文化博物馆管理处",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0161",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京莱恩堡葡萄酒文化博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0163",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京百年世界老电话博物馆",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0164",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "国家动物博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0165",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "中国电信博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0167",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "中国化工博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0168",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京服装学院民族服饰博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0169",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京工艺美术博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0171",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京警察博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0172",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京考古遗址博物馆（金中都水关遗址）",
+    "bigram_jaccard": 0.1429,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0173",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京大运河博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0175",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "国家大剧院台湖舞美艺术博物馆",
+    "bigram_jaccard": 0.1538,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0176",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京天桥印象博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0177",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京牛栏山二锅头酒文化博物馆",
+    "bigram_jaccard": 0.1818,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0180",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京天元中医药博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0181",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "视障文化博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0182",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "中国木偶艺术剧院博物馆",
+    "bigram_jaccard": 0.2,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0183",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "景泰蓝艺术博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0184",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京六必居博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0185",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京福履布鞋文化博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0187",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "科学家博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0188",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "全聚德博物馆",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0189",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "对外经贸博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0191",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京舞蹈学院舞蹈博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0193",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京外国语大学校史馆、世界语言艺术博物馆",
+    "bigram_jaccard": 0.1176,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0194",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京宝翠宫翡翠博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0196",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "水峪村生态博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0197",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京神州连环画博物馆",
+    "bigram_jaccard": 0.2857,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0198",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京果脯博物馆",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0199",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "延庆石刻博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0201",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京遇见艺术博物馆",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0202",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "北京神农农耕文化博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0145",
+    "b": "BJ02_MUSEUMS_0203",
+    "a_name": "北京市顺义区博物馆",
+    "b_name": "清华大学科学博物馆",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge"
+  },
+  {
+    "a": "BJ02_MUSEUMS_0178",
+    "b": "BJ02_MUSEUMS_0199",
+    "a_name": "石景山区石刻博物馆",
+    "b_name": "延庆石刻博物馆",
+    "bigram_jaccard": 0.6667,
+    "action": "review_only_no_auto_merge"
+  }
+]

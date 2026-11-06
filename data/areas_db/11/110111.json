@@ -19,7 +19,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -80,7 +80,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0628",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0628",
+      "AREA_BJ_PARKS_2026_0628"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0629",
@@ -102,7 +111,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -163,7 +172,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0629",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0629",
+      "AREA_BJ_PARKS_2026_0629"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0630",
@@ -185,7 +203,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -246,7 +264,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0630",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0630",
+      "AREA_BJ_PARKS_2026_0630"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0631",
@@ -268,7 +295,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -329,7 +356,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0631",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0631",
+      "AREA_BJ_PARKS_2026_0631"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0632",
@@ -351,7 +387,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -412,7 +448,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0632",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0632",
+      "AREA_BJ_PARKS_2026_0632"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0633",
@@ -434,7 +479,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -495,7 +540,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0633",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0633",
+      "AREA_BJ_PARKS_2026_0633"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0634",
@@ -517,7 +571,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -578,7 +632,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0634",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0634",
+      "AREA_BJ_PARKS_2026_0634"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0635",
@@ -600,7 +663,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -661,7 +724,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0635",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0635",
+      "AREA_BJ_PARKS_2026_0635"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0636",
@@ -683,7 +755,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -744,7 +816,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0636",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0636",
+      "AREA_BJ_PARKS_2026_0636"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0637",
@@ -766,7 +847,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -827,7 +908,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0637",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0637",
+      "AREA_BJ_PARKS_2026_0637"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0638",
@@ -849,7 +939,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -910,7 +1000,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0638",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0638",
+      "AREA_BJ_PARKS_2026_0638"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0639",
@@ -932,7 +1031,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -993,7 +1092,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0639",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0639",
+      "AREA_BJ_PARKS_2026_0639"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0640",
@@ -1015,7 +1123,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -1076,7 +1184,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0640",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0640",
+      "AREA_BJ_PARKS_2026_0640"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0641",
@@ -1098,7 +1215,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -1159,7 +1276,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0641",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0641",
+      "AREA_BJ_PARKS_2026_0641"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0642",
@@ -1181,7 +1307,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -1242,7 +1368,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0642",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0642",
+      "AREA_BJ_PARKS_2026_0642"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0643",
@@ -1264,7 +1399,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -1325,7 +1460,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0643",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0643",
+      "AREA_BJ_PARKS_2026_0643"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0644",
@@ -1347,7 +1491,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -1408,7 +1552,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0644",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0644",
+      "AREA_BJ_PARKS_2026_0644"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0645",
@@ -1430,7 +1583,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -1491,7 +1644,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0645",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0645",
+      "AREA_BJ_PARKS_2026_0645"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0646",
@@ -1513,7 +1675,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -1574,7 +1736,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0646",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0646",
+      "AREA_BJ_PARKS_2026_0646"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0647",
@@ -1596,7 +1767,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -1657,7 +1828,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0647",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0647",
+      "AREA_BJ_PARKS_2026_0647"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0648",
@@ -1679,7 +1859,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -1740,7 +1920,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0648",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0648",
+      "AREA_BJ_PARKS_2026_0648"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0649",
@@ -1762,7 +1951,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -1823,7 +2012,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0649",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0649",
+      "AREA_BJ_PARKS_2026_0649"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0650",
@@ -1845,7 +2043,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -1906,7 +2104,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0650",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0650",
+      "AREA_BJ_PARKS_2026_0650"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0651",
@@ -1928,7 +2135,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -1989,7 +2196,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0651",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0651",
+      "AREA_BJ_PARKS_2026_0651"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0652",
@@ -2011,7 +2227,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -2072,7 +2288,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0652",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0652",
+      "AREA_BJ_PARKS_2026_0652"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0653",
@@ -2094,7 +2319,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -2155,7 +2380,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0653",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0653",
+      "AREA_BJ_PARKS_2026_0653"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0654",
@@ -2177,7 +2411,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -2238,7 +2472,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0654",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0654",
+      "AREA_BJ_PARKS_2026_0654"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0655",
@@ -2260,7 +2503,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -2321,7 +2564,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0655",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0655",
+      "AREA_BJ_PARKS_2026_0655"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0656",
@@ -2343,7 +2595,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -2404,7 +2656,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0656",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0656",
+      "AREA_BJ_PARKS_2026_0656"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0657",
@@ -2426,7 +2687,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -2487,7 +2748,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0657",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0657",
+      "AREA_BJ_PARKS_2026_0657"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0658",
@@ -2509,7 +2779,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -2570,7 +2840,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0658",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0658",
+      "AREA_BJ_PARKS_2026_0658"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0659",
@@ -2592,7 +2871,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -2653,7 +2932,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0659",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0659",
+      "AREA_BJ_PARKS_2026_0659"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0660",
@@ -2675,7 +2963,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -2736,7 +3024,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0660",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0660",
+      "AREA_BJ_PARKS_2026_0660"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0661",
@@ -2758,7 +3055,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -2819,7 +3116,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0661",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0661",
+      "AREA_BJ_PARKS_2026_0661"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0662",
@@ -2841,7 +3147,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -2902,7 +3208,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0662",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0662",
+      "AREA_BJ_PARKS_2026_0662"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0663",
@@ -2924,7 +3239,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -2985,7 +3300,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0663",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0663",
+      "AREA_BJ_PARKS_2026_0663"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0664",
@@ -3007,7 +3331,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -3068,7 +3392,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0664",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0664",
+      "AREA_BJ_PARKS_2026_0664"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0665",
@@ -3090,7 +3423,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -3151,7 +3484,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0665",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0665",
+      "AREA_BJ_PARKS_2026_0665"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0666",
@@ -3173,7 +3515,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -3234,7 +3576,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0666",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0666",
+      "AREA_BJ_PARKS_2026_0666"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0667",
@@ -3256,7 +3607,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -3317,7 +3668,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0667",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0667",
+      "AREA_BJ_PARKS_2026_0667"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0668",
@@ -3339,7 +3699,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -3400,7 +3760,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0668",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0668",
+      "AREA_BJ_PARKS_2026_0668"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0669",
@@ -3422,7 +3791,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -3483,7 +3852,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0669",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0669",
+      "AREA_BJ_PARKS_2026_0669"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0670",
@@ -3505,7 +3883,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -3566,7 +3944,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0670",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0670",
+      "AREA_BJ_PARKS_2026_0670"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0671",
@@ -3588,7 +3975,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -3649,7 +4036,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0671",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0671",
+      "AREA_BJ_PARKS_2026_0671"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0672",
@@ -3671,7 +4067,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -3732,7 +4128,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0672",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0672",
+      "AREA_BJ_PARKS_2026_0672"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0673",
@@ -3754,7 +4159,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -3815,7 +4220,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0673",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0673",
+      "AREA_BJ_PARKS_2026_0673"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0674",
@@ -3837,7 +4251,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -3898,7 +4312,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0674",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0674",
+      "AREA_BJ_PARKS_2026_0674"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0675",
@@ -3920,7 +4343,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -3981,7 +4404,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0675",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0675",
+      "AREA_BJ_PARKS_2026_0675"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0676",
@@ -4003,7 +4435,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -4064,7 +4496,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0676",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0676",
+      "AREA_BJ_PARKS_2026_0676"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0677",
@@ -4086,7 +4527,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -4147,7 +4588,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0677",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0677",
+      "AREA_BJ_PARKS_2026_0677"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0678",
@@ -4169,7 +4619,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -4230,7 +4680,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0678",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0678",
+      "AREA_BJ_PARKS_2026_0678"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0679",
@@ -4252,7 +4711,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -4313,7 +4772,52 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0679",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0679",
+      "AREA_BJ_PARKS_2026_0679"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "bj02_catalog_evidence_links": [
+      {
+        "source_entity_id": "BJ02_SCENIC_0190",
+        "observation_ids": [
+          "BJ02_SCENIC_0190"
+        ],
+        "name_variants": [
+          "中华石雕艺术园景区"
+        ],
+        "evidence": [
+          {
+            "source_id": "scenic",
+            "source_row": 190,
+            "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+            "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/117932",
+            "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+            "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+            "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+            "source_display_dates": [
+              "2026-07-30"
+            ],
+            "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+            "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+            "evidence_file": "raw/scenic.json"
+          }
+        ],
+        "identity_assertion": {
+          "source_entity_id": "BJ02_SCENIC_0190",
+          "relation": "same_official_directory_destination",
+          "parent_source_entity_id": "BJ_PARKS_2026_0679",
+          "detail_url": "https://s.visitbeijing.com.cn/attraction/117932",
+          "quote": "中华石雕艺术园位于北京市房山区大石窝镇，面积2400亩。",
+          "basis": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation."
+        }
+      }
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0680",
@@ -4335,7 +4839,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -4396,7 +4900,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0680",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0680",
+      "AREA_BJ_PARKS_2026_0680"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0681",
@@ -4418,7 +4931,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -4479,7 +4992,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0681",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0681",
+      "AREA_BJ_PARKS_2026_0681"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0682",
@@ -4501,7 +5023,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -4562,7 +5084,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0682",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0682",
+      "AREA_BJ_PARKS_2026_0682"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0683",
@@ -4584,7 +5115,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -4645,7 +5176,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0683",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0683",
+      "AREA_BJ_PARKS_2026_0683"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0684",
@@ -4667,7 +5207,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -4728,7 +5268,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0684",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0684",
+      "AREA_BJ_PARKS_2026_0684"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0685",
@@ -4750,7 +5299,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -4811,7 +5360,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0685",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0685",
+      "AREA_BJ_PARKS_2026_0685"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0686",
@@ -4833,7 +5391,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -4894,7 +5452,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0686",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0686",
+      "AREA_BJ_PARKS_2026_0686"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0687",
@@ -4916,7 +5483,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -4977,7 +5544,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0687",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0687",
+      "AREA_BJ_PARKS_2026_0687"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0688",
@@ -4999,7 +5575,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -5060,7 +5636,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0688",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0688",
+      "AREA_BJ_PARKS_2026_0688"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0689",
@@ -5082,7 +5667,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -5143,7 +5728,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0689",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0689",
+      "AREA_BJ_PARKS_2026_0689"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0690",
@@ -5165,7 +5759,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -5226,7 +5820,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0690",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0690",
+      "AREA_BJ_PARKS_2026_0690"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0691",
@@ -5248,7 +5851,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -5309,7 +5912,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0691",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0691",
+      "AREA_BJ_PARKS_2026_0691"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0692",
@@ -5331,7 +5943,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -5392,7 +6004,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0692",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0692",
+      "AREA_BJ_PARKS_2026_0692"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0693",
@@ -5414,7 +6035,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -5475,7 +6096,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0693",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0693",
+      "AREA_BJ_PARKS_2026_0693"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0694",
@@ -5497,7 +6127,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -5558,7 +6188,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0694",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0694",
+      "AREA_BJ_PARKS_2026_0694"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0695",
@@ -5580,7 +6219,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -5641,7 +6280,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0695",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0695",
+      "AREA_BJ_PARKS_2026_0695"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0696",
@@ -5663,7 +6311,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -5724,7 +6372,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0696",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0696",
+      "AREA_BJ_PARKS_2026_0696"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0697",
@@ -5746,7 +6403,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -5807,7 +6464,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0697",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0697",
+      "AREA_BJ_PARKS_2026_0697"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0698",
@@ -5829,7 +6495,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -5890,7 +6556,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0698",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0698",
+      "AREA_BJ_PARKS_2026_0698"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0699",
@@ -5912,7 +6587,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -5973,7 +6648,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0699",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0699",
+      "AREA_BJ_PARKS_2026_0699"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0700",
@@ -5995,7 +6679,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -6056,7 +6740,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0700",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0700",
+      "AREA_BJ_PARKS_2026_0700"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0701",
@@ -6078,7 +6771,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -6139,7 +6832,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0701",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0701",
+      "AREA_BJ_PARKS_2026_0701"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0702",
@@ -6161,7 +6863,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -6222,7 +6924,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0702",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0702",
+      "AREA_BJ_PARKS_2026_0702"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0703",
@@ -6244,7 +6955,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -6305,7 +7016,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0703",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0703",
+      "AREA_BJ_PARKS_2026_0703"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0704",
@@ -6327,7 +7047,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -6388,7 +7108,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0704",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0704",
+      "AREA_BJ_PARKS_2026_0704"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0705",
@@ -6410,7 +7139,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -6471,7 +7200,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0705",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0705",
+      "AREA_BJ_PARKS_2026_0705"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0706",
@@ -6493,7 +7231,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -6554,7 +7292,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0706",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0706",
+      "AREA_BJ_PARKS_2026_0706"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0707",
@@ -6576,7 +7323,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -6637,7 +7384,52 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0707",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0707",
+      "AREA_BJ_PARKS_2026_0707"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "bj02_catalog_evidence_links": [
+      {
+        "source_entity_id": "BJ02_SCENIC_0132",
+        "observation_ids": [
+          "BJ02_SCENIC_0132"
+        ],
+        "name_variants": [
+          "上方山景区"
+        ],
+        "evidence": [
+          {
+            "source_id": "scenic",
+            "source_row": 132,
+            "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+            "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/117798",
+            "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+            "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+            "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+            "source_display_dates": [
+              "2026-07-30"
+            ],
+            "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+            "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+            "evidence_file": "raw/scenic.json"
+          }
+        ],
+        "identity_assertion": {
+          "source_entity_id": "BJ02_SCENIC_0132",
+          "relation": "same_official_directory_destination",
+          "parent_source_entity_id": "BJ_PARKS_2026_0707",
+          "detail_url": "https://s.visitbeijing.com.cn/attraction/117798",
+          "quote": "上方山位于北京市房山区韩村河镇,距北京市区约60公里，是山岳型自然风景区。",
+          "basis": "Individually reviewed official destination title or description explicitly gives the existing directory proper name (or anchored local prefix); same district. Not an automatic synonym/Jaccard merge; geographic footprint still unmeasured."
+        }
+      }
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0708",
@@ -6659,7 +7451,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -6720,7 +7512,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0708",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0708",
+      "AREA_BJ_PARKS_2026_0708"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0709",
@@ -6742,7 +7543,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -6803,7 +7604,52 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0709",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0709",
+      "AREA_BJ_PARKS_2026_0709"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "bj02_catalog_evidence_links": [
+      {
+        "source_entity_id": "BJ02_SCENIC_0048",
+        "observation_ids": [
+          "BJ02_SCENIC_0048"
+        ],
+        "name_variants": [
+          "北京市房山区石花洞景区"
+        ],
+        "evidence": [
+          {
+            "source_id": "scenic",
+            "source_row": 48,
+            "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+            "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101426",
+            "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+            "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+            "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+            "source_display_dates": [
+              "2026-07-30"
+            ],
+            "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+            "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+            "evidence_file": "raw/scenic.json"
+          }
+        ],
+        "identity_assertion": {
+          "source_entity_id": "BJ02_SCENIC_0048",
+          "relation": "same_official_directory_destination",
+          "parent_source_entity_id": "BJ_PARKS_2026_0709",
+          "detail_url": "https://s.visitbeijing.com.cn/attraction/101426",
+          "quote": "石花洞位于北京市房山区境内，距市中心46公里，距京石高速公路15公里、西六环良坨路出口15公里。",
+          "basis": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation."
+        }
+      }
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0710",
@@ -6825,7 +7671,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -6886,7 +7732,69 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0710",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0710",
+      "AREA_BJ_PARKS_2026_0710"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "bj02_catalog_evidence_links": [
+      {
+        "source_entity_id": "BJ02_SCENIC_0133",
+        "observation_ids": [
+          "BJ02_SCENIC_0133",
+          "BJ02_MUSEUMS_0162"
+        ],
+        "name_variants": [
+          "北京市房山世界地质公园博物馆景区",
+          "北京市房山世界地质公园博物馆"
+        ],
+        "evidence": [
+          {
+            "source_id": "scenic",
+            "source_row": 133,
+            "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+            "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/118564",
+            "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+            "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+            "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+            "source_display_dates": [
+              "2026-07-30"
+            ],
+            "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+            "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+            "evidence_file": "raw/scenic.json"
+          },
+          {
+            "source_id": "museums",
+            "source_row": 162,
+            "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287849.html",
+            "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/118564",
+            "actual_query": "北京市 文物局 2025 博物馆 名录 名称 地址 一览表",
+            "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+            "retrieved_at": "2026-11-07T00:54:12.506012+08:00",
+            "source_display_dates": [
+              "2025-09-18"
+            ],
+            "source_sha256": "b4a91956f949c7fba5eb01ac8c58591105238cee57be24ba9d5a139821e100a2",
+            "sanitized_sha256": "fdf6eae5999533a6608f4b62caea348b7dec03f1e804afe82130f9005ecf24a1",
+            "evidence_file": "raw/museums.json"
+          }
+        ],
+        "identity_assertion": {
+          "source_entity_id": "BJ02_SCENIC_0133",
+          "relation": "same_official_directory_destination",
+          "parent_source_entity_id": "BJ_PARKS_2026_0710",
+          "detail_url": "https://s.visitbeijing.com.cn/attraction/118564",
+          "quote": "2006年9月17日，在第二届世界地质公园大会上，中国房山世界地质公园正式获得联合国教科文组织批准并授牌，成为目前全球唯一一家位于首都城市的世界地质公园。",
+          "basis": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation."
+        }
+      }
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0711",
@@ -6908,7 +7816,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -6969,7 +7877,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0711",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0711",
+      "AREA_BJ_PARKS_2026_0711"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0712",
@@ -6991,7 +7908,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -7052,7 +7969,52 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0712",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0712",
+      "AREA_BJ_PARKS_2026_0712"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "bj02_catalog_evidence_links": [
+      {
+        "source_entity_id": "BJ02_SCENIC_0140",
+        "observation_ids": [
+          "BJ02_SCENIC_0140"
+        ],
+        "name_variants": [
+          "仙栖洞景区"
+        ],
+        "evidence": [
+          {
+            "source_id": "scenic",
+            "source_row": 140,
+            "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+            "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/117818",
+            "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+            "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+            "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+            "source_display_dates": [
+              "2026-07-30"
+            ],
+            "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+            "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+            "evidence_file": "raw/scenic.json"
+          }
+        ],
+        "identity_assertion": {
+          "source_entity_id": "BJ02_SCENIC_0140",
+          "relation": "same_official_directory_destination",
+          "parent_source_entity_id": "BJ_PARKS_2026_0712",
+          "detail_url": "https://s.visitbeijing.com.cn/attraction/117818",
+          "quote": "仙栖洞位于北京市房山区张坊镇东关上村。",
+          "basis": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation."
+        }
+      }
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0713",
@@ -7074,7 +8036,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=房山区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -7135,6 +8097,1791 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0713",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0713",
+      "AREA_BJ_PARKS_2026_0713"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "bj02_catalog_evidence_links": [
+      {
+        "source_entity_id": "BJ02_SCENIC_0047",
+        "observation_ids": [
+          "BJ02_SCENIC_0047"
+        ],
+        "name_variants": [
+          "北京市房山区云居寺景区"
+        ],
+        "evidence": [
+          {
+            "source_id": "scenic",
+            "source_row": 47,
+            "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+            "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101425",
+            "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+            "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+            "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+            "source_display_dates": [
+              "2026-07-30"
+            ],
+            "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+            "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+            "evidence_file": "raw/scenic.json"
+          }
+        ],
+        "identity_assertion": {
+          "source_entity_id": "BJ02_SCENIC_0047",
+          "relation": "same_official_directory_destination",
+          "parent_source_entity_id": "BJ_PARKS_2026_0713",
+          "detail_url": "https://s.visitbeijing.com.cn/attraction/101425",
+          "quote": "云居寺位于北京西南郊七十多公里处房山区境内的白带山(又称石经山)西南麓，距市中心70公里。",
+          "basis": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation."
+        }
+      }
+    ]
+  },
+  {
+    "raw_id": "AREA_BJ02_SCENIC_0049",
+    "source_entity_id": "BJ02_SCENIC_0049",
+    "spot_id": "SP_BJ02_SCENIC_0049",
+    "entity_type": "spot",
+    "full_name": "北京市房山区周口店遗址景区",
+    "blind_name": "北***********区",
+    "name_variants": [
+      "北京市房山区周口店遗址景区"
+    ],
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110111",
+    "area_name": "房山区",
+    "area_assignment_basis": "official_area_column",
+    "township_name": null,
+    "address": null,
+    "search_tier": "county_level",
+    "matched_search_keyword": "A级旅游景区",
+    "matched_search_keywords": [
+      "A_rated_attraction"
+    ],
+    "query": "北京市 A级旅游景区 名录 2026 名称 区",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_attempted_prior_batch_TLS_failure_respected"
+    },
+    "official_attraction_grade": "4A",
+    "official_categories": [
+      "A_rated_attraction"
+    ],
+    "tags": [
+      {
+        "name": "寻古",
+        "type": "strong"
+      },
+      {
+        "name": "古建",
+        "type": "strong"
+      },
+      {
+        "name": "历史爱好者",
+        "type": "weak"
+      },
+      {
+        "name": "怀古",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "rule_inputs": [
+        "official_directory_category",
+        "full_name"
+      ],
+      "not_claimed_as_official_experience_fact": true
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "mock_weather": null,
+    "events_and_discounts": null,
+    "ai_strategy": null,
+    "tag_interpretation": null,
+    "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+    "source_row": 49,
+    "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+    "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "evidence": [
+      {
+        "source_id": "scenic",
+        "source_row": 49,
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101537",
+        "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+        "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+        "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+        "source_display_dates": [
+          "2026-07-30"
+        ],
+        "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+        "evidence_file": "raw/scenic.json"
+      }
+    ],
+    "observation_ids": [
+      "BJ02_SCENIC_0049"
+    ],
+    "verification_status": "catalog_identity_reviewed_pending_enrich",
+    "merge_status": "conservative_catalog_increment_not_geographic_net",
+    "license_status": "public_government_directory_no_explicit_reuse_license_verified",
+    "pending_enrich": [
+      "coordinates",
+      "address",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety",
+      "geographic_identity_and_footprint"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "raw_ids": [
+      "CITY_BJ02_SCENIC_0049",
+      "AREA_BJ02_SCENIC_0049"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_promotion_basis": "official_unique_named_venue_and_explicit_district_no_detected_collision",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0049",
+        "official_name_verbatim": "北京市房山区周口店遗址景区",
+        "area_name_verbatim": "房山区",
+        "area_code": "110111",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 49,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "geographic_net_addition_verified": false,
+    "eligible_for_blindbox_display": false,
+    "verified_fields": [
+      "official_directory_name",
+      "source_row_identity",
+      "official_district"
+    ],
+    "catalog_relation": "named_catalog_venue_geographic_relations_unverified"
+  },
+  {
+    "raw_id": "AREA_BJ02_SCENIC_0131",
+    "source_entity_id": "BJ02_SCENIC_0131",
+    "spot_id": "SP_BJ02_SCENIC_0131",
+    "entity_type": "spot",
+    "full_name": "北京房山区张坊宋辽古城景区",
+    "blind_name": "北***********区",
+    "name_variants": [
+      "北京房山区张坊宋辽古城景区"
+    ],
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110111",
+    "area_name": "房山区",
+    "area_assignment_basis": "official_area_column",
+    "township_name": null,
+    "address": null,
+    "search_tier": "county_level",
+    "matched_search_keyword": "A级旅游景区",
+    "matched_search_keywords": [
+      "A_rated_attraction"
+    ],
+    "query": "北京市 A级旅游景区 名录 2026 名称 区",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_attempted_prior_batch_TLS_failure_respected"
+    },
+    "official_attraction_grade": "3A",
+    "official_categories": [
+      "A_rated_attraction"
+    ],
+    "tags": [
+      {
+        "name": "寻古",
+        "type": "strong"
+      },
+      {
+        "name": "古建",
+        "type": "strong"
+      },
+      {
+        "name": "历史爱好者",
+        "type": "weak"
+      },
+      {
+        "name": "怀古",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "rule_inputs": [
+        "official_directory_category",
+        "full_name"
+      ],
+      "not_claimed_as_official_experience_fact": true
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "mock_weather": null,
+    "events_and_discounts": null,
+    "ai_strategy": null,
+    "tag_interpretation": null,
+    "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+    "source_row": 131,
+    "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+    "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "evidence": [
+      {
+        "source_id": "scenic",
+        "source_row": 131,
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/120999",
+        "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+        "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+        "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+        "source_display_dates": [
+          "2026-07-30"
+        ],
+        "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+        "evidence_file": "raw/scenic.json"
+      }
+    ],
+    "observation_ids": [
+      "BJ02_SCENIC_0131"
+    ],
+    "verification_status": "catalog_identity_reviewed_pending_enrich",
+    "merge_status": "conservative_catalog_increment_not_geographic_net",
+    "license_status": "public_government_directory_no_explicit_reuse_license_verified",
+    "pending_enrich": [
+      "coordinates",
+      "address",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety",
+      "geographic_identity_and_footprint"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "raw_ids": [
+      "CITY_BJ02_SCENIC_0131",
+      "AREA_BJ02_SCENIC_0131"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_promotion_basis": "official_unique_named_venue_and_explicit_district_no_detected_collision",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0131",
+        "official_name_verbatim": "北京房山区张坊宋辽古城景区",
+        "area_name_verbatim": "房山区",
+        "area_code": "110111",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 131,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "geographic_net_addition_verified": false,
+    "eligible_for_blindbox_display": false,
+    "verified_fields": [
+      "official_directory_name",
+      "source_row_identity",
+      "official_district"
+    ],
+    "catalog_relation": "named_catalog_venue_geographic_relations_unverified"
+  },
+  {
+    "raw_id": "AREA_BJ02_SCENIC_0135",
+    "source_entity_id": "BJ02_SCENIC_0135",
+    "spot_id": "SP_BJ02_SCENIC_0135",
+    "entity_type": "spot",
+    "full_name": "北京市房山区韩村河景区",
+    "blind_name": "北*********区",
+    "name_variants": [
+      "北京市房山区韩村河景区"
+    ],
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110111",
+    "area_name": "房山区",
+    "area_assignment_basis": "official_area_column",
+    "township_name": null,
+    "address": null,
+    "search_tier": "county_level",
+    "matched_search_keyword": "A级旅游景区",
+    "matched_search_keywords": [
+      "A_rated_attraction"
+    ],
+    "query": "北京市 A级旅游景区 名录 2026 名称 区",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_attempted_prior_batch_TLS_failure_respected"
+    },
+    "official_attraction_grade": "3A",
+    "official_categories": [
+      "A_rated_attraction"
+    ],
+    "tags": [
+      {
+        "name": "摄影",
+        "type": "strong"
+      },
+      {
+        "name": "打卡",
+        "type": "strong"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      },
+      {
+        "name": "随遇而安",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "rule_inputs": [
+        "official_directory_category",
+        "full_name"
+      ],
+      "not_claimed_as_official_experience_fact": true
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "mock_weather": null,
+    "events_and_discounts": null,
+    "ai_strategy": null,
+    "tag_interpretation": null,
+    "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+    "source_row": 135,
+    "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+    "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "evidence": [
+      {
+        "source_id": "scenic",
+        "source_row": 135,
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/117803",
+        "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+        "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+        "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+        "source_display_dates": [
+          "2026-07-30"
+        ],
+        "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+        "evidence_file": "raw/scenic.json"
+      }
+    ],
+    "observation_ids": [
+      "BJ02_SCENIC_0135"
+    ],
+    "verification_status": "catalog_identity_reviewed_pending_enrich",
+    "merge_status": "conservative_catalog_increment_not_geographic_net",
+    "license_status": "public_government_directory_no_explicit_reuse_license_verified",
+    "pending_enrich": [
+      "coordinates",
+      "address",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety",
+      "geographic_identity_and_footprint"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "raw_ids": [
+      "CITY_BJ02_SCENIC_0135",
+      "AREA_BJ02_SCENIC_0135"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_promotion_basis": "official_unique_named_venue_and_explicit_district_no_detected_collision",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0135",
+        "official_name_verbatim": "北京市房山区韩村河景区",
+        "area_name_verbatim": "房山区",
+        "area_code": "110111",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 135,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "geographic_net_addition_verified": false,
+    "eligible_for_blindbox_display": false,
+    "verified_fields": [
+      "official_directory_name",
+      "source_row_identity",
+      "official_district"
+    ],
+    "catalog_relation": "named_catalog_venue_geographic_relations_unverified"
+  },
+  {
+    "raw_id": "AREA_BJ02_SCENIC_0136",
+    "source_entity_id": "BJ02_SCENIC_0136",
+    "spot_id": "SP_BJ02_SCENIC_0136",
+    "entity_type": "spot",
+    "full_name": "龙门生态园景区",
+    "blind_name": "龙*****区",
+    "name_variants": [
+      "龙门生态园景区"
+    ],
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110111",
+    "area_name": "房山区",
+    "area_assignment_basis": "official_area_column",
+    "township_name": null,
+    "address": null,
+    "search_tier": "county_level",
+    "matched_search_keyword": "A级旅游景区",
+    "matched_search_keywords": [
+      "A_rated_attraction"
+    ],
+    "query": "北京市 A级旅游景区 名录 2026 名称 区",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_attempted_prior_batch_TLS_failure_respected"
+    },
+    "official_attraction_grade": "3A",
+    "official_categories": [
+      "A_rated_attraction"
+    ],
+    "tags": [
+      {
+        "name": "摄影",
+        "type": "strong"
+      },
+      {
+        "name": "打卡",
+        "type": "strong"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      },
+      {
+        "name": "随遇而安",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "rule_inputs": [
+        "official_directory_category",
+        "full_name"
+      ],
+      "not_claimed_as_official_experience_fact": true
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "mock_weather": null,
+    "events_and_discounts": null,
+    "ai_strategy": null,
+    "tag_interpretation": null,
+    "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+    "source_row": 136,
+    "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+    "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "evidence": [
+      {
+        "source_id": "scenic",
+        "source_row": 136,
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/120565",
+        "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+        "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+        "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+        "source_display_dates": [
+          "2026-07-30"
+        ],
+        "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+        "evidence_file": "raw/scenic.json"
+      }
+    ],
+    "observation_ids": [
+      "BJ02_SCENIC_0136"
+    ],
+    "verification_status": "catalog_identity_reviewed_pending_enrich",
+    "merge_status": "conservative_catalog_increment_not_geographic_net",
+    "license_status": "public_government_directory_no_explicit_reuse_license_verified",
+    "pending_enrich": [
+      "coordinates",
+      "address",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety",
+      "geographic_identity_and_footprint"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "raw_ids": [
+      "CITY_BJ02_SCENIC_0136",
+      "AREA_BJ02_SCENIC_0136"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_promotion_basis": "official_unique_named_venue_and_explicit_district_no_detected_collision",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0136",
+        "official_name_verbatim": "龙门生态园景区",
+        "area_name_verbatim": "房山区",
+        "area_code": "110111",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 136,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "geographic_net_addition_verified": false,
+    "eligible_for_blindbox_display": false,
+    "verified_fields": [
+      "official_directory_name",
+      "source_row_identity",
+      "official_district"
+    ],
+    "catalog_relation": "named_catalog_venue_geographic_relations_unverified"
+  },
+  {
+    "raw_id": "AREA_BJ02_SCENIC_0137",
+    "source_entity_id": "BJ02_SCENIC_0137",
+    "spot_id": "SP_BJ02_SCENIC_0137",
+    "entity_type": "spot",
+    "full_name": "北京白草畔自然风景区",
+    "blind_name": "北********区",
+    "name_variants": [
+      "北京白草畔自然风景区"
+    ],
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110111",
+    "area_name": "房山区",
+    "area_assignment_basis": "official_area_column",
+    "township_name": null,
+    "address": null,
+    "search_tier": "county_level",
+    "matched_search_keyword": "A级旅游景区",
+    "matched_search_keywords": [
+      "A_rated_attraction"
+    ],
+    "query": "北京市 A级旅游景区 名录 2026 名称 区",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_attempted_prior_batch_TLS_failure_respected"
+    },
+    "official_attraction_grade": "3A",
+    "official_categories": [
+      "A_rated_attraction"
+    ],
+    "tags": [
+      {
+        "name": "摄影",
+        "type": "strong"
+      },
+      {
+        "name": "打卡",
+        "type": "strong"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      },
+      {
+        "name": "随遇而安",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "rule_inputs": [
+        "official_directory_category",
+        "full_name"
+      ],
+      "not_claimed_as_official_experience_fact": true
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "mock_weather": null,
+    "events_and_discounts": null,
+    "ai_strategy": null,
+    "tag_interpretation": null,
+    "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+    "source_row": 137,
+    "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+    "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "evidence": [
+      {
+        "source_id": "scenic",
+        "source_row": 137,
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/117838",
+        "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+        "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+        "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+        "source_display_dates": [
+          "2026-07-30"
+        ],
+        "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+        "evidence_file": "raw/scenic.json"
+      }
+    ],
+    "observation_ids": [
+      "BJ02_SCENIC_0137"
+    ],
+    "verification_status": "catalog_identity_reviewed_pending_enrich",
+    "merge_status": "conservative_catalog_increment_not_geographic_net",
+    "license_status": "public_government_directory_no_explicit_reuse_license_verified",
+    "pending_enrich": [
+      "coordinates",
+      "address",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety",
+      "geographic_identity_and_footprint"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "raw_ids": [
+      "CITY_BJ02_SCENIC_0137",
+      "AREA_BJ02_SCENIC_0137"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_promotion_basis": "official_unique_named_venue_and_explicit_district_no_detected_collision",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0137",
+        "official_name_verbatim": "北京白草畔自然风景区",
+        "area_name_verbatim": "房山区",
+        "area_code": "110111",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 137,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "geographic_net_addition_verified": false,
+    "eligible_for_blindbox_display": false,
+    "verified_fields": [
+      "official_directory_name",
+      "source_row_identity",
+      "official_district"
+    ],
+    "catalog_relation": "named_catalog_venue_geographic_relations_unverified"
+  },
+  {
+    "raw_id": "AREA_BJ02_SCENIC_0138",
+    "source_entity_id": "BJ02_SCENIC_0138",
+    "spot_id": "SP_BJ02_SCENIC_0138",
+    "entity_type": "spot",
+    "full_name": "北京百瑞谷景区",
+    "blind_name": "北*****区",
+    "name_variants": [
+      "北京百瑞谷景区"
+    ],
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110111",
+    "area_name": "房山区",
+    "area_assignment_basis": "official_area_column",
+    "township_name": null,
+    "address": null,
+    "search_tier": "county_level",
+    "matched_search_keyword": "A级旅游景区",
+    "matched_search_keywords": [
+      "A_rated_attraction"
+    ],
+    "query": "北京市 A级旅游景区 名录 2026 名称 区",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_attempted_prior_batch_TLS_failure_respected"
+    },
+    "official_attraction_grade": "3A",
+    "official_categories": [
+      "A_rated_attraction"
+    ],
+    "tags": [
+      {
+        "name": "摄影",
+        "type": "strong"
+      },
+      {
+        "name": "打卡",
+        "type": "strong"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      },
+      {
+        "name": "随遇而安",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "rule_inputs": [
+        "official_directory_category",
+        "full_name"
+      ],
+      "not_claimed_as_official_experience_fact": true
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "mock_weather": null,
+    "events_and_discounts": null,
+    "ai_strategy": null,
+    "tag_interpretation": null,
+    "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+    "source_row": 138,
+    "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+    "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "evidence": [
+      {
+        "source_id": "scenic",
+        "source_row": 138,
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/121000",
+        "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+        "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+        "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+        "source_display_dates": [
+          "2026-07-30"
+        ],
+        "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+        "evidence_file": "raw/scenic.json"
+      }
+    ],
+    "observation_ids": [
+      "BJ02_SCENIC_0138"
+    ],
+    "verification_status": "catalog_identity_reviewed_pending_enrich",
+    "merge_status": "conservative_catalog_increment_not_geographic_net",
+    "license_status": "public_government_directory_no_explicit_reuse_license_verified",
+    "pending_enrich": [
+      "coordinates",
+      "address",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety",
+      "geographic_identity_and_footprint"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "raw_ids": [
+      "CITY_BJ02_SCENIC_0138",
+      "AREA_BJ02_SCENIC_0138"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_promotion_basis": "official_unique_named_venue_and_explicit_district_no_detected_collision",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0138",
+        "official_name_verbatim": "北京百瑞谷景区",
+        "area_name_verbatim": "房山区",
+        "area_code": "110111",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 138,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "geographic_net_addition_verified": false,
+    "eligible_for_blindbox_display": false,
+    "verified_fields": [
+      "official_directory_name",
+      "source_row_identity",
+      "official_district"
+    ],
+    "catalog_relation": "named_catalog_venue_geographic_relations_unverified"
+  },
+  {
+    "raw_id": "AREA_BJ02_SCENIC_0139",
+    "source_entity_id": "BJ02_SCENIC_0139",
+    "spot_id": "SP_BJ02_SCENIC_0139",
+    "entity_type": "spot",
+    "full_name": "坡峰岭风景区",
+    "blind_name": "坡****区",
+    "name_variants": [
+      "坡峰岭风景区"
+    ],
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110111",
+    "area_name": "房山区",
+    "area_assignment_basis": "official_area_column",
+    "township_name": null,
+    "address": null,
+    "search_tier": "county_level",
+    "matched_search_keyword": "A级旅游景区",
+    "matched_search_keywords": [
+      "A_rated_attraction"
+    ],
+    "query": "北京市 A级旅游景区 名录 2026 名称 区",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_attempted_prior_batch_TLS_failure_respected"
+    },
+    "official_attraction_grade": "3A",
+    "official_categories": [
+      "A_rated_attraction"
+    ],
+    "tags": [
+      {
+        "name": "摄影",
+        "type": "strong"
+      },
+      {
+        "name": "打卡",
+        "type": "strong"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      },
+      {
+        "name": "随遇而安",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "rule_inputs": [
+        "official_directory_category",
+        "full_name"
+      ],
+      "not_claimed_as_official_experience_fact": true
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "mock_weather": null,
+    "events_and_discounts": null,
+    "ai_strategy": null,
+    "tag_interpretation": null,
+    "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+    "source_row": 139,
+    "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+    "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "evidence": [
+      {
+        "source_id": "scenic",
+        "source_row": 139,
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/118548",
+        "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+        "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+        "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+        "source_display_dates": [
+          "2026-07-30"
+        ],
+        "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+        "evidence_file": "raw/scenic.json"
+      }
+    ],
+    "observation_ids": [
+      "BJ02_SCENIC_0139"
+    ],
+    "verification_status": "catalog_identity_reviewed_pending_enrich",
+    "merge_status": "conservative_catalog_increment_not_geographic_net",
+    "license_status": "public_government_directory_no_explicit_reuse_license_verified",
+    "pending_enrich": [
+      "coordinates",
+      "address",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety",
+      "geographic_identity_and_footprint"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "raw_ids": [
+      "CITY_BJ02_SCENIC_0139",
+      "AREA_BJ02_SCENIC_0139"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_promotion_basis": "official_unique_named_venue_and_explicit_district_no_detected_collision",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0139",
+        "official_name_verbatim": "坡峰岭风景区",
+        "area_name_verbatim": "房山区",
+        "area_code": "110111",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 139,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "geographic_net_addition_verified": false,
+    "eligible_for_blindbox_display": false,
+    "verified_fields": [
+      "official_directory_name",
+      "source_row_identity",
+      "official_district"
+    ],
+    "catalog_relation": "named_catalog_venue_geographic_relations_unverified"
+  },
+  {
+    "raw_id": "AREA_BJ02_SCENIC_0141",
+    "source_entity_id": "BJ02_SCENIC_0141",
+    "spot_id": "SP_BJ02_SCENIC_0141",
+    "entity_type": "spot",
+    "full_name": "金水湖景区",
+    "blind_name": "金***区",
+    "name_variants": [
+      "金水湖景区"
+    ],
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110111",
+    "area_name": "房山区",
+    "area_assignment_basis": "official_area_column",
+    "township_name": null,
+    "address": null,
+    "search_tier": "county_level",
+    "matched_search_keyword": "A级旅游景区",
+    "matched_search_keywords": [
+      "A_rated_attraction"
+    ],
+    "query": "北京市 A级旅游景区 名录 2026 名称 区",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_attempted_prior_batch_TLS_failure_respected"
+    },
+    "official_attraction_grade": "3A",
+    "official_categories": [
+      "A_rated_attraction"
+    ],
+    "tags": [
+      {
+        "name": "摄影",
+        "type": "strong"
+      },
+      {
+        "name": "打卡",
+        "type": "strong"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      },
+      {
+        "name": "随遇而安",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "rule_inputs": [
+        "official_directory_category",
+        "full_name"
+      ],
+      "not_claimed_as_official_experience_fact": true
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "mock_weather": null,
+    "events_and_discounts": null,
+    "ai_strategy": null,
+    "tag_interpretation": null,
+    "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+    "source_row": 141,
+    "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+    "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "evidence": [
+      {
+        "source_id": "scenic",
+        "source_row": 141,
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/120961",
+        "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+        "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+        "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+        "source_display_dates": [
+          "2026-07-30"
+        ],
+        "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+        "evidence_file": "raw/scenic.json"
+      }
+    ],
+    "observation_ids": [
+      "BJ02_SCENIC_0141"
+    ],
+    "verification_status": "catalog_identity_reviewed_pending_enrich",
+    "merge_status": "conservative_catalog_increment_not_geographic_net",
+    "license_status": "public_government_directory_no_explicit_reuse_license_verified",
+    "pending_enrich": [
+      "coordinates",
+      "address",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety",
+      "geographic_identity_and_footprint"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "raw_ids": [
+      "CITY_BJ02_SCENIC_0141",
+      "AREA_BJ02_SCENIC_0141"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_promotion_basis": "official_unique_named_venue_and_explicit_district_no_detected_collision",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0141",
+        "official_name_verbatim": "金水湖景区",
+        "area_name_verbatim": "房山区",
+        "area_code": "110111",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 141,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "geographic_net_addition_verified": false,
+    "eligible_for_blindbox_display": false,
+    "verified_fields": [
+      "official_directory_name",
+      "source_row_identity",
+      "official_district"
+    ],
+    "catalog_relation": "named_catalog_venue_geographic_relations_unverified"
+  },
+  {
+    "raw_id": "AREA_BJ02_SCENIC_0142",
+    "source_entity_id": "BJ02_SCENIC_0142",
+    "spot_id": "SP_BJ02_SCENIC_0142",
+    "entity_type": "spot",
+    "full_name": "北京莱恩堡国际酒庄景区",
+    "blind_name": "北*********区",
+    "name_variants": [
+      "北京莱恩堡国际酒庄景区"
+    ],
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110111",
+    "area_name": "房山区",
+    "area_assignment_basis": "official_area_column",
+    "township_name": null,
+    "address": null,
+    "search_tier": "county_level",
+    "matched_search_keyword": "A级旅游景区",
+    "matched_search_keywords": [
+      "A_rated_attraction"
+    ],
+    "query": "北京市 A级旅游景区 名录 2026 名称 区",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_attempted_prior_batch_TLS_failure_respected"
+    },
+    "official_attraction_grade": "3A",
+    "official_categories": [
+      "A_rated_attraction"
+    ],
+    "tags": [
+      {
+        "name": "摄影",
+        "type": "strong"
+      },
+      {
+        "name": "打卡",
+        "type": "strong"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      },
+      {
+        "name": "随遇而安",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "rule_inputs": [
+        "official_directory_category",
+        "full_name"
+      ],
+      "not_claimed_as_official_experience_fact": true
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "mock_weather": null,
+    "events_and_discounts": null,
+    "ai_strategy": null,
+    "tag_interpretation": null,
+    "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+    "source_row": 142,
+    "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+    "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "evidence": [
+      {
+        "source_id": "scenic",
+        "source_row": 142,
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/121001",
+        "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+        "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+        "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+        "source_display_dates": [
+          "2026-07-30"
+        ],
+        "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+        "evidence_file": "raw/scenic.json"
+      }
+    ],
+    "observation_ids": [
+      "BJ02_SCENIC_0142"
+    ],
+    "verification_status": "catalog_identity_reviewed_pending_enrich",
+    "merge_status": "conservative_catalog_increment_not_geographic_net",
+    "license_status": "public_government_directory_no_explicit_reuse_license_verified",
+    "pending_enrich": [
+      "coordinates",
+      "address",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety",
+      "geographic_identity_and_footprint"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "raw_ids": [
+      "CITY_BJ02_SCENIC_0142",
+      "AREA_BJ02_SCENIC_0142"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_promotion_basis": "official_unique_named_venue_and_explicit_district_no_detected_collision",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0142",
+        "official_name_verbatim": "北京莱恩堡国际酒庄景区",
+        "area_name_verbatim": "房山区",
+        "area_code": "110111",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 142,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "geographic_net_addition_verified": false,
+    "eligible_for_blindbox_display": false,
+    "verified_fields": [
+      "official_directory_name",
+      "source_row_identity",
+      "official_district"
+    ],
+    "catalog_relation": "named_catalog_venue_geographic_relations_unverified"
+  },
+  {
+    "raw_id": "AREA_BJ02_SCENIC_0143",
+    "source_entity_id": "BJ02_SCENIC_0143",
+    "spot_id": "SP_BJ02_SCENIC_0143",
+    "entity_type": "spot",
+    "full_name": "乐谷银滩风景区",
+    "blind_name": "乐*****区",
+    "name_variants": [
+      "乐谷银滩风景区"
+    ],
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110111",
+    "area_name": "房山区",
+    "area_assignment_basis": "official_area_column",
+    "township_name": null,
+    "address": null,
+    "search_tier": "county_level",
+    "matched_search_keyword": "A级旅游景区",
+    "matched_search_keywords": [
+      "A_rated_attraction"
+    ],
+    "query": "北京市 A级旅游景区 名录 2026 名称 区",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_attempted_prior_batch_TLS_failure_respected"
+    },
+    "official_attraction_grade": "3A",
+    "official_categories": [
+      "A_rated_attraction"
+    ],
+    "tags": [
+      {
+        "name": "摄影",
+        "type": "strong"
+      },
+      {
+        "name": "打卡",
+        "type": "strong"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      },
+      {
+        "name": "随遇而安",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "rule_inputs": [
+        "official_directory_category",
+        "full_name"
+      ],
+      "not_claimed_as_official_experience_fact": true
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "mock_weather": null,
+    "events_and_discounts": null,
+    "ai_strategy": null,
+    "tag_interpretation": null,
+    "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+    "source_row": 143,
+    "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+    "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "evidence": [
+      {
+        "source_id": "scenic",
+        "source_row": 143,
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/120991",
+        "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+        "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+        "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+        "source_display_dates": [
+          "2026-07-30"
+        ],
+        "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+        "evidence_file": "raw/scenic.json"
+      }
+    ],
+    "observation_ids": [
+      "BJ02_SCENIC_0143"
+    ],
+    "verification_status": "catalog_identity_reviewed_pending_enrich",
+    "merge_status": "conservative_catalog_increment_not_geographic_net",
+    "license_status": "public_government_directory_no_explicit_reuse_license_verified",
+    "pending_enrich": [
+      "coordinates",
+      "address",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety",
+      "geographic_identity_and_footprint"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "raw_ids": [
+      "CITY_BJ02_SCENIC_0143",
+      "AREA_BJ02_SCENIC_0143"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_promotion_basis": "official_unique_named_venue_and_explicit_district_no_detected_collision",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0143",
+        "official_name_verbatim": "乐谷银滩风景区",
+        "area_name_verbatim": "房山区",
+        "area_code": "110111",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 143,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "geographic_net_addition_verified": false,
+    "eligible_for_blindbox_display": false,
+    "verified_fields": [
+      "official_directory_name",
+      "source_row_identity",
+      "official_district"
+    ],
+    "catalog_relation": "named_catalog_venue_geographic_relations_unverified"
+  },
+  {
+    "raw_id": "AREA_BJ02_SCENIC_0188",
+    "source_entity_id": "BJ02_SCENIC_0188",
+    "spot_id": "SP_BJ02_SCENIC_0188",
+    "entity_type": "spot",
+    "full_name": "房山区没有共产党就没有新中国革命歌曲纪念馆景区",
+    "blind_name": "房*********************区",
+    "name_variants": [
+      "房山区没有共产党就没有新中国革命歌曲纪念馆景区"
+    ],
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110111",
+    "area_name": "房山区",
+    "area_assignment_basis": "official_area_column",
+    "township_name": null,
+    "address": null,
+    "search_tier": "county_level",
+    "matched_search_keyword": "A级旅游景区",
+    "matched_search_keywords": [
+      "A_rated_attraction"
+    ],
+    "query": "北京市 A级旅游景区 名录 2026 名称 区",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_attempted_prior_batch_TLS_failure_respected"
+    },
+    "official_attraction_grade": "2A",
+    "official_categories": [
+      "A_rated_attraction"
+    ],
+    "tags": [
+      {
+        "name": "博物馆",
+        "type": "strong"
+      },
+      {
+        "name": "看展",
+        "type": "strong"
+      },
+      {
+        "name": "研学",
+        "type": "weak"
+      },
+      {
+        "name": "文青",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "rule_inputs": [
+        "official_directory_category",
+        "full_name"
+      ],
+      "not_claimed_as_official_experience_fact": true
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "mock_weather": null,
+    "events_and_discounts": null,
+    "ai_strategy": null,
+    "tag_interpretation": null,
+    "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+    "source_row": 188,
+    "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+    "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "evidence": [
+      {
+        "source_id": "scenic",
+        "source_row": 188,
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/117929",
+        "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+        "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+        "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+        "source_display_dates": [
+          "2026-07-30"
+        ],
+        "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+        "evidence_file": "raw/scenic.json"
+      }
+    ],
+    "observation_ids": [
+      "BJ02_SCENIC_0188"
+    ],
+    "verification_status": "catalog_identity_reviewed_pending_enrich",
+    "merge_status": "conservative_catalog_increment_not_geographic_net",
+    "license_status": "public_government_directory_no_explicit_reuse_license_verified",
+    "pending_enrich": [
+      "coordinates",
+      "address",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety",
+      "geographic_identity_and_footprint"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "raw_ids": [
+      "CITY_BJ02_SCENIC_0188",
+      "AREA_BJ02_SCENIC_0188"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_promotion_basis": "official_unique_named_venue_and_explicit_district_no_detected_collision",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0188",
+        "official_name_verbatim": "房山区没有共产党就没有新中国革命歌曲纪念馆景区",
+        "area_name_verbatim": "房山区",
+        "area_code": "110111",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 188,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "geographic_net_addition_verified": false,
+    "eligible_for_blindbox_display": false,
+    "verified_fields": [
+      "official_directory_name",
+      "source_row_identity",
+      "official_district"
+    ],
+    "catalog_relation": "named_catalog_venue_geographic_relations_unverified"
+  },
+  {
+    "raw_id": "AREA_BJ02_SCENIC_0189",
+    "source_entity_id": "BJ02_SCENIC_0189",
+    "spot_id": "SP_BJ02_SCENIC_0189",
+    "entity_type": "spot",
+    "full_name": "银狐洞景区",
+    "blind_name": "银***区",
+    "name_variants": [
+      "银狐洞景区"
+    ],
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110111",
+    "area_name": "房山区",
+    "area_assignment_basis": "official_area_column",
+    "township_name": null,
+    "address": null,
+    "search_tier": "county_level",
+    "matched_search_keyword": "A级旅游景区",
+    "matched_search_keywords": [
+      "A_rated_attraction"
+    ],
+    "query": "北京市 A级旅游景区 名录 2026 名称 区",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_attempted_prior_batch_TLS_failure_respected"
+    },
+    "official_attraction_grade": "2A",
+    "official_categories": [
+      "A_rated_attraction"
+    ],
+    "tags": [
+      {
+        "name": "摄影",
+        "type": "strong"
+      },
+      {
+        "name": "打卡",
+        "type": "strong"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      },
+      {
+        "name": "随遇而安",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "rule_inputs": [
+        "official_directory_category",
+        "full_name"
+      ],
+      "not_claimed_as_official_experience_fact": true
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "mock_weather": null,
+    "events_and_discounts": null,
+    "ai_strategy": null,
+    "tag_interpretation": null,
+    "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+    "source_row": 189,
+    "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+    "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "evidence": [
+      {
+        "source_id": "scenic",
+        "source_row": 189,
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101484",
+        "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+        "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+        "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+        "source_display_dates": [
+          "2026-07-30"
+        ],
+        "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+        "evidence_file": "raw/scenic.json"
+      }
+    ],
+    "observation_ids": [
+      "BJ02_SCENIC_0189"
+    ],
+    "verification_status": "catalog_identity_reviewed_pending_enrich",
+    "merge_status": "conservative_catalog_increment_not_geographic_net",
+    "license_status": "public_government_directory_no_explicit_reuse_license_verified",
+    "pending_enrich": [
+      "coordinates",
+      "address",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety",
+      "geographic_identity_and_footprint"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "raw_ids": [
+      "CITY_BJ02_SCENIC_0189",
+      "AREA_BJ02_SCENIC_0189"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_promotion_basis": "official_unique_named_venue_and_explicit_district_no_detected_collision",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0189",
+        "official_name_verbatim": "银狐洞景区",
+        "area_name_verbatim": "房山区",
+        "area_code": "110111",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 189,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "geographic_net_addition_verified": false,
+    "eligible_for_blindbox_display": false,
+    "verified_fields": [
+      "official_directory_name",
+      "source_row_identity",
+      "official_district"
+    ],
+    "catalog_relation": "named_catalog_venue_geographic_relations_unverified"
   }
 ]

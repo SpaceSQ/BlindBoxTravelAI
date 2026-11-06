@@ -1,0 +1,1719 @@
+[
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0001",
+        "name": "天坛公园景区",
+        "normalized_name": "天坛公园",
+        "area_name": "东城区",
+        "area_code": "110101",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "5A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 1,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101409",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0002"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0004",
+        "name": "北京奥林匹克公园景区",
+        "normalized_name": "奥林匹克公园",
+        "area_name": "朝阳区",
+        "area_code": "110105",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "5A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 4,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/118019",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0005",
+        "name": "圆明园遗址公园景区",
+        "normalized_name": "圆明园遗址公园",
+        "area_name": "海淀区",
+        "area_code": "110108",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "5A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 5,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101422",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0314"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0011",
+        "name": "北京市东城区地坛公园景区",
+        "normalized_name": "地坛公园",
+        "area_name": "东城区",
+        "area_code": "110101",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "4A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 11,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/117830",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0044"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0013",
+        "name": "北京市中山公园景区",
+        "normalized_name": "中山公园",
+        "area_name": "东城区",
+        "area_code": "110101",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "4A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 13,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101454",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0004"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0014",
+        "name": "明城墙遗址公园",
+        "normalized_name": "明城墙遗址公园",
+        "area_name": "东城区",
+        "area_code": "110101",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "4A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 14,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/117983",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0045"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0015",
+        "name": "东城区龙潭公园景区",
+        "normalized_name": "龙潭公园",
+        "area_name": "东城区",
+        "area_code": "110101",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "4A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 15,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101944",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0017"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0018",
+        "name": "北京市陶然亭公园景区",
+        "normalized_name": "陶然亭公园",
+        "area_name": "西城区",
+        "area_code": "110102",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "4A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 18,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/117812",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0009"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0019",
+        "name": "北京市北海公园旅游区",
+        "normalized_name": "北海公园",
+        "area_name": "西城区",
+        "area_code": "110102",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "4A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 19,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/117807",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0003"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0021",
+        "name": "北京市景山公园景区",
+        "normalized_name": "景山公园",
+        "area_name": "西城区",
+        "area_code": "110102",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "4A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 21,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/117811",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0006"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0022",
+        "name": "北京动物园景区",
+        "normalized_name": "动物园",
+        "area_name": "西城区",
+        "area_code": "110102",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "4A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 22,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://www.doubao.com/chat/25412314251815170",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0008"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0024",
+        "name": "朝阳公园景区",
+        "normalized_name": "朝阳公园",
+        "area_name": "朝阳区",
+        "area_code": "110105",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "4A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 24,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101910",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0180"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0029",
+        "name": "丰台区北宫森林公园景区",
+        "normalized_name": "北宫森林公园",
+        "area_name": "丰台区",
+        "area_code": "110106",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "4A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 29,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/117723",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0030",
+        "name": "世界公园30景区",
+        "normalized_name": "世界公园30",
+        "area_name": "丰台区",
+        "area_code": "110106",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "4A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 30,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101609",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0031",
+        "name": "世界花卉大观园景区",
+        "normalized_name": "世界花卉大观园",
+        "area_name": "丰台区",
+        "area_code": "110106",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "4A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 31,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101936",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0440"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0034",
+        "name": "八大处公园",
+        "normalized_name": "八大处公园",
+        "area_name": "石景山区",
+        "area_code": "110107",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "4A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 34,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101427",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0553"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0036",
+        "name": "北京市玉渊潭公园景区",
+        "normalized_name": "玉渊潭公园",
+        "area_name": "海淀区",
+        "area_code": "110108",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "4A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 36,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101933",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0011"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0037",
+        "name": "国家植物园景区",
+        "normalized_name": "国家植物园",
+        "area_name": "海淀区",
+        "area_code": "110108",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "4A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 37,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/120981",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0039",
+        "name": "北京市香山公园景区",
+        "normalized_name": "香山公园",
+        "area_name": "海淀区",
+        "area_code": "110108",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "4A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 39,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101313",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0005"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0040",
+        "name": "紫竹院公园景区",
+        "normalized_name": "紫竹院公园",
+        "area_name": "海淀区",
+        "area_code": "110108",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "4A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 40,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101455",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0010"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0052",
+        "name": "顺义奥林匹克水上公园",
+        "normalized_name": "顺义奥林匹克水上公园",
+        "area_name": "顺义区",
+        "area_code": "110113",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "4A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 52,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/117989",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0806"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0060",
+        "name": "北京野生动物园景区",
+        "normalized_name": "野生动物园",
+        "area_name": "大兴区",
+        "area_code": "110115",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "4A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 60,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/117749",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0854"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0077",
+        "name": "北京世园公园",
+        "normalized_name": "世园公园",
+        "area_name": "延庆区",
+        "area_code": "110119",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "4A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 77,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/120984",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_1114"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0080",
+        "name": "北京市东城区青年湖公园景区",
+        "normalized_name": "青年湖公园",
+        "area_name": "东城区",
+        "area_code": "110101",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "3A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 80,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101733",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0016"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0082",
+        "name": "北京月坛公园",
+        "normalized_name": "月坛公园",
+        "area_name": "西城区",
+        "area_code": "110102",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "3A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 82,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101468",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0114"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0084",
+        "name": "北京市宣武艺园景区",
+        "normalized_name": "宣武艺园",
+        "area_name": "西城区",
+        "area_code": "110102",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "3A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 84,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/118008",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0090"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0086",
+        "name": "金中都公园景区",
+        "normalized_name": "金中都公园",
+        "area_name": "西城区",
+        "area_code": "110102",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "3A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 86,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/120562",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0088"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0090",
+        "name": "北京市朝阳区日坛公园景区",
+        "normalized_name": "日坛公园",
+        "area_name": "朝阳区",
+        "area_code": "110105",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "3A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 90,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101929",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0215"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0091",
+        "name": "北京市朝阳区团结湖公园景区",
+        "normalized_name": "团结湖公园",
+        "area_name": "朝阳区",
+        "area_code": "110105",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "3A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 91,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101947",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0183"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0092",
+        "name": "北京市朝阳区红领巾公园景区",
+        "normalized_name": "红领巾公园",
+        "area_name": "朝阳区",
+        "area_code": "110105",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "3A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 92,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101245",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0184"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0093",
+        "name": "将府公园旅游景区",
+        "normalized_name": "将府公园",
+        "area_name": "朝阳区",
+        "area_code": "110105",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "3A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 93,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/118341",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0094",
+        "name": "北京市朝阳区四得公园景区",
+        "normalized_name": "四得公园",
+        "area_name": "朝阳区",
+        "area_code": "110105",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "3A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 94,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/118229",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0185"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0095",
+        "name": "北京市朝阳区大望京公园景区",
+        "normalized_name": "大望京公园",
+        "area_name": "朝阳区",
+        "area_code": "110105",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "3A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 95,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/118306",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0182"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0096",
+        "name": "北小河公园景区",
+        "normalized_name": "北小河公园",
+        "area_name": "朝阳区",
+        "area_code": "110105",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "3A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 96,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/118413",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0186"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0097",
+        "name": "北京市朝阳区白鹿公园景区",
+        "normalized_name": "白鹿公园",
+        "area_name": "朝阳区",
+        "area_code": "110105",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "3A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 97,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/120558",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0098",
+        "name": "兴隆公园景区",
+        "normalized_name": "兴隆公园",
+        "area_name": "朝阳区",
+        "area_code": "110105",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "3A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 98,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/118012",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0188"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0101",
+        "name": "北京市朝阳区庆丰公园景区",
+        "normalized_name": "庆丰公园",
+        "area_name": "朝阳区",
+        "area_code": "110105",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "3A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 101,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/118308",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0181"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0102",
+        "name": "北京市朝阳区京城梨园景区",
+        "normalized_name": "京城梨园",
+        "area_name": "朝阳区",
+        "area_code": "110105",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "3A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 102,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/118310",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0105",
+        "name": "北京市朝阳区古塔公园景区",
+        "normalized_name": "古塔公园",
+        "area_name": "朝阳区",
+        "area_code": "110105",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "3A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 105,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/118406",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0189"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0106",
+        "name": "北京青龙湖公园景区",
+        "normalized_name": "青龙湖公园",
+        "area_name": "丰台区",
+        "area_code": "110106",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "3A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 106,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/117821",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0517"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0110",
+        "name": "北京鹫峰森林公园景区",
+        "normalized_name": "鹫峰森林公园",
+        "area_name": "海淀区",
+        "area_code": "110108",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "3A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 110,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101872",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0111",
+        "name": "北京市海淀百望山森林公园景区",
+        "normalized_name": "海淀百望山森林公园",
+        "area_name": "海淀区",
+        "area_code": "110108",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "3A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 111,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101450",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0113",
+        "name": "北京西山国家森林公园(昌华景区)",
+        "normalized_name": "西山国家森林公园(昌华景区)",
+        "area_name": "海淀区",
+        "area_code": "110108",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "3A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 113,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101591",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0379"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0146",
+        "name": "顺义区东江公园",
+        "normalized_name": "东江公园",
+        "area_name": "顺义区",
+        "area_code": "110113",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "3A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 146,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/121002",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0154",
+        "name": "北京呀路古热带植物园景区",
+        "normalized_name": "呀路古热带植物园",
+        "area_name": "大兴区",
+        "area_code": "110115",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "3A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 154,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/121004",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0163",
+        "name": "北京喇叭沟原始森林公园景区",
+        "normalized_name": "喇叭沟原始森林公园",
+        "area_name": "怀柔区",
+        "area_code": "110116",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "3A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 163,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101287",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0180",
+        "name": "北京蟒山森林公园景区",
+        "normalized_name": "蟒山森林公园",
+        "area_name": "昌平区",
+        "area_code": "110114",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "3A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 180,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/117854",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0181",
+        "name": "南苑森林湿地公园",
+        "normalized_name": "南苑森林湿地公园",
+        "area_name": "丰台区",
+        "area_code": "110106",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "3A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 181,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/121007",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0183",
+        "name": "莲花池公园景区",
+        "normalized_name": "莲花池公园",
+        "area_name": "丰台区",
+        "area_code": "110106",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "2A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 183,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101326",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0439"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0184",
+        "name": "丰台区万芳亭公园景区",
+        "normalized_name": "万芳亭公园",
+        "area_name": "丰台区",
+        "area_code": "110106",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "2A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 184,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/120626",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0410"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0185",
+        "name": "北京市丰台区丰台花园景区",
+        "normalized_name": "丰台花园",
+        "area_name": "丰台区",
+        "area_code": "110106",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "2A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 185,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/118028",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [
+      "BJ_PARKS_2026_0407"
+    ],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0202",
+        "name": "北京密云云蒙山长城遗址公园旅游区",
+        "normalized_name": "密云云蒙山长城遗址公园",
+        "area_name": "密云区",
+        "area_code": "110118",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "2A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 202,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/117733",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  },
+  {
+    "observations": [
+      {
+        "observation_id": "BJ02_SCENIC_0204",
+        "name": "北京后花园风景区",
+        "normalized_name": "后花园",
+        "area_name": "昌平区",
+        "area_code": "110114",
+        "area_basis": "official_area_column",
+        "category": "A_rated_attraction",
+        "grade": "1A",
+        "evidence": {
+          "source_id": "scenic",
+          "source_row": 204,
+          "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+          "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/117972",
+          "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+          "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+          "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+          "source_display_dates": [
+            "2026-07-30"
+          ],
+          "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+          "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+          "evidence_file": "raw/scenic.json"
+        }
+      }
+    ],
+    "prior_matches": [],
+    "reason": "park_type_outside_bj02_nonpark_scope"
+  }
+]

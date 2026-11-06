@@ -1,0 +1,19 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/118101",
+  "retrieved_at": "2026-11-07T01:02:11.832787+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/118101",
+  "response_sha256": "7a1de6ba19d048812b5edb5f516581ecdc47e5a666e8338f86fb696ac5a62eae",
+  "title": "北京古观象台",
+  "identity_excerpt_quotes": [
+    "北京古观象台位于建国门立交桥西南角，是世界上古老的天文台之一，已有500多年的历史。",
+    "它以建筑整齐配套、仪器保存完好、历史悠久而闻名于世。",
+    "1933年改为国立天文陈列馆，新中国成立后，经国务院批准隶属北京天文馆管理，于1956年5月1日以\"北京古代天文仪器陈列馆\"的名义对社会开放。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 500,
+  "fetch_state": "usable_identity_page"
+}

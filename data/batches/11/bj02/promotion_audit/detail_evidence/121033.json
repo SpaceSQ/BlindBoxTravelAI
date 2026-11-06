@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/121033",
+  "retrieved_at": "2026-11-07T00:58:46.843101+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/121033",
+  "response_sha256": "66d809ea5914bf49056dfd8422b8d729ae266d17a3fcf5c045d3973ffc065d61",
+  "title": "颐和园博物馆",
+  "identity_excerpt_quotes": [
+    "颐和园博物馆隶属北京市颐和园管理处，于2021年7月2日在北京市文物局备案，馆址位于世界文化遗产、全国重点文物保护单位颐和园内文昌阁东侧（光绪时期御膳房遗址之上），容古建筑风格和园林化环境于一体，是颐和园开展文物保护、研究和展览交流的重要场所。",
+    "颐和园博物馆藏品主要来源于清宫旧藏，现存文物藏品近4万件，其中一、二、三级珍贵文物2万余件。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 350,
+  "fetch_state": "usable_identity_page"
+}

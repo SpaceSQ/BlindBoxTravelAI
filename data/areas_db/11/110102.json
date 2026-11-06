@@ -19,7 +19,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -80,7 +80,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0003",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0003",
+      "AREA_BJ_PARKS_2026_0003"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0006",
@@ -102,7 +111,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -163,7 +172,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0006",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0006",
+      "AREA_BJ_PARKS_2026_0006"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0008",
@@ -185,7 +203,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -246,7 +264,25 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0008",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0008",
+      "AREA_BJ_PARKS_2026_0008"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "sub_spots": [
+      {
+        "spot_id": "SP_BJ02_SCENIC_0016",
+        "source_entity_id": "BJ02_SCENIC_0016",
+        "full_name": "北京海洋馆",
+        "relationship": "catalog_child_of",
+        "evidence_ref": "data/batches/11/bj02/promotion_audit/detail_evidence/117809.json"
+      }
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0009",
@@ -268,7 +304,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -329,7 +365,25 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0009",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0009",
+      "AREA_BJ_PARKS_2026_0009"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "sub_spots": [
+      {
+        "spot_id": "SP_BJ02_MUSEUMS_0066",
+        "source_entity_id": "BJ02_MUSEUMS_0066",
+        "full_name": "慈悲庵",
+        "relationship": "catalog_child_of",
+        "evidence_ref": "data/batches/11/bj02/promotion_audit/detail_evidence/118161.json"
+      }
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0088",
@@ -351,7 +405,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -412,7 +466,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0088",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0088",
+      "AREA_BJ_PARKS_2026_0088"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0089",
@@ -434,7 +497,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -495,7 +558,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0089",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0089",
+      "AREA_BJ_PARKS_2026_0089"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0090",
@@ -517,7 +589,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -578,7 +650,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0090",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0090",
+      "AREA_BJ_PARKS_2026_0090"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0091",
@@ -600,7 +681,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -661,7 +742,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0091",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0091",
+      "AREA_BJ_PARKS_2026_0091"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0092",
@@ -683,7 +773,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -744,7 +834,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0092",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0092",
+      "AREA_BJ_PARKS_2026_0092"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0093",
@@ -766,7 +865,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -827,7 +926,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0093",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0093",
+      "AREA_BJ_PARKS_2026_0093"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0094",
@@ -849,7 +957,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -910,7 +1018,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0094",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0094",
+      "AREA_BJ_PARKS_2026_0094"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0095",
@@ -932,7 +1049,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -993,7 +1110,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0095",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0095",
+      "AREA_BJ_PARKS_2026_0095"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0096",
@@ -1015,7 +1141,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -1076,7 +1202,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0096",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0096",
+      "AREA_BJ_PARKS_2026_0096"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0097",
@@ -1098,7 +1233,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -1159,7 +1294,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0097",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0097",
+      "AREA_BJ_PARKS_2026_0097"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0098",
@@ -1181,7 +1325,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -1242,7 +1386,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0098",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0098",
+      "AREA_BJ_PARKS_2026_0098"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0099",
@@ -1264,7 +1417,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -1325,7 +1478,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0099",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0099",
+      "AREA_BJ_PARKS_2026_0099"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0100",
@@ -1347,7 +1509,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -1408,7 +1570,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0100",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0100",
+      "AREA_BJ_PARKS_2026_0100"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0101",
@@ -1430,7 +1601,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -1491,7 +1662,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0101",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0101",
+      "AREA_BJ_PARKS_2026_0101"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0102",
@@ -1513,7 +1693,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -1574,7 +1754,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0102",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0102",
+      "AREA_BJ_PARKS_2026_0102"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0103",
@@ -1596,7 +1785,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -1657,7 +1846,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0103",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0103",
+      "AREA_BJ_PARKS_2026_0103"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0104",
@@ -1679,7 +1877,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -1740,7 +1938,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0104",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0104",
+      "AREA_BJ_PARKS_2026_0104"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0105",
@@ -1762,7 +1969,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -1823,7 +2030,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0105",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0105",
+      "AREA_BJ_PARKS_2026_0105"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0106",
@@ -1845,7 +2061,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -1906,7 +2122,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0106",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0106",
+      "AREA_BJ_PARKS_2026_0106"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0107",
@@ -1928,7 +2153,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -1989,7 +2214,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0107",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0107",
+      "AREA_BJ_PARKS_2026_0107"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0108",
@@ -2011,7 +2245,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -2072,7 +2306,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0108",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0108",
+      "AREA_BJ_PARKS_2026_0108"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0109",
@@ -2094,7 +2337,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -2155,7 +2398,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0109",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0109",
+      "AREA_BJ_PARKS_2026_0109"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0110",
@@ -2177,7 +2429,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -2238,7 +2490,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0110",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0110",
+      "AREA_BJ_PARKS_2026_0110"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0111",
@@ -2260,7 +2521,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -2321,7 +2582,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0111",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0111",
+      "AREA_BJ_PARKS_2026_0111"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0112",
@@ -2343,7 +2613,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -2404,7 +2674,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0112",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0112",
+      "AREA_BJ_PARKS_2026_0112"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0113",
@@ -2426,7 +2705,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -2487,7 +2766,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0113",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0113",
+      "AREA_BJ_PARKS_2026_0113"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0114",
@@ -2509,7 +2797,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -2570,7 +2858,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0114",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0114",
+      "AREA_BJ_PARKS_2026_0114"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0115",
@@ -2592,7 +2889,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -2653,7 +2950,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0115",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0115",
+      "AREA_BJ_PARKS_2026_0115"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0116",
@@ -2675,7 +2981,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -2736,7 +3042,52 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0116",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0116",
+      "AREA_BJ_PARKS_2026_0116"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "bj02_catalog_evidence_links": [
+      {
+        "source_entity_id": "BJ02_SCENIC_0083",
+        "observation_ids": [
+          "BJ02_SCENIC_0083"
+        ],
+        "name_variants": [
+          "北京大观园"
+        ],
+        "evidence": [
+          {
+            "source_id": "scenic",
+            "source_row": 83,
+            "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+            "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101918",
+            "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+            "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+            "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+            "source_display_dates": [
+              "2026-07-30"
+            ],
+            "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+            "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+            "evidence_file": "raw/scenic.json"
+          }
+        ],
+        "identity_assertion": {
+          "source_entity_id": "BJ02_SCENIC_0083",
+          "relation": "same_official_directory_destination",
+          "parent_source_entity_id": "BJ_PARKS_2026_0116",
+          "detail_url": "https://s.visitbeijing.com.cn/attraction/101918",
+          "quote": "大观园是一座再现中国古典文学名著《红楼梦》中“大观园”景观的仿古园林，位于宣武区南菜园（市区西南隅护城河畔）。",
+          "basis": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation."
+        }
+      }
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0117",
@@ -2758,7 +3109,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -2819,7 +3170,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0117",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0117",
+      "AREA_BJ_PARKS_2026_0117"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0118",
@@ -2841,7 +3201,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -2902,7 +3262,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0118",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0118",
+      "AREA_BJ_PARKS_2026_0118"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0119",
@@ -2924,7 +3293,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -2985,7 +3354,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0119",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0119",
+      "AREA_BJ_PARKS_2026_0119"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0120",
@@ -3007,7 +3385,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -3068,7 +3446,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0120",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0120",
+      "AREA_BJ_PARKS_2026_0120"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0121",
@@ -3090,7 +3477,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -3151,7 +3538,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0121",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0121",
+      "AREA_BJ_PARKS_2026_0121"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0122",
@@ -3173,7 +3569,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -3234,7 +3630,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0122",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0122",
+      "AREA_BJ_PARKS_2026_0122"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0123",
@@ -3256,7 +3661,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -3317,7 +3722,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0123",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0123",
+      "AREA_BJ_PARKS_2026_0123"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0124",
@@ -3339,7 +3753,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -3400,7 +3814,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0124",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0124",
+      "AREA_BJ_PARKS_2026_0124"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0125",
@@ -3422,7 +3845,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -3483,7 +3906,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0125",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0125",
+      "AREA_BJ_PARKS_2026_0125"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0126",
@@ -3505,7 +3937,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -3566,7 +3998,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0126",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0126",
+      "AREA_BJ_PARKS_2026_0126"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0127",
@@ -3588,7 +4029,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -3649,7 +4090,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0127",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0127",
+      "AREA_BJ_PARKS_2026_0127"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0128",
@@ -3671,7 +4121,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -3732,7 +4182,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0128",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0128",
+      "AREA_BJ_PARKS_2026_0128"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0129",
@@ -3754,7 +4213,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -3815,7 +4274,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0129",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0129",
+      "AREA_BJ_PARKS_2026_0129"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0130",
@@ -3837,7 +4305,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -3898,7 +4366,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0130",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0130",
+      "AREA_BJ_PARKS_2026_0130"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0131",
@@ -3920,7 +4397,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -3981,7 +4458,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0131",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0131",
+      "AREA_BJ_PARKS_2026_0131"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0132",
@@ -4003,7 +4489,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -4064,7 +4550,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0132",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0132",
+      "AREA_BJ_PARKS_2026_0132"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0133",
@@ -4086,7 +4581,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -4147,7 +4642,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0133",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0133",
+      "AREA_BJ_PARKS_2026_0133"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0134",
@@ -4169,7 +4673,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -4230,7 +4734,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0134",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0134",
+      "AREA_BJ_PARKS_2026_0134"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0135",
@@ -4252,7 +4765,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -4313,7 +4826,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0135",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0135",
+      "AREA_BJ_PARKS_2026_0135"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0136",
@@ -4335,7 +4857,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -4396,7 +4918,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0136",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0136",
+      "AREA_BJ_PARKS_2026_0136"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0137",
@@ -4418,7 +4949,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -4479,7 +5010,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0137",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0137",
+      "AREA_BJ_PARKS_2026_0137"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0138",
@@ -4501,7 +5041,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -4562,7 +5102,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0138",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0138",
+      "AREA_BJ_PARKS_2026_0138"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0139",
@@ -4584,7 +5133,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -4645,7 +5194,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0139",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0139",
+      "AREA_BJ_PARKS_2026_0139"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0140",
@@ -4667,7 +5225,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -4728,7 +5286,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0140",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0140",
+      "AREA_BJ_PARKS_2026_0140"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0141",
@@ -4750,7 +5317,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -4811,7 +5378,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0141",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0141",
+      "AREA_BJ_PARKS_2026_0141"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0142",
@@ -4833,7 +5409,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -4894,7 +5470,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0142",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0142",
+      "AREA_BJ_PARKS_2026_0142"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0143",
@@ -4916,7 +5501,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -4977,7 +5562,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0143",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0143",
+      "AREA_BJ_PARKS_2026_0143"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0144",
@@ -4999,7 +5593,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -5060,7 +5654,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0144",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0144",
+      "AREA_BJ_PARKS_2026_0144"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0145",
@@ -5082,7 +5685,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -5143,7 +5746,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0145",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0145",
+      "AREA_BJ_PARKS_2026_0145"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0146",
@@ -5165,7 +5777,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -5226,7 +5838,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0146",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0146",
+      "AREA_BJ_PARKS_2026_0146"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0147",
@@ -5248,7 +5869,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -5309,7 +5930,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0147",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0147",
+      "AREA_BJ_PARKS_2026_0147"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0148",
@@ -5331,7 +5961,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -5392,7 +6022,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0148",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0148",
+      "AREA_BJ_PARKS_2026_0148"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0149",
@@ -5414,7 +6053,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -5475,7 +6114,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0149",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0149",
+      "AREA_BJ_PARKS_2026_0149"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0150",
@@ -5497,7 +6145,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -5558,7 +6206,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0150",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0150",
+      "AREA_BJ_PARKS_2026_0150"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0151",
@@ -5580,7 +6237,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -5641,7 +6298,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0151",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0151",
+      "AREA_BJ_PARKS_2026_0151"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0152",
@@ -5663,7 +6329,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -5724,7 +6390,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0152",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0152",
+      "AREA_BJ_PARKS_2026_0152"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0153",
@@ -5746,7 +6421,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -5807,7 +6482,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0153",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0153",
+      "AREA_BJ_PARKS_2026_0153"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0154",
@@ -5829,7 +6513,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -5890,7 +6574,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0154",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0154",
+      "AREA_BJ_PARKS_2026_0154"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0155",
@@ -5912,7 +6605,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -5973,7 +6666,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0155",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0155",
+      "AREA_BJ_PARKS_2026_0155"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0156",
@@ -5995,7 +6697,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -6056,7 +6758,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0156",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0156",
+      "AREA_BJ_PARKS_2026_0156"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0157",
@@ -6078,7 +6789,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -6139,7 +6850,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0157",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0157",
+      "AREA_BJ_PARKS_2026_0157"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0158",
@@ -6161,7 +6881,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -6222,7 +6942,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0158",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0158",
+      "AREA_BJ_PARKS_2026_0158"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0159",
@@ -6244,7 +6973,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -6305,7 +7034,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0159",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0159",
+      "AREA_BJ_PARKS_2026_0159"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0160",
@@ -6327,7 +7065,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -6388,7 +7126,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0160",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0160",
+      "AREA_BJ_PARKS_2026_0160"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0161",
@@ -6410,7 +7157,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -6471,7 +7218,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0161",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0161",
+      "AREA_BJ_PARKS_2026_0161"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0162",
@@ -6493,7 +7249,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -6554,7 +7310,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0162",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0162",
+      "AREA_BJ_PARKS_2026_0162"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0163",
@@ -6576,7 +7341,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -6637,7 +7402,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0163",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0163",
+      "AREA_BJ_PARKS_2026_0163"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0164",
@@ -6659,7 +7433,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -6720,7 +7494,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0164",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0164",
+      "AREA_BJ_PARKS_2026_0164"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0165",
@@ -6742,7 +7525,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -6803,7 +7586,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0165",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0165",
+      "AREA_BJ_PARKS_2026_0165"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0166",
@@ -6825,7 +7617,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -6886,7 +7678,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0166",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0166",
+      "AREA_BJ_PARKS_2026_0166"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0167",
@@ -6908,7 +7709,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -6969,7 +7770,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0167",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0167",
+      "AREA_BJ_PARKS_2026_0167"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0168",
@@ -6991,7 +7801,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -7052,7 +7862,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0168",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0168",
+      "AREA_BJ_PARKS_2026_0168"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0169",
@@ -7074,7 +7893,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -7135,7 +7954,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0169",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0169",
+      "AREA_BJ_PARKS_2026_0169"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0170",
@@ -7157,7 +7985,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -7218,7 +8046,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0170",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0170",
+      "AREA_BJ_PARKS_2026_0170"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0171",
@@ -7240,7 +8077,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -7301,7 +8138,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0171",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0171",
+      "AREA_BJ_PARKS_2026_0171"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0172",
@@ -7323,7 +8169,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -7384,7 +8230,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0172",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0172",
+      "AREA_BJ_PARKS_2026_0172"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0173",
@@ -7406,7 +8261,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -7467,7 +8322,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0173",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0173",
+      "AREA_BJ_PARKS_2026_0173"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0174",
@@ -7489,7 +8353,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -7550,7 +8414,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0174",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0174",
+      "AREA_BJ_PARKS_2026_0174"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0175",
@@ -7572,7 +8445,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -7633,7 +8506,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0175",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0175",
+      "AREA_BJ_PARKS_2026_0175"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0176",
@@ -7655,7 +8537,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -7716,7 +8598,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0176",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0176",
+      "AREA_BJ_PARKS_2026_0176"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0177",
@@ -7738,7 +8629,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -7799,7 +8690,16 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
-    }
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0177",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0177",
+      "AREA_BJ_PARKS_2026_0177"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
   },
   {
     "raw_id": "AREA_BJ_PARKS_2026_0178",
@@ -7821,7 +8721,7 @@
       "公园"
     ],
     "search_tier": "county_level",
-    "query": "北京市公园名录（2026年度） PDF; 所属区=西城区;市属/经开区按地址显式区名前缀匹配",
+    "query": "北京市公园名录（2026年度） PDF; 全市名录",
     "query_type": "official_directory_filter",
     "location": {
       "lat": null,
@@ -7882,6 +8782,1114 @@
     "evolution_stats": {
       "plan_mark_count": 0,
       "review_count": 0
+    },
+    "spot_id": "SP_BJ_PARKS_2026_0178",
+    "raw_ids": [
+      "CITY_BJ_PARKS_2026_0178",
+      "AREA_BJ_PARKS_2026_0178"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ]
+  },
+  {
+    "raw_id": "AREA_BJ02_SCENIC_0016",
+    "source_entity_id": "BJ02_SCENIC_0016",
+    "spot_id": "SP_BJ02_SCENIC_0016",
+    "entity_type": "spot",
+    "full_name": "北京海洋馆",
+    "blind_name": "北***馆",
+    "name_variants": [
+      "北京海洋馆"
+    ],
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110102",
+    "area_name": "西城区",
+    "area_assignment_basis": "official_area_column",
+    "township_name": null,
+    "address": null,
+    "search_tier": "county_level",
+    "matched_search_keyword": "A级旅游景区",
+    "matched_search_keywords": [
+      "A_rated_attraction"
+    ],
+    "query": "北京市 A级旅游景区 名录 2026 名称 区",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_attempted_prior_batch_TLS_failure_respected"
+    },
+    "official_attraction_grade": "4A",
+    "official_categories": [
+      "A_rated_attraction"
+    ],
+    "tags": [
+      {
+        "name": "摄影",
+        "type": "strong"
+      },
+      {
+        "name": "打卡",
+        "type": "strong"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      },
+      {
+        "name": "随遇而安",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "rule_inputs": [
+        "official_directory_category",
+        "full_name"
+      ],
+      "not_claimed_as_official_experience_fact": true
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "mock_weather": null,
+    "events_and_discounts": null,
+    "ai_strategy": null,
+    "tag_interpretation": null,
+    "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+    "source_row": 16,
+    "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+    "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "evidence": [
+      {
+        "source_id": "scenic",
+        "source_row": 16,
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/117809",
+        "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+        "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+        "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+        "source_display_dates": [
+          "2026-07-30"
+        ],
+        "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+        "evidence_file": "raw/scenic.json"
+      }
+    ],
+    "observation_ids": [
+      "BJ02_SCENIC_0016"
+    ],
+    "verification_status": "catalog_identity_reviewed_pending_enrich",
+    "merge_status": "conservative_catalog_increment_not_geographic_net",
+    "license_status": "public_government_directory_no_explicit_reuse_license_verified",
+    "pending_enrich": [
+      "coordinates",
+      "address",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety",
+      "geographic_identity_and_footprint"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "raw_ids": [
+      "CITY_BJ02_SCENIC_0016",
+      "AREA_BJ02_SCENIC_0016"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_promotion_basis": "official_distinct_named_child_venue_preserved",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0016",
+        "official_name_verbatim": "北京海洋馆",
+        "area_name_verbatim": "西城区",
+        "area_code": "110102",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 16,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "geographic_net_addition_verified": false,
+    "eligible_for_blindbox_display": false,
+    "verified_fields": [
+      "official_directory_name",
+      "source_row_identity",
+      "official_district",
+      "official_parent_locative_statement"
+    ],
+    "parent_spot_id": "SP_BJ_PARKS_2026_0008",
+    "catalog_relation": "child_of",
+    "parent_relation_evidence": {
+      "source_entity_id": "BJ02_SCENIC_0016",
+      "relation": "catalog_child_of",
+      "parent_source_entity_id": "BJ_PARKS_2026_0008",
+      "detail_url": "https://s.visitbeijing.com.cn/attraction/117809",
+      "quote": "北京海洋馆位于北京动物园内长河北岸，占地 12 万平方米，建筑面积 4.2 万平方米，集观赏、科普教育和休闲娱乐为一体，是目前世界最大的内陆水族馆。",
+      "basis": "Distinct named venue with explicit official locative statement inside/on named parent park; keep independent source identity and do not collapse child into parent. Unknown district stays null/city-only."
     }
+  },
+  {
+    "raw_id": "AREA_BJ02_SCENIC_0017",
+    "source_entity_id": "BJ02_SCENIC_0017",
+    "spot_id": "SP_BJ02_SCENIC_0017",
+    "entity_type": "spot",
+    "full_name": "首都博物馆",
+    "blind_name": "首***馆",
+    "name_variants": [
+      "首都博物馆"
+    ],
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110102",
+    "area_name": "西城区",
+    "area_assignment_basis": "official_area_column",
+    "township_name": null,
+    "address": null,
+    "search_tier": "county_level",
+    "matched_search_keyword": "博物馆",
+    "matched_search_keywords": [
+      "A_rated_attraction",
+      "museum_directory_entity"
+    ],
+    "query": "北京市 A级旅游景区 名录 2026 名称 区",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_attempted_prior_batch_TLS_failure_respected"
+    },
+    "official_attraction_grade": "4A",
+    "official_categories": [
+      "A_rated_attraction",
+      "museum_directory_entity"
+    ],
+    "tags": [
+      {
+        "name": "博物馆",
+        "type": "strong"
+      },
+      {
+        "name": "看展",
+        "type": "strong"
+      },
+      {
+        "name": "研学",
+        "type": "weak"
+      },
+      {
+        "name": "文青",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "rule_inputs": [
+        "official_directory_category",
+        "full_name"
+      ],
+      "not_claimed_as_official_experience_fact": true
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "mock_weather": null,
+    "events_and_discounts": null,
+    "ai_strategy": null,
+    "tag_interpretation": null,
+    "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+    "source_row": 17,
+    "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+    "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "evidence": [
+      {
+        "source_id": "scenic",
+        "source_row": 17,
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/117799",
+        "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+        "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+        "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+        "source_display_dates": [
+          "2026-07-30"
+        ],
+        "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+        "evidence_file": "raw/scenic.json"
+      },
+      {
+        "source_id": "museums",
+        "source_row": 16,
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287849.html",
+        "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/117799",
+        "actual_query": "北京市 文物局 2025 博物馆 名录 名称 地址 一览表",
+        "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+        "retrieved_at": "2026-11-07T00:54:12.506012+08:00",
+        "source_display_dates": [
+          "2025-09-18"
+        ],
+        "source_sha256": "b4a91956f949c7fba5eb01ac8c58591105238cee57be24ba9d5a139821e100a2",
+        "sanitized_sha256": "fdf6eae5999533a6608f4b62caea348b7dec03f1e804afe82130f9005ecf24a1",
+        "evidence_file": "raw/museums.json"
+      }
+    ],
+    "observation_ids": [
+      "BJ02_SCENIC_0017",
+      "BJ02_MUSEUMS_0016"
+    ],
+    "verification_status": "catalog_identity_reviewed_pending_enrich",
+    "merge_status": "conservative_catalog_increment_not_geographic_net",
+    "license_status": "public_government_directory_no_explicit_reuse_license_verified",
+    "pending_enrich": [
+      "coordinates",
+      "address",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety",
+      "geographic_identity_and_footprint"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "raw_ids": [
+      "CITY_BJ02_SCENIC_0017",
+      "AREA_BJ02_SCENIC_0017"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_promotion_basis": "official_unique_named_venue_and_explicit_district_no_detected_collision",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0017",
+        "official_name_verbatim": "首都博物馆",
+        "area_name_verbatim": "西城区",
+        "area_code": "110102",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 17,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "geographic_net_addition_verified": false,
+    "eligible_for_blindbox_display": false,
+    "verified_fields": [
+      "official_directory_name",
+      "source_row_identity",
+      "official_district"
+    ],
+    "catalog_relation": "named_catalog_venue_geographic_relations_unverified"
+  },
+  {
+    "raw_id": "AREA_BJ02_SCENIC_0020",
+    "source_entity_id": "BJ02_SCENIC_0020",
+    "spot_id": "SP_BJ02_SCENIC_0020",
+    "entity_type": "spot",
+    "full_name": "北京天文馆景区",
+    "blind_name": "北*****区",
+    "name_variants": [
+      "北京天文馆景区",
+      "北京天文馆"
+    ],
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110102",
+    "area_name": "西城区",
+    "area_assignment_basis": "official_area_column",
+    "township_name": null,
+    "address": null,
+    "search_tier": "county_level",
+    "matched_search_keyword": "博物馆",
+    "matched_search_keywords": [
+      "A_rated_attraction",
+      "museum_directory_entity"
+    ],
+    "query": "北京市 A级旅游景区 名录 2026 名称 区",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_attempted_prior_batch_TLS_failure_respected"
+    },
+    "official_attraction_grade": "4A",
+    "official_categories": [
+      "A_rated_attraction",
+      "museum_directory_entity"
+    ],
+    "tags": [
+      {
+        "name": "博物馆",
+        "type": "strong"
+      },
+      {
+        "name": "看展",
+        "type": "strong"
+      },
+      {
+        "name": "研学",
+        "type": "weak"
+      },
+      {
+        "name": "文青",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "rule_inputs": [
+        "official_directory_category",
+        "full_name"
+      ],
+      "not_claimed_as_official_experience_fact": true
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "mock_weather": null,
+    "events_and_discounts": null,
+    "ai_strategy": null,
+    "tag_interpretation": null,
+    "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+    "source_row": 20,
+    "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+    "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "evidence": [
+      {
+        "source_id": "scenic",
+        "source_row": 20,
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101758",
+        "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+        "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+        "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+        "source_display_dates": [
+          "2026-07-30"
+        ],
+        "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+        "evidence_file": "raw/scenic.json"
+      },
+      {
+        "source_id": "museums",
+        "source_row": 14,
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287849.html",
+        "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101758",
+        "actual_query": "北京市 文物局 2025 博物馆 名录 名称 地址 一览表",
+        "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+        "retrieved_at": "2026-11-07T00:54:12.506012+08:00",
+        "source_display_dates": [
+          "2025-09-18"
+        ],
+        "source_sha256": "b4a91956f949c7fba5eb01ac8c58591105238cee57be24ba9d5a139821e100a2",
+        "sanitized_sha256": "fdf6eae5999533a6608f4b62caea348b7dec03f1e804afe82130f9005ecf24a1",
+        "evidence_file": "raw/museums.json"
+      }
+    ],
+    "observation_ids": [
+      "BJ02_SCENIC_0020",
+      "BJ02_MUSEUMS_0014"
+    ],
+    "verification_status": "catalog_identity_reviewed_pending_enrich",
+    "merge_status": "conservative_catalog_increment_not_geographic_net",
+    "license_status": "public_government_directory_no_explicit_reuse_license_verified",
+    "pending_enrich": [
+      "coordinates",
+      "address",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety",
+      "geographic_identity_and_footprint"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "raw_ids": [
+      "CITY_BJ02_SCENIC_0020",
+      "AREA_BJ02_SCENIC_0020"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_promotion_basis": "official_unique_named_venue_and_explicit_district_no_detected_collision",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0020",
+        "official_name_verbatim": "北京天文馆景区",
+        "area_name_verbatim": "西城区",
+        "area_code": "110102",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 20,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "geographic_net_addition_verified": false,
+    "eligible_for_blindbox_display": false,
+    "verified_fields": [
+      "official_directory_name",
+      "source_row_identity",
+      "official_district"
+    ],
+    "catalog_relation": "named_catalog_venue_geographic_relations_unverified"
+  },
+  {
+    "raw_id": "AREA_BJ02_SCENIC_0081",
+    "source_entity_id": "BJ02_SCENIC_0081",
+    "spot_id": "SP_BJ02_SCENIC_0081",
+    "entity_type": "spot",
+    "full_name": "中国地质博物馆",
+    "blind_name": "中*****馆",
+    "name_variants": [
+      "中国地质博物馆"
+    ],
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110102",
+    "area_name": "西城区",
+    "area_assignment_basis": "official_area_column",
+    "township_name": null,
+    "address": null,
+    "search_tier": "county_level",
+    "matched_search_keyword": "博物馆",
+    "matched_search_keywords": [
+      "A_rated_attraction",
+      "museum_directory_entity"
+    ],
+    "query": "北京市 A级旅游景区 名录 2026 名称 区",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_attempted_prior_batch_TLS_failure_respected"
+    },
+    "official_attraction_grade": "3A",
+    "official_categories": [
+      "A_rated_attraction",
+      "museum_directory_entity"
+    ],
+    "tags": [
+      {
+        "name": "博物馆",
+        "type": "strong"
+      },
+      {
+        "name": "看展",
+        "type": "strong"
+      },
+      {
+        "name": "研学",
+        "type": "weak"
+      },
+      {
+        "name": "文青",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "rule_inputs": [
+        "official_directory_category",
+        "full_name"
+      ],
+      "not_claimed_as_official_experience_fact": true
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "mock_weather": null,
+    "events_and_discounts": null,
+    "ai_strategy": null,
+    "tag_interpretation": null,
+    "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+    "source_row": 81,
+    "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+    "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "evidence": [
+      {
+        "source_id": "scenic",
+        "source_row": 81,
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101820",
+        "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+        "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+        "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+        "source_display_dates": [
+          "2026-07-30"
+        ],
+        "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+        "evidence_file": "raw/scenic.json"
+      },
+      {
+        "source_id": "museums",
+        "source_row": 7,
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287849.html",
+        "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101820",
+        "actual_query": "北京市 文物局 2025 博物馆 名录 名称 地址 一览表",
+        "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+        "retrieved_at": "2026-11-07T00:54:12.506012+08:00",
+        "source_display_dates": [
+          "2025-09-18"
+        ],
+        "source_sha256": "b4a91956f949c7fba5eb01ac8c58591105238cee57be24ba9d5a139821e100a2",
+        "sanitized_sha256": "fdf6eae5999533a6608f4b62caea348b7dec03f1e804afe82130f9005ecf24a1",
+        "evidence_file": "raw/museums.json"
+      }
+    ],
+    "observation_ids": [
+      "BJ02_SCENIC_0081",
+      "BJ02_MUSEUMS_0007"
+    ],
+    "verification_status": "catalog_identity_reviewed_pending_enrich",
+    "merge_status": "conservative_catalog_increment_not_geographic_net",
+    "license_status": "public_government_directory_no_explicit_reuse_license_verified",
+    "pending_enrich": [
+      "coordinates",
+      "address",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety",
+      "geographic_identity_and_footprint"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "raw_ids": [
+      "CITY_BJ02_SCENIC_0081",
+      "AREA_BJ02_SCENIC_0081"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_promotion_basis": "official_unique_named_venue_and_explicit_district_no_detected_collision",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0081",
+        "official_name_verbatim": "中国地质博物馆",
+        "area_name_verbatim": "西城区",
+        "area_code": "110102",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 81,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "geographic_net_addition_verified": false,
+    "eligible_for_blindbox_display": false,
+    "verified_fields": [
+      "official_directory_name",
+      "source_row_identity",
+      "official_district"
+    ],
+    "catalog_relation": "named_catalog_venue_geographic_relations_unverified"
+  },
+  {
+    "raw_id": "AREA_BJ02_SCENIC_0088",
+    "source_entity_id": "BJ02_SCENIC_0088",
+    "spot_id": "SP_BJ02_SCENIC_0088",
+    "entity_type": "spot",
+    "full_name": "北京老舍茶馆景区",
+    "blind_name": "北******区",
+    "name_variants": [
+      "北京老舍茶馆景区"
+    ],
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110102",
+    "area_name": "西城区",
+    "area_assignment_basis": "official_area_column",
+    "township_name": null,
+    "address": null,
+    "search_tier": "county_level",
+    "matched_search_keyword": "A级旅游景区",
+    "matched_search_keywords": [
+      "A_rated_attraction"
+    ],
+    "query": "北京市 A级旅游景区 名录 2026 名称 区",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_attempted_prior_batch_TLS_failure_respected"
+    },
+    "official_attraction_grade": "3A",
+    "official_categories": [
+      "A_rated_attraction"
+    ],
+    "tags": [
+      {
+        "name": "摄影",
+        "type": "strong"
+      },
+      {
+        "name": "打卡",
+        "type": "strong"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      },
+      {
+        "name": "随遇而安",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "rule_inputs": [
+        "official_directory_category",
+        "full_name"
+      ],
+      "not_claimed_as_official_experience_fact": true
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "mock_weather": null,
+    "events_and_discounts": null,
+    "ai_strategy": null,
+    "tag_interpretation": null,
+    "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+    "source_row": 88,
+    "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+    "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "evidence": [
+      {
+        "source_id": "scenic",
+        "source_row": 88,
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/117834",
+        "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+        "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+        "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+        "source_display_dates": [
+          "2026-07-30"
+        ],
+        "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+        "evidence_file": "raw/scenic.json"
+      }
+    ],
+    "observation_ids": [
+      "BJ02_SCENIC_0088"
+    ],
+    "verification_status": "catalog_identity_reviewed_pending_enrich",
+    "merge_status": "conservative_catalog_increment_not_geographic_net",
+    "license_status": "public_government_directory_no_explicit_reuse_license_verified",
+    "pending_enrich": [
+      "coordinates",
+      "address",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety",
+      "geographic_identity_and_footprint"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "raw_ids": [
+      "CITY_BJ02_SCENIC_0088",
+      "AREA_BJ02_SCENIC_0088"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_promotion_basis": "official_unique_named_venue_and_explicit_district_no_detected_collision",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0088",
+        "official_name_verbatim": "北京老舍茶馆景区",
+        "area_name_verbatim": "西城区",
+        "area_code": "110102",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 88,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "geographic_net_addition_verified": false,
+    "eligible_for_blindbox_display": false,
+    "verified_fields": [
+      "official_directory_name",
+      "source_row_identity",
+      "official_district"
+    ],
+    "catalog_relation": "named_catalog_venue_geographic_relations_unverified"
+  },
+  {
+    "raw_id": "AREA_BJ02_SCENIC_0089",
+    "source_entity_id": "BJ02_SCENIC_0089",
+    "spot_id": "SP_BJ02_SCENIC_0089",
+    "entity_type": "spot",
+    "full_name": "北京湖广会馆大戏楼景区",
+    "blind_name": "北*********区",
+    "name_variants": [
+      "北京湖广会馆大戏楼景区"
+    ],
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110102",
+    "area_name": "西城区",
+    "area_assignment_basis": "official_area_column",
+    "township_name": null,
+    "address": null,
+    "search_tier": "county_level",
+    "matched_search_keyword": "A级旅游景区",
+    "matched_search_keywords": [
+      "A_rated_attraction"
+    ],
+    "query": "北京市 A级旅游景区 名录 2026 名称 区",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_attempted_prior_batch_TLS_failure_respected"
+    },
+    "official_attraction_grade": "3A",
+    "official_categories": [
+      "A_rated_attraction"
+    ],
+    "tags": [
+      {
+        "name": "摄影",
+        "type": "strong"
+      },
+      {
+        "name": "打卡",
+        "type": "strong"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      },
+      {
+        "name": "随遇而安",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "rule_inputs": [
+        "official_directory_category",
+        "full_name"
+      ],
+      "not_claimed_as_official_experience_fact": true
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "mock_weather": null,
+    "events_and_discounts": null,
+    "ai_strategy": null,
+    "tag_interpretation": null,
+    "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+    "source_row": 89,
+    "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+    "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "evidence": [
+      {
+        "source_id": "scenic",
+        "source_row": 89,
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/117831",
+        "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+        "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+        "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+        "source_display_dates": [
+          "2026-07-30"
+        ],
+        "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+        "evidence_file": "raw/scenic.json"
+      }
+    ],
+    "observation_ids": [
+      "BJ02_SCENIC_0089"
+    ],
+    "verification_status": "catalog_identity_reviewed_pending_enrich",
+    "merge_status": "conservative_catalog_increment_not_geographic_net",
+    "license_status": "public_government_directory_no_explicit_reuse_license_verified",
+    "pending_enrich": [
+      "coordinates",
+      "address",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety",
+      "geographic_identity_and_footprint"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "raw_ids": [
+      "CITY_BJ02_SCENIC_0089",
+      "AREA_BJ02_SCENIC_0089"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_promotion_basis": "official_unique_named_venue_and_explicit_district_no_detected_collision",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0089",
+        "official_name_verbatim": "北京湖广会馆大戏楼景区",
+        "area_name_verbatim": "西城区",
+        "area_code": "110102",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 89,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "geographic_net_addition_verified": false,
+    "eligible_for_blindbox_display": false,
+    "verified_fields": [
+      "official_directory_name",
+      "source_row_identity",
+      "official_district"
+    ],
+    "catalog_relation": "named_catalog_venue_geographic_relations_unverified"
+  },
+  {
+    "raw_id": "AREA_BJ02_SCENIC_0182",
+    "source_entity_id": "BJ02_SCENIC_0182",
+    "spot_id": "SP_BJ02_SCENIC_0182",
+    "entity_type": "spot",
+    "full_name": "北京历代帝王庙景区",
+    "blind_name": "北*******区",
+    "name_variants": [
+      "北京历代帝王庙景区",
+      "历代帝王庙"
+    ],
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110102",
+    "area_name": "西城区",
+    "area_assignment_basis": "official_area_column",
+    "township_name": null,
+    "address": null,
+    "search_tier": "county_level",
+    "matched_search_keyword": "博物馆",
+    "matched_search_keywords": [
+      "A_rated_attraction",
+      "museum_directory_entity"
+    ],
+    "query": "北京市 A级旅游景区 名录 2026 名称 区",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_attempted_prior_batch_TLS_failure_respected"
+    },
+    "official_attraction_grade": "2A",
+    "official_categories": [
+      "A_rated_attraction",
+      "museum_directory_entity"
+    ],
+    "tags": [
+      {
+        "name": "博物馆",
+        "type": "strong"
+      },
+      {
+        "name": "看展",
+        "type": "strong"
+      },
+      {
+        "name": "研学",
+        "type": "weak"
+      },
+      {
+        "name": "文青",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "rule_inputs": [
+        "official_directory_category",
+        "full_name"
+      ],
+      "not_claimed_as_official_experience_fact": true
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "mock_weather": null,
+    "events_and_discounts": null,
+    "ai_strategy": null,
+    "tag_interpretation": null,
+    "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+    "source_row": 182,
+    "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+    "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "evidence": [
+      {
+        "source_id": "scenic",
+        "source_row": 182,
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101785",
+        "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+        "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+        "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+        "source_display_dates": [
+          "2026-07-30"
+        ],
+        "source_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+        "evidence_file": "raw/scenic.json"
+      },
+      {
+        "source_id": "museums",
+        "source_row": 96,
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287849.html",
+        "detail_url_unfetched": "https://s.visitbeijing.com.cn/attraction/101785",
+        "actual_query": "北京市 文物局 2025 博物馆 名录 名称 地址 一览表",
+        "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+        "retrieved_at": "2026-11-07T00:54:12.506012+08:00",
+        "source_display_dates": [
+          "2025-09-18"
+        ],
+        "source_sha256": "b4a91956f949c7fba5eb01ac8c58591105238cee57be24ba9d5a139821e100a2",
+        "sanitized_sha256": "fdf6eae5999533a6608f4b62caea348b7dec03f1e804afe82130f9005ecf24a1",
+        "evidence_file": "raw/museums.json"
+      }
+    ],
+    "observation_ids": [
+      "BJ02_SCENIC_0182",
+      "BJ02_MUSEUMS_0096"
+    ],
+    "verification_status": "catalog_identity_reviewed_pending_enrich",
+    "merge_status": "conservative_catalog_increment_not_geographic_net",
+    "license_status": "public_government_directory_no_explicit_reuse_license_verified",
+    "pending_enrich": [
+      "coordinates",
+      "address",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety",
+      "geographic_identity_and_footprint"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "raw_ids": [
+      "CITY_BJ02_SCENIC_0182",
+      "AREA_BJ02_SCENIC_0182"
+    ],
+    "search_tiers": [
+      "city_level",
+      "county_level"
+    ],
+    "catalog_promotion_basis": "official_unique_named_venue_and_explicit_district_no_detected_collision",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0182",
+        "official_name_verbatim": "北京历代帝王庙景区",
+        "area_name_verbatim": "西城区",
+        "area_code": "110102",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 182,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "geographic_net_addition_verified": false,
+    "eligible_for_blindbox_display": false,
+    "verified_fields": [
+      "official_directory_name",
+      "source_row_identity",
+      "official_district"
+    ],
+    "catalog_relation": "named_catalog_venue_geographic_relations_unverified"
   }
 ]

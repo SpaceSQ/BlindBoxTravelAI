@@ -1,0 +1,19 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/101505",
+  "retrieved_at": "2026-11-07T00:58:31.300627+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/101505",
+  "response_sha256": "9df3cd2e051a40cc864e8cc1e4c234f64ffcc47d66e1dff732f13e7504a8c093",
+  "title": "金海湖风景区",
+  "identity_excerpt_quotes": [
+    "金海湖位于平谷区东南盘山脚下海子村村，距平谷城区15公里，距北京城85公里，金海湖原是在1679年大地震中断裂出来的峡谷，后经过诸多改造，形成了如今北京市的第三大水库，建于1985年。",
+    "因公园北有大金山，南有海子村，故取名金海公园。",
+    "金海湖，原名海子水库，是北京市的三大水库之一，水库位于泃河流经山区的最后一段。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 500,
+  "fetch_state": "usable_identity_page"
+}

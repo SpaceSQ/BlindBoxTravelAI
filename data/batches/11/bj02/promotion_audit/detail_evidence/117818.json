@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/117818",
+  "retrieved_at": "2026-11-07T00:58:36.534944+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/117818",
+  "response_sha256": "271ab37d59ae1d4260db383cd1485890339b041c1be681eddbe37a62788e8926",
+  "title": "仙栖洞景区",
+  "identity_excerpt_quotes": [
+    "仙栖洞位于北京市房山区张坊镇东关上村。",
+    "距北京市三环路不到100公里。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 500,
+  "fetch_state": "usable_identity_page"
+}

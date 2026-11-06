@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/101425",
+  "retrieved_at": "2026-11-07T00:58:28.817954+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/101425",
+  "response_sha256": "b37085092f9ba4d85793d3d385f7949cfa195a820549c7c88cdedc3463fb803e",
+  "title": "云居寺",
+  "identity_excerpt_quotes": [
+    "云居寺位于北京西南郊七十多公里处房山区境内的白带山(又称石经山)西南麓，距市中心70公里。",
+    "占地面积70000多平方米。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 500,
+  "fetch_state": "usable_identity_page"
+}

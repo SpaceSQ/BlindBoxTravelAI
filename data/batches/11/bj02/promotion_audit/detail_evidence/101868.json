@@ -1,0 +1,19 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/101868",
+  "retrieved_at": "2026-11-07T00:58:32.517662+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/101868",
+  "response_sha256": "dccb0bae92ac20edd4ac47327650cb119da070d8389a0535a059d2e5f503c6ad",
+  "title": "太平洋海底世界博览馆",
+  "identity_excerpt_quotes": [
+    "新北京十六景、文化创意产业基地——太平洋海底世界博览馆坐落于北京中央广播电视塔下，是以展示海洋生物为主，集科普教育、观赏娱乐于一体的综合性现代化博览馆。",
+    "在这里，您将欣赏到各种美丽的海洋生物，领略到海底世界的动人景色。",
+    "馆内放养数百种海洋生物，大到凶猛的鲨鱼，小到绚丽多彩的珊瑚鱼以及多种珍稀的淡水鱼类。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 499,
+  "fetch_state": "usable_identity_page"
+}

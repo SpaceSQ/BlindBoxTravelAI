@@ -1,0 +1,18 @@
+{
+  "source_id": "scenic",
+  "url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+  "title": "北京市文化和旅游局_旅游_北京旅游网景点链接列表",
+  "actual_discovery_tool": "WebSearch",
+  "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+  "retrieved_at": "2026-11-07T00:54:10.245067+08:00",
+  "source_display_dates": [
+    "2026-07-30"
+  ],
+  "http_status": 200,
+  "response_content_sha256": "15302e3c49c369357c8489638e3c58973189143f6a240c5dc8e80fdaf25d82c1",
+  "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90",
+  "evidence_file": "raw/scenic.json",
+  "sanitization": "Only official row number, entity name, grade/area, public detail URL or route node order/length retained. Contact columns and page chrome discarded in memory. Original response not persisted.",
+  "license_status": "Publicly readable government directory; no explicit reuse license verified; no image or prose reuse rights inferred.",
+  "rows": 205
+}

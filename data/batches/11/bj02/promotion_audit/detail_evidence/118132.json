@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/118132",
+  "retrieved_at": "2026-11-07T00:58:41.104735+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/118132",
+  "response_sha256": "80686e34e476ca173f8a7842e2616a3d1568ebc4e08d888375918a09f88320b2",
+  "title": "冶仙塔景区",
+  "identity_excerpt_quotes": [
+    "冶仙塔旅游风景区位于密云东北部，占地1150亩，其中冶仙塔山林占地面积800亩，公园占地面积350亩。",
+    "冶仙公园是依冶仙塔而建，依山傍水，风景秀丽，面向美丽的密云县城。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 244,
+  "fetch_state": "usable_identity_page"
+}

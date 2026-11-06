@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/101406",
+  "retrieved_at": "2026-11-07T00:58:26.874045+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/101406",
+  "response_sha256": "9c79b037616499639babe88b3e352acd829b7838978740e68c7498cba7611d04",
+  "title": "八达岭长城风景名胜区",
+  "identity_excerpt_quotes": [
+    "八达岭长城位于北京市延庆区军都山关沟古道北口，史称天下九塞之一，是长城重要关口居庸关的前哨，在明长城中保存最好，也最具代表性，因此是万里长城向游人开放最早的地段。",
+    "八达岭长城其关城为东窄西宽的梯形，建于明弘治十八年（1505年），嘉靖、万历年间曾修葺。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 500,
+  "fetch_state": "usable_identity_page"
+}

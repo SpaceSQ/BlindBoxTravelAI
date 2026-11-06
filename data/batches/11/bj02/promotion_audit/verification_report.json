@@ -1,0 +1,15 @@
+{
+  "checks_passed": 52389,
+  "structure_errors": 0,
+  "new_catalog_entities": 106,
+  "master_catalog_entities": 1242,
+  "review_remaining": 210,
+  "quality_warnings": [
+    "Not production-ready: all new descriptions, prices, coordinates and licensed images remain null.",
+    "Original 169 candidate count is not net additions; use actual catalog increment only.",
+    "Unknown district child venues stay city-only; no parent district inference.",
+    "Shared detail URL alone never authorizes alias/office/child merging.",
+    "All unmatched observations and excluded park-scope records retained.",
+    "No Mac, Git, network or destructive dedup performed by promote.py."
+  ]
+}

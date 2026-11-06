@@ -1,0 +1,19 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/121024",
+  "retrieved_at": "2026-11-07T00:58:46.054088+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/121024",
+  "response_sha256": "5bc5c2f96cfd5d48f25e972d7384ad4448caba0c00dd35de7ffae9693dabbc80",
+  "title": "香山革命纪念馆",
+  "identity_excerpt_quotes": [
+    "香山革命纪念馆位于北京香山，紧邻香山公园，馆中数千件展品、图片和一段段珍贵的影像资料，全面呈现中共中央在北京香山时期波澜壮阔的革命历史。",
+    "2019年9月13日，香山革命纪念地正式向公众开放。",
+    "新建成的香山革命纪念馆内，《为新中国奠基——中共中央在香山》主题展览，通过约800张图片、报照、地图、表格和1200多件实物、文献和档案呈现中国发展历程。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 171,
+  "fetch_state": "usable_identity_page"
+}

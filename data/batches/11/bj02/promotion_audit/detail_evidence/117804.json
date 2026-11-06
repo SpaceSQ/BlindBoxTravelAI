@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/117804",
+  "retrieved_at": "2026-11-07T00:58:35.048929+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/117804",
+  "response_sha256": "69b57fabe6dba5d8f4e77a0e59c1df276f6d369670feb2488f82801dc284993b",
+  "title": "抗日战争雕塑园",
+  "identity_excerpt_quotes": [
+    "中国人民抗日战争纪念雕塑园为纪念抗日战争胜利55周年建成的--中国人民抗日战争纪念雕塑园。",
+    "园内有原国家主席江泽民亲笔题写碑名的中国人民抗日战争纪念碑、有以《国歌》为主题反映中国人民八年浴血奋战历史的雕塑群区以及下沉式中心广场、宛平城墙、绿林等主要景观。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 126,
+  "fetch_state": "usable_identity_page"
+}

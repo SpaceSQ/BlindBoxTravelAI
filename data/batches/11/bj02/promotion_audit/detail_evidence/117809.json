@@ -1,0 +1,19 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/117809",
+  "retrieved_at": "2026-11-07T00:58:35.665312+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/117809",
+  "response_sha256": "2720210cf5537ba69a830a25b599cccc8dfa2a7b412bee516971bf23bd737836",
+  "title": "北京海洋馆",
+  "identity_excerpt_quotes": [
+    "北京海洋馆位于北京动物园内长河北岸，占地 12 万平方米，建筑面积 4.2 万平方米，集观赏、科普教育和休闲娱乐为一体，是目前世界最大的内陆水族馆。",
+    "北京海洋馆建筑造型独特、恢弘壮观，犹如一只蓝色的大海螺，躺在绿树环抱、花团簇拥的沙滩上。",
+    "馆内以“陶怡大众，教益学生，维系生态”为宗旨，为游客巧妙安排了“ 雨林奇观 ”、“ 风情海滩 ”、“ 海底环游 ”、“ 白令小镇 ”、“ 国宝中华鲟鱼馆 ”、“ 鲸豚湾 ”、“ 海洋剧院 ”等七个主题的展示区域，馆内饲养和展示的海洋鱼类及生物达千余种、数万尾。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 500,
+  "fetch_state": "usable_identity_page"
+}

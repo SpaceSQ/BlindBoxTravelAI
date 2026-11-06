@@ -1,0 +1,19 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/117714",
+  "retrieved_at": "2026-11-07T00:58:34.046070+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/117714",
+  "response_sha256": "4ca01c9ad350b5379383b24f0b952414cc4e1cf2b26f061e082db44e3194f0bd",
+  "title": "北京顺义国际鲜花港",
+  "identity_excerpt_quotes": [
+    "北京国际鲜花港是北京市政府规划的北京市唯一的专业花卉产业园区，是北京市主办的2009年第七届中国花卉博览会的重要功能组团之一，是北京市花卉产业发展的窗口。",
+    "在花博会期间，北京国际鲜花港承担着北京市产业园区展示和企业室外花卉展示的任务，同时还负责宣传、弘扬首都的花卉文化。",
+    "北京国际鲜花港位于顺义区杨镇，总体规划4平方公里，是北京市唯一的专业花卉产业园区，东临木燕路、南靠白马路，距市区39公里，距首都机场20公里，距北京奥运会水上项目赛场仅5分钟车程，位置优越，交通便捷。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 500,
+  "fetch_state": "usable_identity_page"
+}

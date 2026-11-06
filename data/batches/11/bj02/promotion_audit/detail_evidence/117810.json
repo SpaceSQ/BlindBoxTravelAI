@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/117810",
+  "retrieved_at": "2026-11-07T00:58:35.712706+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/117810",
+  "response_sha256": "a16b8bb0c65643e27726d51865ab0a56a5aaa8da009c7b053af76448cb3abf71",
+  "title": "文化和旅游部恭王府博物馆",
+  "identity_excerpt_quotes": [
+    "在风景秀丽的北京什刹海的西南角，有一条静谧悠长、绿柳荫荫的街巷。",
+    "在这条街巷之中，坐落着一座王府，它就是现存王府中保存最完整的恭王府。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 500,
+  "fetch_state": "usable_identity_page"
+}

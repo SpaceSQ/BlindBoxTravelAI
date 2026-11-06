@@ -1,0 +1,861 @@
+[
+  {
+    "source_entity_id": "BJ02_SCENIC_0006",
+    "observation_ids": [
+      "BJ02_SCENIC_0006"
+    ],
+    "full_name": "颐和园景区",
+    "original_merge_status": "exact_prior_name_match_review",
+    "in_original_169_candidate_set": false,
+    "area_code": "110108",
+    "area_name": "海淀区",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0006",
+        "official_name_verbatim": "颐和园景区",
+        "area_name_verbatim": "海淀区",
+        "area_code": "110108",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 6,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "detail_evidence_refs": [
+      "data/batches/11/bj02/promotion_audit/detail_evidence/101407.json"
+    ],
+    "geographic_net_addition_verified": false,
+    "outcome": "linked_existing_catalog",
+    "reason": "individually_reviewed_official_catalog_identity",
+    "identity_assertion": {
+      "source_entity_id": "BJ02_SCENIC_0006",
+      "relation": "same_official_directory_destination",
+      "parent_source_entity_id": "BJ_PARKS_2026_0001",
+      "detail_url": "https://s.visitbeijing.com.cn/attraction/101407",
+      "quote": "颐和园是中国现存规模最大、保存最完整的皇家园林，中国四大名园（另三座为承德避暑山庄、苏州拙政园、苏州留园）之一。",
+      "basis": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation."
+    },
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0001"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0007",
+    "observation_ids": [
+      "BJ02_SCENIC_0007"
+    ],
+    "full_name": "北京（通州）大运河文化旅游景区",
+    "original_merge_status": "possible_prior_overlap_review",
+    "in_original_169_candidate_set": false,
+    "area_code": "110112",
+    "area_name": "通州区",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0007",
+        "official_name_verbatim": "北京（通州）大运河文化旅游景区",
+        "area_name_verbatim": "通州区",
+        "area_code": "110112",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 7,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "detail_evidence_refs": [
+      "data/batches/11/bj02/promotion_audit/detail_evidence/120994.json"
+    ],
+    "geographic_net_addition_verified": false,
+    "outcome": "linked_existing_catalog",
+    "reason": "individually_reviewed_official_catalog_identity",
+    "identity_assertion": {
+      "source_entity_id": "BJ02_SCENIC_0007",
+      "relation": "same_official_directory_destination",
+      "parent_source_entity_id": "BJ_PARKS_2026_0719",
+      "detail_url": "https://s.visitbeijing.com.cn/attraction/120994",
+      "quote": "北京(通州)大运河文化旅游景区地处大运河的北端，位于北京城市副中心的核心位置，是大运河文化带的重要节点，全长12.1 公里，总面积7.23 平方公里，于2024年成功创建国家AAAAA级旅游景区。",
+      "basis": "Individually reviewed official destination title or description explicitly gives the existing directory proper name (or anchored local prefix); same district. Not an automatic synonym/Jaccard merge; geographic footprint still unmeasured."
+    },
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0719"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0010",
+    "observation_ids": [
+      "BJ02_SCENIC_0010"
+    ],
+    "full_name": "八达岭长城景区",
+    "original_merge_status": "exact_prior_name_match_review",
+    "in_original_169_candidate_set": false,
+    "area_code": "110119",
+    "area_name": "延庆区",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0010",
+        "official_name_verbatim": "八达岭长城景区",
+        "area_name_verbatim": "延庆区",
+        "area_code": "110119",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 10,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "detail_evidence_refs": [
+      "data/batches/11/bj02/promotion_audit/detail_evidence/101406.json"
+    ],
+    "geographic_net_addition_verified": false,
+    "outcome": "linked_existing_catalog",
+    "reason": "individually_reviewed_official_catalog_identity",
+    "identity_assertion": {
+      "source_entity_id": "BJ02_SCENIC_0010",
+      "relation": "same_official_directory_destination",
+      "parent_source_entity_id": "BJ_PARKS_2026_1129",
+      "detail_url": "https://s.visitbeijing.com.cn/attraction/101406",
+      "quote": "八达岭长城位于北京市延庆区军都山关沟古道北口，史称天下九塞之一，是长城重要关口居庸关的前哨，在明长城中保存最好，也最具代表性，因此是万里长城向游人开放最早的地段。",
+      "basis": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation."
+    },
+    "canonical_spot_id": "SP_BJ_PARKS_2026_1129"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0027",
+    "observation_ids": [
+      "BJ02_SCENIC_0027"
+    ],
+    "full_name": "北京园博园景区",
+    "original_merge_status": "exact_prior_name_match_review",
+    "in_original_169_candidate_set": false,
+    "area_code": "110106",
+    "area_name": "丰台区",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0027",
+        "official_name_verbatim": "北京园博园景区",
+        "area_name_verbatim": "丰台区",
+        "area_code": "110106",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 27,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "detail_evidence_refs": [
+      "data/batches/11/bj02/promotion_audit/detail_evidence/118459.json"
+    ],
+    "geographic_net_addition_verified": false,
+    "outcome": "linked_existing_catalog",
+    "reason": "individually_reviewed_official_catalog_identity",
+    "identity_assertion": {
+      "source_entity_id": "BJ02_SCENIC_0027",
+      "relation": "same_official_directory_destination",
+      "parent_source_entity_id": "BJ_PARKS_2026_0441",
+      "detail_url": "https://s.visitbeijing.com.cn/attraction/118459",
+      "quote": "北京园博园位于丰台区永定河西岸，北至莲石西路，南到梅市口路西延，西至北宫路，西南接园博大道，展区占地267公顷，园博湖占地246公 顷，总占地513公顷。",
+      "basis": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation."
+    },
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0441"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0035",
+    "observation_ids": [
+      "BJ02_SCENIC_0035"
+    ],
+    "full_name": "北京石景山游乐园景区",
+    "original_merge_status": "exact_prior_name_match_review",
+    "in_original_169_candidate_set": false,
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0035",
+        "official_name_verbatim": "北京石景山游乐园景区",
+        "area_name_verbatim": "石景山区",
+        "area_code": "110107",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 35,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "detail_evidence_refs": [
+      "data/batches/11/bj02/promotion_audit/detail_evidence/101433.json"
+    ],
+    "geographic_net_addition_verified": false,
+    "outcome": "linked_existing_catalog",
+    "reason": "individually_reviewed_official_catalog_identity",
+    "identity_assertion": {
+      "source_entity_id": "BJ02_SCENIC_0035",
+      "relation": "same_official_directory_destination",
+      "parent_source_entity_id": "BJ_PARKS_2026_0555",
+      "detail_url": "https://s.visitbeijing.com.cn/attraction/101433",
+      "quote": "石景山游乐园位于石景山区，紧邻石景山体育馆。",
+      "basis": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation."
+    },
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0555"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0038",
+    "observation_ids": [
+      "BJ02_SCENIC_0038"
+    ],
+    "full_name": "北京凤凰岭景区",
+    "original_merge_status": "exact_prior_name_match_review",
+    "in_original_169_candidate_set": false,
+    "area_code": "110108",
+    "area_name": "海淀区",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0038",
+        "official_name_verbatim": "北京凤凰岭景区",
+        "area_name_verbatim": "海淀区",
+        "area_code": "110108",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 38,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "detail_evidence_refs": [
+      "data/batches/11/bj02/promotion_audit/detail_evidence/101441.json"
+    ],
+    "geographic_net_addition_verified": false,
+    "outcome": "linked_existing_catalog",
+    "reason": "individually_reviewed_official_catalog_identity",
+    "identity_assertion": {
+      "source_entity_id": "BJ02_SCENIC_0038",
+      "relation": "same_official_directory_destination",
+      "parent_source_entity_id": "BJ_PARKS_2026_0372",
+      "detail_url": "https://s.visitbeijing.com.cn/attraction/101441",
+      "quote": "北京凤凰岭自然风景公园，国家AAAA景区。",
+      "basis": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation."
+    },
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0372"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0043",
+    "observation_ids": [
+      "BJ02_SCENIC_0043"
+    ],
+    "full_name": "潭柘寺景区",
+    "original_merge_status": "exact_prior_name_match_review",
+    "in_original_169_candidate_set": false,
+    "area_code": "110109",
+    "area_name": "门头沟区",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0043",
+        "official_name_verbatim": "潭柘寺景区",
+        "area_name_verbatim": "门头沟区",
+        "area_code": "110109",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 43,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "detail_evidence_refs": [
+      "data/batches/11/bj02/promotion_audit/detail_evidence/117841.json"
+    ],
+    "geographic_net_addition_verified": false,
+    "outcome": "linked_existing_catalog",
+    "reason": "individually_reviewed_official_catalog_identity",
+    "identity_assertion": {
+      "source_entity_id": "BJ02_SCENIC_0043",
+      "relation": "same_official_directory_destination",
+      "parent_source_entity_id": "BJ_PARKS_2026_0626",
+      "detail_url": "https://s.visitbeijing.com.cn/attraction/117841",
+      "quote": "潭柘寺距今已有1700多年历史，是北京最古老的古寺。",
+      "basis": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation."
+    },
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0626"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0047",
+    "observation_ids": [
+      "BJ02_SCENIC_0047"
+    ],
+    "full_name": "北京市房山区云居寺景区",
+    "original_merge_status": "exact_prior_name_match_review",
+    "in_original_169_candidate_set": false,
+    "area_code": "110111",
+    "area_name": "房山区",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0047",
+        "official_name_verbatim": "北京市房山区云居寺景区",
+        "area_name_verbatim": "房山区",
+        "area_code": "110111",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 47,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "detail_evidence_refs": [
+      "data/batches/11/bj02/promotion_audit/detail_evidence/101425.json"
+    ],
+    "geographic_net_addition_verified": false,
+    "outcome": "linked_existing_catalog",
+    "reason": "individually_reviewed_official_catalog_identity",
+    "identity_assertion": {
+      "source_entity_id": "BJ02_SCENIC_0047",
+      "relation": "same_official_directory_destination",
+      "parent_source_entity_id": "BJ_PARKS_2026_0713",
+      "detail_url": "https://s.visitbeijing.com.cn/attraction/101425",
+      "quote": "云居寺位于北京西南郊七十多公里处房山区境内的白带山(又称石经山)西南麓，距市中心70公里。",
+      "basis": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation."
+    },
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0713"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0048",
+    "observation_ids": [
+      "BJ02_SCENIC_0048"
+    ],
+    "full_name": "北京市房山区石花洞景区",
+    "original_merge_status": "exact_prior_name_match_review",
+    "in_original_169_candidate_set": false,
+    "area_code": "110111",
+    "area_name": "房山区",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0048",
+        "official_name_verbatim": "北京市房山区石花洞景区",
+        "area_name_verbatim": "房山区",
+        "area_code": "110111",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 48,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "detail_evidence_refs": [
+      "data/batches/11/bj02/promotion_audit/detail_evidence/101426.json"
+    ],
+    "geographic_net_addition_verified": false,
+    "outcome": "linked_existing_catalog",
+    "reason": "individually_reviewed_official_catalog_identity",
+    "identity_assertion": {
+      "source_entity_id": "BJ02_SCENIC_0048",
+      "relation": "same_official_directory_destination",
+      "parent_source_entity_id": "BJ_PARKS_2026_0709",
+      "detail_url": "https://s.visitbeijing.com.cn/attraction/101426",
+      "quote": "石花洞位于北京市房山区境内，距市中心46公里，距京石高速公路15公里、西六环良坨路出口15公里。",
+      "basis": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation."
+    },
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0709"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0053",
+    "observation_ids": [
+      "BJ02_SCENIC_0053"
+    ],
+    "full_name": "北京国际鲜花港景区",
+    "original_merge_status": "exact_prior_name_match_review",
+    "in_original_169_candidate_set": false,
+    "area_code": "110113",
+    "area_name": "顺义区",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0053",
+        "official_name_verbatim": "北京国际鲜花港景区",
+        "area_name_verbatim": "顺义区",
+        "area_code": "110113",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 53,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "detail_evidence_refs": [
+      "data/batches/11/bj02/promotion_audit/detail_evidence/117714.json"
+    ],
+    "geographic_net_addition_verified": false,
+    "outcome": "linked_existing_catalog",
+    "reason": "individually_reviewed_official_catalog_identity",
+    "identity_assertion": {
+      "source_entity_id": "BJ02_SCENIC_0053",
+      "relation": "same_official_directory_destination",
+      "parent_source_entity_id": "BJ_PARKS_2026_0804",
+      "detail_url": "https://s.visitbeijing.com.cn/attraction/117714",
+      "quote": "北京国际鲜花港是北京市政府规划的北京市唯一的专业花卉产业园区，是北京市主办的2009年第七届中国花卉博览会的重要功能组团之一，是北京市花卉产业发展的窗口。",
+      "basis": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation."
+    },
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0804"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0065",
+    "observation_ids": [
+      "BJ02_SCENIC_0065"
+    ],
+    "full_name": "金海湖风景区",
+    "original_merge_status": "exact_prior_name_match_review",
+    "in_original_169_candidate_set": false,
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0065",
+        "official_name_verbatim": "金海湖风景区",
+        "area_name_verbatim": "平谷区",
+        "area_code": "110117",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 65,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "detail_evidence_refs": [
+      "data/batches/11/bj02/promotion_audit/detail_evidence/101505.json"
+    ],
+    "geographic_net_addition_verified": false,
+    "outcome": "linked_existing_catalog",
+    "reason": "individually_reviewed_official_catalog_identity",
+    "identity_assertion": {
+      "source_entity_id": "BJ02_SCENIC_0065",
+      "relation": "same_official_directory_destination",
+      "parent_source_entity_id": "BJ_PARKS_2026_0995",
+      "detail_url": "https://s.visitbeijing.com.cn/attraction/101505",
+      "quote": "金海湖位于平谷区东南盘山脚下海子村村，距平谷城区15公里，距北京城85公里，金海湖原是在1679年大地震中断裂出来的峡谷，后经过诸多改造，形成了如今北京市的第三大水库，建于1985年。",
+      "basis": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation."
+    },
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0995"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0073",
+    "observation_ids": [
+      "BJ02_SCENIC_0073"
+    ],
+    "full_name": "野鸭湖景区",
+    "original_merge_status": "possible_prior_overlap_review",
+    "in_original_169_candidate_set": false,
+    "area_code": "110119",
+    "area_name": "延庆区",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0073",
+        "official_name_verbatim": "野鸭湖景区",
+        "area_name_verbatim": "延庆区",
+        "area_code": "110119",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 73,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "detail_evidence_refs": [
+      "data/batches/11/bj02/promotion_audit/detail_evidence/118115.json"
+    ],
+    "geographic_net_addition_verified": false,
+    "outcome": "linked_existing_catalog",
+    "reason": "individually_reviewed_official_catalog_identity",
+    "identity_assertion": {
+      "source_entity_id": "BJ02_SCENIC_0073",
+      "relation": "same_official_directory_destination",
+      "parent_source_entity_id": "BJ_PARKS_2026_1128",
+      "detail_url": "https://s.visitbeijing.com.cn/attraction/118115",
+      "quote": "华北最大北京唯一湿地鸟类自然保护区北京野鸭湖地处延庆区八达岭长城脚下的官厅湖畔，拥有150多万平方米水面，由于这里的自然环境保持良好，2000年12月被市政府批准为北京市市级湿地鸟类自然保护区。",
+      "basis": "Individually reviewed official destination title or description explicitly gives the existing directory proper name (or anchored local prefix); same district. Not an automatic synonym/Jaccard merge; geographic footprint still unmeasured."
+    },
+    "canonical_spot_id": "SP_BJ_PARKS_2026_1128"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0074",
+    "observation_ids": [
+      "BJ02_SCENIC_0074"
+    ],
+    "full_name": "延庆区龙庆峡旅游区",
+    "original_merge_status": "exact_prior_name_match_review",
+    "in_original_169_candidate_set": false,
+    "area_code": "110119",
+    "area_name": "延庆区",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0074",
+        "official_name_verbatim": "延庆区龙庆峡旅游区",
+        "area_name_verbatim": "延庆区",
+        "area_code": "110119",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 74,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "detail_evidence_refs": [
+      "data/batches/11/bj02/promotion_audit/detail_evidence/101413.json"
+    ],
+    "geographic_net_addition_verified": false,
+    "outcome": "linked_existing_catalog",
+    "reason": "individually_reviewed_official_catalog_identity",
+    "identity_assertion": {
+      "source_entity_id": "BJ02_SCENIC_0074",
+      "relation": "same_official_directory_destination",
+      "parent_source_entity_id": "BJ_PARKS_2026_1130",
+      "detail_url": "https://s.visitbeijing.com.cn/attraction/101413",
+      "quote": "小三峡胜似三峡，山比三峡险。",
+      "basis": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation."
+    },
+    "canonical_spot_id": "SP_BJ_PARKS_2026_1130"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0078",
+    "observation_ids": [
+      "BJ02_SCENIC_0078"
+    ],
+    "full_name": "北京市劳动人民文化宫景区",
+    "original_merge_status": "exact_prior_name_match_review",
+    "in_original_169_candidate_set": false,
+    "area_code": "110101",
+    "area_name": "东城区",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0078",
+        "official_name_verbatim": "北京市劳动人民文化宫景区",
+        "area_name_verbatim": "东城区",
+        "area_code": "110101",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 78,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "detail_evidence_refs": [
+      "data/batches/11/bj02/promotion_audit/detail_evidence/118001.json"
+    ],
+    "geographic_net_addition_verified": false,
+    "outcome": "linked_existing_catalog",
+    "reason": "individually_reviewed_official_catalog_identity",
+    "identity_assertion": {
+      "source_entity_id": "BJ02_SCENIC_0078",
+      "relation": "same_official_directory_destination",
+      "parent_source_entity_id": "BJ_PARKS_2026_0043",
+      "detail_url": "https://s.visitbeijing.com.cn/attraction/118001",
+      "quote": "北京市劳动人民文化宫位于北京天安门东侧，为始建于明永乐十八年（1420年）的明清太庙。",
+      "basis": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation."
+    },
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0043"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0083",
+    "observation_ids": [
+      "BJ02_SCENIC_0083"
+    ],
+    "full_name": "北京大观园",
+    "original_merge_status": "exact_prior_name_match_review",
+    "in_original_169_candidate_set": false,
+    "area_code": "110102",
+    "area_name": "西城区",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0083",
+        "official_name_verbatim": "北京大观园",
+        "area_name_verbatim": "西城区",
+        "area_code": "110102",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 83,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "detail_evidence_refs": [
+      "data/batches/11/bj02/promotion_audit/detail_evidence/101918.json"
+    ],
+    "geographic_net_addition_verified": false,
+    "outcome": "linked_existing_catalog",
+    "reason": "individually_reviewed_official_catalog_identity",
+    "identity_assertion": {
+      "source_entity_id": "BJ02_SCENIC_0083",
+      "relation": "same_official_directory_destination",
+      "parent_source_entity_id": "BJ_PARKS_2026_0116",
+      "detail_url": "https://s.visitbeijing.com.cn/attraction/101918",
+      "quote": "大观园是一座再现中国古典文学名著《红楼梦》中“大观园”景观的仿古园林，位于宣武区南菜园（市区西南隅护城河畔）。",
+      "basis": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation."
+    },
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0116"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0107",
+    "observation_ids": [
+      "BJ02_SCENIC_0107"
+    ],
+    "full_name": "抗日战争纪念雕塑园",
+    "original_merge_status": "possible_prior_overlap_review",
+    "in_original_169_candidate_set": false,
+    "area_code": "110106",
+    "area_name": "丰台区",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0107",
+        "official_name_verbatim": "抗日战争纪念雕塑园",
+        "area_name_verbatim": "丰台区",
+        "area_code": "110106",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 107,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "detail_evidence_refs": [
+      "data/batches/11/bj02/promotion_audit/detail_evidence/117804.json"
+    ],
+    "geographic_net_addition_verified": false,
+    "outcome": "linked_existing_catalog",
+    "reason": "individually_reviewed_official_catalog_identity",
+    "identity_assertion": {
+      "source_entity_id": "BJ02_SCENIC_0107",
+      "relation": "same_official_directory_destination",
+      "parent_source_entity_id": "BJ_PARKS_2026_0447",
+      "detail_url": "https://s.visitbeijing.com.cn/attraction/117804",
+      "quote": "中国人民抗日战争纪念雕塑园为纪念抗日战争胜利55周年建成的--中国人民抗日战争纪念雕塑园。",
+      "basis": "Individually reviewed official destination title or description explicitly gives the existing directory proper name (or anchored local prefix); same district. Not an automatic synonym/Jaccard merge; geographic footprint still unmeasured."
+    },
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0447"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0112",
+    "observation_ids": [
+      "BJ02_SCENIC_0112"
+    ],
+    "full_name": "阳台山自然风景区",
+    "original_merge_status": "exact_prior_name_match_review",
+    "in_original_169_candidate_set": false,
+    "area_code": "110108",
+    "area_name": "海淀区",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0112",
+        "official_name_verbatim": "阳台山自然风景区",
+        "area_name_verbatim": "海淀区",
+        "area_code": "110108",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 112,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "detail_evidence_refs": [
+      "data/batches/11/bj02/promotion_audit/detail_evidence/101442.json"
+    ],
+    "geographic_net_addition_verified": false,
+    "outcome": "linked_existing_catalog",
+    "reason": "individually_reviewed_official_catalog_identity",
+    "identity_assertion": {
+      "source_entity_id": "BJ02_SCENIC_0112",
+      "relation": "same_official_directory_destination",
+      "parent_source_entity_id": "BJ_PARKS_2026_0373",
+      "detail_url": "https://s.visitbeijing.com.cn/attraction/101442",
+      "quote": "阳台山位于海淀区北安河乡境内，林木茂密，森林覆盖率达94%，杏树名木就占51%，景区中林木茂盛，古树众多，是京郊最佳的日出观赏地之一。",
+      "basis": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation."
+    },
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0373"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0132",
+    "observation_ids": [
+      "BJ02_SCENIC_0132"
+    ],
+    "full_name": "上方山景区",
+    "original_merge_status": "possible_prior_overlap_review",
+    "in_original_169_candidate_set": false,
+    "area_code": "110111",
+    "area_name": "房山区",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0132",
+        "official_name_verbatim": "上方山景区",
+        "area_name_verbatim": "房山区",
+        "area_code": "110111",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 132,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "detail_evidence_refs": [
+      "data/batches/11/bj02/promotion_audit/detail_evidence/117798.json"
+    ],
+    "geographic_net_addition_verified": false,
+    "outcome": "linked_existing_catalog",
+    "reason": "individually_reviewed_official_catalog_identity",
+    "identity_assertion": {
+      "source_entity_id": "BJ02_SCENIC_0132",
+      "relation": "same_official_directory_destination",
+      "parent_source_entity_id": "BJ_PARKS_2026_0707",
+      "detail_url": "https://s.visitbeijing.com.cn/attraction/117798",
+      "quote": "上方山位于北京市房山区韩村河镇,距北京市区约60公里，是山岳型自然风景区。",
+      "basis": "Individually reviewed official destination title or description explicitly gives the existing directory proper name (or anchored local prefix); same district. Not an automatic synonym/Jaccard merge; geographic footprint still unmeasured."
+    },
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0707"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0133",
+    "observation_ids": [
+      "BJ02_SCENIC_0133",
+      "BJ02_MUSEUMS_0162"
+    ],
+    "full_name": "北京市房山世界地质公园博物馆景区",
+    "original_merge_status": "exact_prior_name_match_review",
+    "in_original_169_candidate_set": false,
+    "area_code": "110111",
+    "area_name": "房山区",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0133",
+        "official_name_verbatim": "北京市房山世界地质公园博物馆景区",
+        "area_name_verbatim": "房山区",
+        "area_code": "110111",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 133,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "detail_evidence_refs": [
+      "data/batches/11/bj02/promotion_audit/detail_evidence/118564.json"
+    ],
+    "geographic_net_addition_verified": false,
+    "outcome": "linked_existing_catalog",
+    "reason": "individually_reviewed_official_catalog_identity",
+    "identity_assertion": {
+      "source_entity_id": "BJ02_SCENIC_0133",
+      "relation": "same_official_directory_destination",
+      "parent_source_entity_id": "BJ_PARKS_2026_0710",
+      "detail_url": "https://s.visitbeijing.com.cn/attraction/118564",
+      "quote": "2006年9月17日，在第二届世界地质公园大会上，中国房山世界地质公园正式获得联合国教科文组织批准并授牌，成为目前全球唯一一家位于首都城市的世界地质公园。",
+      "basis": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation."
+    },
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0710"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0140",
+    "observation_ids": [
+      "BJ02_SCENIC_0140"
+    ],
+    "full_name": "仙栖洞景区",
+    "original_merge_status": "exact_prior_name_match_review",
+    "in_original_169_candidate_set": false,
+    "area_code": "110111",
+    "area_name": "房山区",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0140",
+        "official_name_verbatim": "仙栖洞景区",
+        "area_name_verbatim": "房山区",
+        "area_code": "110111",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 140,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "detail_evidence_refs": [
+      "data/batches/11/bj02/promotion_audit/detail_evidence/117818.json"
+    ],
+    "geographic_net_addition_verified": false,
+    "outcome": "linked_existing_catalog",
+    "reason": "individually_reviewed_official_catalog_identity",
+    "identity_assertion": {
+      "source_entity_id": "BJ02_SCENIC_0140",
+      "relation": "same_official_directory_destination",
+      "parent_source_entity_id": "BJ_PARKS_2026_0712",
+      "detail_url": "https://s.visitbeijing.com.cn/attraction/117818",
+      "quote": "仙栖洞位于北京市房山区张坊镇东关上村。",
+      "basis": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation."
+    },
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0712"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0145",
+    "observation_ids": [
+      "BJ02_SCENIC_0145"
+    ],
+    "full_name": "北京顺义汉石桥湿地景区",
+    "original_merge_status": "new_catalog_candidate",
+    "in_original_169_candidate_set": true,
+    "area_code": "110113",
+    "area_name": "顺义区",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0145",
+        "official_name_verbatim": "北京顺义汉石桥湿地景区",
+        "area_name_verbatim": "顺义区",
+        "area_code": "110113",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 145,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "detail_evidence_refs": [
+      "data/batches/11/bj02/promotion_audit/detail_evidence/117847.json"
+    ],
+    "geographic_net_addition_verified": false,
+    "outcome": "linked_existing_catalog",
+    "reason": "individually_reviewed_official_catalog_identity",
+    "identity_assertion": {
+      "source_entity_id": "BJ02_SCENIC_0145",
+      "relation": "same_official_directory_destination",
+      "parent_source_entity_id": "BJ_PARKS_2026_0817",
+      "detail_url": "https://s.visitbeijing.com.cn/attraction/117847",
+      "quote": "北京汉石桥湿地公园，位于京东平原地带，是北京现存唯一的大面积芦苇型原生湿地。",
+      "basis": "Individually reviewed official destination title or description explicitly gives the existing directory proper name (or anchored local prefix); same district. Not an automatic synonym/Jaccard merge; geographic footprint still unmeasured."
+    },
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0817"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0190",
+    "observation_ids": [
+      "BJ02_SCENIC_0190"
+    ],
+    "full_name": "中华石雕艺术园景区",
+    "original_merge_status": "exact_prior_name_match_review",
+    "in_original_169_candidate_set": false,
+    "area_code": "110111",
+    "area_name": "房山区",
+    "official_area_evidence": [
+      {
+        "observation_id": "BJ02_SCENIC_0190",
+        "official_name_verbatim": "中华石雕艺术园景区",
+        "area_name_verbatim": "房山区",
+        "area_code": "110111",
+        "area_basis": "official_area_column",
+        "source_url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html",
+        "source_row": 190,
+        "sanitized_evidence_file": "data/batches/11/bj02/raw/scenic.json",
+        "sanitized_sha256": "7dd7b2ceda5a447f134fb91bb159bfcb1eb8d100338fc6b026708c098e03fd90"
+      }
+    ],
+    "detail_evidence_refs": [
+      "data/batches/11/bj02/promotion_audit/detail_evidence/117932.json"
+    ],
+    "geographic_net_addition_verified": false,
+    "outcome": "linked_existing_catalog",
+    "reason": "individually_reviewed_official_catalog_identity",
+    "identity_assertion": {
+      "source_entity_id": "BJ02_SCENIC_0190",
+      "relation": "same_official_directory_destination",
+      "parent_source_entity_id": "BJ_PARKS_2026_0679",
+      "detail_url": "https://s.visitbeijing.com.cn/attraction/117932",
+      "quote": "中华石雕艺术园位于北京市房山区大石窝镇，面积2400亩。",
+      "basis": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation."
+    },
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0679"
+  }
+]

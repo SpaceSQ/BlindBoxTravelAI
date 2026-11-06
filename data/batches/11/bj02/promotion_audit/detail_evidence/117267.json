@@ -1,0 +1,20 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/117267",
+  "retrieved_at": "2026-11-07T00:58:33.776001+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/117267",
+  "response_sha256": "3bd5fa6906180f02bbf32851d72dfb2cb028f6cd4ef48b5ec37c4fe0b2532788",
+  "title": "圣莲山旅游度假区",
+  "identity_excerpt_quotes": [
+    "圣莲山东位于北京西南，房山区西北的群山峻岭之中，距北京市中心90公里，距房山行政中心良乡城60公里。",
+    "海拔930米。",
+    "圣莲山又称莲花山、古称太山，由南天门一峰分为两院，佛门、道家两重天。",
+    "峰圣莲山又称莲花山，古称太山，因整个山体酷似一片片莲花瓣，故名。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 416,
+  "fetch_state": "usable_identity_page"
+}

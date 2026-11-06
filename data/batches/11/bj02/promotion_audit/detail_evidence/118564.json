@@ -1,0 +1,19 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/118564",
+  "retrieved_at": "2026-11-07T00:58:44.513707+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/118564",
+  "response_sha256": "d9e8eab471d00473483fb7776ee1d88dbb8973e259ee081f410560ee3de6662a",
+  "title": "北京市房山世界地质公园博物馆",
+  "identity_excerpt_quotes": [
+    "2006年9月17日，在第二届世界地质公园大会上，中国房山世界地质公园正式获得联合国教科文组织批准并授牌，成为目前全球唯一一家位于首都城市的世界地质公园。",
+    "公园总面积953.95平方公里，横跨北京市房山区、河北省保定市涞水县、涞源县。",
+    "博物馆是地质公园的标志性建筑及核心展示区，位于房山区长沟镇，2009年3月29日奠基，2010年5月15日试运行，参观接待能力以及体验效果在社会上产生了广泛的影响、受到了社会各界的好评。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 498,
+  "fetch_state": "usable_identity_page"
+}

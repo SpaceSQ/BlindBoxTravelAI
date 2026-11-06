@@ -1,0 +1,907 @@
+[
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/101406",
+    "retrieved_at": "2026-11-07T00:58:26.874045+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/101406",
+    "response_sha256": "9c79b037616499639babe88b3e352acd829b7838978740e68c7498cba7611d04",
+    "title": "八达岭长城风景名胜区",
+    "identity_excerpt_quotes": [
+      "八达岭长城位于北京市延庆区军都山关沟古道北口，史称天下九塞之一，是长城重要关口居庸关的前哨，在明长城中保存最好，也最具代表性，因此是万里长城向游人开放最早的地段。",
+      "八达岭长城其关城为东窄西宽的梯形，建于明弘治十八年（1505年），嘉靖、万历年间曾修葺。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 500,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/101407",
+    "retrieved_at": "2026-11-07T00:58:26.875440+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/101407",
+    "response_sha256": "7d787933eb6b46287b2062c6791d97fe0e8ae95d03f58646e9e268219aa2c132",
+    "title": "颐和园",
+    "identity_excerpt_quotes": [
+      "颐和园是中国现存规模最大、保存最完整的皇家园林，中国四大名园（另三座为承德避暑山庄、苏州拙政园、苏州留园）之一。",
+      "位于北京市海淀区，距北京城区十五公里，占地约二百九十公顷。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 500,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/101413",
+    "retrieved_at": "2026-11-07T00:58:26.879290+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/101413",
+    "response_sha256": "0729e30bc7c3db735f6bc0d15bec1365511a6802bf8ea85155784ead7881b90c",
+    "title": "龙庆峡旅游区",
+    "identity_excerpt_quotes": [
+      "小三峡胜似三峡，山比三峡险。",
+      "小漓江赛过漓江，水比漓江清。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 476,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/101416",
+    "retrieved_at": "2026-11-07T00:58:28.099467+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/101416",
+    "response_sha256": "c6a6c6cd74ee48923af0f08b8ad6f064090bb979345fb58252ea93f550c7e6f1",
+    "title": "明十三陵",
+    "identity_excerpt_quotes": [
+      "明十三陵，坐落于天寿山麓，距离北京约五十公里。",
+      "陵区周围群山环抱，中部为平原，陵前有小河曲折蜿蜒，山明水秀，景色宜人。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 500,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/101425",
+    "retrieved_at": "2026-11-07T00:58:28.817954+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/101425",
+    "response_sha256": "b37085092f9ba4d85793d3d385f7949cfa195a820549c7c88cdedc3463fb803e",
+    "title": "云居寺",
+    "identity_excerpt_quotes": [
+      "云居寺位于北京西南郊七十多公里处房山区境内的白带山(又称石经山)西南麓，距市中心70公里。",
+      "占地面积70000多平方米。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 500,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/101426",
+    "retrieved_at": "2026-11-07T00:58:28.998211+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/101426",
+    "response_sha256": "bf5fb7b5f9cdeebd717b0b93923b2d336513e2fa8f328961a7537ebf096801b9",
+    "title": "石花洞",
+    "identity_excerpt_quotes": [
+      "石花洞位于北京市房山区境内，距市中心46公里，距京石高速公路15公里、西六环良坨路出口15公里。",
+      "是房山世界地质公园溶洞群观光区、国际洞穴会员单位、国家级风景名胜区、国家AAAA级旅游景区、市级地质遗迹自然保护区、北京市科普教育基地，被誉为:中国最佳溶洞奇观。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 500,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/101433",
+    "retrieved_at": "2026-11-07T00:58:29.099008+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/101433",
+    "response_sha256": "7c94031b4a438fd4e51ce2125407283433814acf49a2ab5d9701ddd12f84189e",
+    "title": "石景山游乐园",
+    "identity_excerpt_quotes": [
+      "石景山游乐园位于石景山区，紧邻石景山体育馆。",
+      "占地35万平方米，是一座以欧洲园林为主要特色的大型现代化游乐园，被誉为北京迪斯尼。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 500,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/101441",
+    "retrieved_at": "2026-11-07T00:58:30.072929+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/101441",
+    "response_sha256": "1bc4abf23ee7daa0651b35b168b380de162f080b09d15b32fd379e74cc49b763",
+    "title": "凤凰岭自然风景区",
+    "identity_excerpt_quotes": [
+      "北京凤凰岭自然风景公园，国家AAAA景区。",
+      "\"远郊的景，近郊的路，北京的自然氧气库！",
+      "景区位于海淀区西北部，距天安门直线距离51公里，总面积10.62平方公里。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 500,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/101442",
+    "retrieved_at": "2026-11-07T00:58:30.128837+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/101442",
+    "response_sha256": "94f35de28155a0f2a2e20d5b6b2710a9f3ce3718864e2af0c254547bdcf8f396",
+    "title": "阳台山自然风景区",
+    "identity_excerpt_quotes": [
+      "阳台山位于海淀区北安河乡境内，林木茂密，森林覆盖率达94%，杏树名木就占51%，景区中林木茂盛，古树众多，是京郊最佳的日出观赏地之一。",
+      "山中分布着许多名胜古迹，既有以盘山古道闻名的鹫峰森林公园，又有千年古刹大觉寺，在主峰妙高峰下，还有保存得很完整的清朝醇亲王墓。",
+      "阳台山自然风景区，位于海淀区北安河乡境内，北依七王坟，是一处以妙峰山古香道为主线的风景区，1997年开放。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 500,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/101505",
+    "retrieved_at": "2026-11-07T00:58:31.300627+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/101505",
+    "response_sha256": "9df3cd2e051a40cc864e8cc1e4c234f64ffcc47d66e1dff732f13e7504a8c093",
+    "title": "金海湖风景区",
+    "identity_excerpt_quotes": [
+      "金海湖位于平谷区东南盘山脚下海子村村，距平谷城区15公里，距北京城85公里，金海湖原是在1679年大地震中断裂出来的峡谷，后经过诸多改造，形成了如今北京市的第三大水库，建于1985年。",
+      "因公园北有大金山，南有海子村，故取名金海公园。",
+      "金海湖，原名海子水库，是北京市的三大水库之一，水库位于泃河流经山区的最后一段。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 500,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/101507",
+    "retrieved_at": "2026-11-07T00:58:31.634103+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/101507",
+    "response_sha256": "483b998312cdeff2efe5d8db822109809f8fdbef2c588d7a3ff7e3a1ef777e92",
+    "title": "戒台寺",
+    "identity_excerpt_quotes": [
+      "戒台寺为全国重点文物保护单位、国家AAAA级景区、北京市风景名胜区、宗教活动场所。",
+      "寺院位于北京市门头沟区的马鞍山上，距京城35公里。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 482,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/101758",
+    "retrieved_at": "2026-11-07T00:58:32.456769+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/101758",
+    "response_sha256": "167672ef2d29492cb6dfd3caaaf03fa95fca2ad55ef39df19e0812f7c242746e",
+    "title": "北京天文馆",
+    "identity_excerpt_quotes": [
+      "北京天文馆是中国第一座天文馆。",
+      "位于北京西直门外。",
+      "位于北京东城建国门立交桥西南的北京古观象台归北京天文馆管理，为全国重点文物保护单位。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 500,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/101868",
+    "retrieved_at": "2026-11-07T00:58:32.517662+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/101868",
+    "response_sha256": "dccb0bae92ac20edd4ac47327650cb119da070d8389a0535a059d2e5f503c6ad",
+    "title": "太平洋海底世界博览馆",
+    "identity_excerpt_quotes": [
+      "新北京十六景、文化创意产业基地——太平洋海底世界博览馆坐落于北京中央广播电视塔下，是以展示海洋生物为主，集科普教育、观赏娱乐于一体的综合性现代化博览馆。",
+      "在这里，您将欣赏到各种美丽的海洋生物，领略到海底世界的动人景色。",
+      "馆内放养数百种海洋生物，大到凶猛的鲨鱼，小到绚丽多彩的珊瑚鱼以及多种珍稀的淡水鱼类。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 499,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/101918",
+    "retrieved_at": "2026-11-07T00:58:33.190778+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/101918",
+    "response_sha256": "848c127772061ebe309d25397bd0504214e484f22b7a63709a5b343d61b3a6df",
+    "title": "北京大观园",
+    "identity_excerpt_quotes": [
+      "大观园是一座再现中国古典文学名著《红楼梦》中“大观园”景观的仿古园林，位于宣武区南菜园（市区西南隅护城河畔）。",
+      "原址为明清两代皇家菜园，明代曾在此设“嘉疏署”。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 488,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/117034",
+    "retrieved_at": "2026-11-07T00:58:33.507455+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/117034",
+    "response_sha256": "2d4bb5184920ebc2b2c1fba6eb3af5680a6f5eb4d1dfe898634146bd5bcfb6e5",
+    "title": "宋庆龄故居",
+    "identity_excerpt_quotes": [
+      "宋庆龄同志故居坐落在北京风景秀丽的什刹海后海北沿。",
+      "门前水天相映、碧波涟漪，堤岸杨柳轻扬，院内曲径回廊，楼堂亭榭；湖水环绕，山石嶙峋；绿树浓荫，花香四溢。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 498,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/117267",
+    "retrieved_at": "2026-11-07T00:58:33.776001+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/117267",
+    "response_sha256": "3bd5fa6906180f02bbf32851d72dfb2cb028f6cd4ef48b5ec37c4fe0b2532788",
+    "title": "圣莲山旅游度假区",
+    "identity_excerpt_quotes": [
+      "圣莲山东位于北京西南，房山区西北的群山峻岭之中，距北京市中心90公里，距房山行政中心良乡城60公里。",
+      "海拔930米。",
+      "圣莲山又称莲花山、古称太山，由南天门一峰分为两院，佛门、道家两重天。",
+      "峰圣莲山又称莲花山，古称太山，因整个山体酷似一片片莲花瓣，故名。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 416,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/117714",
+    "retrieved_at": "2026-11-07T00:58:34.046070+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/117714",
+    "response_sha256": "4ca01c9ad350b5379383b24f0b952414cc4e1cf2b26f061e082db44e3194f0bd",
+    "title": "北京顺义国际鲜花港",
+    "identity_excerpt_quotes": [
+      "北京国际鲜花港是北京市政府规划的北京市唯一的专业花卉产业园区，是北京市主办的2009年第七届中国花卉博览会的重要功能组团之一，是北京市花卉产业发展的窗口。",
+      "在花博会期间，北京国际鲜花港承担着北京市产业园区展示和企业室外花卉展示的任务，同时还负责宣传、弘扬首都的花卉文化。",
+      "北京国际鲜花港位于顺义区杨镇，总体规划4平方公里，是北京市唯一的专业花卉产业园区，东临木燕路、南靠白马路，距市区39公里，距首都机场20公里，距北京奥运会水上项目赛场仅5分钟车程，位置优越，交通便捷。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 500,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/117798",
+    "retrieved_at": "2026-11-07T00:58:34.775930+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/117798",
+    "response_sha256": "777e07acef8b8bb73e5b7d4a9fb91ec3ff0e4cad5780326b7f79d81d49608ae3",
+    "title": "上方山国家森林公园",
+    "identity_excerpt_quotes": [
+      "上方山位于北京市房山区韩村河镇,距北京市区约60公里，是山岳型自然风景区。",
+      "景区总面积3.53平方公里，拥有华北地区唯一保存完好的原始次生林。",
+      "”\r\n园内有著名的“九洞十二峰”。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 444,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/117804",
+    "retrieved_at": "2026-11-07T00:58:35.048929+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/117804",
+    "response_sha256": "69b57fabe6dba5d8f4e77a0e59c1df276f6d369670feb2488f82801dc284993b",
+    "title": "抗日战争雕塑园",
+    "identity_excerpt_quotes": [
+      "中国人民抗日战争纪念雕塑园为纪念抗日战争胜利55周年建成的--中国人民抗日战争纪念雕塑园。",
+      "园内有原国家主席江泽民亲笔题写碑名的中国人民抗日战争纪念碑、有以《国歌》为主题反映中国人民八年浴血奋战历史的雕塑群区以及下沉式中心广场、宛平城墙、绿林等主要景观。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 126,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/117809",
+    "retrieved_at": "2026-11-07T00:58:35.665312+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/117809",
+    "response_sha256": "2720210cf5537ba69a830a25b599cccc8dfa2a7b412bee516971bf23bd737836",
+    "title": "北京海洋馆",
+    "identity_excerpt_quotes": [
+      "北京海洋馆位于北京动物园内长河北岸，占地 12 万平方米，建筑面积 4.2 万平方米，集观赏、科普教育和休闲娱乐为一体，是目前世界最大的内陆水族馆。",
+      "北京海洋馆建筑造型独特、恢弘壮观，犹如一只蓝色的大海螺，躺在绿树环抱、花团簇拥的沙滩上。",
+      "馆内以“陶怡大众，教益学生，维系生态”为宗旨，为游客巧妙安排了“ 雨林奇观 ”、“ 风情海滩 ”、“ 海底环游 ”、“ 白令小镇 ”、“ 国宝中华鲟鱼馆 ”、“ 鲸豚湾 ”、“ 海洋剧院 ”等七个主题的展示区域，馆内饲养和展示的海洋鱼类及生物达千余种、数万尾。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 500,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/117810",
+    "retrieved_at": "2026-11-07T00:58:35.712706+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/117810",
+    "response_sha256": "a16b8bb0c65643e27726d51865ab0a56a5aaa8da009c7b053af76448cb3abf71",
+    "title": "文化和旅游部恭王府博物馆",
+    "identity_excerpt_quotes": [
+      "在风景秀丽的北京什刹海的西南角，有一条静谧悠长、绿柳荫荫的街巷。",
+      "在这条街巷之中，坐落着一座王府，它就是现存王府中保存最完整的恭王府。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 500,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/117817",
+    "retrieved_at": "2026-11-07T00:58:35.765847+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/117817",
+    "response_sha256": "2accf3a3e9c02e98a81e5aae7475e307b056f032298c32c3012ac8464d20eb5b",
+    "title": "中国人民抗日战争纪念馆",
+    "identity_excerpt_quotes": [
+      "中国人民抗日战争纪念馆是全国唯一一座全面反映中国人民抗日战争历史的大型综合性专题纪念馆。",
+      "是国家一级博物馆、全国优秀爱国主义教育示范基地、全国国防教育基地、全国廉政教育基地、首批全国百家重点红色旅游景区，是中国抗日战争史学会秘书处所在地、中国博物馆协会纪念馆专业委员会主任委员单位。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 500,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/117818",
+    "retrieved_at": "2026-11-07T00:58:36.534944+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/117818",
+    "response_sha256": "271ab37d59ae1d4260db383cd1485890339b041c1be681eddbe37a62788e8926",
+    "title": "仙栖洞景区",
+    "identity_excerpt_quotes": [
+      "仙栖洞位于北京市房山区张坊镇东关上村。",
+      "距北京市三环路不到100公里。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 500,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/117823",
+    "retrieved_at": "2026-11-07T00:58:36.663440+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/117823",
+    "response_sha256": "0449864f6c322537ac3629fe73439d08d3172d713992975e83e3eac18c419500",
+    "title": "妙峰山风景名胜区",
+    "identity_excerpt_quotes": [
+      "北京市名山之一，京郊游览胜地，区位于京西门头沟区境内，门头沟区与昌平县界山，属太行山余脉。",
+      "位于北京西北30余公里，距市区55公里，海拔1291米，面积20平方公里。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 384,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/117827",
+    "retrieved_at": "2026-11-07T00:58:37.456874+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/117827",
+    "response_sha256": "8da515c6ac60a63d00e5d10434491e5d003083e3e872388a83d60f73a9e42415",
+    "title": "中央电视塔",
+    "identity_excerpt_quotes": [
+      "中央电视塔坐落于北京市海淀区西三环中路西侧，航天桥旁，玉渊潭公园西侧。",
+      "身为国家AAAA级景点，在这里，您远可俯瞰北京市全景，近可感受中国电视文化，是领略京城风貌的必游之地。",
+      "塔上有世界上最大的环形露天观景平台，可以360度俯瞰全景北京的壮丽风貌，感受鸟巢、故宫、国家大剧院、颐和园、央视新大楼以及奥运会场馆星罗棋布的震撼景观!\r\n位于225米高的电视文化大厅，是北京最高、国内唯一的电视文化科普展厅，是探寻中国电视发展的过去、现在和未来，探秘央视奥秘的首选之地。",
+      "位于塔内221米的空中观景旋转餐厅是京"
+    ],
+    "description_block_found": true,
+    "description_character_count": 500,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/117833",
+    "retrieved_at": "2026-11-07T00:58:38.117613+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/117833",
+    "response_sha256": "94a615f5550fb2da4e32608e5d491e8b160d717145b69b60349cf4cca4a02e9a",
+    "title": "北京宣南文化博物馆",
+    "identity_excerpt_quotes": [
+      "北京宣南文化博物馆坐落于明代古刹长椿寺内，于2005年11月30日正式对外开放，现为国家AAA级旅游景区，北京市爱国主义教育基地。",
+      "馆内设基本陈列“风声、雨声、读书声——北京宣南士乡历史文化展”，分为“此地为宣南”“士聚宣南”“斯文在兹”“先忧天下”“宣南新声”五部分，围绕宣南士乡的城市空间、士人群体的生活空间、学术活动、精神追求等梯次展开，多维度解读宣南文化、宣南士乡的精神特质，展现清代宣南士人群体以学术研究、文学艺术创作等活动为依托，心系家国、引领时代、勇于担当的人文精神。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 242,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/117841",
+    "retrieved_at": "2026-11-07T00:58:38.556700+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/117841",
+    "response_sha256": "c553bb6391980a9d651fc6c781e263e3e2a368a9ee979cced32bb9ef85a323e7",
+    "title": "潭柘寺",
+    "identity_excerpt_quotes": [
+      "潭柘寺距今已有1700多年历史，是北京最古老的古寺。",
+      "寺院坐北朝南，背倚宝珠峰，周围有九座高大的山峰呈马蹄形环护，宛如在九条巨龙的拥立之下。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 500,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/117843",
+    "retrieved_at": "2026-11-07T00:59:12.304554+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/117843",
+    "response_sha256": "478abaad12813e6e98ec7012fa4bc98c719a99e904720c8dd6344a6a83a4af73",
+    "title": "前门大街景区",
+    "identity_excerpt_quotes": [
+      "前门大街历史悠久，远在元朝时候，当时丽正门(即今前门)外通往郊外的大道就是它的前身。",
+      "明朝中叶，由于商业的发达，前门大街两侧出现了鲜鱼口、猪(珠)市口、煤市口、粮食店等集市和街道，前门大街才成为一条商业街。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 216,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/117847",
+    "retrieved_at": "2026-11-07T00:59:12.305750+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/117847",
+    "response_sha256": "6a8ca4a997ba836c78dfd34b35ff764a6f6a0e68aa18785cbbc78915bceaf55d",
+    "title": "北京顺义汉石桥湿地景区",
+    "identity_excerpt_quotes": [
+      "北京汉石桥湿地公园，位于京东平原地带，是北京现存唯一的大面积芦苇型原生湿地。",
+      "公园位于北京市东北部的顺义杨镇，距北京城区约35公里，距首都机场约20公里，总面积1900公顷，并有多种珍稀水禽的栖息于此，其中国家Ⅰ级重点保护野生动物2种，国家Ⅱ级重点野生动物17种。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 445,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/117861",
+    "retrieved_at": "2026-11-07T00:59:12.305909+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/117861",
+    "response_sha256": "f76cdff6f46bdc1d8f4d7622d4609d9188f14544e8e9c62e66cbc64555c31e36",
+    "title": "北京南海子麋鹿苑博物馆",
+    "identity_excerpt_quotes": [
+      "位于北京城南大兴区境内的南苑至廊坊公 路东侧，距北京城区14公里。",
+      "麋鹿，俗称“四不像”，本为中国独有，但1865年被法国大卫神父发现，此后陆续运送到欧洲。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 389,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/117872",
+    "retrieved_at": "2026-11-07T00:59:13.180447+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/117872",
+    "response_sha256": "08454b65be9a6170848998eabf5f86568fdc3fc4bb4acca2d86492b8b2327396",
+    "title": "八达岭水关长城景区",
+    "identity_excerpt_quotes": [
+      "位于北京市西北40公里，此段长城是八达岭长城东段，因修建中国第一条自主设计的京张铁路而截断。",
+      "水关长城是明长城的遗址，由抗倭名将戚继光督建，距今有四百余年历史。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 250,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/117873",
+    "retrieved_at": "2026-11-07T00:58:38.845485+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/117873",
+    "response_sha256": "865ac899e422d0b80f7299eca208e32f005e46e09063b37c41773d157f4a4581",
+    "title": "故宫博物院",
+    "identity_excerpt_quotes": [
+      "紫禁城南北长961m，东西宽753m，四面围有高10m的城墙，城外有宽52m的护城河,真可谓有金城汤池之固。",
+      "紫禁城有四座城门，南面为午门，北面为神武门，东面为东华门，西面为西华门。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 432,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/117932",
+    "retrieved_at": "2026-11-07T00:58:39.160195+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/117932",
+    "response_sha256": "46857a2b2439863ff96960b71e0a6444459231c958ae4749aef98799ecd370d7",
+    "title": "中华石雕艺术园",
+    "identity_excerpt_quotes": [
+      "中华石雕艺术园位于北京市房山区大石窝镇，面积2400亩。",
+      "园区内以石雕为主。",
+      "公园主体分为上下两层，园内主要设计标志型雕塑8座，四周建有莲花桥、如意吉祥钟亭、图腾柱等雕塑百余件。",
+      "园内建有一条连体总长120米的喷泉，人工湖，晓月亭，栽植了各种花卉。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 265,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/117983",
+    "retrieved_at": "2026-11-07T00:58:39.385259+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/117983",
+    "response_sha256": "a7bbbad6bdc5dd305cbe4f6f3257a472315b87756c22394f35d2dc459379a2ef",
+    "title": "明城墙遗址公园",
+    "identity_excerpt_quotes": [
+      "历史上明城墙全长40公里，始建于明永乐17年（公元1419年），距今已有580多年的历史。",
+      "现存的崇文门至城东南角楼一线的城墙遗址全长1.5公里，是原北京内城城垣的组成部分，是仅存的一段，也是北京城的标志。",
+      "北京明城墙遗址公园位于市中心地域，北京明城墙遗址公园东起城东南角楼，北京明城墙遗址公园西至崇文门，北京明城墙遗址公园总面积约：15.5公顷，北京明城墙遗址公园其中城墙遗址及城东南角楼占地3.3公顷，北京明城墙遗址公园绿地面积12.2公顷。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 500,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/118001",
+    "retrieved_at": "2026-11-07T00:58:39.930111+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/118001",
+    "response_sha256": "39d3e7aea2ae38c6bd7a1ea245acc6f176a7790cc1fd569cf45f4dab5a88e12f",
+    "title": "北京市劳动人民文化宫",
+    "identity_excerpt_quotes": [
+      "北京市劳动人民文化宫位于北京天安门东侧，为始建于明永乐十八年（1420年）的明清太庙。",
+      "经周恩来总理提议，第一次政务院会议批准，将太庙移交北京市总工会管理，辟为职工群众的文化活动场所，“北京市劳动人民文化宫”匾额由毛泽东主席命名并亲笔题写，于1950年4月30日揭幕，5月1日正式对外开放。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 500,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/118021",
+    "retrieved_at": "2026-11-07T00:59:13.384074+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/118021",
+    "response_sha256": "f3908bb39b2dc6b5de53bb872fbe4c68f9e8270857635b7083a76d0438225022",
+    "title": "南宫旅游景区",
+    "identity_excerpt_quotes": [
+      "南宫旅游景区距离北京市中心约25公里，依托优质丰富的地热资源，现集温泉健身养生、地热科普教育、休闲娱乐、亲子家庭度假于一体，其磅礴的人文景观、秀美的自然景观、和谐的生态环境与花园式旅游小镇融为一体。",
+      "享有“世界地热第一村”的美誉，是距离京城最近的4A景区、首批国家生态旅游示范区等，是北京十大旅游路线之一。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 152,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/118101",
+    "retrieved_at": "2026-11-07T01:02:11.832787+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/118101",
+    "response_sha256": "7a1de6ba19d048812b5edb5f516581ecdc47e5a666e8338f86fb696ac5a62eae",
+    "title": "北京古观象台",
+    "identity_excerpt_quotes": [
+      "北京古观象台位于建国门立交桥西南角，是世界上古老的天文台之一，已有500多年的历史。",
+      "它以建筑整齐配套、仪器保存完好、历史悠久而闻名于世。",
+      "1933年改为国立天文陈列馆，新中国成立后，经国务院批准隶属北京天文馆管理，于1956年5月1日以\"北京古代天文仪器陈列馆\"的名义对社会开放。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 500,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/118115",
+    "retrieved_at": "2026-11-07T00:58:41.093225+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/118115",
+    "response_sha256": "d3cea2cbb338645553ec83b91d322c112fe2f550f638f6622bdc584b3adb1961",
+    "title": "野鸭湖国家湿地公园",
+    "identity_excerpt_quotes": [
+      "华北最大北京唯一湿地鸟类自然保护区北京野鸭湖地处延庆区八达岭长城脚下的官厅湖畔，拥有150多万平方米水面，由于这里的自然环境保持良好，2000年12月被市政府批准为北京市市级湿地鸟类自然保护区。",
+      "野鸭湖位于北京市延庆区西北部，属于华北平原向山西高原、内蒙高原的过渡地带，它北靠燕山山脉，南临太行山脉，西南部与河北怀来县接壤，东南面是雄伟的八达岭长城。",
+      "保护区动植物资源十分丰富，据统计野鸭湖湿地高等植物有89科231属389种，其中苔藓植物16种，隶属9科9属;蕨类8种，隶属5科5属;裸子植物7种，隶属3科5属;被子植物358种，隶属72科212属。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 500,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/118132",
+    "retrieved_at": "2026-11-07T00:58:41.104735+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/118132",
+    "response_sha256": "80686e34e476ca173f8a7842e2616a3d1568ebc4e08d888375918a09f88320b2",
+    "title": "冶仙塔景区",
+    "identity_excerpt_quotes": [
+      "冶仙塔旅游风景区位于密云东北部，占地1150亩，其中冶仙塔山林占地面积800亩，公园占地面积350亩。",
+      "冶仙公园是依冶仙塔而建，依山傍水，风景秀丽，面向美丽的密云县城。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 244,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/118161",
+    "retrieved_at": "2026-11-07T00:58:42.108839+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/118161",
+    "response_sha256": "c0c5e0b3cfef1c855c56890c297775290e4ac8cdb2314318fb7265b2a78082ed",
+    "title": "慈悲庵",
+    "identity_excerpt_quotes": [
+      "古刹慈悲庵，坐落于陶然亭公园湖心岛西南的高台上，建自元代，又称观音庵。",
+      "历史上这里是文人墨客荟集赋咏之地，曾留下许多传诵一时的诗篇。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 500,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/118188",
+    "retrieved_at": "2026-11-07T00:58:43.095407+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/118188",
+    "response_sha256": "e71286c71d6d6f43687a1ee5f75fe3731199ca6ff28a7cba5725a33c280788c9",
+    "title": "香山双清别墅",
+    "identity_excerpt_quotes": [
+      "香山双清别墅位于香山公园南麓的半山腰，环境幽雅，以其苍翠的竹林、遮天蔽日的银杏、挺拔的松柏、古朴的建筑引人前往。",
+      "然而真正使这个地方闻名天下的并不是她的秀丽风光，而是因为这里曾是毛主席住过的地方，曾是中共中央的指挥中心，曾发生过扭转中国命运决定中国前途的大事。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 500,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/118284",
+    "retrieved_at": "2026-11-07T00:58:43.307449+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/118284",
+    "response_sha256": "7be8da42ef344c966fd88c3dd7038c9d1b9a9a1c33003fa5365fd0c46af50cf3",
+    "title": "中国园林博物馆",
+    "identity_excerpt_quotes": [
+      "中国园林博物馆是中国第一座以园林为主题的国家级博物馆，位于北京市丰台区鹰山脚下，永定河畔。",
+      "自2010年开始筹建，于2013年5月开馆运行。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 457,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/118459",
+    "retrieved_at": "2026-11-07T00:58:43.416596+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/118459",
+    "response_sha256": "97589c2b4c761a3d0e2b3365d44416e76334a4697d18f8f49111d99c7f89d412",
+    "title": "北京园博园",
+    "identity_excerpt_quotes": [
+      "北京园博园位于丰台区永定河西岸，北至莲石西路，南到梅市口路西延，西至北宫路，西南接园博大道，展区占地267公顷，园博湖占地246公 顷，总占地513公顷。",
+      "北京园博园秉承“文化传承、生态优先、服务民生、永续发展”的理念，利用绿色科技在建筑垃圾填埋场上进行生态修复建园，是一个集园 林艺术、文化景观、生态休闲、科普教育于一体的大型公益性城市公园。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 498,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/118564",
+    "retrieved_at": "2026-11-07T00:58:44.513707+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/118564",
+    "response_sha256": "d9e8eab471d00473483fb7776ee1d88dbb8973e259ee081f410560ee3de6662a",
+    "title": "北京市房山世界地质公园博物馆",
+    "identity_excerpt_quotes": [
+      "2006年9月17日，在第二届世界地质公园大会上，中国房山世界地质公园正式获得联合国教科文组织批准并授牌，成为目前全球唯一一家位于首都城市的世界地质公园。",
+      "公园总面积953.95平方公里，横跨北京市房山区、河北省保定市涞水县、涞源县。",
+      "博物馆是地质公园的标志性建筑及核心展示区，位于房山区长沟镇，2009年3月29日奠基，2010年5月15日试运行，参观接待能力以及体验效果在社会上产生了广泛的影响、受到了社会各界的好评。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 498,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/120539",
+    "retrieved_at": "2026-11-07T00:58:45.721702+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/120539",
+    "response_sha256": "1651bbd5679062bfbff5163cf47109b96d07eb39807f7f785bc323e0ae60d3f2",
+    "title": "北京金台艺术馆",
+    "identity_excerpt_quotes": [
+      "金台艺术馆是由全国政协常委、联合国首授“环保艺术大师”、著名艺术家袁熙坤先生集资创建的，1996年6月30日正式开馆，是创建最早也是迄今国内最大的民间艺术博物馆。",
+      "1994 年4月19日，由袁熙坤任会长的北京怡苑文化艺术促进会成立。",
+      "金台艺术馆坐落于北京市朝阳公园水碓湖畔，外型呈典雅之五台状，又邻八景之一“金台夕照”，遂定名为“金台”。",
+      "馆内长期陈列着袁熙坤先生应邀为百余位国际要人写生创作并由被绘者亲自题词的肖像画，和被西方美术评论家誉为“袁氏中国油画”的《人与自然》油画展，国际名人雕塑展以及由袁先生和海外爱华力量，从海外收购的经有关专家学者鉴定的千余件文物。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 467,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/120994",
+    "retrieved_at": "2026-11-07T00:58:46.026244+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/120994",
+    "response_sha256": "e78b3d7ba8b0b099fb1aa5518e83e42a26e88b4a757d01cfa21cff1af249f88c",
+    "title": "北京（通州）大运河文化旅游景区",
+    "identity_excerpt_quotes": [
+      "中国大运河始建于春秋，是世界上开凿最早也是最长的人工运河，2014 年被列入世界遗产名录，是世界上最宏伟的四大古代工程之一。",
+      "大运河北京段全长约 80 公里，其中通州区辖域约长 40 公里。",
+      "北京(通州)大运河文化旅游景区地处大运河的北端，位于北京城市副中心的核心位置，是大运河文化带的重要节点，全长12.1 公里，总面积7.23 平方公里，于2024年成功创建国家AAAAA级旅游景区。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 439,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/121024",
+    "retrieved_at": "2026-11-07T00:58:46.054088+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/121024",
+    "response_sha256": "5bc5c2f96cfd5d48f25e972d7384ad4448caba0c00dd35de7ffae9693dabbc80",
+    "title": "香山革命纪念馆",
+    "identity_excerpt_quotes": [
+      "香山革命纪念馆位于北京香山，紧邻香山公园，馆中数千件展品、图片和一段段珍贵的影像资料，全面呈现中共中央在北京香山时期波澜壮阔的革命历史。",
+      "2019年9月13日，香山革命纪念地正式向公众开放。",
+      "新建成的香山革命纪念馆内，《为新中国奠基——中共中央在香山》主题展览，通过约800张图片、报照、地图、表格和1200多件实物、文献和档案呈现中国发展历程。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 171,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/121033",
+    "retrieved_at": "2026-11-07T00:58:46.843101+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/121033",
+    "response_sha256": "66d809ea5914bf49056dfd8422b8d729ae266d17a3fcf5c045d3973ffc065d61",
+    "title": "颐和园博物馆",
+    "identity_excerpt_quotes": [
+      "颐和园博物馆隶属北京市颐和园管理处，于2021年7月2日在北京市文物局备案，馆址位于世界文化遗产、全国重点文物保护单位颐和园内文昌阁东侧（光绪时期御膳房遗址之上），容古建筑风格和园林化环境于一体，是颐和园开展文物保护、研究和展览交流的重要场所。",
+      "颐和园博物馆藏品主要来源于清宫旧藏，现存文物藏品近4万件，其中一、二、三级珍贵文物2万余件。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 350,
+    "fetch_state": "usable_identity_page"
+  },
+  {
+    "requested_url": "https://s.visitbeijing.com.cn/attraction/121082",
+    "retrieved_at": "2026-11-07T00:58:47.108883+08:00",
+    "source_kind": "Beijing_tourism_official_linked_detail",
+    "image_reuse_license_verified": false,
+    "display_image_url": null,
+    "http_status": 200,
+    "final_url": "https://s.visitbeijing.com.cn/attraction/121082",
+    "response_sha256": "8c6f1a18c67ce83c82d8c7655836e1a2871ad018fccfa9fc402d6b814bc17dae",
+    "title": "圆明园展览馆",
+    "identity_excerpt_quotes": [
+      "“圆明园西洋楼展览馆”位于圆明园遗址公园东北隅的西洋楼景区，与著名的圆明园“标志性景观”大水法拱门毗邻。",
+      "整个展览馆占地面积约1500平米，布局上按方位可分为东、北、西三座展室，北展室空间面积为340平米，东西两展室空间面积各为100平米。",
+      "改造一新的西洋楼展览馆内，游客不仅可以对全园风貌、历史有所了解，还能通过高新技术手段一睹圆明园盛世原貌风采。"
+    ],
+    "description_block_found": true,
+    "description_character_count": 359,
+    "fetch_state": "usable_identity_page"
+  }
+]

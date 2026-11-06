@@ -1,0 +1,19 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/118115",
+  "retrieved_at": "2026-11-07T00:58:41.093225+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/118115",
+  "response_sha256": "d3cea2cbb338645553ec83b91d322c112fe2f550f638f6622bdc584b3adb1961",
+  "title": "野鸭湖国家湿地公园",
+  "identity_excerpt_quotes": [
+    "华北最大北京唯一湿地鸟类自然保护区北京野鸭湖地处延庆区八达岭长城脚下的官厅湖畔，拥有150多万平方米水面，由于这里的自然环境保持良好，2000年12月被市政府批准为北京市市级湿地鸟类自然保护区。",
+    "野鸭湖位于北京市延庆区西北部，属于华北平原向山西高原、内蒙高原的过渡地带，它北靠燕山山脉，南临太行山脉，西南部与河北怀来县接壤，东南面是雄伟的八达岭长城。",
+    "保护区动植物资源十分丰富，据统计野鸭湖湿地高等植物有89科231属389种，其中苔藓植物16种，隶属9科9属;蕨类8种，隶属5科5属;裸子植物7种，隶属3科5属;被子植物358种，隶属72科212属。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 500,
+  "fetch_state": "usable_identity_page"
+}

@@ -1,0 +1,19 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/121082",
+  "retrieved_at": "2026-11-07T00:58:47.108883+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/121082",
+  "response_sha256": "8c6f1a18c67ce83c82d8c7655836e1a2871ad018fccfa9fc402d6b814bc17dae",
+  "title": "圆明园展览馆",
+  "identity_excerpt_quotes": [
+    "“圆明园西洋楼展览馆”位于圆明园遗址公园东北隅的西洋楼景区，与著名的圆明园“标志性景观”大水法拱门毗邻。",
+    "整个展览馆占地面积约1500平米，布局上按方位可分为东、北、西三座展室，北展室空间面积为340平米，东西两展室空间面积各为100平米。",
+    "改造一新的西洋楼展览馆内，游客不仅可以对全园风貌、历史有所了解，还能通过高新技术手段一睹圆明园盛世原貌风采。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 359,
+  "fetch_state": "usable_identity_page"
+}

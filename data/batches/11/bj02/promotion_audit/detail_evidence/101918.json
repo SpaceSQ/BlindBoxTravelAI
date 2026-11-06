@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/101918",
+  "retrieved_at": "2026-11-07T00:58:33.190778+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/101918",
+  "response_sha256": "848c127772061ebe309d25397bd0504214e484f22b7a63709a5b343d61b3a6df",
+  "title": "北京大观园",
+  "identity_excerpt_quotes": [
+    "大观园是一座再现中国古典文学名著《红楼梦》中“大观园”景观的仿古园林，位于宣武区南菜园（市区西南隅护城河畔）。",
+    "原址为明清两代皇家菜园，明代曾在此设“嘉疏署”。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 488,
+  "fetch_state": "usable_identity_page"
+}

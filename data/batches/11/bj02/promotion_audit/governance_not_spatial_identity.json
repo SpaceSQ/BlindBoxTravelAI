@@ -1,0 +1,11 @@
+[
+  {
+    "from_source_entity_id": "BJ02_MUSEUMS_0024",
+    "to_source_entity_id": "BJ02_SCENIC_0020",
+    "relation": "managed_by_not_same_geographic_venue",
+    "detail_url": "https://s.visitbeijing.com.cn/attraction/118101",
+    "quote": "1933年改为国立天文陈列馆，新中国成立后，经国务院批准隶属北京天文馆管理，于1956年5月1日以\"北京古代天文仪器陈列馆\"的名义对社会开放。",
+    "no_master_merge": true,
+    "no_spatial_parent_edge": true
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/101433",
+  "retrieved_at": "2026-11-07T00:58:29.099008+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/101433",
+  "response_sha256": "7c94031b4a438fd4e51ce2125407283433814acf49a2ab5d9701ddd12f84189e",
+  "title": "石景山游乐园",
+  "identity_excerpt_quotes": [
+    "石景山游乐园位于石景山区，紧邻石景山体育馆。",
+    "占地35万平方米，是一座以欧洲园林为主要特色的大型现代化游乐园，被誉为北京迪斯尼。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 500,
+  "fetch_state": "usable_identity_page"
+}

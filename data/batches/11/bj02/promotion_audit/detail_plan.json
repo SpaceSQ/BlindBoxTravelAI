@@ -1,0 +1,272 @@
+[
+  {
+    "source_entity_id": "BJ02_SCENIC_0002",
+    "full_name": "故宫博物院",
+    "url": "https://s.visitbeijing.com.cn/attraction/117873"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0003",
+    "full_name": "恭王府景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/117810"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0006",
+    "full_name": "颐和园景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/101407"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0007",
+    "full_name": "北京（通州）大运河文化旅游景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/120994"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0008",
+    "full_name": "明十三陵景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/101416"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0010",
+    "full_name": "八达岭长城景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/101406"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0016",
+    "full_name": "北京海洋馆",
+    "url": "https://s.visitbeijing.com.cn/attraction/117809"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0020",
+    "full_name": "北京天文馆景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/101758"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0026",
+    "full_name": "中国人民抗日战争纪念馆景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/117817"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0027",
+    "full_name": "北京园博园景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/118459"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0033",
+    "full_name": "丰台区中国园林博物馆景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/118284"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0035",
+    "full_name": "北京石景山游乐园景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/101433"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0038",
+    "full_name": "北京凤凰岭景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/101441"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0041",
+    "full_name": "中央电视塔景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/117827"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0042",
+    "full_name": "北京市门头沟区戒台寺景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/101507"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0043",
+    "full_name": "潭柘寺景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/117841"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0047",
+    "full_name": "北京市房山区云居寺景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/101425"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0048",
+    "full_name": "北京市房山区石花洞景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/101426"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0050",
+    "full_name": "北京圣莲山旅游风景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/117267"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0053",
+    "full_name": "北京国际鲜花港景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/117714"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0065",
+    "full_name": "金海湖风景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/101505"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0073",
+    "full_name": "野鸭湖景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/118115"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0074",
+    "full_name": "延庆区龙庆峡旅游区",
+    "url": "https://s.visitbeijing.com.cn/attraction/101413"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0078",
+    "full_name": "北京市劳动人民文化宫景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/118001"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0083",
+    "full_name": "北京大观园",
+    "url": "https://s.visitbeijing.com.cn/attraction/101918"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0085",
+    "full_name": "北京市宣南文化博物馆景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/117833"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0087",
+    "full_name": "宋庆龄故居景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/117034"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0107",
+    "full_name": "抗日战争纪念雕塑园",
+    "url": "https://s.visitbeijing.com.cn/attraction/117804"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0112",
+    "full_name": "阳台山自然风景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/101442"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0115",
+    "full_name": "北京太平洋海底世界博览馆景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/101868"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0121",
+    "full_name": "妙峰山风景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/117823"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0132",
+    "full_name": "上方山景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/117798"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0133",
+    "full_name": "北京市房山世界地质公园博物馆景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/118564"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0140",
+    "full_name": "仙栖洞景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/117818"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0166",
+    "full_name": "北京冶仙塔旅游风景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/118132"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0190",
+    "full_name": "中华石雕艺术园景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/117932"
+  },
+  {
+    "source_entity_id": "BJ02_MUSEUMS_0012",
+    "full_name": "宋庆龄故居管理中心",
+    "url": "https://s.visitbeijing.com.cn/attraction/117034"
+  },
+  {
+    "source_entity_id": "BJ02_MUSEUMS_0023",
+    "full_name": "明十三陵博物馆",
+    "url": "https://s.visitbeijing.com.cn/attraction/101416"
+  },
+  {
+    "source_entity_id": "BJ02_MUSEUMS_0036",
+    "full_name": "北京房山云居寺石经博物馆",
+    "url": "https://s.visitbeijing.com.cn/attraction/101425"
+  },
+  {
+    "source_entity_id": "BJ02_MUSEUMS_0050",
+    "full_name": "北京明城墙遗址公园（东南城角角楼）",
+    "url": "https://s.visitbeijing.com.cn/attraction/117983"
+  },
+  {
+    "source_entity_id": "BJ02_MUSEUMS_0057",
+    "full_name": "圆明园展览馆",
+    "url": "https://s.visitbeijing.com.cn/attraction/121082"
+  },
+  {
+    "source_entity_id": "BJ02_MUSEUMS_0064",
+    "full_name": "文化和旅游部恭王府博物馆",
+    "url": "https://s.visitbeijing.com.cn/attraction/117810"
+  },
+  {
+    "source_entity_id": "BJ02_MUSEUMS_0066",
+    "full_name": "慈悲庵",
+    "url": "https://s.visitbeijing.com.cn/attraction/118161"
+  },
+  {
+    "source_entity_id": "BJ02_MUSEUMS_0073",
+    "full_name": "香山双清别墅",
+    "url": "https://s.visitbeijing.com.cn/attraction/118188"
+  },
+  {
+    "source_entity_id": "BJ02_MUSEUMS_0083",
+    "full_name": "北京金台艺术馆",
+    "url": "https://s.visitbeijing.com.cn/attraction/120539"
+  },
+  {
+    "source_entity_id": "BJ02_MUSEUMS_0125",
+    "full_name": "香山革命纪念馆",
+    "url": "https://s.visitbeijing.com.cn/attraction/121024"
+  },
+  {
+    "source_entity_id": "BJ02_MUSEUMS_0136",
+    "full_name": "颐和园博物馆",
+    "url": "https://s.visitbeijing.com.cn/attraction/121033"
+  },
+  {
+    "source_entity_id": "BJ02_MUSEUMS_0159",
+    "full_name": "北京宣南文化博物馆管理处",
+    "url": "https://s.visitbeijing.com.cn/attraction/117833"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0032",
+    "full_name": "南宫旅游景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/118021"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0076",
+    "full_name": "八达岭水关长城景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/117872"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0079",
+    "full_name": "前门大街景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/117843"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0145",
+    "full_name": "北京顺义汉石桥湿地景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/117847"
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0152",
+    "full_name": "北京南海子麋鹿苑博物馆景区",
+    "url": "https://s.visitbeijing.com.cn/attraction/117861"
+  },
+  {
+    "source_entity_id": "BJ02_MUSEUMS_0024",
+    "full_name": "北京古观象台",
+    "url": "https://s.visitbeijing.com.cn/attraction/118101"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/117827",
+  "retrieved_at": "2026-11-07T00:58:37.456874+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/117827",
+  "response_sha256": "8da515c6ac60a63d00e5d10434491e5d003083e3e872388a83d60f73a9e42415",
+  "title": "中央电视塔",
+  "identity_excerpt_quotes": [
+    "中央电视塔坐落于北京市海淀区西三环中路西侧，航天桥旁，玉渊潭公园西侧。",
+    "身为国家AAAA级景点，在这里，您远可俯瞰北京市全景，近可感受中国电视文化，是领略京城风貌的必游之地。",
+    "塔上有世界上最大的环形露天观景平台，可以360度俯瞰全景北京的壮丽风貌，感受鸟巢、故宫、国家大剧院、颐和园、央视新大楼以及奥运会场馆星罗棋布的震撼景观!\r\n位于225米高的电视文化大厅，是北京最高、国内唯一的电视文化科普展厅，是探寻中国电视发展的过去、现在和未来，探秘央视奥秘的首选之地。",
+    "位于塔内221米的空中观景旋转餐厅是京"
+  ],
+  "description_block_found": true,
+  "description_character_count": 500,
+  "fetch_state": "usable_identity_page"
+}

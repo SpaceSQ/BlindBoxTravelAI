@@ -1,0 +1,20 @@
+test_empty_fallback_never_global_key (__main__.ConservativeRules.test_empty_fallback_never_global_key) ... ok
+test_latin_casefold_and_unicode_are_only_syntactic (__main__.ConservativeRules.test_latin_casefold_and_unicode_are_only_syntactic) ... ok
+test_management_relation_not_spatial_identity (__main__.ConservativeRules.test_management_relation_not_spatial_identity) ... ok
+test_memorial_museum_not_sculpture_park (__main__.ConservativeRules.test_memorial_museum_not_sculpture_park) ... ok
+test_missing_coordinates_reserved (__main__.ConservativeRules.test_missing_coordinates_reserved) ... ok
+test_null_district_never_authorizes_merge (__main__.ConservativeRules.test_null_district_never_authorizes_merge) ... ok
+test_official_assertion_is_catalog_link_not_geomerge (__main__.ConservativeRules.test_official_assertion_is_catalog_link_not_geomerge) ... ok
+test_parent_child_preserved_both_directions (__main__.ConservativeRules.test_parent_child_preserved_both_directions) ... ok
+test_park_names_not_erased_to_common_stem (__main__.ConservativeRules.test_park_names_not_erased_to_common_stem) ... ok
+test_same_name_different_district_is_review_not_merge (__main__.ConservativeRules.test_same_name_different_district_is_review_not_merge) ... ok
+test_shared_detail_url_not_automatic_alias (__main__.ConservativeRules.test_shared_detail_url_not_automatic_alias) ... ok
+test_synonyms_not_automatic (__main__.ConservativeRules.test_synonyms_not_automatic) ... ok
+test_unknown_child_stays_city_only (__main__.ConservativeRules.test_unknown_child_stays_city_only) ... ok
+test_whole_snapshot_verification (__main__.ConservativeRules.test_whole_snapshot_verification) ... ok
+test_z_idempotent_full_materialization (__main__.ConservativeRules.test_z_idempotent_full_materialization) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 4.434s
+
+OK

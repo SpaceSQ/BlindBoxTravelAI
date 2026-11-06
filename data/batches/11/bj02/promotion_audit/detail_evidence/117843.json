@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/117843",
+  "retrieved_at": "2026-11-07T00:59:12.304554+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/117843",
+  "response_sha256": "478abaad12813e6e98ec7012fa4bc98c719a99e904720c8dd6344a6a83a4af73",
+  "title": "前门大街景区",
+  "identity_excerpt_quotes": [
+    "前门大街历史悠久，远在元朝时候，当时丽正门(即今前门)外通往郊外的大道就是它的前身。",
+    "明朝中叶，由于商业的发达，前门大街两侧出现了鲜鱼口、猪(珠)市口、煤市口、粮食店等集市和街道，前门大街才成为一条商业街。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 216,
+  "fetch_state": "usable_identity_page"
+}

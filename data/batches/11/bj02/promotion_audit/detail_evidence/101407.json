@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/101407",
+  "retrieved_at": "2026-11-07T00:58:26.875440+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/101407",
+  "response_sha256": "7d787933eb6b46287b2062c6791d97fe0e8ae95d03f58646e9e268219aa2c132",
+  "title": "颐和园",
+  "identity_excerpt_quotes": [
+    "颐和园是中国现存规模最大、保存最完整的皇家园林，中国四大名园（另三座为承德避暑山庄、苏州拙政园、苏州留园）之一。",
+    "位于北京市海淀区，距北京城区十五公里，占地约二百九十公顷。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 500,
+  "fetch_state": "usable_identity_page"
+}

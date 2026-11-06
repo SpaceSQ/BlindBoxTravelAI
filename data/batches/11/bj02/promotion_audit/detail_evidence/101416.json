@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/101416",
+  "retrieved_at": "2026-11-07T00:58:28.099467+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/101416",
+  "response_sha256": "c6a6c6cd74ee48923af0f08b8ad6f064090bb979345fb58252ea93f550c7e6f1",
+  "title": "明十三陵",
+  "identity_excerpt_quotes": [
+    "明十三陵，坐落于天寿山麓，距离北京约五十公里。",
+    "陵区周围群山环抱，中部为平原，陵前有小河曲折蜿蜒，山明水秀，景色宜人。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 500,
+  "fetch_state": "usable_identity_page"
+}

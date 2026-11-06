@@ -1,0 +1,19 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/101441",
+  "retrieved_at": "2026-11-07T00:58:30.072929+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/101441",
+  "response_sha256": "1bc4abf23ee7daa0651b35b168b380de162f080b09d15b32fd379e74cc49b763",
+  "title": "凤凰岭自然风景区",
+  "identity_excerpt_quotes": [
+    "北京凤凰岭自然风景公园，国家AAAA景区。",
+    "\"远郊的景，近郊的路，北京的自然氧气库！",
+    "景区位于海淀区西北部，距天安门直线距离51公里，总面积10.62平方公里。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 500,
+  "fetch_state": "usable_identity_page"
+}

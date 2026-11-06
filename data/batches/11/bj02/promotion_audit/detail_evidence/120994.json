@@ -1,0 +1,19 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/120994",
+  "retrieved_at": "2026-11-07T00:58:46.026244+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/120994",
+  "response_sha256": "e78b3d7ba8b0b099fb1aa5518e83e42a26e88b4a757d01cfa21cff1af249f88c",
+  "title": "北京（通州）大运河文化旅游景区",
+  "identity_excerpt_quotes": [
+    "中国大运河始建于春秋，是世界上开凿最早也是最长的人工运河，2014 年被列入世界遗产名录，是世界上最宏伟的四大古代工程之一。",
+    "大运河北京段全长约 80 公里，其中通州区辖域约长 40 公里。",
+    "北京(通州)大运河文化旅游景区地处大运河的北端，位于北京城市副中心的核心位置，是大运河文化带的重要节点，全长12.1 公里，总面积7.23 平方公里，于2024年成功创建国家AAAAA级旅游景区。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 439,
+  "fetch_state": "usable_identity_page"
+}

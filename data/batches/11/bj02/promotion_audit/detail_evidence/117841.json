@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/117841",
+  "retrieved_at": "2026-11-07T00:58:38.556700+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/117841",
+  "response_sha256": "c553bb6391980a9d651fc6c781e263e3e2a368a9ee979cced32bb9ef85a323e7",
+  "title": "潭柘寺",
+  "identity_excerpt_quotes": [
+    "潭柘寺距今已有1700多年历史，是北京最古老的古寺。",
+    "寺院坐北朝南，背倚宝珠峰，周围有九座高大的山峰呈马蹄形环护，宛如在九条巨龙的拥立之下。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 500,
+  "fetch_state": "usable_identity_page"
+}

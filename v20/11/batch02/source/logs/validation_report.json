@@ -1,0 +1,16 @@
+{
+  "checks": 3911,
+  "structural_errors": [],
+  "error_count": 0,
+  "status": "PASS",
+  "not_a_completeness_pass": true,
+  "quality_warnings": [
+    "338 thin nonpark directory entities, not guaranteed distinct geographic spots",
+    "172 unknown districts; all coordinates, prices, images, prose and access status pending",
+    "169 conservative lexical additive candidates; final physical-net count not certified",
+    "169 held for exact prior/nested/alias/compound review; no automatic old-data merges",
+    "10 official ordered walking candidates; 0 production Routes",
+    "No explicit reuse license verified; no official directory text or images relicensed",
+    "No Google/Baidu matrix run, app/social access or geocoding attempted"
+  ]
+}

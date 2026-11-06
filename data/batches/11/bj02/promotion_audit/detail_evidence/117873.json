@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/117873",
+  "retrieved_at": "2026-11-07T00:58:38.845485+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/117873",
+  "response_sha256": "865ac899e422d0b80f7299eca208e32f005e46e09063b37c41773d157f4a4581",
+  "title": "故宫博物院",
+  "identity_excerpt_quotes": [
+    "紫禁城南北长961m，东西宽753m，四面围有高10m的城墙，城外有宽52m的护城河,真可谓有金城汤池之固。",
+    "紫禁城有四座城门，南面为午门，北面为神武门，东面为东华门，西面为西华门。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 432,
+  "fetch_state": "usable_identity_page"
+}

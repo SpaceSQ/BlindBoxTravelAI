@@ -1,0 +1,18 @@
+{
+  "source_id": "walks",
+  "url": "https://whlyj.beijing.gov.cn/zwgk/xwzx/gzdt/202607/t20260729_4796963.html",
+  "title": "一轴贯古今，漫步读京城 10条“北京中轴线最美漫步道”主题线路",
+  "actual_discovery_tool": "WebSearch",
+  "actual_query": "site.beijing.gov.cn 2026 文旅 主题 游览线路 线路一 线路二",
+  "retrieved_at": "2026-11-07T00:54:13.895621+08:00",
+  "source_display_dates": [
+    "2026-07-27"
+  ],
+  "http_status": 200,
+  "response_content_sha256": "6563764660ebabeec1fb667a5c2b41eddab308342ff6da5f7179a68873056199",
+  "sanitized_sha256": "00054fb6851048094d5be4599a10101e2094f1af284b753cb308b4599c5626be",
+  "evidence_file": "raw/walks.json",
+  "sanitization": "Only official row number, entity name, grade/area, public detail URL or route node order/length retained. Contact columns and page chrome discarded in memory. Original response not persisted.",
+  "license_status": "Publicly readable government directory; no explicit reuse license verified; no image or prose reuse rights inferred.",
+  "rows": 10
+}

@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/118459",
+  "retrieved_at": "2026-11-07T00:58:43.416596+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/118459",
+  "response_sha256": "97589c2b4c761a3d0e2b3365d44416e76334a4697d18f8f49111d99c7f89d412",
+  "title": "北京园博园",
+  "identity_excerpt_quotes": [
+    "北京园博园位于丰台区永定河西岸，北至莲石西路，南到梅市口路西延，西至北宫路，西南接园博大道，展区占地267公顷，园博湖占地246公 顷，总占地513公顷。",
+    "北京园博园秉承“文化传承、生态优先、服务民生、永续发展”的理念，利用绿色科技在建筑垃圾填埋场上进行生态修复建园，是一个集园 林艺术、文化景观、生态休闲、科普教育于一体的大型公益性城市公园。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 498,
+  "fetch_state": "usable_identity_page"
+}

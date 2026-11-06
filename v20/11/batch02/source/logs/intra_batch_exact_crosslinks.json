@@ -1,0 +1,87 @@
+[
+  {
+    "observation_id": "BJ02_MUSEUMS_0001",
+    "canonical_observation_id": "BJ02_SCENIC_0002",
+    "reason": "exact_normalized_name_unique_compatible_district"
+  },
+  {
+    "observation_id": "BJ02_MUSEUMS_0007",
+    "canonical_observation_id": "BJ02_SCENIC_0081",
+    "reason": "exact_normalized_name_unique_compatible_district"
+  },
+  {
+    "observation_id": "BJ02_MUSEUMS_0014",
+    "canonical_observation_id": "BJ02_SCENIC_0020",
+    "reason": "exact_normalized_name_unique_compatible_district"
+  },
+  {
+    "observation_id": "BJ02_MUSEUMS_0016",
+    "canonical_observation_id": "BJ02_SCENIC_0017",
+    "reason": "exact_normalized_name_unique_compatible_district"
+  },
+  {
+    "observation_id": "BJ02_MUSEUMS_0033",
+    "canonical_observation_id": "BJ02_SCENIC_0144",
+    "reason": "exact_normalized_name_unique_compatible_district"
+  },
+  {
+    "observation_id": "BJ02_MUSEUMS_0046",
+    "canonical_observation_id": "BJ02_SCENIC_0153",
+    "reason": "exact_normalized_name_unique_compatible_district"
+  },
+  {
+    "observation_id": "BJ02_MUSEUMS_0079",
+    "canonical_observation_id": "BJ02_SCENIC_0023",
+    "reason": "exact_normalized_name_unique_compatible_district"
+  },
+  {
+    "observation_id": "BJ02_MUSEUMS_0080",
+    "canonical_observation_id": "BJ02_SCENIC_0152",
+    "reason": "exact_normalized_name_unique_compatible_district"
+  },
+  {
+    "observation_id": "BJ02_MUSEUMS_0091",
+    "canonical_observation_id": "BJ02_SCENIC_0012",
+    "reason": "exact_normalized_name_unique_compatible_district"
+  },
+  {
+    "observation_id": "BJ02_MUSEUMS_0096",
+    "canonical_observation_id": "BJ02_SCENIC_0182",
+    "reason": "exact_normalized_name_unique_compatible_district"
+  },
+  {
+    "observation_id": "BJ02_MUSEUMS_0098",
+    "canonical_observation_id": "BJ02_SCENIC_0051",
+    "reason": "exact_normalized_name_unique_compatible_district"
+  },
+  {
+    "observation_id": "BJ02_MUSEUMS_0104",
+    "canonical_observation_id": "BJ02_SCENIC_0028",
+    "reason": "exact_normalized_name_unique_compatible_district"
+  },
+  {
+    "observation_id": "BJ02_MUSEUMS_0109",
+    "canonical_observation_id": "BJ02_SCENIC_0100",
+    "reason": "exact_normalized_name_unique_compatible_district"
+  },
+  {
+    "observation_id": "BJ02_MUSEUMS_0112",
+    "canonical_observation_id": "BJ02_SCENIC_0033",
+    "reason": "exact_normalized_name_unique_compatible_district"
+  },
+  {
+    "observation_id": "BJ02_MUSEUMS_0127",
+    "canonical_observation_id": "BJ02_SCENIC_0155",
+    "reason": "exact_normalized_name_unique_compatible_district"
+  },
+  {
+    "observation_id": "BJ02_MUSEUMS_0156",
+    "canonical_observation_id": "BJ02_SCENIC_0057",
+    "reason": "exact_normalized_name_unique_compatible_district"
+  },
+  {
+    "observation_id": "BJ02_MUSEUMS_0162",
+    "canonical_observation_id": "BJ02_SCENIC_0133",
+    "reason": "exact_normalized_name_unique_compatible_district"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/117847",
+  "retrieved_at": "2026-11-07T00:59:12.305750+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/117847",
+  "response_sha256": "6a8ca4a997ba836c78dfd34b35ff764a6f6a0e68aa18785cbbc78915bceaf55d",
+  "title": "北京顺义汉石桥湿地景区",
+  "identity_excerpt_quotes": [
+    "北京汉石桥湿地公园，位于京东平原地带，是北京现存唯一的大面积芦苇型原生湿地。",
+    "公园位于北京市东北部的顺义杨镇，距北京城区约35公里，距首都机场约20公里，总面积1900公顷，并有多种珍稀水禽的栖息于此，其中国家Ⅰ级重点保护野生动物2种，国家Ⅱ级重点野生动物17种。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 445,
+  "fetch_state": "usable_identity_page"
+}

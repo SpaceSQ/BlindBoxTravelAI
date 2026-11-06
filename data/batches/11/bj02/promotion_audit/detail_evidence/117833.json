@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/117833",
+  "retrieved_at": "2026-11-07T00:58:38.117613+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/117833",
+  "response_sha256": "94a615f5550fb2da4e32608e5d491e8b160d717145b69b60349cf4cca4a02e9a",
+  "title": "北京宣南文化博物馆",
+  "identity_excerpt_quotes": [
+    "北京宣南文化博物馆坐落于明代古刹长椿寺内，于2005年11月30日正式对外开放，现为国家AAA级旅游景区，北京市爱国主义教育基地。",
+    "馆内设基本陈列“风声、雨声、读书声——北京宣南士乡历史文化展”，分为“此地为宣南”“士聚宣南”“斯文在兹”“先忧天下”“宣南新声”五部分，围绕宣南士乡的城市空间、士人群体的生活空间、学术活动、精神追求等梯次展开，多维度解读宣南文化、宣南士乡的精神特质，展现清代宣南士人群体以学术研究、文学艺术创作等活动为依托，心系家国、引领时代、勇于担当的人文精神。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 242,
+  "fetch_state": "usable_identity_page"
+}

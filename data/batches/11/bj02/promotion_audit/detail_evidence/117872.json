@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/117872",
+  "retrieved_at": "2026-11-07T00:59:13.180447+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/117872",
+  "response_sha256": "08454b65be9a6170848998eabf5f86568fdc3fc4bb4acca2d86492b8b2327396",
+  "title": "八达岭水关长城景区",
+  "identity_excerpt_quotes": [
+    "位于北京市西北40公里，此段长城是八达岭长城东段，因修建中国第一条自主设计的京张铁路而截断。",
+    "水关长城是明长城的遗址，由抗倭名将戚继光督建，距今有四百余年历史。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 250,
+  "fetch_state": "usable_identity_page"
+}

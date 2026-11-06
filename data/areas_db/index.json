@@ -3,128 +3,128 @@
     "area_code": "110101",
     "area_name": "东城区",
     "path": "data/areas_db/11/110101.json",
-    "count": 75,
+    "count": 77,
     "target": 1000,
-    "shortfall": 925
+    "shortfall": 923
   },
   {
     "area_code": "110102",
     "area_name": "西城区",
     "path": "data/areas_db/11/110102.json",
-    "count": 95,
+    "count": 102,
     "target": 1000,
-    "shortfall": 905
+    "shortfall": 898
   },
   {
     "area_code": "110105",
     "area_name": "朝阳区",
     "path": "data/areas_db/11/110105.json",
-    "count": 90,
+    "count": 96,
     "target": 1000,
-    "shortfall": 910
+    "shortfall": 904
   },
   {
     "area_code": "110106",
     "area_name": "丰台区",
     "path": "data/areas_db/11/110106.json",
-    "count": 121,
+    "count": 124,
     "target": 1000,
-    "shortfall": 879
+    "shortfall": 876
   },
   {
     "area_code": "110107",
     "area_name": "石景山区",
     "path": "data/areas_db/11/110107.json",
-    "count": 68,
+    "count": 69,
     "target": 1000,
-    "shortfall": 932
+    "shortfall": 931
   },
   {
     "area_code": "110108",
     "area_name": "海淀区",
     "path": "data/areas_db/11/110108.json",
-    "count": 144,
+    "count": 146,
     "target": 1000,
-    "shortfall": 856
+    "shortfall": 854
   },
   {
     "area_code": "110109",
     "area_name": "门头沟区",
     "path": "data/areas_db/11/110109.json",
-    "count": 33,
+    "count": 44,
     "target": 1000,
-    "shortfall": 967
+    "shortfall": 956
   },
   {
     "area_code": "110111",
     "area_name": "房山区",
     "path": "data/areas_db/11/110111.json",
-    "count": 86,
+    "count": 98,
     "target": 1000,
-    "shortfall": 914
+    "shortfall": 902
   },
   {
     "area_code": "110112",
     "area_name": "通州区",
     "path": "data/areas_db/11/110112.json",
-    "count": 71,
+    "count": 72,
     "target": 1000,
-    "shortfall": 929
+    "shortfall": 928
   },
   {
     "area_code": "110113",
     "area_name": "顺义区",
     "path": "data/areas_db/11/110113.json",
-    "count": 41,
-    "target": 1000,
-    "shortfall": 959
-  },
-  {
-    "area_code": "110114",
-    "area_name": "昌平区",
-    "path": "data/areas_db/11/110114.json",
-    "count": 52,
-    "target": 1000,
-    "shortfall": 948
-  },
-  {
-    "area_code": "110115",
-    "area_name": "大兴区",
-    "path": "data/areas_db/11/110115.json",
-    "count": 78,
-    "target": 1000,
-    "shortfall": 922
-  },
-  {
-    "area_code": "110116",
-    "area_name": "怀柔区",
-    "path": "data/areas_db/11/110116.json",
-    "count": 62,
-    "target": 1000,
-    "shortfall": 938
-  },
-  {
-    "area_code": "110117",
-    "area_name": "平谷区",
-    "path": "data/areas_db/11/110117.json",
     "count": 43,
     "target": 1000,
     "shortfall": 957
   },
   {
+    "area_code": "110114",
+    "area_name": "昌平区",
+    "path": "data/areas_db/11/110114.json",
+    "count": 60,
+    "target": 1000,
+    "shortfall": 940
+  },
+  {
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "path": "data/areas_db/11/110115.json",
+    "count": 83,
+    "target": 1000,
+    "shortfall": 917
+  },
+  {
+    "area_code": "110116",
+    "area_name": "怀柔区",
+    "path": "data/areas_db/11/110116.json",
+    "count": 77,
+    "target": 1000,
+    "shortfall": 923
+  },
+  {
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "path": "data/areas_db/11/110117.json",
+    "count": 48,
+    "target": 1000,
+    "shortfall": 952
+  },
+  {
     "area_code": "110118",
     "area_name": "密云区",
     "path": "data/areas_db/11/110118.json",
-    "count": 47,
+    "count": 63,
     "target": 1000,
-    "shortfall": 953
+    "shortfall": 937
   },
   {
     "area_code": "110119",
     "area_name": "延庆区",
     "path": "data/areas_db/11/110119.json",
-    "count": 26,
+    "count": 31,
     "target": 1000,
-    "shortfall": 974
+    "shortfall": 969
   }
 ]

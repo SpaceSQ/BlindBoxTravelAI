@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/118161",
+  "retrieved_at": "2026-11-07T00:58:42.108839+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/118161",
+  "response_sha256": "c0c5e0b3cfef1c855c56890c297775290e4ac8cdb2314318fb7265b2a78082ed",
+  "title": "慈悲庵",
+  "identity_excerpt_quotes": [
+    "古刹慈悲庵，坐落于陶然亭公园湖心岛西南的高台上，建自元代，又称观音庵。",
+    "历史上这里是文人墨客荟集赋咏之地，曾留下许多传诵一时的诗篇。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 500,
+  "fetch_state": "usable_identity_page"
+}

@@ -1,0 +1,2063 @@
+{
+  "BJ02_SCENIC_0002": {
+    "source_entity_id": "BJ02_SCENIC_0002",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0002"
+  },
+  "BJ02_MUSEUMS_0001": {
+    "source_entity_id": "BJ02_SCENIC_0002",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0002"
+  },
+  "BJ02_SCENIC_0003": {
+    "source_entity_id": "BJ02_SCENIC_0003",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0006": {
+    "source_entity_id": "BJ02_SCENIC_0006",
+    "outcome": "linked_existing_catalog",
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0001"
+  },
+  "BJ02_SCENIC_0007": {
+    "source_entity_id": "BJ02_SCENIC_0007",
+    "outcome": "linked_existing_catalog",
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0719"
+  },
+  "BJ02_SCENIC_0008": {
+    "source_entity_id": "BJ02_SCENIC_0008",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0009": {
+    "source_entity_id": "BJ02_SCENIC_0009",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0009"
+  },
+  "BJ02_SCENIC_0010": {
+    "source_entity_id": "BJ02_SCENIC_0010",
+    "outcome": "linked_existing_catalog",
+    "canonical_spot_id": "SP_BJ_PARKS_2026_1129"
+  },
+  "BJ02_SCENIC_0012": {
+    "source_entity_id": "BJ02_SCENIC_0012",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0012"
+  },
+  "BJ02_MUSEUMS_0091": {
+    "source_entity_id": "BJ02_SCENIC_0012",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0012"
+  },
+  "BJ02_SCENIC_0016": {
+    "source_entity_id": "BJ02_SCENIC_0016",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0016"
+  },
+  "BJ02_SCENIC_0017": {
+    "source_entity_id": "BJ02_SCENIC_0017",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0017"
+  },
+  "BJ02_MUSEUMS_0016": {
+    "source_entity_id": "BJ02_SCENIC_0017",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0017"
+  },
+  "BJ02_SCENIC_0020": {
+    "source_entity_id": "BJ02_SCENIC_0020",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0020"
+  },
+  "BJ02_MUSEUMS_0014": {
+    "source_entity_id": "BJ02_SCENIC_0020",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0020"
+  },
+  "BJ02_SCENIC_0023": {
+    "source_entity_id": "BJ02_SCENIC_0023",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0023"
+  },
+  "BJ02_MUSEUMS_0079": {
+    "source_entity_id": "BJ02_SCENIC_0023",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0023"
+  },
+  "BJ02_SCENIC_0025": {
+    "source_entity_id": "BJ02_SCENIC_0025",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0025"
+  },
+  "BJ02_SCENIC_0026": {
+    "source_entity_id": "BJ02_SCENIC_0026",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0026"
+  },
+  "BJ02_SCENIC_0027": {
+    "source_entity_id": "BJ02_SCENIC_0027",
+    "outcome": "linked_existing_catalog",
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0441"
+  },
+  "BJ02_SCENIC_0028": {
+    "source_entity_id": "BJ02_SCENIC_0028",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0028"
+  },
+  "BJ02_MUSEUMS_0104": {
+    "source_entity_id": "BJ02_SCENIC_0028",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0028"
+  },
+  "BJ02_SCENIC_0032": {
+    "source_entity_id": "BJ02_SCENIC_0032",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0033": {
+    "source_entity_id": "BJ02_SCENIC_0033",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0033"
+  },
+  "BJ02_MUSEUMS_0112": {
+    "source_entity_id": "BJ02_SCENIC_0033",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0033"
+  },
+  "BJ02_SCENIC_0035": {
+    "source_entity_id": "BJ02_SCENIC_0035",
+    "outcome": "linked_existing_catalog",
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0555"
+  },
+  "BJ02_SCENIC_0038": {
+    "source_entity_id": "BJ02_SCENIC_0038",
+    "outcome": "linked_existing_catalog",
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0372"
+  },
+  "BJ02_SCENIC_0041": {
+    "source_entity_id": "BJ02_SCENIC_0041",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0042": {
+    "source_entity_id": "BJ02_SCENIC_0042",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0043": {
+    "source_entity_id": "BJ02_SCENIC_0043",
+    "outcome": "linked_existing_catalog",
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0626"
+  },
+  "BJ02_SCENIC_0044": {
+    "source_entity_id": "BJ02_SCENIC_0044",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0044"
+  },
+  "BJ02_SCENIC_0045": {
+    "source_entity_id": "BJ02_SCENIC_0045",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0045"
+  },
+  "BJ02_SCENIC_0046": {
+    "source_entity_id": "BJ02_SCENIC_0046",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0047": {
+    "source_entity_id": "BJ02_SCENIC_0047",
+    "outcome": "linked_existing_catalog",
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0713"
+  },
+  "BJ02_SCENIC_0048": {
+    "source_entity_id": "BJ02_SCENIC_0048",
+    "outcome": "linked_existing_catalog",
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0709"
+  },
+  "BJ02_SCENIC_0049": {
+    "source_entity_id": "BJ02_SCENIC_0049",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0049"
+  },
+  "BJ02_SCENIC_0050": {
+    "source_entity_id": "BJ02_SCENIC_0050",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0051": {
+    "source_entity_id": "BJ02_SCENIC_0051",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0051"
+  },
+  "BJ02_MUSEUMS_0098": {
+    "source_entity_id": "BJ02_SCENIC_0051",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0051"
+  },
+  "BJ02_SCENIC_0053": {
+    "source_entity_id": "BJ02_SCENIC_0053",
+    "outcome": "linked_existing_catalog",
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0804"
+  },
+  "BJ02_SCENIC_0054": {
+    "source_entity_id": "BJ02_SCENIC_0054",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0054"
+  },
+  "BJ02_SCENIC_0055": {
+    "source_entity_id": "BJ02_SCENIC_0055",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0056": {
+    "source_entity_id": "BJ02_SCENIC_0056",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0056"
+  },
+  "BJ02_SCENIC_0057": {
+    "source_entity_id": "BJ02_SCENIC_0057",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0156": {
+    "source_entity_id": "BJ02_SCENIC_0057",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0058": {
+    "source_entity_id": "BJ02_SCENIC_0058",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0058"
+  },
+  "BJ02_SCENIC_0059": {
+    "source_entity_id": "BJ02_SCENIC_0059",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0059"
+  },
+  "BJ02_SCENIC_0061": {
+    "source_entity_id": "BJ02_SCENIC_0061",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0061"
+  },
+  "BJ02_SCENIC_0062": {
+    "source_entity_id": "BJ02_SCENIC_0062",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0062"
+  },
+  "BJ02_SCENIC_0063": {
+    "source_entity_id": "BJ02_SCENIC_0063",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0063"
+  },
+  "BJ02_SCENIC_0064": {
+    "source_entity_id": "BJ02_SCENIC_0064",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0064"
+  },
+  "BJ02_SCENIC_0065": {
+    "source_entity_id": "BJ02_SCENIC_0065",
+    "outcome": "linked_existing_catalog",
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0995"
+  },
+  "BJ02_SCENIC_0066": {
+    "source_entity_id": "BJ02_SCENIC_0066",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0067": {
+    "source_entity_id": "BJ02_SCENIC_0067",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0067"
+  },
+  "BJ02_SCENIC_0068": {
+    "source_entity_id": "BJ02_SCENIC_0068",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0068"
+  },
+  "BJ02_SCENIC_0069": {
+    "source_entity_id": "BJ02_SCENIC_0069",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0069"
+  },
+  "BJ02_SCENIC_0070": {
+    "source_entity_id": "BJ02_SCENIC_0070",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0071": {
+    "source_entity_id": "BJ02_SCENIC_0071",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0071"
+  },
+  "BJ02_SCENIC_0072": {
+    "source_entity_id": "BJ02_SCENIC_0072",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0072"
+  },
+  "BJ02_SCENIC_0073": {
+    "source_entity_id": "BJ02_SCENIC_0073",
+    "outcome": "linked_existing_catalog",
+    "canonical_spot_id": "SP_BJ_PARKS_2026_1128"
+  },
+  "BJ02_SCENIC_0074": {
+    "source_entity_id": "BJ02_SCENIC_0074",
+    "outcome": "linked_existing_catalog",
+    "canonical_spot_id": "SP_BJ_PARKS_2026_1130"
+  },
+  "BJ02_SCENIC_0075": {
+    "source_entity_id": "BJ02_SCENIC_0075",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0076": {
+    "source_entity_id": "BJ02_SCENIC_0076",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0078": {
+    "source_entity_id": "BJ02_SCENIC_0078",
+    "outcome": "linked_existing_catalog",
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0043"
+  },
+  "BJ02_SCENIC_0079": {
+    "source_entity_id": "BJ02_SCENIC_0079",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0081": {
+    "source_entity_id": "BJ02_SCENIC_0081",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0081"
+  },
+  "BJ02_MUSEUMS_0007": {
+    "source_entity_id": "BJ02_SCENIC_0081",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0081"
+  },
+  "BJ02_SCENIC_0083": {
+    "source_entity_id": "BJ02_SCENIC_0083",
+    "outcome": "linked_existing_catalog",
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0116"
+  },
+  "BJ02_SCENIC_0085": {
+    "source_entity_id": "BJ02_SCENIC_0085",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0087": {
+    "source_entity_id": "BJ02_SCENIC_0087",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0088": {
+    "source_entity_id": "BJ02_SCENIC_0088",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0088"
+  },
+  "BJ02_SCENIC_0089": {
+    "source_entity_id": "BJ02_SCENIC_0089",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0089"
+  },
+  "BJ02_SCENIC_0099": {
+    "source_entity_id": "BJ02_SCENIC_0099",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0099"
+  },
+  "BJ02_SCENIC_0100": {
+    "source_entity_id": "BJ02_SCENIC_0100",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0100"
+  },
+  "BJ02_MUSEUMS_0109": {
+    "source_entity_id": "BJ02_SCENIC_0100",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0100"
+  },
+  "BJ02_SCENIC_0103": {
+    "source_entity_id": "BJ02_SCENIC_0103",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0103"
+  },
+  "BJ02_SCENIC_0104": {
+    "source_entity_id": "BJ02_SCENIC_0104",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0104"
+  },
+  "BJ02_SCENIC_0107": {
+    "source_entity_id": "BJ02_SCENIC_0107",
+    "outcome": "linked_existing_catalog",
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0447"
+  },
+  "BJ02_SCENIC_0108": {
+    "source_entity_id": "BJ02_SCENIC_0108",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0108"
+  },
+  "BJ02_SCENIC_0109": {
+    "source_entity_id": "BJ02_SCENIC_0109",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0112": {
+    "source_entity_id": "BJ02_SCENIC_0112",
+    "outcome": "linked_existing_catalog",
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0373"
+  },
+  "BJ02_SCENIC_0114": {
+    "source_entity_id": "BJ02_SCENIC_0114",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0115": {
+    "source_entity_id": "BJ02_SCENIC_0115",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0115"
+  },
+  "BJ02_SCENIC_0116": {
+    "source_entity_id": "BJ02_SCENIC_0116",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0117": {
+    "source_entity_id": "BJ02_SCENIC_0117",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0117"
+  },
+  "BJ02_SCENIC_0118": {
+    "source_entity_id": "BJ02_SCENIC_0118",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0119": {
+    "source_entity_id": "BJ02_SCENIC_0119",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0120": {
+    "source_entity_id": "BJ02_SCENIC_0120",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0120"
+  },
+  "BJ02_SCENIC_0121": {
+    "source_entity_id": "BJ02_SCENIC_0121",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0122": {
+    "source_entity_id": "BJ02_SCENIC_0122",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0122"
+  },
+  "BJ02_SCENIC_0123": {
+    "source_entity_id": "BJ02_SCENIC_0123",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0124": {
+    "source_entity_id": "BJ02_SCENIC_0124",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0124"
+  },
+  "BJ02_SCENIC_0125": {
+    "source_entity_id": "BJ02_SCENIC_0125",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0125"
+  },
+  "BJ02_SCENIC_0126": {
+    "source_entity_id": "BJ02_SCENIC_0126",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0126"
+  },
+  "BJ02_SCENIC_0127": {
+    "source_entity_id": "BJ02_SCENIC_0127",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0127"
+  },
+  "BJ02_SCENIC_0128": {
+    "source_entity_id": "BJ02_SCENIC_0128",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0128"
+  },
+  "BJ02_SCENIC_0129": {
+    "source_entity_id": "BJ02_SCENIC_0129",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0130": {
+    "source_entity_id": "BJ02_SCENIC_0130",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0131": {
+    "source_entity_id": "BJ02_SCENIC_0131",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0131"
+  },
+  "BJ02_SCENIC_0132": {
+    "source_entity_id": "BJ02_SCENIC_0132",
+    "outcome": "linked_existing_catalog",
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0707"
+  },
+  "BJ02_SCENIC_0133": {
+    "source_entity_id": "BJ02_SCENIC_0133",
+    "outcome": "linked_existing_catalog",
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0710"
+  },
+  "BJ02_MUSEUMS_0162": {
+    "source_entity_id": "BJ02_SCENIC_0133",
+    "outcome": "linked_existing_catalog",
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0710"
+  },
+  "BJ02_SCENIC_0134": {
+    "source_entity_id": "BJ02_SCENIC_0134",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0135": {
+    "source_entity_id": "BJ02_SCENIC_0135",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0135"
+  },
+  "BJ02_SCENIC_0136": {
+    "source_entity_id": "BJ02_SCENIC_0136",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0136"
+  },
+  "BJ02_SCENIC_0137": {
+    "source_entity_id": "BJ02_SCENIC_0137",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0137"
+  },
+  "BJ02_SCENIC_0138": {
+    "source_entity_id": "BJ02_SCENIC_0138",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0138"
+  },
+  "BJ02_SCENIC_0139": {
+    "source_entity_id": "BJ02_SCENIC_0139",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0139"
+  },
+  "BJ02_SCENIC_0140": {
+    "source_entity_id": "BJ02_SCENIC_0140",
+    "outcome": "linked_existing_catalog",
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0712"
+  },
+  "BJ02_SCENIC_0141": {
+    "source_entity_id": "BJ02_SCENIC_0141",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0141"
+  },
+  "BJ02_SCENIC_0142": {
+    "source_entity_id": "BJ02_SCENIC_0142",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0142"
+  },
+  "BJ02_SCENIC_0143": {
+    "source_entity_id": "BJ02_SCENIC_0143",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0143"
+  },
+  "BJ02_SCENIC_0144": {
+    "source_entity_id": "BJ02_SCENIC_0144",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0144"
+  },
+  "BJ02_MUSEUMS_0033": {
+    "source_entity_id": "BJ02_SCENIC_0144",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0144"
+  },
+  "BJ02_SCENIC_0145": {
+    "source_entity_id": "BJ02_SCENIC_0145",
+    "outcome": "linked_existing_catalog",
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0817"
+  },
+  "BJ02_SCENIC_0147": {
+    "source_entity_id": "BJ02_SCENIC_0147",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0147"
+  },
+  "BJ02_SCENIC_0148": {
+    "source_entity_id": "BJ02_SCENIC_0148",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0148"
+  },
+  "BJ02_SCENIC_0149": {
+    "source_entity_id": "BJ02_SCENIC_0149",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0150": {
+    "source_entity_id": "BJ02_SCENIC_0150",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0150"
+  },
+  "BJ02_SCENIC_0151": {
+    "source_entity_id": "BJ02_SCENIC_0151",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0151"
+  },
+  "BJ02_SCENIC_0152": {
+    "source_entity_id": "BJ02_SCENIC_0152",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0080": {
+    "source_entity_id": "BJ02_SCENIC_0152",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0153": {
+    "source_entity_id": "BJ02_SCENIC_0153",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0153"
+  },
+  "BJ02_MUSEUMS_0046": {
+    "source_entity_id": "BJ02_SCENIC_0153",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0153"
+  },
+  "BJ02_SCENIC_0155": {
+    "source_entity_id": "BJ02_SCENIC_0155",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0127": {
+    "source_entity_id": "BJ02_SCENIC_0155",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0156": {
+    "source_entity_id": "BJ02_SCENIC_0156",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0156"
+  },
+  "BJ02_SCENIC_0157": {
+    "source_entity_id": "BJ02_SCENIC_0157",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0157"
+  },
+  "BJ02_SCENIC_0158": {
+    "source_entity_id": "BJ02_SCENIC_0158",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0158"
+  },
+  "BJ02_SCENIC_0159": {
+    "source_entity_id": "BJ02_SCENIC_0159",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0159"
+  },
+  "BJ02_SCENIC_0160": {
+    "source_entity_id": "BJ02_SCENIC_0160",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0160"
+  },
+  "BJ02_SCENIC_0161": {
+    "source_entity_id": "BJ02_SCENIC_0161",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0161"
+  },
+  "BJ02_SCENIC_0162": {
+    "source_entity_id": "BJ02_SCENIC_0162",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0162"
+  },
+  "BJ02_SCENIC_0164": {
+    "source_entity_id": "BJ02_SCENIC_0164",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0164"
+  },
+  "BJ02_SCENIC_0165": {
+    "source_entity_id": "BJ02_SCENIC_0165",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0165"
+  },
+  "BJ02_SCENIC_0166": {
+    "source_entity_id": "BJ02_SCENIC_0166",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0167": {
+    "source_entity_id": "BJ02_SCENIC_0167",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0167"
+  },
+  "BJ02_SCENIC_0168": {
+    "source_entity_id": "BJ02_SCENIC_0168",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0168"
+  },
+  "BJ02_SCENIC_0169": {
+    "source_entity_id": "BJ02_SCENIC_0169",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0169"
+  },
+  "BJ02_SCENIC_0170": {
+    "source_entity_id": "BJ02_SCENIC_0170",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0170"
+  },
+  "BJ02_SCENIC_0171": {
+    "source_entity_id": "BJ02_SCENIC_0171",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0171"
+  },
+  "BJ02_SCENIC_0172": {
+    "source_entity_id": "BJ02_SCENIC_0172",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0172"
+  },
+  "BJ02_SCENIC_0173": {
+    "source_entity_id": "BJ02_SCENIC_0173",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0173"
+  },
+  "BJ02_SCENIC_0174": {
+    "source_entity_id": "BJ02_SCENIC_0174",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0174"
+  },
+  "BJ02_SCENIC_0175": {
+    "source_entity_id": "BJ02_SCENIC_0175",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0175"
+  },
+  "BJ02_SCENIC_0176": {
+    "source_entity_id": "BJ02_SCENIC_0176",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0177": {
+    "source_entity_id": "BJ02_SCENIC_0177",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0177"
+  },
+  "BJ02_SCENIC_0178": {
+    "source_entity_id": "BJ02_SCENIC_0178",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0179": {
+    "source_entity_id": "BJ02_SCENIC_0179",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0179"
+  },
+  "BJ02_SCENIC_0182": {
+    "source_entity_id": "BJ02_SCENIC_0182",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0182"
+  },
+  "BJ02_MUSEUMS_0096": {
+    "source_entity_id": "BJ02_SCENIC_0182",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0182"
+  },
+  "BJ02_SCENIC_0186": {
+    "source_entity_id": "BJ02_SCENIC_0186",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0186"
+  },
+  "BJ02_SCENIC_0187": {
+    "source_entity_id": "BJ02_SCENIC_0187",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0187"
+  },
+  "BJ02_SCENIC_0188": {
+    "source_entity_id": "BJ02_SCENIC_0188",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0188"
+  },
+  "BJ02_SCENIC_0189": {
+    "source_entity_id": "BJ02_SCENIC_0189",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0189"
+  },
+  "BJ02_SCENIC_0190": {
+    "source_entity_id": "BJ02_SCENIC_0190",
+    "outcome": "linked_existing_catalog",
+    "canonical_spot_id": "SP_BJ_PARKS_2026_0679"
+  },
+  "BJ02_SCENIC_0191": {
+    "source_entity_id": "BJ02_SCENIC_0191",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0191"
+  },
+  "BJ02_SCENIC_0192": {
+    "source_entity_id": "BJ02_SCENIC_0192",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0192"
+  },
+  "BJ02_SCENIC_0193": {
+    "source_entity_id": "BJ02_SCENIC_0193",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0194": {
+    "source_entity_id": "BJ02_SCENIC_0194",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0194"
+  },
+  "BJ02_SCENIC_0195": {
+    "source_entity_id": "BJ02_SCENIC_0195",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0195"
+  },
+  "BJ02_SCENIC_0196": {
+    "source_entity_id": "BJ02_SCENIC_0196",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0196"
+  },
+  "BJ02_SCENIC_0197": {
+    "source_entity_id": "BJ02_SCENIC_0197",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0197"
+  },
+  "BJ02_SCENIC_0198": {
+    "source_entity_id": "BJ02_SCENIC_0198",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0198"
+  },
+  "BJ02_SCENIC_0199": {
+    "source_entity_id": "BJ02_SCENIC_0199",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0199"
+  },
+  "BJ02_SCENIC_0200": {
+    "source_entity_id": "BJ02_SCENIC_0200",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0200"
+  },
+  "BJ02_SCENIC_0201": {
+    "source_entity_id": "BJ02_SCENIC_0201",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0201"
+  },
+  "BJ02_SCENIC_0203": {
+    "source_entity_id": "BJ02_SCENIC_0203",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0203"
+  },
+  "BJ02_SCENIC_0205": {
+    "source_entity_id": "BJ02_SCENIC_0205",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_SCENIC_0205"
+  },
+  "BJ02_MUSEUMS_0002": {
+    "source_entity_id": "BJ02_MUSEUMS_0002",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0003": {
+    "source_entity_id": "BJ02_MUSEUMS_0003",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0004": {
+    "source_entity_id": "BJ02_MUSEUMS_0004",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0005": {
+    "source_entity_id": "BJ02_MUSEUMS_0005",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0006": {
+    "source_entity_id": "BJ02_MUSEUMS_0006",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0008": {
+    "source_entity_id": "BJ02_MUSEUMS_0008",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0009": {
+    "source_entity_id": "BJ02_MUSEUMS_0009",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0010": {
+    "source_entity_id": "BJ02_MUSEUMS_0010",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0011": {
+    "source_entity_id": "BJ02_MUSEUMS_0011",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0012": {
+    "source_entity_id": "BJ02_MUSEUMS_0012",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0013": {
+    "source_entity_id": "BJ02_MUSEUMS_0013",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0015": {
+    "source_entity_id": "BJ02_MUSEUMS_0015",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0017": {
+    "source_entity_id": "BJ02_MUSEUMS_0017",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0018": {
+    "source_entity_id": "BJ02_MUSEUMS_0018",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0019": {
+    "source_entity_id": "BJ02_MUSEUMS_0019",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0020": {
+    "source_entity_id": "BJ02_MUSEUMS_0020",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0021": {
+    "source_entity_id": "BJ02_MUSEUMS_0021",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0022": {
+    "source_entity_id": "BJ02_MUSEUMS_0022",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0023": {
+    "source_entity_id": "BJ02_MUSEUMS_0023",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0024": {
+    "source_entity_id": "BJ02_MUSEUMS_0024",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0025": {
+    "source_entity_id": "BJ02_MUSEUMS_0025",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0026": {
+    "source_entity_id": "BJ02_MUSEUMS_0026",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0027": {
+    "source_entity_id": "BJ02_MUSEUMS_0027",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0028": {
+    "source_entity_id": "BJ02_MUSEUMS_0028",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0029": {
+    "source_entity_id": "BJ02_MUSEUMS_0029",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0030": {
+    "source_entity_id": "BJ02_MUSEUMS_0030",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0031": {
+    "source_entity_id": "BJ02_MUSEUMS_0031",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0032": {
+    "source_entity_id": "BJ02_MUSEUMS_0032",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0034": {
+    "source_entity_id": "BJ02_MUSEUMS_0034",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0035": {
+    "source_entity_id": "BJ02_MUSEUMS_0035",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0036": {
+    "source_entity_id": "BJ02_MUSEUMS_0036",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0037": {
+    "source_entity_id": "BJ02_MUSEUMS_0037",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0038": {
+    "source_entity_id": "BJ02_MUSEUMS_0038",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0039": {
+    "source_entity_id": "BJ02_MUSEUMS_0039",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0040": {
+    "source_entity_id": "BJ02_MUSEUMS_0040",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0041": {
+    "source_entity_id": "BJ02_MUSEUMS_0041",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0042": {
+    "source_entity_id": "BJ02_MUSEUMS_0042",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0043": {
+    "source_entity_id": "BJ02_MUSEUMS_0043",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0044": {
+    "source_entity_id": "BJ02_MUSEUMS_0044",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0045": {
+    "source_entity_id": "BJ02_MUSEUMS_0045",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0047": {
+    "source_entity_id": "BJ02_MUSEUMS_0047",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0048": {
+    "source_entity_id": "BJ02_MUSEUMS_0048",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0049": {
+    "source_entity_id": "BJ02_MUSEUMS_0049",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0050": {
+    "source_entity_id": "BJ02_MUSEUMS_0050",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0051": {
+    "source_entity_id": "BJ02_MUSEUMS_0051",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0052": {
+    "source_entity_id": "BJ02_MUSEUMS_0052",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0053": {
+    "source_entity_id": "BJ02_MUSEUMS_0053",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0054": {
+    "source_entity_id": "BJ02_MUSEUMS_0054",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0055": {
+    "source_entity_id": "BJ02_MUSEUMS_0055",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0056": {
+    "source_entity_id": "BJ02_MUSEUMS_0056",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0057": {
+    "source_entity_id": "BJ02_MUSEUMS_0057",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_MUSEUMS_0057"
+  },
+  "BJ02_MUSEUMS_0058": {
+    "source_entity_id": "BJ02_MUSEUMS_0058",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0059": {
+    "source_entity_id": "BJ02_MUSEUMS_0059",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0060": {
+    "source_entity_id": "BJ02_MUSEUMS_0060",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0061": {
+    "source_entity_id": "BJ02_MUSEUMS_0061",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0062": {
+    "source_entity_id": "BJ02_MUSEUMS_0062",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0063": {
+    "source_entity_id": "BJ02_MUSEUMS_0063",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0064": {
+    "source_entity_id": "BJ02_MUSEUMS_0064",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0065": {
+    "source_entity_id": "BJ02_MUSEUMS_0065",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0066": {
+    "source_entity_id": "BJ02_MUSEUMS_0066",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_MUSEUMS_0066"
+  },
+  "BJ02_MUSEUMS_0067": {
+    "source_entity_id": "BJ02_MUSEUMS_0067",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0068": {
+    "source_entity_id": "BJ02_MUSEUMS_0068",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0069": {
+    "source_entity_id": "BJ02_MUSEUMS_0069",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0070": {
+    "source_entity_id": "BJ02_MUSEUMS_0070",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0071": {
+    "source_entity_id": "BJ02_MUSEUMS_0071",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0072": {
+    "source_entity_id": "BJ02_MUSEUMS_0072",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0073": {
+    "source_entity_id": "BJ02_MUSEUMS_0073",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_MUSEUMS_0073"
+  },
+  "BJ02_MUSEUMS_0074": {
+    "source_entity_id": "BJ02_MUSEUMS_0074",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0075": {
+    "source_entity_id": "BJ02_MUSEUMS_0075",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0076": {
+    "source_entity_id": "BJ02_MUSEUMS_0076",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0077": {
+    "source_entity_id": "BJ02_MUSEUMS_0077",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0078": {
+    "source_entity_id": "BJ02_MUSEUMS_0078",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0081": {
+    "source_entity_id": "BJ02_MUSEUMS_0081",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0082": {
+    "source_entity_id": "BJ02_MUSEUMS_0082",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0083": {
+    "source_entity_id": "BJ02_MUSEUMS_0083",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_MUSEUMS_0083"
+  },
+  "BJ02_MUSEUMS_0084": {
+    "source_entity_id": "BJ02_MUSEUMS_0084",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0085": {
+    "source_entity_id": "BJ02_MUSEUMS_0085",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0086": {
+    "source_entity_id": "BJ02_MUSEUMS_0086",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0087": {
+    "source_entity_id": "BJ02_MUSEUMS_0087",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0088": {
+    "source_entity_id": "BJ02_MUSEUMS_0088",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0089": {
+    "source_entity_id": "BJ02_MUSEUMS_0089",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0090": {
+    "source_entity_id": "BJ02_MUSEUMS_0090",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0092": {
+    "source_entity_id": "BJ02_MUSEUMS_0092",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0093": {
+    "source_entity_id": "BJ02_MUSEUMS_0093",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0094": {
+    "source_entity_id": "BJ02_MUSEUMS_0094",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0095": {
+    "source_entity_id": "BJ02_MUSEUMS_0095",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0097": {
+    "source_entity_id": "BJ02_MUSEUMS_0097",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0099": {
+    "source_entity_id": "BJ02_MUSEUMS_0099",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0100": {
+    "source_entity_id": "BJ02_MUSEUMS_0100",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0101": {
+    "source_entity_id": "BJ02_MUSEUMS_0101",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0102": {
+    "source_entity_id": "BJ02_MUSEUMS_0102",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0103": {
+    "source_entity_id": "BJ02_MUSEUMS_0103",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0105": {
+    "source_entity_id": "BJ02_MUSEUMS_0105",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0106": {
+    "source_entity_id": "BJ02_MUSEUMS_0106",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0107": {
+    "source_entity_id": "BJ02_MUSEUMS_0107",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0108": {
+    "source_entity_id": "BJ02_MUSEUMS_0108",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0110": {
+    "source_entity_id": "BJ02_MUSEUMS_0110",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0111": {
+    "source_entity_id": "BJ02_MUSEUMS_0111",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0113": {
+    "source_entity_id": "BJ02_MUSEUMS_0113",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0114": {
+    "source_entity_id": "BJ02_MUSEUMS_0114",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0115": {
+    "source_entity_id": "BJ02_MUSEUMS_0115",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0116": {
+    "source_entity_id": "BJ02_MUSEUMS_0116",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0117": {
+    "source_entity_id": "BJ02_MUSEUMS_0117",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0118": {
+    "source_entity_id": "BJ02_MUSEUMS_0118",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0119": {
+    "source_entity_id": "BJ02_MUSEUMS_0119",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0120": {
+    "source_entity_id": "BJ02_MUSEUMS_0120",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0121": {
+    "source_entity_id": "BJ02_MUSEUMS_0121",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0122": {
+    "source_entity_id": "BJ02_MUSEUMS_0122",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_MUSEUMS_0122"
+  },
+  "BJ02_MUSEUMS_0123": {
+    "source_entity_id": "BJ02_MUSEUMS_0123",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0124": {
+    "source_entity_id": "BJ02_MUSEUMS_0124",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0125": {
+    "source_entity_id": "BJ02_MUSEUMS_0125",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0126": {
+    "source_entity_id": "BJ02_MUSEUMS_0126",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0128": {
+    "source_entity_id": "BJ02_MUSEUMS_0128",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_MUSEUMS_0128"
+  },
+  "BJ02_MUSEUMS_0129": {
+    "source_entity_id": "BJ02_MUSEUMS_0129",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0130": {
+    "source_entity_id": "BJ02_MUSEUMS_0130",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0131": {
+    "source_entity_id": "BJ02_MUSEUMS_0131",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0132": {
+    "source_entity_id": "BJ02_MUSEUMS_0132",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0133": {
+    "source_entity_id": "BJ02_MUSEUMS_0133",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0134": {
+    "source_entity_id": "BJ02_MUSEUMS_0134",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0135": {
+    "source_entity_id": "BJ02_MUSEUMS_0135",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0136": {
+    "source_entity_id": "BJ02_MUSEUMS_0136",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_MUSEUMS_0136"
+  },
+  "BJ02_MUSEUMS_0137": {
+    "source_entity_id": "BJ02_MUSEUMS_0137",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0138": {
+    "source_entity_id": "BJ02_MUSEUMS_0138",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0139": {
+    "source_entity_id": "BJ02_MUSEUMS_0139",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0140": {
+    "source_entity_id": "BJ02_MUSEUMS_0140",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0141": {
+    "source_entity_id": "BJ02_MUSEUMS_0141",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0142": {
+    "source_entity_id": "BJ02_MUSEUMS_0142",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0143": {
+    "source_entity_id": "BJ02_MUSEUMS_0143",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0144": {
+    "source_entity_id": "BJ02_MUSEUMS_0144",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0145": {
+    "source_entity_id": "BJ02_MUSEUMS_0145",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0146": {
+    "source_entity_id": "BJ02_MUSEUMS_0146",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0147": {
+    "source_entity_id": "BJ02_MUSEUMS_0147",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0148": {
+    "source_entity_id": "BJ02_MUSEUMS_0148",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0149": {
+    "source_entity_id": "BJ02_MUSEUMS_0149",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0150": {
+    "source_entity_id": "BJ02_MUSEUMS_0150",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0151": {
+    "source_entity_id": "BJ02_MUSEUMS_0151",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0152": {
+    "source_entity_id": "BJ02_MUSEUMS_0152",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0153": {
+    "source_entity_id": "BJ02_MUSEUMS_0153",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0154": {
+    "source_entity_id": "BJ02_MUSEUMS_0154",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0155": {
+    "source_entity_id": "BJ02_MUSEUMS_0155",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0157": {
+    "source_entity_id": "BJ02_MUSEUMS_0157",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0158": {
+    "source_entity_id": "BJ02_MUSEUMS_0158",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0159": {
+    "source_entity_id": "BJ02_MUSEUMS_0159",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0160": {
+    "source_entity_id": "BJ02_MUSEUMS_0160",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0161": {
+    "source_entity_id": "BJ02_MUSEUMS_0161",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0163": {
+    "source_entity_id": "BJ02_MUSEUMS_0163",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0164": {
+    "source_entity_id": "BJ02_MUSEUMS_0164",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0165": {
+    "source_entity_id": "BJ02_MUSEUMS_0165",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0166": {
+    "source_entity_id": "BJ02_MUSEUMS_0166",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0167": {
+    "source_entity_id": "BJ02_MUSEUMS_0167",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0168": {
+    "source_entity_id": "BJ02_MUSEUMS_0168",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0169": {
+    "source_entity_id": "BJ02_MUSEUMS_0169",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0170": {
+    "source_entity_id": "BJ02_MUSEUMS_0170",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0171": {
+    "source_entity_id": "BJ02_MUSEUMS_0171",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0172": {
+    "source_entity_id": "BJ02_MUSEUMS_0172",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0173": {
+    "source_entity_id": "BJ02_MUSEUMS_0173",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0174": {
+    "source_entity_id": "BJ02_MUSEUMS_0174",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0175": {
+    "source_entity_id": "BJ02_MUSEUMS_0175",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0176": {
+    "source_entity_id": "BJ02_MUSEUMS_0176",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0177": {
+    "source_entity_id": "BJ02_MUSEUMS_0177",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0178": {
+    "source_entity_id": "BJ02_MUSEUMS_0178",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0179": {
+    "source_entity_id": "BJ02_MUSEUMS_0179",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0180": {
+    "source_entity_id": "BJ02_MUSEUMS_0180",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0181": {
+    "source_entity_id": "BJ02_MUSEUMS_0181",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0182": {
+    "source_entity_id": "BJ02_MUSEUMS_0182",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0183": {
+    "source_entity_id": "BJ02_MUSEUMS_0183",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0184": {
+    "source_entity_id": "BJ02_MUSEUMS_0184",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0185": {
+    "source_entity_id": "BJ02_MUSEUMS_0185",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0186": {
+    "source_entity_id": "BJ02_MUSEUMS_0186",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0187": {
+    "source_entity_id": "BJ02_MUSEUMS_0187",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0188": {
+    "source_entity_id": "BJ02_MUSEUMS_0188",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0189": {
+    "source_entity_id": "BJ02_MUSEUMS_0189",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0190": {
+    "source_entity_id": "BJ02_MUSEUMS_0190",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0191": {
+    "source_entity_id": "BJ02_MUSEUMS_0191",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0192": {
+    "source_entity_id": "BJ02_MUSEUMS_0192",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_MUSEUMS_0192"
+  },
+  "BJ02_MUSEUMS_0193": {
+    "source_entity_id": "BJ02_MUSEUMS_0193",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0194": {
+    "source_entity_id": "BJ02_MUSEUMS_0194",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0195": {
+    "source_entity_id": "BJ02_MUSEUMS_0195",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0196": {
+    "source_entity_id": "BJ02_MUSEUMS_0196",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0197": {
+    "source_entity_id": "BJ02_MUSEUMS_0197",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0198": {
+    "source_entity_id": "BJ02_MUSEUMS_0198",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0199": {
+    "source_entity_id": "BJ02_MUSEUMS_0199",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0200": {
+    "source_entity_id": "BJ02_MUSEUMS_0200",
+    "outcome": "promoted_new_catalog",
+    "canonical_spot_id": "SP_BJ02_MUSEUMS_0200"
+  },
+  "BJ02_MUSEUMS_0201": {
+    "source_entity_id": "BJ02_MUSEUMS_0201",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0202": {
+    "source_entity_id": "BJ02_MUSEUMS_0202",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_MUSEUMS_0203": {
+    "source_entity_id": "BJ02_MUSEUMS_0203",
+    "outcome": "review",
+    "canonical_spot_id": null
+  },
+  "BJ02_SCENIC_0001": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0002"
+    ]
+  },
+  "BJ02_SCENIC_0004": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": []
+  },
+  "BJ02_SCENIC_0005": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0314"
+    ]
+  },
+  "BJ02_SCENIC_0011": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0044"
+    ]
+  },
+  "BJ02_SCENIC_0013": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0004"
+    ]
+  },
+  "BJ02_SCENIC_0014": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0045"
+    ]
+  },
+  "BJ02_SCENIC_0015": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0017"
+    ]
+  },
+  "BJ02_SCENIC_0018": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0009"
+    ]
+  },
+  "BJ02_SCENIC_0019": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0003"
+    ]
+  },
+  "BJ02_SCENIC_0021": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0006"
+    ]
+  },
+  "BJ02_SCENIC_0022": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0008"
+    ]
+  },
+  "BJ02_SCENIC_0024": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0180"
+    ]
+  },
+  "BJ02_SCENIC_0029": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": []
+  },
+  "BJ02_SCENIC_0030": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": []
+  },
+  "BJ02_SCENIC_0031": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0440"
+    ]
+  },
+  "BJ02_SCENIC_0034": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0553"
+    ]
+  },
+  "BJ02_SCENIC_0036": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0011"
+    ]
+  },
+  "BJ02_SCENIC_0037": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": []
+  },
+  "BJ02_SCENIC_0039": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0005"
+    ]
+  },
+  "BJ02_SCENIC_0040": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0010"
+    ]
+  },
+  "BJ02_SCENIC_0052": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0806"
+    ]
+  },
+  "BJ02_SCENIC_0060": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0854"
+    ]
+  },
+  "BJ02_SCENIC_0077": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_1114"
+    ]
+  },
+  "BJ02_SCENIC_0080": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0016"
+    ]
+  },
+  "BJ02_SCENIC_0082": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0114"
+    ]
+  },
+  "BJ02_SCENIC_0084": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0090"
+    ]
+  },
+  "BJ02_SCENIC_0086": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0088"
+    ]
+  },
+  "BJ02_SCENIC_0090": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0215"
+    ]
+  },
+  "BJ02_SCENIC_0091": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0183"
+    ]
+  },
+  "BJ02_SCENIC_0092": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0184"
+    ]
+  },
+  "BJ02_SCENIC_0093": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": []
+  },
+  "BJ02_SCENIC_0094": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0185"
+    ]
+  },
+  "BJ02_SCENIC_0095": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0182"
+    ]
+  },
+  "BJ02_SCENIC_0096": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0186"
+    ]
+  },
+  "BJ02_SCENIC_0097": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": []
+  },
+  "BJ02_SCENIC_0098": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0188"
+    ]
+  },
+  "BJ02_SCENIC_0101": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0181"
+    ]
+  },
+  "BJ02_SCENIC_0102": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": []
+  },
+  "BJ02_SCENIC_0105": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0189"
+    ]
+  },
+  "BJ02_SCENIC_0106": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0517"
+    ]
+  },
+  "BJ02_SCENIC_0110": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": []
+  },
+  "BJ02_SCENIC_0111": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": []
+  },
+  "BJ02_SCENIC_0113": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0379"
+    ]
+  },
+  "BJ02_SCENIC_0146": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": []
+  },
+  "BJ02_SCENIC_0154": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": []
+  },
+  "BJ02_SCENIC_0163": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": []
+  },
+  "BJ02_SCENIC_0180": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": []
+  },
+  "BJ02_SCENIC_0181": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": []
+  },
+  "BJ02_SCENIC_0183": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0439"
+    ]
+  },
+  "BJ02_SCENIC_0184": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0410"
+    ]
+  },
+  "BJ02_SCENIC_0185": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": [
+      "BJ_PARKS_2026_0407"
+    ]
+  },
+  "BJ02_SCENIC_0202": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": []
+  },
+  "BJ02_SCENIC_0204": {
+    "outcome": "original_park_scope_exclusion_retained",
+    "prior_matches": []
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/118188",
+  "retrieved_at": "2026-11-07T00:58:43.095407+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/118188",
+  "response_sha256": "e71286c71d6d6f43687a1ee5f75fe3731199ca6ff28a7cba5725a33c280788c9",
+  "title": "香山双清别墅",
+  "identity_excerpt_quotes": [
+    "香山双清别墅位于香山公园南麓的半山腰，环境幽雅，以其苍翠的竹林、遮天蔽日的银杏、挺拔的松柏、古朴的建筑引人前往。",
+    "然而真正使这个地方闻名天下的并不是她的秀丽风光，而是因为这里曾是毛主席住过的地方，曾是中共中央的指挥中心，曾发生过扭转中国命运决定中国前途的大事。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 500,
+  "fetch_state": "usable_identity_page"
+}

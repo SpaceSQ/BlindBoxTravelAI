@@ -1,0 +1,20 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/120539",
+  "retrieved_at": "2026-11-07T00:58:45.721702+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/120539",
+  "response_sha256": "1651bbd5679062bfbff5163cf47109b96d07eb39807f7f785bc323e0ae60d3f2",
+  "title": "北京金台艺术馆",
+  "identity_excerpt_quotes": [
+    "金台艺术馆是由全国政协常委、联合国首授“环保艺术大师”、著名艺术家袁熙坤先生集资创建的，1996年6月30日正式开馆，是创建最早也是迄今国内最大的民间艺术博物馆。",
+    "1994 年4月19日，由袁熙坤任会长的北京怡苑文化艺术促进会成立。",
+    "金台艺术馆坐落于北京市朝阳公园水碓湖畔，外型呈典雅之五台状，又邻八景之一“金台夕照”，遂定名为“金台”。",
+    "馆内长期陈列着袁熙坤先生应邀为百余位国际要人写生创作并由被绘者亲自题词的肖像画，和被西方美术评论家誉为“袁氏中国油画”的《人与自然》油画展，国际名人雕塑展以及由袁先生和海外爱华力量，从海外收购的经有关专家学者鉴定的千余件文物。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 467,
+  "fetch_state": "usable_identity_page"
+}

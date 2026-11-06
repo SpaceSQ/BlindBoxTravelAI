@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/117034",
+  "retrieved_at": "2026-11-07T00:58:33.507455+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/117034",
+  "response_sha256": "2d4bb5184920ebc2b2c1fba6eb3af5680a6f5eb4d1dfe898634146bd5bcfb6e5",
+  "title": "宋庆龄故居",
+  "identity_excerpt_quotes": [
+    "宋庆龄同志故居坐落在北京风景秀丽的什刹海后海北沿。",
+    "门前水天相映、碧波涟漪，堤岸杨柳轻扬，院内曲径回廊，楼堂亭榭；湖水环绕，山石嶙峋；绿树浓荫，花香四溢。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 498,
+  "fetch_state": "usable_identity_page"
+}

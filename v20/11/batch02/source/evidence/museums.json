@@ -1,0 +1,18 @@
+{
+  "source_id": "museums",
+  "url": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287849.html",
+  "title": "北京市文化和旅游局_旅游_北京旅游网博物馆链接列表",
+  "actual_discovery_tool": "WebSearch",
+  "actual_query": "北京市 文物局 2025 博物馆 名录 名称 地址 一览表",
+  "retrieved_at": "2026-11-07T00:54:12.506012+08:00",
+  "source_display_dates": [
+    "2025-09-18"
+  ],
+  "http_status": 200,
+  "response_content_sha256": "b4a91956f949c7fba5eb01ac8c58591105238cee57be24ba9d5a139821e100a2",
+  "sanitized_sha256": "fdf6eae5999533a6608f4b62caea348b7dec03f1e804afe82130f9005ecf24a1",
+  "evidence_file": "raw/museums.json",
+  "sanitization": "Only official row number, entity name, grade/area, public detail URL or route node order/length retained. Contact columns and page chrome discarded in memory. Original response not persisted.",
+  "license_status": "Publicly readable government directory; no explicit reuse license verified; no image or prose reuse rights inferred.",
+  "rows": 203
+}

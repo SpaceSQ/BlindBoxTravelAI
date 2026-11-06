@@ -1,0 +1,121 @@
+[
+  {
+    "spot_id": "BJ02_SCENIC_0006",
+    "matches": [
+      "BJ_PARKS_2026_0001"
+    ],
+    "reason": "normalized_name_compatible_district_same_or_nested_entity_needs_review"
+  },
+  {
+    "spot_id": "BJ02_SCENIC_0010",
+    "matches": [
+      "BJ_PARKS_2026_1129"
+    ],
+    "reason": "normalized_name_compatible_district_same_or_nested_entity_needs_review"
+  },
+  {
+    "spot_id": "BJ02_SCENIC_0027",
+    "matches": [
+      "BJ_PARKS_2026_0441"
+    ],
+    "reason": "normalized_name_compatible_district_same_or_nested_entity_needs_review"
+  },
+  {
+    "spot_id": "BJ02_SCENIC_0035",
+    "matches": [
+      "BJ_PARKS_2026_0555"
+    ],
+    "reason": "normalized_name_compatible_district_same_or_nested_entity_needs_review"
+  },
+  {
+    "spot_id": "BJ02_SCENIC_0038",
+    "matches": [
+      "BJ_PARKS_2026_0372"
+    ],
+    "reason": "normalized_name_compatible_district_same_or_nested_entity_needs_review"
+  },
+  {
+    "spot_id": "BJ02_SCENIC_0043",
+    "matches": [
+      "BJ_PARKS_2026_0626"
+    ],
+    "reason": "normalized_name_compatible_district_same_or_nested_entity_needs_review"
+  },
+  {
+    "spot_id": "BJ02_SCENIC_0047",
+    "matches": [
+      "BJ_PARKS_2026_0713"
+    ],
+    "reason": "normalized_name_compatible_district_same_or_nested_entity_needs_review"
+  },
+  {
+    "spot_id": "BJ02_SCENIC_0048",
+    "matches": [
+      "BJ_PARKS_2026_0709"
+    ],
+    "reason": "normalized_name_compatible_district_same_or_nested_entity_needs_review"
+  },
+  {
+    "spot_id": "BJ02_SCENIC_0053",
+    "matches": [
+      "BJ_PARKS_2026_0804"
+    ],
+    "reason": "normalized_name_compatible_district_same_or_nested_entity_needs_review"
+  },
+  {
+    "spot_id": "BJ02_SCENIC_0065",
+    "matches": [
+      "BJ_PARKS_2026_0995"
+    ],
+    "reason": "normalized_name_compatible_district_same_or_nested_entity_needs_review"
+  },
+  {
+    "spot_id": "BJ02_SCENIC_0074",
+    "matches": [
+      "BJ_PARKS_2026_1130"
+    ],
+    "reason": "normalized_name_compatible_district_same_or_nested_entity_needs_review"
+  },
+  {
+    "spot_id": "BJ02_SCENIC_0078",
+    "matches": [
+      "BJ_PARKS_2026_0043"
+    ],
+    "reason": "normalized_name_compatible_district_same_or_nested_entity_needs_review"
+  },
+  {
+    "spot_id": "BJ02_SCENIC_0083",
+    "matches": [
+      "BJ_PARKS_2026_0116"
+    ],
+    "reason": "normalized_name_compatible_district_same_or_nested_entity_needs_review"
+  },
+  {
+    "spot_id": "BJ02_SCENIC_0112",
+    "matches": [
+      "BJ_PARKS_2026_0373"
+    ],
+    "reason": "normalized_name_compatible_district_same_or_nested_entity_needs_review"
+  },
+  {
+    "spot_id": "BJ02_SCENIC_0133",
+    "matches": [
+      "BJ_PARKS_2026_0710"
+    ],
+    "reason": "normalized_name_compatible_district_same_or_nested_entity_needs_review"
+  },
+  {
+    "spot_id": "BJ02_SCENIC_0140",
+    "matches": [
+      "BJ_PARKS_2026_0712"
+    ],
+    "reason": "normalized_name_compatible_district_same_or_nested_entity_needs_review"
+  },
+  {
+    "spot_id": "BJ02_SCENIC_0190",
+    "matches": [
+      "BJ_PARKS_2026_0679"
+    ],
+    "reason": "normalized_name_compatible_district_same_or_nested_entity_needs_review"
+  }
+]

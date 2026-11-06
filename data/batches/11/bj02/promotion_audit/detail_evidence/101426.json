@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/101426",
+  "retrieved_at": "2026-11-07T00:58:28.998211+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/101426",
+  "response_sha256": "bf5fb7b5f9cdeebd717b0b93923b2d336513e2fa8f328961a7537ebf096801b9",
+  "title": "石花洞",
+  "identity_excerpt_quotes": [
+    "石花洞位于北京市房山区境内，距市中心46公里，距京石高速公路15公里、西六环良坨路出口15公里。",
+    "是房山世界地质公园溶洞群观光区、国际洞穴会员单位、国家级风景名胜区、国家AAAA级旅游景区、市级地质遗迹自然保护区、北京市科普教育基地，被誉为:中国最佳溶洞奇观。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 500,
+  "fetch_state": "usable_identity_page"
+}

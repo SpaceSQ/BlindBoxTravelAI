@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/117817",
+  "retrieved_at": "2026-11-07T00:58:35.765847+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/117817",
+  "response_sha256": "2accf3a3e9c02e98a81e5aae7475e307b056f032298c32c3012ac8464d20eb5b",
+  "title": "中国人民抗日战争纪念馆",
+  "identity_excerpt_quotes": [
+    "中国人民抗日战争纪念馆是全国唯一一座全面反映中国人民抗日战争历史的大型综合性专题纪念馆。",
+    "是国家一级博物馆、全国优秀爱国主义教育示范基地、全国国防教育基地、全国廉政教育基地、首批全国百家重点红色旅游景区，是中国抗日战争史学会秘书处所在地、中国博物馆协会纪念馆专业委员会主任委员单位。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 500,
+  "fetch_state": "usable_identity_page"
+}

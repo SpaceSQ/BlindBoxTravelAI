@@ -1,0 +1,835 @@
+[
+  {
+    "source_entity_id": "BJ02_SCENIC_0002",
+    "directory_name": "故宫博物院",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/117873",
+    "actual_page_title": "故宫博物院",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "紫禁城南北长961m，东西宽753m，四面围有高10m的城墙，城外有宽52m的护城河,真可谓有金城汤池之固。",
+      "紫禁城有四座城门，南面为午门，北面为神武门，东面为东华门，西面为西华门。"
+    ],
+    "outcome": "promoted_new_catalog",
+    "individual_review_note": "Official named directory venue retained with literal district evidence; geographic relations remain unverified.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0003",
+    "directory_name": "恭王府景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/117810",
+    "actual_page_title": "文化和旅游部恭王府博物馆",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "在风景秀丽的北京什刹海的西南角，有一条静谧悠长、绿柳荫荫的街巷。",
+      "在这条街巷之中，坐落着一座王府，它就是现存王府中保存最完整的恭王府。"
+    ],
+    "outcome": "review",
+    "individual_review_note": "恭王府景区与博物馆目录有同址同URL迹象，但范围细节未证实，继续待核，不双计为新master。",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0006",
+    "directory_name": "颐和园景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/101407",
+    "actual_page_title": "颐和园",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "颐和园是中国现存规模最大、保存最完整的皇家园林，中国四大名园（另三座为承德避暑山庄、苏州拙政园、苏州留园）之一。",
+      "位于北京市海淀区，距北京城区十五公里，占地约二百九十公顷。"
+    ],
+    "outcome": "linked_existing_catalog",
+    "individual_review_note": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0007",
+    "directory_name": "北京（通州）大运河文化旅游景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/120994",
+    "actual_page_title": "北京（通州）大运河文化旅游景区",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "中国大运河始建于春秋，是世界上开凿最早也是最长的人工运河，2014 年被列入世界遗产名录，是世界上最宏伟的四大古代工程之一。",
+      "大运河北京段全长约 80 公里，其中通州区辖域约长 40 公里。",
+      "北京(通州)大运河文化旅游景区地处大运河的北端，位于北京城市副中心的核心位置，是大运河文化带的重要节点，全长12.1 公里，总面积7.23 平方公里，于2024年成功创建国家AAAAA级旅游景区。"
+    ],
+    "outcome": "linked_existing_catalog",
+    "individual_review_note": "Individually reviewed official destination title or description explicitly gives the existing directory proper name (or anchored local prefix); same district. Not an automatic synonym/Jaccard merge; geographic footprint still unmeasured.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0008",
+    "directory_name": "明十三陵景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/101416",
+    "actual_page_title": "明十三陵",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "明十三陵，坐落于天寿山麓，距离北京约五十公里。",
+      "陵区周围群山环抱，中部为平原，陵前有小河曲折蜿蜒，山明水秀，景色宜人。"
+    ],
+    "outcome": "review",
+    "individual_review_note": "明十三陵景区与博物馆目录共用泛景区URL，不凭URL合并，继续待核。",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0010",
+    "directory_name": "八达岭长城景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/101406",
+    "actual_page_title": "八达岭长城风景名胜区",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "八达岭长城位于北京市延庆区军都山关沟古道北口，史称天下九塞之一，是长城重要关口居庸关的前哨，在明长城中保存最好，也最具代表性，因此是万里长城向游人开放最早的地段。",
+      "八达岭长城其关城为东窄西宽的梯形，建于明弘治十八年（1505年），嘉靖、万历年间曾修葺。"
+    ],
+    "outcome": "linked_existing_catalog",
+    "individual_review_note": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0016",
+    "directory_name": "北京海洋馆",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/117809",
+    "actual_page_title": "北京海洋馆",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "北京海洋馆位于北京动物园内长河北岸，占地 12 万平方米，建筑面积 4.2 万平方米，集观赏、科普教育和休闲娱乐为一体，是目前世界最大的内陆水族馆。",
+      "北京海洋馆建筑造型独特、恢弘壮观，犹如一只蓝色的大海螺，躺在绿树环抱、花团簇拥的沙滩上。",
+      "馆内以“陶怡大众，教益学生，维系生态”为宗旨，为游客巧妙安排了“ 雨林奇观 ”、“ 风情海滩 ”、“ 海底环游 ”、“ 白令小镇 ”、“ 国宝中华鲟鱼馆 ”、“ 鲸豚湾 ”、“ 海洋剧院 ”等七个主题的展示区域，馆内饲养和展示的海洋鱼类及生物达千余种、数万尾。"
+    ],
+    "outcome": "promoted_new_catalog",
+    "individual_review_note": "Distinct named venue with explicit official locative statement inside/on named parent park; keep independent source identity and do not collapse child into parent. Unknown district stays null/city-only.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0020",
+    "directory_name": "北京天文馆景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/101758",
+    "actual_page_title": "北京天文馆",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "北京天文馆是中国第一座天文馆。",
+      "位于北京西直门外。",
+      "位于北京东城建国门立交桥西南的北京古观象台归北京天文馆管理，为全国重点文物保护单位。"
+    ],
+    "outcome": "promoted_new_catalog",
+    "individual_review_note": "北京天文馆主馆留为独立命名场馆。官方详情明确另一个东城场馆北京古观象台归其管理；管理关系不等于同一地理场所，未合并两者。",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0026",
+    "directory_name": "中国人民抗日战争纪念馆景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/117817",
+    "actual_page_title": "中国人民抗日战争纪念馆",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "中国人民抗日战争纪念馆是全国唯一一座全面反映中国人民抗日战争历史的大型综合性专题纪念馆。",
+      "是国家一级博物馆、全国优秀爱国主义教育示范基地、全国国防教育基地、全国廉政教育基地、首批全国百家重点红色旅游景区，是中国抗日战争史学会秘书处所在地、中国博物馆协会纪念馆专业委员会主任委员单位。"
+    ],
+    "outcome": "promoted_new_catalog",
+    "individual_review_note": "同一官方景区表第26行纪念馆与第107行雕塑园为两个具名目录项目，各有独立详情，均实际打开；保留不同场馆概念，不把共同抗战主题词合并。无明确园内位置证据，不编造parent。",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0027",
+    "directory_name": "北京园博园景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/118459",
+    "actual_page_title": "北京园博园",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "北京园博园位于丰台区永定河西岸，北至莲石西路，南到梅市口路西延，西至北宫路，西南接园博大道，展区占地267公顷，园博湖占地246公 顷，总占地513公顷。",
+      "北京园博园秉承“文化传承、生态优先、服务民生、永续发展”的理念，利用绿色科技在建筑垃圾填埋场上进行生态修复建园，是一个集园 林艺术、文化景观、生态休闲、科普教育于一体的大型公益性城市公园。"
+    ],
+    "outcome": "linked_existing_catalog",
+    "individual_review_note": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0033",
+    "directory_name": "丰台区中国园林博物馆景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/118284",
+    "actual_page_title": "中国园林博物馆",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "中国园林博物馆是中国第一座以园林为主题的国家级博物馆，位于北京市丰台区鹰山脚下，永定河畔。",
+      "自2010年开始筹建，于2013年5月开馆运行。"
+    ],
+    "outcome": "promoted_new_catalog",
+    "individual_review_note": "实际详情明确中国园林博物馆位于丰台区，作为具名博物馆保留；没有证据把它与北京园博园整体合并或强行挂子景点。",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0035",
+    "directory_name": "北京石景山游乐园景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/101433",
+    "actual_page_title": "石景山游乐园",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "石景山游乐园位于石景山区，紧邻石景山体育馆。",
+      "占地35万平方米，是一座以欧洲园林为主要特色的大型现代化游乐园，被誉为北京迪斯尼。"
+    ],
+    "outcome": "linked_existing_catalog",
+    "individual_review_note": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0038",
+    "directory_name": "北京凤凰岭景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/101441",
+    "actual_page_title": "凤凰岭自然风景区",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "北京凤凰岭自然风景公园，国家AAAA景区。",
+      "\"远郊的景，近郊的路，北京的自然氧气库！",
+      "景区位于海淀区西北部，距天安门直线距离51公里，总面积10.62平方公里。"
+    ],
+    "outcome": "linked_existing_catalog",
+    "individual_review_note": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0041",
+    "directory_name": "中央电视塔景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/117827",
+    "actual_page_title": "中央电视塔",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "中央电视塔坐落于北京市海淀区西三环中路西侧，航天桥旁，玉渊潭公园西侧。",
+      "身为国家AAAA级景点，在这里，您远可俯瞰北京市全景，近可感受中国电视文化，是领略京城风貌的必游之地。",
+      "塔上有世界上最大的环形露天观景平台，可以360度俯瞰全景北京的壮丽风貌，感受鸟巢、故宫、国家大剧院、颐和园、央视新大楼以及奥运会场馆星罗棋布的震撼景观!\r\n位于225米高的电视文化大厅，是北京最高、国内唯一的电视文化科普展厅，是探寻中国电视发展的过去、现在和未来，探秘央视奥秘的首选之地。",
+      "位于塔内221米的空中观景旋转餐厅是京"
+    ],
+    "outcome": "review",
+    "individual_review_note": "实际详情介绍中央电视塔；旧库为中央电视塔公园，地址在塔北侧。详情没有把塔与公园明确等同；不把公园、塔、塔下展馆混成同一个主体。保留待核。",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0042",
+    "directory_name": "北京市门头沟区戒台寺景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/101507",
+    "actual_page_title": "戒台寺",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "戒台寺为全国重点文物保护单位、国家AAAA级景区、北京市风景名胜区、宗教活动场所。",
+      "寺院位于北京市门头沟区的马鞍山上，距京城35公里。"
+    ],
+    "outcome": "review",
+    "individual_review_note": "实际详情为戒台寺；旧库为戒台寺郊野公园。寺院与郊野公园范围关系未在取到的证据中明确，待核而非自动别名或子景点。",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0043",
+    "directory_name": "潭柘寺景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/117841",
+    "actual_page_title": "潭柘寺",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "潭柘寺距今已有1700多年历史，是北京最古老的古寺。",
+      "寺院坐北朝南，背倚宝珠峰，周围有九座高大的山峰呈马蹄形环护，宛如在九条巨龙的拥立之下。"
+    ],
+    "outcome": "linked_existing_catalog",
+    "individual_review_note": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0047",
+    "directory_name": "北京市房山区云居寺景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/101425",
+    "actual_page_title": "云居寺",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "云居寺位于北京西南郊七十多公里处房山区境内的白带山(又称石经山)西南麓，距市中心70公里。",
+      "占地面积70000多平方米。"
+    ],
+    "outcome": "linked_existing_catalog",
+    "individual_review_note": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0048",
+    "directory_name": "北京市房山区石花洞景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/101426",
+    "actual_page_title": "石花洞",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "石花洞位于北京市房山区境内，距市中心46公里，距京石高速公路15公里、西六环良坨路出口15公里。",
+      "是房山世界地质公园溶洞群观光区、国际洞穴会员单位、国家级风景名胜区、国家AAAA级旅游景区、市级地质遗迹自然保护区、北京市科普教育基地，被誉为:中国最佳溶洞奇观。"
+    ],
+    "outcome": "linked_existing_catalog",
+    "individual_review_note": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0050",
+    "directory_name": "北京圣莲山旅游风景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/117267",
+    "actual_page_title": "圣莲山旅游度假区",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "圣莲山东位于北京西南，房山区西北的群山峻岭之中，距北京市中心90公里，距房山行政中心良乡城60公里。",
+      "海拔930米。",
+      "圣莲山又称莲花山、古称太山，由南天门一峰分为两院，佛门、道家两重天。",
+      "峰圣莲山又称莲花山，古称太山，因整个山体酷似一片片莲花瓣，故名。"
+    ],
+    "outcome": "review",
+    "individual_review_note": "实际详情为圣莲山旅游度假区；旧库为圣莲山地质公园。共同山名不能证明范围一致，保留待核。",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0053",
+    "directory_name": "北京国际鲜花港景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/117714",
+    "actual_page_title": "北京顺义国际鲜花港",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "北京国际鲜花港是北京市政府规划的北京市唯一的专业花卉产业园区，是北京市主办的2009年第七届中国花卉博览会的重要功能组团之一，是北京市花卉产业发展的窗口。",
+      "在花博会期间，北京国际鲜花港承担着北京市产业园区展示和企业室外花卉展示的任务，同时还负责宣传、弘扬首都的花卉文化。",
+      "北京国际鲜花港位于顺义区杨镇，总体规划4平方公里，是北京市唯一的专业花卉产业园区，东临木燕路、南靠白马路，距市区39公里，距首都机场20公里，距北京奥运会水上项目赛场仅5分钟车程，位置优越，交通便捷。"
+    ],
+    "outcome": "linked_existing_catalog",
+    "individual_review_note": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0065",
+    "directory_name": "金海湖风景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/101505",
+    "actual_page_title": "金海湖风景区",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "金海湖位于平谷区东南盘山脚下海子村村，距平谷城区15公里，距北京城85公里，金海湖原是在1679年大地震中断裂出来的峡谷，后经过诸多改造，形成了如今北京市的第三大水库，建于1985年。",
+      "因公园北有大金山，南有海子村，故取名金海公园。",
+      "金海湖，原名海子水库，是北京市的三大水库之一，水库位于泃河流经山区的最后一段。"
+    ],
+    "outcome": "linked_existing_catalog",
+    "individual_review_note": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0073",
+    "directory_name": "野鸭湖景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/118115",
+    "actual_page_title": "野鸭湖国家湿地公园",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "华北最大北京唯一湿地鸟类自然保护区北京野鸭湖地处延庆区八达岭长城脚下的官厅湖畔，拥有150多万平方米水面，由于这里的自然环境保持良好，2000年12月被市政府批准为北京市市级湿地鸟类自然保护区。",
+      "野鸭湖位于北京市延庆区西北部，属于华北平原向山西高原、内蒙高原的过渡地带，它北靠燕山山脉，南临太行山脉，西南部与河北怀来县接壤，东南面是雄伟的八达岭长城。",
+      "保护区动植物资源十分丰富，据统计野鸭湖湿地高等植物有89科231属389种，其中苔藓植物16种，隶属9科9属;蕨类8种，隶属5科5属;裸子植物7种，隶属3科5属;被子植物358种，隶属72科212属。"
+    ],
+    "outcome": "linked_existing_catalog",
+    "individual_review_note": "Individually reviewed official destination title or description explicitly gives the existing directory proper name (or anchored local prefix); same district. Not an automatic synonym/Jaccard merge; geographic footprint still unmeasured.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0074",
+    "directory_name": "延庆区龙庆峡旅游区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/101413",
+    "actual_page_title": "龙庆峡旅游区",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "小三峡胜似三峡，山比三峡险。",
+      "小漓江赛过漓江，水比漓江清。"
+    ],
+    "outcome": "linked_existing_catalog",
+    "individual_review_note": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0078",
+    "directory_name": "北京市劳动人民文化宫景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/118001",
+    "actual_page_title": "北京市劳动人民文化宫",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "北京市劳动人民文化宫位于北京天安门东侧，为始建于明永乐十八年（1420年）的明清太庙。",
+      "经周恩来总理提议，第一次政务院会议批准，将太庙移交北京市总工会管理，辟为职工群众的文化活动场所，“北京市劳动人民文化宫”匾额由毛泽东主席命名并亲笔题写，于1950年4月30日揭幕，5月1日正式对外开放。"
+    ],
+    "outcome": "linked_existing_catalog",
+    "individual_review_note": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0083",
+    "directory_name": "北京大观园",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/101918",
+    "actual_page_title": "北京大观园",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "大观园是一座再现中国古典文学名著《红楼梦》中“大观园”景观的仿古园林，位于宣武区南菜园（市区西南隅护城河畔）。",
+      "原址为明清两代皇家菜园，明代曾在此设“嘉疏署”。"
+    ],
+    "outcome": "linked_existing_catalog",
+    "individual_review_note": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0085",
+    "directory_name": "北京市宣南文化博物馆景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/117833",
+    "actual_page_title": "北京宣南文化博物馆",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "北京宣南文化博物馆坐落于明代古刹长椿寺内，于2005年11月30日正式对外开放，现为国家AAA级旅游景区，北京市爱国主义教育基地。",
+      "馆内设基本陈列“风声、雨声、读书声——北京宣南士乡历史文化展”，分为“此地为宣南”“士聚宣南”“斯文在兹”“先忧天下”“宣南新声”五部分，围绕宣南士乡的城市空间、士人群体的生活空间、学术活动、精神追求等梯次展开，多维度解读宣南文化、宣南士乡的精神特质，展现清代宣南士人群体以学术研究、文学艺术创作等活动为依托，心系家国、引领时代、勇于担当的人文精神。"
+    ],
+    "outcome": "review",
+    "individual_review_note": "博物馆景区与管理处共用URL，但管理机构与游览实体语义有别，待核。",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0087",
+    "directory_name": "宋庆龄故居景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/117034",
+    "actual_page_title": "宋庆龄故居",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "宋庆龄同志故居坐落在北京风景秀丽的什刹海后海北沿。",
+      "门前水天相映、碧波涟漪，堤岸杨柳轻扬，院内曲径回廊，楼堂亭榭；湖水环绕，山石嶙峋；绿树浓荫，花香四溢。"
+    ],
+    "outcome": "review",
+    "individual_review_note": "故居景区与故居管理中心目录共用URL，不能拿管理机构另造一个游览点，待主体范围复核。",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0107",
+    "directory_name": "抗日战争纪念雕塑园",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/117804",
+    "actual_page_title": "抗日战争雕塑园",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "中国人民抗日战争纪念雕塑园为纪念抗日战争胜利55周年建成的--中国人民抗日战争纪念雕塑园。",
+      "园内有原国家主席江泽民亲笔题写碑名的中国人民抗日战争纪念碑、有以《国歌》为主题反映中国人民八年浴血奋战历史的雕塑群区以及下沉式中心广场、宛平城墙、绿林等主要景观。"
+    ],
+    "outcome": "linked_existing_catalog",
+    "individual_review_note": "Individually reviewed official destination title or description explicitly gives the existing directory proper name (or anchored local prefix); same district. Not an automatic synonym/Jaccard merge; geographic footprint still unmeasured.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0112",
+    "directory_name": "阳台山自然风景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/101442",
+    "actual_page_title": "阳台山自然风景区",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "阳台山位于海淀区北安河乡境内，林木茂密，森林覆盖率达94%，杏树名木就占51%，景区中林木茂盛，古树众多，是京郊最佳的日出观赏地之一。",
+      "山中分布着许多名胜古迹，既有以盘山古道闻名的鹫峰森林公园，又有千年古刹大觉寺，在主峰妙高峰下，还有保存得很完整的清朝醇亲王墓。",
+      "阳台山自然风景区，位于海淀区北安河乡境内，北依七王坟，是一处以妙峰山古香道为主线的风景区，1997年开放。"
+    ],
+    "outcome": "linked_existing_catalog",
+    "individual_review_note": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0115",
+    "directory_name": "北京太平洋海底世界博览馆景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/101868",
+    "actual_page_title": "太平洋海底世界博览馆",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "新北京十六景、文化创意产业基地——太平洋海底世界博览馆坐落于北京中央广播电视塔下，是以展示海洋生物为主，集科普教育、观赏娱乐于一体的综合性现代化博览馆。",
+      "在这里，您将欣赏到各种美丽的海洋生物，领略到海底世界的动人景色。",
+      "馆内放养数百种海洋生物，大到凶猛的鲨鱼，小到绚丽多彩的珊瑚鱼以及多种珍稀的淡水鱼类。"
+    ],
+    "outcome": "promoted_new_catalog",
+    "individual_review_note": "实际详情明确太平洋海底世界博览馆坐落于中央广播电视塔下；这是具名博览馆，不等于电视塔或旧库中央电视塔公园。保留目录身份，但不猜公园内parent。",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0121",
+    "directory_name": "妙峰山风景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/117823",
+    "actual_page_title": "妙峰山风景名胜区",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "北京市名山之一，京郊游览胜地，区位于京西门头沟区境内，门头沟区与昌平县界山，属太行山余脉。",
+      "位于北京西北30余公里，距市区55公里，海拔1291米，面积20平方公里。"
+    ],
+    "outcome": "review",
+    "individual_review_note": "实际详情为妙峰山风景名胜区；旧库为妙峰山森林公园，未明确证明二者范围等同，保留待核。",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0132",
+    "directory_name": "上方山景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/117798",
+    "actual_page_title": "上方山国家森林公园",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "上方山位于北京市房山区韩村河镇,距北京市区约60公里，是山岳型自然风景区。",
+      "景区总面积3.53平方公里，拥有华北地区唯一保存完好的原始次生林。",
+      "”\r\n园内有著名的“九洞十二峰”。"
+    ],
+    "outcome": "linked_existing_catalog",
+    "individual_review_note": "Individually reviewed official destination title or description explicitly gives the existing directory proper name (or anchored local prefix); same district. Not an automatic synonym/Jaccard merge; geographic footprint still unmeasured.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0133",
+    "directory_name": "北京市房山世界地质公园博物馆景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/118564",
+    "actual_page_title": "北京市房山世界地质公园博物馆",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "2006年9月17日，在第二届世界地质公园大会上，中国房山世界地质公园正式获得联合国教科文组织批准并授牌，成为目前全球唯一一家位于首都城市的世界地质公园。",
+      "公园总面积953.95平方公里，横跨北京市房山区、河北省保定市涞水县、涞源县。",
+      "博物馆是地质公园的标志性建筑及核心展示区，位于房山区长沟镇，2009年3月29日奠基，2010年5月15日试运行，参观接待能力以及体验效果在社会上产生了广泛的影响、受到了社会各界的好评。"
+    ],
+    "outcome": "linked_existing_catalog",
+    "individual_review_note": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0140",
+    "directory_name": "仙栖洞景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/117818",
+    "actual_page_title": "仙栖洞景区",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "仙栖洞位于北京市房山区张坊镇东关上村。",
+      "距北京市三环路不到100公里。"
+    ],
+    "outcome": "linked_existing_catalog",
+    "individual_review_note": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0166",
+    "directory_name": "北京冶仙塔旅游风景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/118132",
+    "actual_page_title": "冶仙塔景区",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "冶仙塔旅游风景区位于密云东北部，占地1150亩，其中冶仙塔山林占地面积800亩，公园占地面积350亩。",
+      "冶仙公园是依冶仙塔而建，依山傍水，风景秀丽，面向美丽的密云县城。"
+    ],
+    "outcome": "review",
+    "individual_review_note": "实际详情区分山林800亩、公园350亩；不能把整个冶仙塔景区与旧库冶仙塔文化休闲公园直接等同，也没有充分明确的精确父子边，保留待核。",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0190",
+    "directory_name": "中华石雕艺术园景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/117932",
+    "actual_page_title": "中华石雕艺术园",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "中华石雕艺术园位于北京市房山区大石窝镇，面积2400亩。",
+      "园区内以石雕为主。",
+      "公园主体分为上下两层，园内主要设计标志型雕塑8座，四周建有莲花桥、如意吉祥钟亭、图腾柱等雕塑百余件。",
+      "园内建有一条连体总长120米的喷泉，人工湖，晓月亭，栽植了各种花卉。"
+    ],
+    "outcome": "linked_existing_catalog",
+    "individual_review_note": "Unique proper official directory name after anchored administrative/scenic designation normalization; same explicit district in both official directories; actual linked official destination page opened. Catalog identity linkage only, not coordinate validation.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_MUSEUMS_0012",
+    "directory_name": "宋庆龄故居管理中心",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/117034",
+    "actual_page_title": "宋庆龄故居",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "宋庆龄同志故居坐落在北京风景秀丽的什刹海后海北沿。",
+      "门前水天相映、碧波涟漪，堤岸杨柳轻扬，院内曲径回廊，楼堂亭榭；湖水环绕，山石嶙峋；绿树浓荫，花香四溢。"
+    ],
+    "outcome": "review",
+    "individual_review_note": "宋庆龄故居管理中心为机构式名称，返回故居游览页；尚未证明管理机构本身是独立游览场馆，继续待核。",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_MUSEUMS_0023",
+    "directory_name": "明十三陵博物馆",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/101416",
+    "actual_page_title": "明十三陵",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "明十三陵，坐落于天寿山麓，距离北京约五十公里。",
+      "陵区周围群山环抱，中部为平原，陵前有小河曲折蜿蜒，山明水秀，景色宜人。"
+    ],
+    "outcome": "review",
+    "individual_review_note": "明十三陵博物馆链接返回明十三陵泛景区页，不能证明博物馆是景区别名还是独立展馆，保留待核。",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_MUSEUMS_0036",
+    "directory_name": "北京房山云居寺石经博物馆",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/101425",
+    "actual_page_title": "云居寺",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "云居寺位于北京西南郊七十多公里处房山区境内的白带山(又称石经山)西南麓，距市中心70公里。",
+      "占地面积70000多平方米。"
+    ],
+    "outcome": "review",
+    "individual_review_note": "官方博物馆名单的云居寺石经博物馆链接打开后为云居寺泛景区页，未独立说明博物馆主体。共用URL不算同物或子馆证明；待核。",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_MUSEUMS_0050",
+    "directory_name": "北京明城墙遗址公园（东南城角角楼）",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/117983",
+    "actual_page_title": "明城墙遗址公园",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "历史上明城墙全长40公里，始建于明永乐17年（公元1419年），距今已有580多年的历史。",
+      "现存的崇文门至城东南角楼一线的城墙遗址全长1.5公里，是原北京内城城垣的组成部分，是仅存的一段，也是北京城的标志。",
+      "北京明城墙遗址公园位于市中心地域，北京明城墙遗址公园东起城东南角楼，北京明城墙遗址公园西至崇文门，北京明城墙遗址公园总面积约：15.5公顷，北京明城墙遗址公园其中城墙遗址及城东南角楼占地3.3公顷，北京明城墙遗址公园绿地面积12.2公顷。"
+    ],
+    "outcome": "review",
+    "individual_review_note": "名单含东南城角角楼括注，但链接实际为整个明城墙遗址公园；不能仅凭括注把整园条目删掉或另造独立角楼净增，待核。",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_MUSEUMS_0057",
+    "directory_name": "圆明园展览馆",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/121082",
+    "actual_page_title": "圆明园展览馆",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "“圆明园西洋楼展览馆”位于圆明园遗址公园东北隅的西洋楼景区，与著名的圆明园“标志性景观”大水法拱门毗邻。",
+      "整个展览馆占地面积约1500平米，布局上按方位可分为东、北、西三座展室，北展室空间面积为340平米，东西两展室空间面积各为100平米。",
+      "改造一新的西洋楼展览馆内，游客不仅可以对全园风貌、历史有所了解，还能通过高新技术手段一睹圆明园盛世原貌风采。"
+    ],
+    "outcome": "promoted_new_catalog",
+    "individual_review_note": "Distinct named venue with explicit official locative statement inside/on named parent park; keep independent source identity and do not collapse child into parent. Unknown district stays null/city-only.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_MUSEUMS_0064",
+    "directory_name": "文化和旅游部恭王府博物馆",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/117810",
+    "actual_page_title": "文化和旅游部恭王府博物馆",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "在风景秀丽的北京什刹海的西南角，有一条静谧悠长、绿柳荫荫的街巷。",
+      "在这条街巷之中，坐落着一座王府，它就是现存王府中保存最完整的恭王府。"
+    ],
+    "outcome": "review",
+    "individual_review_note": "详情标题为文化和旅游部恭王府博物馆，与景区共用URL；同一机构/同一院区/馆内展区的边界未独立展开，本轮不依共用URL自动合并。",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_MUSEUMS_0066",
+    "directory_name": "慈悲庵",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/118161",
+    "actual_page_title": "慈悲庵",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "古刹慈悲庵，坐落于陶然亭公园湖心岛西南的高台上，建自元代，又称观音庵。",
+      "历史上这里是文人墨客荟集赋咏之地，曾留下许多传诵一时的诗篇。"
+    ],
+    "outcome": "promoted_new_catalog",
+    "individual_review_note": "Distinct named venue with explicit official locative statement inside/on named parent park; keep independent source identity and do not collapse child into parent. Unknown district stays null/city-only.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_MUSEUMS_0073",
+    "directory_name": "香山双清别墅",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/118188",
+    "actual_page_title": "香山双清别墅",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "香山双清别墅位于香山公园南麓的半山腰，环境幽雅，以其苍翠的竹林、遮天蔽日的银杏、挺拔的松柏、古朴的建筑引人前往。",
+      "然而真正使这个地方闻名天下的并不是她的秀丽风光，而是因为这里曾是毛主席住过的地方，曾是中共中央的指挥中心，曾发生过扭转中国命运决定中国前途的大事。"
+    ],
+    "outcome": "promoted_new_catalog",
+    "individual_review_note": "Distinct named venue with explicit official locative statement inside/on named parent park; keep independent source identity and do not collapse child into parent. Unknown district stays null/city-only.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_MUSEUMS_0083",
+    "directory_name": "北京金台艺术馆",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/120539",
+    "actual_page_title": "北京金台艺术馆",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "金台艺术馆是由全国政协常委、联合国首授“环保艺术大师”、著名艺术家袁熙坤先生集资创建的，1996年6月30日正式开馆，是创建最早也是迄今国内最大的民间艺术博物馆。",
+      "1994 年4月19日，由袁熙坤任会长的北京怡苑文化艺术促进会成立。",
+      "金台艺术馆坐落于北京市朝阳公园水碓湖畔，外型呈典雅之五台状，又邻八景之一“金台夕照”，遂定名为“金台”。",
+      "馆内长期陈列着袁熙坤先生应邀为百余位国际要人写生创作并由被绘者亲自题词的肖像画，和被西方美术评论家誉为“袁氏中国油画”的《人与自然》油画展，国际名人雕塑展以及由袁先生和海外爱华力量，从海外收购的经有关专家学者鉴定的千余件文物。"
+    ],
+    "outcome": "promoted_new_catalog",
+    "individual_review_note": "Distinct named venue with explicit official locative statement inside/on named parent park; keep independent source identity and do not collapse child into parent. Unknown district stays null/city-only.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_MUSEUMS_0125",
+    "directory_name": "香山革命纪念馆",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/121024",
+    "actual_page_title": "香山革命纪念馆",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "香山革命纪念馆位于北京香山，紧邻香山公园，馆中数千件展品、图片和一段段珍贵的影像资料，全面呈现中共中央在北京香山时期波澜壮阔的革命历史。",
+      "2019年9月13日，香山革命纪念地正式向公众开放。",
+      "新建成的香山革命纪念馆内，《为新中国奠基——中共中央在香山》主题展览，通过约800张图片、报照、地图、表格和1200多件实物、文献和档案呈现中国发展历程。"
+    ],
+    "outcome": "review",
+    "individual_review_note": "详情说纪念馆紧邻香山公园，并不是园内；旧库另有香山革命纪念馆公园。未证实馆与馆外公园同物，待核；禁止连到香山公园作child。",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_MUSEUMS_0136",
+    "directory_name": "颐和园博物馆",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/121033",
+    "actual_page_title": "颐和园博物馆",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "颐和园博物馆隶属北京市颐和园管理处，于2021年7月2日在北京市文物局备案，馆址位于世界文化遗产、全国重点文物保护单位颐和园内文昌阁东侧（光绪时期御膳房遗址之上），容古建筑风格和园林化环境于一体，是颐和园开展文物保护、研究和展览交流的重要场所。",
+      "颐和园博物馆藏品主要来源于清宫旧藏，现存文物藏品近4万件，其中一、二、三级珍贵文物2万余件。"
+    ],
+    "outcome": "promoted_new_catalog",
+    "individual_review_note": "Distinct named venue with explicit official locative statement inside/on named parent park; keep independent source identity and do not collapse child into parent. Unknown district stays null/city-only.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_MUSEUMS_0159",
+    "directory_name": "北京宣南文化博物馆管理处",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/117833",
+    "actual_page_title": "北京宣南文化博物馆",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "北京宣南文化博物馆坐落于明代古刹长椿寺内，于2005年11月30日正式对外开放，现为国家AAA级旅游景区，北京市爱国主义教育基地。",
+      "馆内设基本陈列“风声、雨声、读书声——北京宣南士乡历史文化展”，分为“此地为宣南”“士聚宣南”“斯文在兹”“先忧天下”“宣南新声”五部分，围绕宣南士乡的城市空间、士人群体的生活空间、学术活动、精神追求等梯次展开，多维度解读宣南文化、宣南士乡的精神特质，展现清代宣南士人群体以学术研究、文学艺术创作等活动为依托，心系家国、引领时代、勇于担当的人文精神。"
+    ],
+    "outcome": "review",
+    "individual_review_note": "宣南文化博物馆管理处属于管理机构式名称；共用博物馆详情页不能直接授权同物合并或作为另一个景点净增。",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0032",
+    "directory_name": "南宫旅游景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/118021",
+    "actual_page_title": "南宫旅游景区",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "南宫旅游景区距离北京市中心约25公里，依托优质丰富的地热资源，现集温泉健身养生、地热科普教育、休闲娱乐、亲子家庭度假于一体，其磅礴的人文景观、秀美的自然景观、和谐的生态环境与花园式旅游小镇融为一体。",
+      "享有“世界地热第一村”的美誉，是距离京城最近的4A景区、首批国家生态旅游示范区等，是北京十大旅游路线之一。"
+    ],
+    "outcome": "review",
+    "individual_review_note": "详情为综合南宫旅游景区；旧库南宫世界地热博览园可能是组成部分。不能把综合区域当已核独立地理净增，待核。",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0076",
+    "directory_name": "八达岭水关长城景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/117872",
+    "actual_page_title": "八达岭水关长城景区",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "位于北京市西北40公里，此段长城是八达岭长城东段，因修建中国第一条自主设计的京张铁路而截断。",
+      "水关长城是明长城的遗址，由抗倭名将戚继光督建，距今有四百余年历史。"
+    ],
+    "outcome": "review",
+    "individual_review_note": "水关长城实际详情说八达岭长城东段，但没明确其与八达岭国家森林公园的管理/地理界线，保持待核。",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0079",
+    "directory_name": "前门大街景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/117843",
+    "actual_page_title": "前门大街景区",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "前门大街历史悠久，远在元朝时候，当时丽正门(即今前门)外通往郊外的大道就是它的前身。",
+      "明朝中叶，由于商业的发达，前门大街两侧出现了鲜鱼口、猪(珠)市口、煤市口、粮食店等集市和街道，前门大街才成为一条商业街。"
+    ],
+    "outcome": "review",
+    "individual_review_note": "详情为前门大街；旧库为前门公园。属于不同名称形态但空间交叠和入口边界不明，保守待核而非自动合并或净增。",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0145",
+    "directory_name": "北京顺义汉石桥湿地景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/117847",
+    "actual_page_title": "北京顺义汉石桥湿地景区",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "北京汉石桥湿地公园，位于京东平原地带，是北京现存唯一的大面积芦苇型原生湿地。",
+      "公园位于北京市东北部的顺义杨镇，距北京城区约35公里，距首都机场约20公里，总面积1900公顷，并有多种珍稀水禽的栖息于此，其中国家Ⅰ级重点保护野生动物2种，国家Ⅱ级重点野生动物17种。"
+    ],
+    "outcome": "linked_existing_catalog",
+    "individual_review_note": "Individually reviewed official destination title or description explicitly gives the existing directory proper name (or anchored local prefix); same district. Not an automatic synonym/Jaccard merge; geographic footprint still unmeasured.",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_SCENIC_0152",
+    "directory_name": "北京南海子麋鹿苑博物馆景区",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/117861",
+    "actual_page_title": "北京南海子麋鹿苑博物馆",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "位于北京城南大兴区境内的南苑至廊坊公 路东侧，距北京城区14公里。",
+      "麋鹿，俗称“四不像”，本为中国独有，但1865年被法国大卫神父发现，此后陆续运送到欧洲。"
+    ],
+    "outcome": "review",
+    "individual_review_note": "详情明确大兴区麋鹿苑博物馆，但未明确与南海子公园的园内/毗邻关系，保留待核，不凭南海子共同词猜parent。",
+    "not_a_2026_opening_or_price_guarantee": true
+  },
+  {
+    "source_entity_id": "BJ02_MUSEUMS_0024",
+    "directory_name": "北京古观象台",
+    "official_detail_url": "https://s.visitbeijing.com.cn/attraction/118101",
+    "actual_page_title": "北京古观象台",
+    "fetch_state": "usable_identity_page",
+    "http_status": 200,
+    "identity_quotes": [
+      "北京古观象台位于建国门立交桥西南角，是世界上古老的天文台之一，已有500多年的历史。",
+      "它以建筑整齐配套、仪器保存完好、历史悠久而闻名于世。",
+      "1933年改为国立天文陈列馆，新中国成立后，经国务院批准隶属北京天文馆管理，于1956年5月1日以\"北京古代天文仪器陈列馆\"的名义对社会开放。"
+    ],
+    "outcome": "review",
+    "individual_review_note": "古观象台独立详情标题与建国门位置已实际读取，正文明确隶属北京天文馆管理。不是天文馆西直门主馆的别名；但本批无明确完整区名列证据，保持市级待核，不凭管理关系给区属。",
+    "not_a_2026_opening_or_price_guarantee": true
+  }
+]

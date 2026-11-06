@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/118001",
+  "retrieved_at": "2026-11-07T00:58:39.930111+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/118001",
+  "response_sha256": "39d3e7aea2ae38c6bd7a1ea245acc6f176a7790cc1fd569cf45f4dab5a88e12f",
+  "title": "北京市劳动人民文化宫",
+  "identity_excerpt_quotes": [
+    "北京市劳动人民文化宫位于北京天安门东侧，为始建于明永乐十八年（1420年）的明清太庙。",
+    "经周恩来总理提议，第一次政务院会议批准，将太庙移交北京市总工会管理，辟为职工群众的文化活动场所，“北京市劳动人民文化宫”匾额由毛泽东主席命名并亲笔题写，于1950年4月30日揭幕，5月1日正式对外开放。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 500,
+  "fetch_state": "usable_identity_page"
+}

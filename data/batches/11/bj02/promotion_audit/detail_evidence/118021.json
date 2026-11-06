@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/118021",
+  "retrieved_at": "2026-11-07T00:59:13.384074+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/118021",
+  "response_sha256": "f3908bb39b2dc6b5de53bb872fbe4c68f9e8270857635b7083a76d0438225022",
+  "title": "南宫旅游景区",
+  "identity_excerpt_quotes": [
+    "南宫旅游景区距离北京市中心约25公里，依托优质丰富的地热资源，现集温泉健身养生、地热科普教育、休闲娱乐、亲子家庭度假于一体，其磅礴的人文景观、秀美的自然景观、和谐的生态环境与花园式旅游小镇融为一体。",
+    "享有“世界地热第一村”的美誉，是距离京城最近的4A景区、首批国家生态旅游示范区等，是北京十大旅游路线之一。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 152,
+  "fetch_state": "usable_identity_page"
+}

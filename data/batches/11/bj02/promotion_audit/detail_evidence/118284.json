@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/118284",
+  "retrieved_at": "2026-11-07T00:58:43.307449+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/118284",
+  "response_sha256": "7be8da42ef344c966fd88c3dd7038c9d1b9a9a1c33003fa5365fd0c46af50cf3",
+  "title": "中国园林博物馆",
+  "identity_excerpt_quotes": [
+    "中国园林博物馆是中国第一座以园林为主题的国家级博物馆，位于北京市丰台区鹰山脚下，永定河畔。",
+    "自2010年开始筹建，于2013年5月开馆运行。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 457,
+  "fetch_state": "usable_identity_page"
+}

@@ -1,0 +1,19 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/101758",
+  "retrieved_at": "2026-11-07T00:58:32.456769+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/101758",
+  "response_sha256": "167672ef2d29492cb6dfd3caaaf03fa95fca2ad55ef39df19e0812f7c242746e",
+  "title": "北京天文馆",
+  "identity_excerpt_quotes": [
+    "北京天文馆是中国第一座天文馆。",
+    "位于北京西直门外。",
+    "位于北京东城建国门立交桥西南的北京古观象台归北京天文馆管理，为全国重点文物保护单位。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 500,
+  "fetch_state": "usable_identity_page"
+}

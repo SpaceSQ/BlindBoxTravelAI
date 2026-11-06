@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/101413",
+  "retrieved_at": "2026-11-07T00:58:26.879290+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/101413",
+  "response_sha256": "0729e30bc7c3db735f6bc0d15bec1365511a6802bf8ea85155784ead7881b90c",
+  "title": "龙庆峡旅游区",
+  "identity_excerpt_quotes": [
+    "小三峡胜似三峡，山比三峡险。",
+    "小漓江赛过漓江，水比漓江清。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 476,
+  "fetch_state": "usable_identity_page"
+}

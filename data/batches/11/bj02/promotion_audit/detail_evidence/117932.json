@@ -1,0 +1,20 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/117932",
+  "retrieved_at": "2026-11-07T00:58:39.160195+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/117932",
+  "response_sha256": "46857a2b2439863ff96960b71e0a6444459231c958ae4749aef98799ecd370d7",
+  "title": "中华石雕艺术园",
+  "identity_excerpt_quotes": [
+    "中华石雕艺术园位于北京市房山区大石窝镇，面积2400亩。",
+    "园区内以石雕为主。",
+    "公园主体分为上下两层，园内主要设计标志型雕塑8座，四周建有莲花桥、如意吉祥钟亭、图腾柱等雕塑百余件。",
+    "园内建有一条连体总长120米的喷泉，人工湖，晓月亭，栽植了各种花卉。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 265,
+  "fetch_state": "usable_identity_page"
+}

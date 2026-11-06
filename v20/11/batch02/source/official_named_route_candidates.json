@@ -1,0 +1,307 @@
+[
+  {
+    "candidate_id": "BJ02_WALK_01",
+    "entity_type": "route_candidate",
+    "full_route_title": "探胡同文艺，听暮鼓晨钟",
+    "node_sequence": [
+      "北锣鼓巷",
+      "华丰胡同",
+      "钟楼",
+      "鼓楼"
+    ],
+    "duration_days": null,
+    "distance_m": 1300,
+    "source_row": 1,
+    "evidence": {
+      "source_id": "walks",
+      "source_row": 1,
+      "source_url": "https://whlyj.beijing.gov.cn/zwgk/xwzx/gzdt/202607/t20260729_4796963.html",
+      "detail_url_unfetched": null,
+      "actual_query": "site.beijing.gov.cn 2026 文旅 主题 游览线路 线路一 线路二",
+      "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+      "retrieved_at": "2026-11-07T00:54:13.895621+08:00",
+      "source_display_dates": [
+        "2026-07-27"
+      ],
+      "source_sha256": "6563764660ebabeec1fb667a5c2b41eddab308342ff6da5f7179a68873056199",
+      "sanitized_sha256": "00054fb6851048094d5be4599a10101e2094f1af284b753cb308b4599c5626be",
+      "evidence_file": "raw/walks.json"
+    },
+    "verification_status": "official_named_ordered_walk_pending_duration_and_node_linking",
+    "not_production_route_reason": "No explicit day allocation, travel time, transit links or resolved node IDs in extracted source; no invented day count. July source not a current availability guarantee."
+  },
+  {
+    "candidate_id": "BJ02_WALK_02",
+    "entity_type": "route_candidate",
+    "full_route_title": "游烟袋斜街，享后海闲情",
+    "node_sequence": [
+      "烟袋斜街",
+      "后海",
+      "荷花市场",
+      "万宁桥",
+      "南锣鼓巷"
+    ],
+    "duration_days": null,
+    "distance_m": 2500,
+    "source_row": 2,
+    "evidence": {
+      "source_id": "walks",
+      "source_row": 2,
+      "source_url": "https://whlyj.beijing.gov.cn/zwgk/xwzx/gzdt/202607/t20260729_4796963.html",
+      "detail_url_unfetched": null,
+      "actual_query": "site.beijing.gov.cn 2026 文旅 主题 游览线路 线路一 线路二",
+      "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+      "retrieved_at": "2026-11-07T00:54:13.895621+08:00",
+      "source_display_dates": [
+        "2026-07-27"
+      ],
+      "source_sha256": "6563764660ebabeec1fb667a5c2b41eddab308342ff6da5f7179a68873056199",
+      "sanitized_sha256": "00054fb6851048094d5be4599a10101e2094f1af284b753cb308b4599c5626be",
+      "evidence_file": "raw/walks.json"
+    },
+    "verification_status": "official_named_ordered_walk_pending_duration_and_node_linking",
+    "not_production_route_reason": "No explicit day allocation, travel time, transit links or resolved node IDs in extracted source; no invented day count. July source not a current availability guarantee."
+  },
+  {
+    "candidate_id": "BJ02_WALK_03",
+    "entity_type": "route_candidate",
+    "full_route_title": "登景山之巅，赏最美晚霞",
+    "node_sequence": [
+      "景山公园",
+      "三眼井胡同",
+      "兆军盛菜市场",
+      "隆福寺"
+    ],
+    "duration_days": null,
+    "distance_m": 1800,
+    "source_row": 3,
+    "evidence": {
+      "source_id": "walks",
+      "source_row": 3,
+      "source_url": "https://whlyj.beijing.gov.cn/zwgk/xwzx/gzdt/202607/t20260729_4796963.html",
+      "detail_url_unfetched": null,
+      "actual_query": "site.beijing.gov.cn 2026 文旅 主题 游览线路 线路一 线路二",
+      "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+      "retrieved_at": "2026-11-07T00:54:13.895621+08:00",
+      "source_display_dates": [
+        "2026-07-27"
+      ],
+      "source_sha256": "6563764660ebabeec1fb667a5c2b41eddab308342ff6da5f7179a68873056199",
+      "sanitized_sha256": "00054fb6851048094d5be4599a10101e2094f1af284b753cb308b4599c5626be",
+      "evidence_file": "raw/walks.json"
+    },
+    "verification_status": "official_named_ordered_walk_pending_duration_and_node_linking",
+    "not_production_route_reason": "No explicit day allocation, travel time, transit links or resolved node IDs in extracted source; no invented day count. July source not a current availability guarantee."
+  },
+  {
+    "candidate_id": "BJ02_WALK_04",
+    "entity_type": "route_candidate",
+    "full_route_title": "穿陟门古巷，览北海琼华",
+    "node_sequence": [
+      "景山公园",
+      "陟山门街",
+      "北海公园"
+    ],
+    "duration_days": null,
+    "distance_m": 1000,
+    "source_row": 4,
+    "evidence": {
+      "source_id": "walks",
+      "source_row": 4,
+      "source_url": "https://whlyj.beijing.gov.cn/zwgk/xwzx/gzdt/202607/t20260729_4796963.html",
+      "detail_url_unfetched": null,
+      "actual_query": "site.beijing.gov.cn 2026 文旅 主题 游览线路 线路一 线路二",
+      "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+      "retrieved_at": "2026-11-07T00:54:13.895621+08:00",
+      "source_display_dates": [
+        "2026-07-27"
+      ],
+      "source_sha256": "6563764660ebabeec1fb667a5c2b41eddab308342ff6da5f7179a68873056199",
+      "sanitized_sha256": "00054fb6851048094d5be4599a10101e2094f1af284b753cb308b4599c5626be",
+      "evidence_file": "raw/walks.json"
+    },
+    "verification_status": "official_named_ordered_walk_pending_duration_and_node_linking",
+    "not_production_route_reason": "No explicit day allocation, travel time, transit links or resolved node IDs in extracted source; no invented day count. July source not a current availability guarantee."
+  },
+  {
+    "candidate_id": "BJ02_WALK_05",
+    "entity_type": "route_candidate",
+    "full_route_title": "寻千年古树，浸露台微风",
+    "node_sequence": [
+      "中山公园",
+      "端门",
+      "东华门（四季民福烤鸭店）",
+      "王府井大街（灿然书屋）"
+    ],
+    "duration_days": null,
+    "distance_m": 2000,
+    "source_row": 5,
+    "evidence": {
+      "source_id": "walks",
+      "source_row": 5,
+      "source_url": "https://whlyj.beijing.gov.cn/zwgk/xwzx/gzdt/202607/t20260729_4796963.html",
+      "detail_url_unfetched": null,
+      "actual_query": "site.beijing.gov.cn 2026 文旅 主题 游览线路 线路一 线路二",
+      "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+      "retrieved_at": "2026-11-07T00:54:13.895621+08:00",
+      "source_display_dates": [
+        "2026-07-27"
+      ],
+      "source_sha256": "6563764660ebabeec1fb667a5c2b41eddab308342ff6da5f7179a68873056199",
+      "sanitized_sha256": "00054fb6851048094d5be4599a10101e2094f1af284b753cb308b4599c5626be",
+      "evidence_file": "raw/walks.json"
+    },
+    "verification_status": "official_named_ordered_walk_pending_duration_and_node_linking",
+    "not_production_route_reason": "No explicit day allocation, travel time, transit links or resolved node IDs in extracted source; no invented day count. July source not a current availability guarantee."
+  },
+  {
+    "candidate_id": "BJ02_WALK_06",
+    "entity_type": "route_candidate",
+    "full_route_title": "谒太庙祖制，逛隆福新市",
+    "node_sequence": [
+      "北京市劳动人民文化宫（太庙）",
+      "五四大街",
+      "隆福寺"
+    ],
+    "duration_days": null,
+    "distance_m": 2800,
+    "source_row": 6,
+    "evidence": {
+      "source_id": "walks",
+      "source_row": 6,
+      "source_url": "https://whlyj.beijing.gov.cn/zwgk/xwzx/gzdt/202607/t20260729_4796963.html",
+      "detail_url_unfetched": null,
+      "actual_query": "site.beijing.gov.cn 2026 文旅 主题 游览线路 线路一 线路二",
+      "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+      "retrieved_at": "2026-11-07T00:54:13.895621+08:00",
+      "source_display_dates": [
+        "2026-07-27"
+      ],
+      "source_sha256": "6563764660ebabeec1fb667a5c2b41eddab308342ff6da5f7179a68873056199",
+      "sanitized_sha256": "00054fb6851048094d5be4599a10101e2094f1af284b753cb308b4599c5626be",
+      "evidence_file": "raw/walks.json"
+    },
+    "verification_status": "official_named_ordered_walk_pending_duration_and_node_linking",
+    "not_production_route_reason": "No explicit day allocation, travel time, transit links or resolved node IDs in extracted source; no invented day count. July source not a current availability guarantee."
+  },
+  {
+    "candidate_id": "BJ02_WALK_07",
+    "entity_type": "route_candidate",
+    "full_route_title": "临正阳门楼，品非遗美食",
+    "node_sequence": [
+      "正阳门城楼",
+      "前门大街（老字号美食、非遗体验）",
+      "三里河公园"
+    ],
+    "duration_days": null,
+    "distance_m": 1800,
+    "source_row": 7,
+    "evidence": {
+      "source_id": "walks",
+      "source_row": 7,
+      "source_url": "https://whlyj.beijing.gov.cn/zwgk/xwzx/gzdt/202607/t20260729_4796963.html",
+      "detail_url_unfetched": null,
+      "actual_query": "site.beijing.gov.cn 2026 文旅 主题 游览线路 线路一 线路二",
+      "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+      "retrieved_at": "2026-11-07T00:54:13.895621+08:00",
+      "source_display_dates": [
+        "2026-07-27"
+      ],
+      "source_sha256": "6563764660ebabeec1fb667a5c2b41eddab308342ff6da5f7179a68873056199",
+      "sanitized_sha256": "00054fb6851048094d5be4599a10101e2094f1af284b753cb308b4599c5626be",
+      "evidence_file": "raw/walks.json"
+    },
+    "verification_status": "official_named_ordered_walk_pending_duration_and_node_linking",
+    "not_production_route_reason": "No explicit day allocation, travel time, transit links or resolved node IDs in extracted source; no invented day count. July source not a current availability guarantee."
+  },
+  {
+    "candidate_id": "BJ02_WALK_08",
+    "entity_type": "route_candidate",
+    "full_route_title": "逛北京坊巷，说城市更新",
+    "node_sequence": [
+      "北京坊",
+      "杨梅竹斜街",
+      "琉璃厂"
+    ],
+    "duration_days": null,
+    "distance_m": 1000,
+    "source_row": 8,
+    "evidence": {
+      "source_id": "walks",
+      "source_row": 8,
+      "source_url": "https://whlyj.beijing.gov.cn/zwgk/xwzx/gzdt/202607/t20260729_4796963.html",
+      "detail_url_unfetched": null,
+      "actual_query": "site.beijing.gov.cn 2026 文旅 主题 游览线路 线路一 线路二",
+      "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+      "retrieved_at": "2026-11-07T00:54:13.895621+08:00",
+      "source_display_dates": [
+        "2026-07-27"
+      ],
+      "source_sha256": "6563764660ebabeec1fb667a5c2b41eddab308342ff6da5f7179a68873056199",
+      "sanitized_sha256": "00054fb6851048094d5be4599a10101e2094f1af284b753cb308b4599c5626be",
+      "evidence_file": "raw/walks.json"
+    },
+    "verification_status": "official_named_ordered_walk_pending_duration_and_node_linking",
+    "not_production_route_reason": "No explicit day allocation, travel time, transit links or resolved node IDs in extracted source; no invented day count. July source not a current availability guarantee."
+  },
+  {
+    "candidate_id": "BJ02_WALK_09",
+    "entity_type": "route_candidate",
+    "full_route_title": "忆南城往事，看好戏连台",
+    "node_sequence": [
+      "珠市口西大街",
+      "赵锥子胡同",
+      "北京天桥艺术中心"
+    ],
+    "duration_days": null,
+    "distance_m": 1200,
+    "source_row": 9,
+    "evidence": {
+      "source_id": "walks",
+      "source_row": 9,
+      "source_url": "https://whlyj.beijing.gov.cn/zwgk/xwzx/gzdt/202607/t20260729_4796963.html",
+      "detail_url_unfetched": null,
+      "actual_query": "site.beijing.gov.cn 2026 文旅 主题 游览线路 线路一 线路二",
+      "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+      "retrieved_at": "2026-11-07T00:54:13.895621+08:00",
+      "source_display_dates": [
+        "2026-07-27"
+      ],
+      "source_sha256": "6563764660ebabeec1fb667a5c2b41eddab308342ff6da5f7179a68873056199",
+      "sanitized_sha256": "00054fb6851048094d5be4599a10101e2094f1af284b753cb308b4599c5626be",
+      "evidence_file": "raw/walks.json"
+    },
+    "verification_status": "official_named_ordered_walk_pending_duration_and_node_linking",
+    "not_production_route_reason": "No explicit day allocation, travel time, transit links or resolved node IDs in extracted source; no invented day count. July source not a current availability guarantee."
+  },
+  {
+    "candidate_id": "BJ02_WALK_10",
+    "entity_type": "route_candidate",
+    "full_route_title": "敬天坛礼制，访农耕文化",
+    "node_sequence": [
+      "天坛公园（天坛博物馆）",
+      "永定门公园",
+      "先农坛（北京古代建筑博物馆）"
+    ],
+    "duration_days": null,
+    "distance_m": 2000,
+    "source_row": 10,
+    "evidence": {
+      "source_id": "walks",
+      "source_row": 10,
+      "source_url": "https://whlyj.beijing.gov.cn/zwgk/xwzx/gzdt/202607/t20260729_4796963.html",
+      "detail_url_unfetched": null,
+      "actual_query": "site.beijing.gov.cn 2026 文旅 主题 游览线路 线路一 线路二",
+      "query_type": "actual_WebSearch_discovery_then_official_directory_filter",
+      "retrieved_at": "2026-11-07T00:54:13.895621+08:00",
+      "source_display_dates": [
+        "2026-07-27"
+      ],
+      "source_sha256": "6563764660ebabeec1fb667a5c2b41eddab308342ff6da5f7179a68873056199",
+      "sanitized_sha256": "00054fb6851048094d5be4599a10101e2094f1af284b753cb308b4599c5626be",
+      "evidence_file": "raw/walks.json"
+    },
+    "verification_status": "official_named_ordered_walk_pending_duration_and_node_linking",
+    "not_production_route_reason": "No explicit day allocation, travel time, transit links or resolved node IDs in extracted source; no invented day count. July source not a current availability guarantee."
+  }
+]

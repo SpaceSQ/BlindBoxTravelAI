@@ -1,0 +1,27 @@
+[
+  {
+    "tool": "WebSearch",
+    "actual_query": "北京市 文物局 2025 博物馆 名录 名称 地址 一览表",
+    "used_result": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287849.html"
+  },
+  {
+    "tool": "WebSearch",
+    "actual_query": "北京市 A级旅游景区 名录 2026 名称 区",
+    "used_result": "https://whlyj.beijing.gov.cn/ggfw/ly/202511/t20251119_4287815.html"
+  },
+  {
+    "tool": "WebSearch",
+    "actual_query": "site.beijing.gov.cn 2026 文旅 主题 游览线路 线路一 线路二",
+    "used_result": "https://whlyj.beijing.gov.cn/zwgk/xwzx/gzdt/202607/t20260729_4796963.html"
+  },
+  {
+    "tool": "WebFetch",
+    "url": "https://data.beijing.gov.cn/zyml/ajg/swwj/5976.htm",
+    "result": "timeout; not acquired or counted; no fallback to its keyed API"
+  },
+  {
+    "tool": "WebFetch",
+    "url": "https://wwj.beijing.gov.cn/bjww/362771/362772/",
+    "result": "10 visible items only; not used as full museum count"
+  }
+]

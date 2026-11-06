@@ -1,0 +1,156 @@
+[
+  {
+    "spot_id": "BJ02_SCENIC_0007",
+    "prior_id": "BJ_PARKS_2026_0719",
+    "name": "北京（通州）大运河文化旅游景区",
+    "prior_name": "大运河文化旅游景区",
+    "area_code": "110112",
+    "prior_area_code": "110112",
+    "bigram_jaccard": 0.5,
+    "action": "review_only_no_auto_merge",
+    "geo_test": "unavailable_both_coordinates_null"
+  },
+  {
+    "spot_id": "BJ02_SCENIC_0026",
+    "prior_id": "BJ_PARKS_2026_0447",
+    "name": "中国人民抗日战争纪念馆景区",
+    "prior_name": "中国人民抗日战争纪念雕塑园",
+    "area_code": "110106",
+    "prior_area_code": "110106",
+    "bigram_jaccard": 0.6923,
+    "action": "review_only_no_auto_merge",
+    "geo_test": "unavailable_both_coordinates_null"
+  },
+  {
+    "spot_id": "BJ02_SCENIC_0041",
+    "prior_id": "BJ_PARKS_2026_0287",
+    "name": "中央电视塔景区",
+    "prior_name": "中央电视塔公园",
+    "area_code": "110108",
+    "prior_area_code": "110108",
+    "bigram_jaccard": 0.6667,
+    "action": "review_only_no_auto_merge",
+    "geo_test": "unavailable_both_coordinates_null"
+  },
+  {
+    "spot_id": "BJ02_SCENIC_0042",
+    "prior_id": "BJ_PARKS_2026_0625",
+    "name": "北京市门头沟区戒台寺景区",
+    "prior_name": "戒台寺郊野公园",
+    "area_code": "110109",
+    "prior_area_code": "110109",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge",
+    "geo_test": "unavailable_both_coordinates_null"
+  },
+  {
+    "spot_id": "BJ02_SCENIC_0050",
+    "prior_id": "BJ_PARKS_2026_0711",
+    "name": "北京圣莲山旅游风景区",
+    "prior_name": "圣莲山地质公园",
+    "area_code": "110111",
+    "prior_area_code": "110111",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge",
+    "geo_test": "unavailable_both_coordinates_null"
+  },
+  {
+    "spot_id": "BJ02_SCENIC_0073",
+    "prior_id": "BJ_PARKS_2026_1128",
+    "name": "野鸭湖景区",
+    "prior_name": "野鸭湖国家湿地公园",
+    "area_code": "110119",
+    "prior_area_code": "110119",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge",
+    "geo_test": "unavailable_both_coordinates_null"
+  },
+  {
+    "spot_id": "BJ02_SCENIC_0107",
+    "prior_id": "BJ_PARKS_2026_0447",
+    "name": "抗日战争纪念雕塑园",
+    "prior_name": "中国人民抗日战争纪念雕塑园",
+    "area_code": "110106",
+    "prior_area_code": "110106",
+    "bigram_jaccard": 0.6667,
+    "action": "review_only_no_auto_merge",
+    "geo_test": "unavailable_both_coordinates_null"
+  },
+  {
+    "spot_id": "BJ02_SCENIC_0121",
+    "prior_id": "BJ_PARKS_2026_0627",
+    "name": "妙峰山风景区",
+    "prior_name": "妙峰山森林公园",
+    "area_code": "110109",
+    "prior_area_code": "110109",
+    "bigram_jaccard": 0.3333,
+    "action": "review_only_no_auto_merge",
+    "geo_test": "unavailable_both_coordinates_null"
+  },
+  {
+    "spot_id": "BJ02_SCENIC_0132",
+    "prior_id": "BJ_PARKS_2026_0707",
+    "name": "上方山景区",
+    "prior_name": "上方山国家森林公园",
+    "area_code": "110111",
+    "prior_area_code": "110111",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge",
+    "geo_test": "unavailable_both_coordinates_null"
+  },
+  {
+    "spot_id": "BJ02_SCENIC_0166",
+    "prior_id": "BJ_PARKS_2026_1062",
+    "name": "北京冶仙塔旅游风景区",
+    "prior_name": "冶仙塔文化休闲公园",
+    "area_code": "110118",
+    "prior_area_code": "110118",
+    "bigram_jaccard": 0.25,
+    "action": "review_only_no_auto_merge",
+    "geo_test": "unavailable_both_coordinates_null"
+  },
+  {
+    "spot_id": "BJ02_MUSEUMS_0036",
+    "prior_id": "BJ_PARKS_2026_0713",
+    "name": "北京房山云居寺石经博物馆",
+    "prior_name": "云居寺景区",
+    "area_code": null,
+    "prior_area_code": "110111",
+    "bigram_jaccard": 0.2222,
+    "action": "review_only_no_auto_merge",
+    "geo_test": "unavailable_both_coordinates_null"
+  },
+  {
+    "spot_id": "BJ02_MUSEUMS_0050",
+    "prior_id": "BJ_PARKS_2026_0045",
+    "name": "北京明城墙遗址公园（东南城角角楼）",
+    "prior_name": "北京明城墙遗址公园",
+    "area_code": null,
+    "prior_area_code": "110101",
+    "bigram_jaccard": 0.4286,
+    "action": "review_only_no_auto_merge",
+    "geo_test": "unavailable_both_coordinates_null"
+  },
+  {
+    "spot_id": "BJ02_MUSEUMS_0125",
+    "prior_id": "BJ_PARKS_2026_0316",
+    "name": "香山革命纪念馆",
+    "prior_name": "香山革命纪念馆公园",
+    "area_code": null,
+    "prior_area_code": "110108",
+    "bigram_jaccard": 0.75,
+    "action": "review_only_no_auto_merge",
+    "geo_test": "unavailable_both_coordinates_null"
+  },
+  {
+    "spot_id": "BJ02_MUSEUMS_0136",
+    "prior_id": "BJ_PARKS_2026_0001",
+    "name": "颐和园博物馆",
+    "prior_name": "颐和园",
+    "area_code": null,
+    "prior_area_code": "110108",
+    "bigram_jaccard": 0.4,
+    "action": "review_only_no_auto_merge",
+    "geo_test": "unavailable_both_coordinates_null"
+  }
+]

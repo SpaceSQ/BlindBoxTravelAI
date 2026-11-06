@@ -1,0 +1,18 @@
+{
+  "requested_url": "https://s.visitbeijing.com.cn/attraction/101507",
+  "retrieved_at": "2026-11-07T00:58:31.634103+08:00",
+  "source_kind": "Beijing_tourism_official_linked_detail",
+  "image_reuse_license_verified": false,
+  "display_image_url": null,
+  "http_status": 200,
+  "final_url": "https://s.visitbeijing.com.cn/attraction/101507",
+  "response_sha256": "483b998312cdeff2efe5d8db822109809f8fdbef2c588d7a3ff7e3a1ef777e92",
+  "title": "戒台寺",
+  "identity_excerpt_quotes": [
+    "戒台寺为全国重点文物保护单位、国家AAAA级景区、北京市风景名胜区、宗教活动场所。",
+    "寺院位于北京市门头沟区的马鞍山上，距京城35公里。"
+  ],
+  "description_block_found": true,
+  "description_character_count": 482,
+  "fetch_state": "usable_identity_page"
+}
