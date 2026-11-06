@@ -1,0 +1,3571 @@
+[
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0954",
+    "source_entity_id": "BJ_PARKS_2026_0954",
+    "entity_type": "spot",
+    "full_name": "平谷世纪广场",
+    "blind_name": "平谷****",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区府前西街5号",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "综合公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=54",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 54,
+    "source_row": 954,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "综合公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0955",
+    "source_entity_id": "BJ_PARKS_2026_0955",
+    "entity_type": "spot",
+    "full_name": "泰和公园",
+    "blind_name": "泰和**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区平谷镇平安街村",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=54",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 54,
+    "source_row": 955,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0956",
+    "source_entity_id": "BJ_PARKS_2026_0956",
+    "entity_type": "spot",
+    "full_name": "马坊镇中心公园",
+    "blind_name": "**镇中***",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区马坊镇金河南街",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=54",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 54,
+    "source_row": 956,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0957",
+    "source_entity_id": "BJ_PARKS_2026_0957",
+    "entity_type": "spot",
+    "full_name": "峪口广场",
+    "blind_name": "峪口**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区峪口镇峪口村",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=54",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 54,
+    "source_row": 957,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0958",
+    "source_entity_id": "BJ_PARKS_2026_0958",
+    "entity_type": "spot",
+    "full_name": "马坊镇小梨公园",
+    "blind_name": "马**小***",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区马坊镇金河北街",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=54",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 54,
+    "source_row": 958,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0959",
+    "source_entity_id": "BJ_PARKS_2026_0959",
+    "entity_type": "spot",
+    "full_name": "马坊镇金平公园",
+    "blind_name": "*坊****园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区金河北街与小屯新路交叉路口西侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=54",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 54,
+    "source_row": 959,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0960",
+    "source_entity_id": "BJ_PARKS_2026_0960",
+    "entity_type": "spot",
+    "full_name": "张各庄人民公园",
+    "blind_name": "张****公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区夏各庄镇村西",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=54",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 54,
+    "source_row": 960,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0961",
+    "source_entity_id": "BJ_PARKS_2026_0961",
+    "entity_type": "spot",
+    "full_name": "鱼子山街心公园",
+    "blind_name": "***街**园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区山东庄镇鱼子山村",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=54",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 54,
+    "source_row": 961,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "四级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0962",
+    "source_entity_id": "BJ_PARKS_2026_0962",
+    "entity_type": "spot",
+    "full_name": "马昌营村公园",
+    "blind_name": "***村公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区马昌营镇马昌营村",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=54",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 54,
+    "source_row": 962,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "四级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0963",
+    "source_entity_id": "BJ_PARKS_2026_0963",
+    "entity_type": "spot",
+    "full_name": "东鹿角街心公园",
+    "blind_name": "东*****园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区平谷镇东鹿角村",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=54",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 54,
+    "source_row": 963,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "四级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0964",
+    "source_entity_id": "BJ_PARKS_2026_0964",
+    "entity_type": "spot",
+    "full_name": "问墨公园",
+    "blind_name": "问*公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区老干部局西侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=54",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 54,
+    "source_row": 964,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0965",
+    "source_entity_id": "BJ_PARKS_2026_0965",
+    "entity_type": "spot",
+    "full_name": "向阳公园",
+    "blind_name": "向阳**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区都丽豪庭南侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=54",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 54,
+    "source_row": 965,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0966",
+    "source_entity_id": "BJ_PARKS_2026_0966",
+    "entity_type": "spot",
+    "full_name": "柳荫公园（平谷）",
+    "blind_name": "*荫公*****",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区平中西侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=54",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 54,
+    "source_row": 966,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0967",
+    "source_entity_id": "BJ_PARKS_2026_0967",
+    "entity_type": "spot",
+    "full_name": "五中公园",
+    "blind_name": "五中**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区金乡西小区五中对面",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=55",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 55,
+    "source_row": 967,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0968",
+    "source_entity_id": "BJ_PARKS_2026_0968",
+    "entity_type": "spot",
+    "full_name": "兴谷广场",
+    "blind_name": "*谷广*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区平翔路兴谷环岛",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=55",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 55,
+    "source_row": 968,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0969",
+    "source_entity_id": "BJ_PARKS_2026_0969",
+    "entity_type": "spot",
+    "full_name": "山东庄绿宝石广场",
+    "blind_name": "******广场",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区山东庄镇府前街9号",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=55",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 55,
+    "source_row": 969,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0970",
+    "source_entity_id": "BJ_PARKS_2026_0970",
+    "entity_type": "spot",
+    "full_name": "兴旺广场",
+    "blind_name": "*旺*场",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区兴谷东路兴旺环岛",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=55",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 55,
+    "source_row": 970,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0971",
+    "source_entity_id": "BJ_PARKS_2026_0971",
+    "entity_type": "spot",
+    "full_name": "小官庄公园",
+    "blind_name": "小**公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区峪口镇顺平路云峰寺",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=55",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 55,
+    "source_row": 971,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0972",
+    "source_entity_id": "BJ_PARKS_2026_0972",
+    "entity_type": "spot",
+    "full_name": "仁和公园（平谷）",
+    "blind_name": "*****平谷*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区仁和小区对面",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=55",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 55,
+    "source_row": 972,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0973",
+    "source_entity_id": "BJ_PARKS_2026_0973",
+    "entity_type": "spot",
+    "full_name": "岳各庄公园",
+    "blind_name": "岳*庄**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区法院西侧对面",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=55",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 55,
+    "source_row": 973,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0974",
+    "source_entity_id": "BJ_PARKS_2026_0974",
+    "entity_type": "spot",
+    "full_name": "西寺渠法制文化广场",
+    "blind_name": "***法***广*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区西寺渠村",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=55",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 55,
+    "source_row": 974,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "四级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0975",
+    "source_entity_id": "BJ_PARKS_2026_0975",
+    "entity_type": "spot",
+    "full_name": "南独乐河中心公园",
+    "blind_name": "****中**园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区南独乐河村农商银行北侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=55",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 55,
+    "source_row": 975,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "四级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0976",
+    "source_entity_id": "BJ_PARKS_2026_0976",
+    "entity_type": "spot",
+    "full_name": "南独乐河镇政府公园",
+    "blind_name": "******府公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区南独乐河村农商银行北侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=55",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 55,
+    "source_row": 976,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "四级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0977",
+    "source_entity_id": "BJ_PARKS_2026_0977",
+    "entity_type": "spot",
+    "full_name": "赵各庄街心公园",
+    "blind_name": "赵****公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区赵各庄村",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=55",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 55,
+    "source_row": 977,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "四级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0978",
+    "source_entity_id": "BJ_PARKS_2026_0978",
+    "entity_type": "spot",
+    "full_name": "文化公园",
+    "blind_name": "*化*园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区西寺渠早市南",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=55",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 55,
+    "source_row": 978,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0979",
+    "source_entity_id": "BJ_PARKS_2026_0979",
+    "entity_type": "spot",
+    "full_name": "平谷湿地公园",
+    "blind_name": "**湿地**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区王辛庄镇王辛庄村南湿地公园",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "湿地",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=55",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 55,
+    "source_row": 979,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0980",
+    "source_entity_id": "BJ_PARKS_2026_0980",
+    "entity_type": "spot",
+    "full_name": "阅景公园",
+    "blind_name": "*景*园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区北二环路西端北侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=55",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 55,
+    "source_row": 980,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0981",
+    "source_entity_id": "BJ_PARKS_2026_0981",
+    "entity_type": "spot",
+    "full_name": "惠民公园",
+    "blind_name": "惠民**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区平谷镇供暖公司北侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=55",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 55,
+    "source_row": 981,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0982",
+    "source_entity_id": "BJ_PARKS_2026_0982",
+    "entity_type": "spot",
+    "full_name": "莲花潭公园",
+    "blind_name": "***公园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区莲花潭村北",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=55",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 55,
+    "source_row": 982,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0983",
+    "source_entity_id": "BJ_PARKS_2026_0983",
+    "entity_type": "spot",
+    "full_name": "洳月公园",
+    "blind_name": "洳**园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区平谷镇岳各庄村西",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=55",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 55,
+    "source_row": 983,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0984",
+    "source_entity_id": "BJ_PARKS_2026_0984",
+    "entity_type": "spot",
+    "full_name": "夏各庄滨水生态休闲公园",
+    "blind_name": "*******休*公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区夏各庄镇夏各庄村",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=55",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 55,
+    "source_row": 984,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0985",
+    "source_entity_id": "BJ_PARKS_2026_0985",
+    "entity_type": "spot",
+    "full_name": "洳东公园",
+    "blind_name": "*东公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区周村东",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=56",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 56,
+    "source_row": 985,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0986",
+    "source_entity_id": "BJ_PARKS_2026_0986",
+    "entity_type": "spot",
+    "full_name": "泃水湾公园",
+    "blind_name": "**湾公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区南宅村西",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=56",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 56,
+    "source_row": 986,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0987",
+    "source_entity_id": "BJ_PARKS_2026_0987",
+    "entity_type": "spot",
+    "full_name": "泃北公园",
+    "blind_name": "泃北**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区下纸寨村南",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=56",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 56,
+    "source_row": 987,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0988",
+    "source_entity_id": "BJ_PARKS_2026_0988",
+    "entity_type": "spot",
+    "full_name": "塔山公园",
+    "blind_name": "塔**园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区东高村东",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=56",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 56,
+    "source_row": 988,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0989",
+    "source_entity_id": "BJ_PARKS_2026_0989",
+    "entity_type": "spot",
+    "full_name": "安固公园",
+    "blind_name": "**公园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区安固村东",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=56",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 56,
+    "source_row": 989,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0990",
+    "source_entity_id": "BJ_PARKS_2026_0990",
+    "entity_type": "spot",
+    "full_name": "石岗公园",
+    "blind_name": "**公园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区夏各庄北",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=56",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 56,
+    "source_row": 990,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0991",
+    "source_entity_id": "BJ_PARKS_2026_0991",
+    "entity_type": "spot",
+    "full_name": "碣山文化园",
+    "blind_name": "碣***园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区金海湖镇东上营村北",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=56",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 56,
+    "source_row": 991,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "四级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0992",
+    "source_entity_id": "BJ_PARKS_2026_0992",
+    "entity_type": "spot",
+    "full_name": "黄松峪国家地质公园",
+    "blind_name": "****家**公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区黄松峪乡",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "自然（类）公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=56",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 56,
+    "source_row": 992,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "自然（类）公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0993",
+    "source_entity_id": "BJ_PARKS_2026_0993",
+    "entity_type": "spot",
+    "full_name": "北京市马坊小龙河湿地公园",
+    "blind_name": "****坊******园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区密三路两侧小龙河沿岸",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "湿地",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=56",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 56,
+    "source_row": 993,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0994",
+    "source_entity_id": "BJ_PARKS_2026_0994",
+    "entity_type": "spot",
+    "full_name": "丫吉山森林公园",
+    "blind_name": "*吉*森***",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区丫吉山林场大虫峪分区",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "森林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "自然（类）公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=56",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 56,
+    "source_row": 994,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "自然（类）公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0995",
+    "source_entity_id": "BJ_PARKS_2026_0995",
+    "entity_type": "spot",
+    "full_name": "金海湖景区",
+    "blind_name": "金*湖**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区金海湖镇金海湖景区坝前广场1号",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "自然（类）公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=56",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 56,
+    "source_row": 995,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "自然（类）公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0996",
+    "source_entity_id": "BJ_PARKS_2026_0996",
+    "entity_type": "spot",
+    "full_name": "平谷迎宾公园",
+    "blind_name": "*谷**公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110117",
+    "area_name": "平谷区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "平谷区迎宾环岛东北角",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=平谷区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=56",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 56,
+    "source_row": 996,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  }
+]

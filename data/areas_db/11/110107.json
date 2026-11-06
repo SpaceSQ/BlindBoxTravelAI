@@ -1,0 +1,5646 @@
+[
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0013",
+    "source_entity_id": "BJ_PARKS_2026_0013",
+    "entity_type": "spot",
+    "full_name": "永定河休闲森林公园",
+    "blind_name": "***休**林**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "address_explicit_prefix",
+    "township_name": null,
+    "address": "石景山区京原路55号",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "森林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=1",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 1,
+    "source_row": 13,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0528",
+    "source_entity_id": "BJ_PARKS_2026_0528",
+    "entity_type": "spot",
+    "full_name": "小青山公园",
+    "blind_name": "小***园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区西北部",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "综合公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=30",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 30,
+    "source_row": 528,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "综合公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0529",
+    "source_entity_id": "BJ_PARKS_2026_0529",
+    "entity_type": "spot",
+    "full_name": "新安公园",
+    "blind_name": "*安公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区北辛安路与石景山路东北角",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "综合公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=30",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 30,
+    "source_row": 529,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "综合公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0530",
+    "source_entity_id": "BJ_PARKS_2026_0530",
+    "entity_type": "spot",
+    "full_name": "古城公园",
+    "blind_name": "*城公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区古城南路1号",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=30",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 30,
+    "source_row": 530,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0531",
+    "source_entity_id": "BJ_PARKS_2026_0531",
+    "entity_type": "spot",
+    "full_name": "槐香园",
+    "blind_name": "槐香*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区政达路南侧，银河东街路西",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=30",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 30,
+    "source_row": 531,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0532",
+    "source_entity_id": "BJ_PARKS_2026_0532",
+    "entity_type": "spot",
+    "full_name": "芳菲园",
+    "blind_name": "芳*园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区玉泉西街路西北侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=30",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 30,
+    "source_row": 532,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0533",
+    "source_entity_id": "BJ_PARKS_2026_0533",
+    "entity_type": "spot",
+    "full_name": "半月园公园",
+    "blind_name": "*月*公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区银河南街与鲁谷南路路口",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=30",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 30,
+    "source_row": 533,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0534",
+    "source_entity_id": "BJ_PARKS_2026_0534",
+    "entity_type": "spot",
+    "full_name": "金顶山公园",
+    "blind_name": "*顶**园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区苹果园路与金顶东街十字路口东北侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=30",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 30,
+    "source_row": 534,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0535",
+    "source_entity_id": "BJ_PARKS_2026_0535",
+    "entity_type": "spot",
+    "full_name": "高科技园区社区公园",
+    "blind_name": "****区**公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区双园路路南",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=30",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 30,
+    "source_row": 535,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0536",
+    "source_entity_id": "BJ_PARKS_2026_0536",
+    "entity_type": "spot",
+    "full_name": "旺景公园",
+    "blind_name": "旺*公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区鲁谷路与石槽中街的丁字路口西南",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=30",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 30,
+    "source_row": 536,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0537",
+    "source_entity_id": "BJ_PARKS_2026_0537",
+    "entity_type": "spot",
+    "full_name": "金顶画枫社区公园",
+    "blind_name": "**画****园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区苹果园南路与金顶东街丁字路口东北侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=30",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 30,
+    "source_row": 537,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0538",
+    "source_entity_id": "BJ_PARKS_2026_0538",
+    "entity_type": "spot",
+    "full_name": "西现代城社区公园",
+    "blind_name": "****社**园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区阜石路北侧，法院西侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=31",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 31,
+    "source_row": 538,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0539",
+    "source_entity_id": "BJ_PARKS_2026_0539",
+    "entity_type": "spot",
+    "full_name": "奈伦熙府社区公园",
+    "blind_name": "*伦*府****",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区苹果园南路铁道南侧，奈伦熙府小区北墙外",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=31",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 31,
+    "source_row": 539,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0540",
+    "source_entity_id": "BJ_PARKS_2026_0540",
+    "entity_type": "spot",
+    "full_name": "高井公园",
+    "blind_name": "高*公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区高井路与石门路十字路口西北角",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=31",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 31,
+    "source_row": 540,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0541",
+    "source_entity_id": "BJ_PARKS_2026_0541",
+    "entity_type": "spot",
+    "full_name": "青年林公园",
+    "blind_name": "**林*园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区香山南路东头路北，射击场东侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=31",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 31,
+    "source_row": 541,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0542",
+    "source_entity_id": "BJ_PARKS_2026_0542",
+    "entity_type": "spot",
+    "full_name": "锦绣公园",
+    "blind_name": "锦绣**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区潭峪路与秀府路丁字路口西南角",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=31",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 31,
+    "source_row": 542,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0543",
+    "source_entity_id": "BJ_PARKS_2026_0543",
+    "entity_type": "spot",
+    "full_name": "晋元纡红园",
+    "blind_name": "*元*红*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区石景山游乐园西门对面",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=31",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 31,
+    "source_row": 543,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0544",
+    "source_entity_id": "BJ_PARKS_2026_0544",
+    "entity_type": "spot",
+    "full_name": "西山枫林社区公园",
+    "blind_name": "西****区**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区八大处路与永引渠北路十字路口东北角",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=31",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 31,
+    "source_row": 544,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0545",
+    "source_entity_id": "BJ_PARKS_2026_0545",
+    "entity_type": "spot",
+    "full_name": "茂华公园",
+    "blind_name": "茂*公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区阜石路南侧的茂华大厦周边",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=31",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 31,
+    "source_row": 545,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0546",
+    "source_entity_id": "BJ_PARKS_2026_0546",
+    "entity_type": "spot",
+    "full_name": "保险产业园区余山微塘园",
+    "blind_name": "********微塘*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区金府路与金王府街十字路口西北角",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=31",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 31,
+    "source_row": 546,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0547",
+    "source_entity_id": "BJ_PARKS_2026_0547",
+    "entity_type": "spot",
+    "full_name": "京西商务中心社区公园",
+    "blind_name": "***务****公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区古城南街路西，古汇路南侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=31",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 31,
+    "source_row": 547,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0548",
+    "source_entity_id": "BJ_PARKS_2026_0548",
+    "entity_type": "spot",
+    "full_name": "衍青园",
+    "blind_name": "衍*园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区鲁谷大街与鲁谷东街交叉口西北角",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=31",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 31,
+    "source_row": 548,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "四级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0549",
+    "source_entity_id": "BJ_PARKS_2026_0549",
+    "entity_type": "spot",
+    "full_name": "融景绿波公园",
+    "blind_name": "融***公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区景阳东街与京原路交汇口两侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=31",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 31,
+    "source_row": 549,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "四级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0550",
+    "source_entity_id": "BJ_PARKS_2026_0550",
+    "entity_type": "spot",
+    "full_name": "黄庄绿地公园",
+    "blind_name": "黄庄****",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区京九高铁线南侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=31",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 31,
+    "source_row": 550,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "四级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0551",
+    "source_entity_id": "BJ_PARKS_2026_0551",
+    "entity_type": "spot",
+    "full_name": "重聚园社区公园",
+    "blind_name": "****区公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区黄庄绿地公园西侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=31",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 31,
+    "source_row": 551,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "四级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0552",
+    "source_entity_id": "BJ_PARKS_2026_0552",
+    "entity_type": "spot",
+    "full_name": "田村山社区公园",
+    "blind_name": "**山***园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区田村山体育中心对面",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=31",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 31,
+    "source_row": 552,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "四级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0553",
+    "source_entity_id": "BJ_PARKS_2026_0553",
+    "entity_type": "spot",
+    "full_name": "八大处公园",
+    "blind_name": "八大***",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区八大处路3号",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "寻古",
+        "type": "strong"
+      },
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "历史爱好者",
+        "type": "weak"
+      },
+      {
+        "name": "怀古",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "历史名园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=31",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 31,
+    "source_row": 553,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "历史名园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0554",
+    "source_entity_id": "BJ_PARKS_2026_0554",
+    "entity_type": "spot",
+    "full_name": "石景山雕塑公园",
+    "blind_name": "****塑*园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区八角南路49号",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "专类公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=31",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 31,
+    "source_row": 554,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "专类公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0555",
+    "source_entity_id": "BJ_PARKS_2026_0555",
+    "entity_type": "spot",
+    "full_name": "石景山游乐园",
+    "blind_name": "**山*乐*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区石景山路25号",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "专类公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=31",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 31,
+    "source_row": 555,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "专类公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0556",
+    "source_entity_id": "BJ_PARKS_2026_0556",
+    "entity_type": "spot",
+    "full_name": "北京国际雕塑公园",
+    "blind_name": "***际**公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区石景山路2号",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "专类公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=32",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 32,
+    "source_row": 556,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "专类公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0557",
+    "source_entity_id": "BJ_PARKS_2026_0557",
+    "entity_type": "spot",
+    "full_name": "松林公园",
+    "blind_name": "*林*园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区石景山路与京原路交叉口西南角",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "专类公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=32",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 32,
+    "source_row": 557,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "专类公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0558",
+    "source_entity_id": "BJ_PARKS_2026_0558",
+    "entity_type": "spot",
+    "full_name": "老山城市休闲公园",
+    "blind_name": "*山*市****",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区上庄大街6号",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "专类公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=32",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 32,
+    "source_row": 558,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "专类公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0559",
+    "source_entity_id": "BJ_PARKS_2026_0559",
+    "entity_type": "spot",
+    "full_name": "复兴花园",
+    "blind_name": "复兴**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区北京首钢国际工程技术有限公司西侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=32",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 32,
+    "source_row": 559,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0560",
+    "source_entity_id": "BJ_PARKS_2026_0560",
+    "entity_type": "spot",
+    "full_name": "郎园",
+    "blind_name": "郎园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区上庄大街路东",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=32",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 32,
+    "source_row": 560,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0561",
+    "source_entity_id": "BJ_PARKS_2026_0561",
+    "entity_type": "spot",
+    "full_name": "阜石路花语公园",
+    "blind_name": "***花语**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区阜石路路南",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=32",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 32,
+    "source_row": 561,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0562",
+    "source_entity_id": "BJ_PARKS_2026_0562",
+    "entity_type": "spot",
+    "full_name": "平坡草树城市森林公园",
+    "blind_name": "******森**园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区苹果园南路天宇市场西侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "森林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=32",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 32,
+    "source_row": 562,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0563",
+    "source_entity_id": "BJ_PARKS_2026_0563",
+    "entity_type": "spot",
+    "full_name": "广宁路小微公园",
+    "blind_name": "***小**园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区高井路与广宁路路口东南公厕旁",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=32",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 32,
+    "source_row": 563,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0564",
+    "source_entity_id": "BJ_PARKS_2026_0564",
+    "entity_type": "spot",
+    "full_name": "云林花谷园",
+    "blind_name": "**花谷*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区园林小区西侧、石景山路北侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=32",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 32,
+    "source_row": 564,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0565",
+    "source_entity_id": "BJ_PARKS_2026_0565",
+    "entity_type": "spot",
+    "full_name": "杨北社区休闲公园",
+    "blind_name": "******公园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区阜石路北侧杨庄东街西侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=32",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 32,
+    "source_row": 565,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0566",
+    "source_entity_id": "BJ_PARKS_2026_0566",
+    "entity_type": "spot",
+    "full_name": "香茗拾景园",
+    "blind_name": "*茗拾**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区体育场南街路东",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=32",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 32,
+    "source_row": 566,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0567",
+    "source_entity_id": "BJ_PARKS_2026_0567",
+    "entity_type": "spot",
+    "full_name": "苹果园公园",
+    "blind_name": "**园*园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区苹果园南路北侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=32",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 32,
+    "source_row": 567,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0568",
+    "source_entity_id": "BJ_PARKS_2026_0568",
+    "entity_type": "spot",
+    "full_name": "永引渠刘娘府公园",
+    "blind_name": "**渠*娘***",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区永引渠北路路北，刘娘府北街路东，金府南路路南",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=32",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 32,
+    "source_row": 568,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0569",
+    "source_entity_id": "BJ_PARKS_2026_0569",
+    "entity_type": "spot",
+    "full_name": "游乐园南绿轴锦绣公园",
+    "blind_name": "***南绿*****",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区石景山游乐园南门南，石景山路路北",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=32",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 32,
+    "source_row": 569,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0570",
+    "source_entity_id": "BJ_PARKS_2026_0570",
+    "entity_type": "spot",
+    "full_name": "永引渠水闸公园",
+    "blind_name": "*引渠****",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区永引渠北路路北，刘娘府北街路西，金府南路路南",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=32",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 32,
+    "source_row": 570,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0571",
+    "source_entity_id": "BJ_PARKS_2026_0571",
+    "entity_type": "spot",
+    "full_name": "永引寻芳公园",
+    "blind_name": "永***公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区实兴北街路东，永引渠北路路北",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=32",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 32,
+    "source_row": 571,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0572",
+    "source_entity_id": "BJ_PARKS_2026_0572",
+    "entity_type": "spot",
+    "full_name": "陆军总部游园",
+    "blind_name": "陆**部**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区石门路联勤部前",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=32",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 32,
+    "source_row": 572,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0573",
+    "source_entity_id": "BJ_PARKS_2026_0573",
+    "entity_type": "spot",
+    "full_name": "永引叠翠公园",
+    "blind_name": "永****园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区永引渠北路路北，实兴北街路西，金府南路路南",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=32",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 32,
+    "source_row": 573,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0574",
+    "source_entity_id": "BJ_PARKS_2026_0574",
+    "entity_type": "spot",
+    "full_name": "八大处小白楼游园",
+    "blind_name": "八***白***",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区八大处路与北京军区南门路口西南角",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=33",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 33,
+    "source_row": 574,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "四级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0575",
+    "source_entity_id": "BJ_PARKS_2026_0575",
+    "entity_type": "spot",
+    "full_name": "落樱绿屿滨河游园",
+    "blind_name": "*****河游*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区燕堤南路路北",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=33",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 33,
+    "source_row": 575,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "四级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0576",
+    "source_entity_id": "BJ_PARKS_2026_0576",
+    "entity_type": "spot",
+    "full_name": "北重北游园",
+    "blind_name": "***游园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区聚兴路西端南侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=33",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 33,
+    "source_row": 576,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "四级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0577",
+    "source_entity_id": "BJ_PARKS_2026_0577",
+    "entity_type": "spot",
+    "full_name": "老年青松健身园",
+    "blind_name": "**青**身*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区景阳东街路东南口",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=33",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 33,
+    "source_row": 577,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "四级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0578",
+    "source_entity_id": "BJ_PARKS_2026_0578",
+    "entity_type": "spot",
+    "full_name": "莲石路游园",
+    "blind_name": "*石路**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区西起五环桥东至鲁谷大街",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=33",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 33,
+    "source_row": 578,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "四级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0579",
+    "source_entity_id": "BJ_PARKS_2026_0579",
+    "entity_type": "spot",
+    "full_name": "莲花池快速路游园",
+    "blind_name": "*花****游*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区西起五环桥东至鲁谷大街",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=33",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 33,
+    "source_row": 579,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "四级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0580",
+    "source_entity_id": "BJ_PARKS_2026_0580",
+    "entity_type": "spot",
+    "full_name": "老山城市休闲公园南区",
+    "blind_name": "********南区",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区石景山路（长安街西延）北侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=33",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 33,
+    "source_row": 580,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0581",
+    "source_entity_id": "BJ_PARKS_2026_0581",
+    "entity_type": "spot",
+    "full_name": "法海寺森林公园",
+    "blind_name": "**寺*林**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区翠微山南麓模式口28号",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "森林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=33",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 33,
+    "source_row": 581,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0582",
+    "source_entity_id": "BJ_PARKS_2026_0582",
+    "entity_type": "spot",
+    "full_name": "安居景园公园",
+    "blind_name": "安居****",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区衙门口新七路和衙府居园东侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=33",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 33,
+    "source_row": 582,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0583",
+    "source_entity_id": "BJ_PARKS_2026_0583",
+    "entity_type": "spot",
+    "full_name": "京门庭芳公园",
+    "blind_name": "**庭*公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区苹果园街道显应寺门前",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=33",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 33,
+    "source_row": 583,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0584",
+    "source_entity_id": "BJ_PARKS_2026_0584",
+    "entity_type": "spot",
+    "full_name": "韵安绿影公园",
+    "blind_name": "*安*影**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区苹果园街道琅山苗圃绿地",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=33",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 33,
+    "source_row": 584,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0585",
+    "source_entity_id": "BJ_PARKS_2026_0585",
+    "entity_type": "spot",
+    "full_name": "丰沙回响公园",
+    "blind_name": "****公园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区机械构件厂北侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=33",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 33,
+    "source_row": 585,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0586",
+    "source_entity_id": "BJ_PARKS_2026_0586",
+    "entity_type": "spot",
+    "full_name": "衙门口城市森林公园",
+    "blind_name": "*门**市****",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区莲石东路衙门口桥区域",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "森林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "专类公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=33",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 33,
+    "source_row": 586,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "专类公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0587",
+    "source_entity_id": "BJ_PARKS_2026_0587",
+    "entity_type": "spot",
+    "full_name": "古城环翠公园",
+    "blind_name": "*城***园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "中海金鑫阁西侧、古城村中街东侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=33",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 33,
+    "source_row": 587,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0588",
+    "source_entity_id": "BJ_PARKS_2026_0588",
+    "entity_type": "spot",
+    "full_name": "麻峪滨河森林公园",
+    "blind_name": "*****林公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区广宁地区，西至永定河，东至永引渠，北至西柳路，南至麻峪村",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "森林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=33",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 33,
+    "source_row": 588,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0589",
+    "source_entity_id": "BJ_PARKS_2026_0589",
+    "entity_type": "spot",
+    "full_name": "炮山城市森林公园",
+    "blind_name": "**城***公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区五里坨地区，东至黑石头北街，西至潭峪路，北至黑石头北街，",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "森林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "专类公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=33",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 33,
+    "source_row": 589,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "专类公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0590",
+    "source_entity_id": "BJ_PARKS_2026_0590",
+    "entity_type": "spot",
+    "full_name": "净德寺遗址公园",
+    "blind_name": "净****公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "南至炮厂小区五里坨街道秀府路净德寺遗址公园",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "遗址公园",
+        "type": "strong"
+      },
+      {
+        "name": "寻古",
+        "type": "strong"
+      },
+      {
+        "name": "历史爱好者",
+        "type": "weak"
+      },
+      {
+        "name": "怀古",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "专类公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=33",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 33,
+    "source_row": 590,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "专类公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0591",
+    "source_entity_id": "BJ_PARKS_2026_0591",
+    "entity_type": "spot",
+    "full_name": "锦绣之丘公园",
+    "blind_name": "锦绣****",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区西长安街街旁，背靠首钢老山社区，与石景山区政府和商业中心",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=33",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 33,
+    "source_row": 591,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0592",
+    "source_entity_id": "BJ_PARKS_2026_0592",
+    "entity_type": "spot",
+    "full_name": "金中阳光森林公园",
+    "blind_name": "**阳**林**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区永引渠北福田寺村55号",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "森林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=34",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 34,
+    "source_row": 592,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0593",
+    "source_entity_id": "BJ_PARKS_2026_0593",
+    "entity_type": "spot",
+    "full_name": "滑轮公园",
+    "blind_name": "滑轮**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "上庄大街东侧，朗园Park北侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "专类公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=34",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 34,
+    "source_row": 593,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "专类公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0594",
+    "source_entity_id": "BJ_PARKS_2026_0594",
+    "entity_type": "spot",
+    "full_name": "八角新乐园",
+    "blind_name": "**新乐*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110107",
+    "area_name": "石景山区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "石景山区阜石路辅路与阜石路出口交叉口南100米",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=石景山区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=34",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 34,
+    "source_row": 594,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  }
+]

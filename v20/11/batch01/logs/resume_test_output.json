@@ -1,0 +1,161 @@
+{
+  "province": "北京市",
+  "scope": "official_park_catalog_only",
+  "city_records": 1136,
+  "county_records": 1132,
+  "county_shards": 16,
+  "unique_spots": 1136,
+  "unique_routes": 0,
+  "cross_tier_merges": 1132,
+  "name_collision_review_groups": 3,
+  "unresolved_districts": 4,
+  "with_coords": 0,
+  "with_ticket_price": 0,
+  "with_image": 0,
+  "with_long_description": 0,
+  "validated_records_including_master": 3404,
+  "validation_errors": [],
+  "county_counts": [
+    {
+      "area_code": "110101",
+      "area_name": "东城区",
+      "path": "data/areas_db/11/110101.json",
+      "count": 75,
+      "target": 1000,
+      "shortfall": 925
+    },
+    {
+      "area_code": "110102",
+      "area_name": "西城区",
+      "path": "data/areas_db/11/110102.json",
+      "count": 95,
+      "target": 1000,
+      "shortfall": 905
+    },
+    {
+      "area_code": "110105",
+      "area_name": "朝阳区",
+      "path": "data/areas_db/11/110105.json",
+      "count": 90,
+      "target": 1000,
+      "shortfall": 910
+    },
+    {
+      "area_code": "110106",
+      "area_name": "丰台区",
+      "path": "data/areas_db/11/110106.json",
+      "count": 121,
+      "target": 1000,
+      "shortfall": 879
+    },
+    {
+      "area_code": "110107",
+      "area_name": "石景山区",
+      "path": "data/areas_db/11/110107.json",
+      "count": 68,
+      "target": 1000,
+      "shortfall": 932
+    },
+    {
+      "area_code": "110108",
+      "area_name": "海淀区",
+      "path": "data/areas_db/11/110108.json",
+      "count": 144,
+      "target": 1000,
+      "shortfall": 856
+    },
+    {
+      "area_code": "110109",
+      "area_name": "门头沟区",
+      "path": "data/areas_db/11/110109.json",
+      "count": 33,
+      "target": 1000,
+      "shortfall": 967
+    },
+    {
+      "area_code": "110111",
+      "area_name": "房山区",
+      "path": "data/areas_db/11/110111.json",
+      "count": 86,
+      "target": 1000,
+      "shortfall": 914
+    },
+    {
+      "area_code": "110112",
+      "area_name": "通州区",
+      "path": "data/areas_db/11/110112.json",
+      "count": 71,
+      "target": 1000,
+      "shortfall": 929
+    },
+    {
+      "area_code": "110113",
+      "area_name": "顺义区",
+      "path": "data/areas_db/11/110113.json",
+      "count": 41,
+      "target": 1000,
+      "shortfall": 959
+    },
+    {
+      "area_code": "110114",
+      "area_name": "昌平区",
+      "path": "data/areas_db/11/110114.json",
+      "count": 52,
+      "target": 1000,
+      "shortfall": 948
+    },
+    {
+      "area_code": "110115",
+      "area_name": "大兴区",
+      "path": "data/areas_db/11/110115.json",
+      "count": 78,
+      "target": 1000,
+      "shortfall": 922
+    },
+    {
+      "area_code": "110116",
+      "area_name": "怀柔区",
+      "path": "data/areas_db/11/110116.json",
+      "count": 62,
+      "target": 1000,
+      "shortfall": 938
+    },
+    {
+      "area_code": "110117",
+      "area_name": "平谷区",
+      "path": "data/areas_db/11/110117.json",
+      "count": 43,
+      "target": 1000,
+      "shortfall": 957
+    },
+    {
+      "area_code": "110118",
+      "area_name": "密云区",
+      "path": "data/areas_db/11/110118.json",
+      "count": 47,
+      "target": 1000,
+      "shortfall": 953
+    },
+    {
+      "area_code": "110119",
+      "area_name": "延庆区",
+      "path": "data/areas_db/11/110119.json",
+      "count": 26,
+      "target": 1000,
+      "shortfall": 974
+    }
+  ],
+  "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf",
+  "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+  "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+  "two_tiers_share_same_primary_source": true,
+  "not_independent_cross_source_corroboration": true,
+  "baidu_google_matrix_executed": false,
+  "limitations": [
+    "Not full tourism inventory",
+    "No routes synthesized without evidence",
+    "OSM SSL probe failed; no bypass or retry",
+    "Coordinates not available in source; kept null",
+    "Tags editorial suggestions, not official endorsement"
+  ]
+}

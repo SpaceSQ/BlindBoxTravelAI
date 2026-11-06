@@ -1,0 +1,38 @@
+{"at": "2026-11-07T00:51:06.814892+08:00", "stage": "start", "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500"}
+{"at": "2026-11-07T00:51:08.453138+08:00", "stage": "extract_complete", "pages": 64, "rows": 1136}
+{"at": "2026-11-07T00:51:08.513899+08:00", "stage": "county_complete", "area_code": "110105", "count": 90}
+{"at": "2026-11-07T00:51:08.520462+08:00", "stage": "county_complete", "area_code": "110101", "count": 75}
+{"at": "2026-11-07T00:51:08.525472+08:00", "stage": "county_complete", "area_code": "110106", "count": 121}
+{"at": "2026-11-07T00:51:08.525566+08:00", "stage": "county_complete", "area_code": "110108", "count": 144}
+{"at": "2026-11-07T00:51:08.530307+08:00", "stage": "county_complete", "area_code": "110107", "count": 68}
+{"at": "2026-11-07T00:51:08.530381+08:00", "stage": "county_complete", "area_code": "110102", "count": 95}
+{"at": "2026-11-07T00:51:08.534428+08:00", "stage": "county_complete", "area_code": "110111", "count": 86}
+{"at": "2026-11-07T00:51:08.534493+08:00", "stage": "county_complete", "area_code": "110112", "count": 71}
+{"at": "2026-11-07T00:51:08.534563+08:00", "stage": "county_complete", "area_code": "110109", "count": 33}
+{"at": "2026-11-07T00:51:08.540837+08:00", "stage": "county_complete", "area_code": "110113", "count": 41}
+{"at": "2026-11-07T00:51:08.542634+08:00", "stage": "county_complete", "area_code": "110114", "count": 52}
+{"at": "2026-11-07T00:51:08.544058+08:00", "stage": "county_complete", "area_code": "110116", "count": 62}
+{"at": "2026-11-07T00:51:08.545370+08:00", "stage": "county_complete", "area_code": "110117", "count": 43}
+{"at": "2026-11-07T00:51:08.545456+08:00", "stage": "county_complete", "area_code": "110118", "count": 47}
+{"at": "2026-11-07T00:51:08.545607+08:00", "stage": "county_complete", "area_code": "110115", "count": 78}
+{"at": "2026-11-07T00:51:08.545654+08:00", "stage": "county_complete", "area_code": "110119", "count": 26}
+{"at": "2026-11-07T00:51:08.611191+08:00", "stage": "validated", "city": 1136, "county": 1132, "unique": 1136, "errors": 0}
+{"at": "2026-11-07T00:51:41.887269+08:00", "stage": "start", "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500"}
+{"at": "2026-11-07T00:51:41.916934+08:00", "stage": "extract_complete", "pages": 64, "rows": 1136}
+{"at": "2026-11-07T00:51:41.990822+08:00", "stage": "county_complete", "area_code": "110102", "count": 95}
+{"at": "2026-11-07T00:51:41.990948+08:00", "stage": "county_complete", "area_code": "110101", "count": 75}
+{"at": "2026-11-07T00:51:41.993394+08:00", "stage": "county_complete", "area_code": "110106", "count": 121}
+{"at": "2026-11-07T00:51:41.997399+08:00", "stage": "county_complete", "area_code": "110107", "count": 68}
+{"at": "2026-11-07T00:51:41.998787+08:00", "stage": "county_complete", "area_code": "110105", "count": 90}
+{"at": "2026-11-07T00:51:42.004766+08:00", "stage": "county_complete", "area_code": "110109", "count": 33}
+{"at": "2026-11-07T00:51:42.007638+08:00", "stage": "county_complete", "area_code": "110108", "count": 144}
+{"at": "2026-11-07T00:51:42.009526+08:00", "stage": "county_complete", "area_code": "110111", "count": 86}
+{"at": "2026-11-07T00:51:42.011736+08:00", "stage": "county_complete", "area_code": "110112", "count": 71}
+{"at": "2026-11-07T00:51:42.011989+08:00", "stage": "county_complete", "area_code": "110113", "count": 41}
+{"at": "2026-11-07T00:51:42.013980+08:00", "stage": "county_complete", "area_code": "110114", "count": 52}
+{"at": "2026-11-07T00:51:42.015459+08:00", "stage": "county_complete", "area_code": "110115", "count": 78}
+{"at": "2026-11-07T00:51:42.018951+08:00", "stage": "county_complete", "area_code": "110116", "count": 62}
+{"at": "2026-11-07T00:51:42.019725+08:00", "stage": "county_complete", "area_code": "110118", "count": 47}
+{"at": "2026-11-07T00:51:42.019846+08:00", "stage": "county_complete", "area_code": "110119", "count": 26}
+{"at": "2026-11-07T00:51:42.020848+08:00", "stage": "county_complete", "area_code": "110117", "count": 43}
+{"at": "2026-11-07T00:51:42.103944+08:00", "stage": "validated", "city": 1136, "county": 1132, "unique": 1136, "errors": 0}

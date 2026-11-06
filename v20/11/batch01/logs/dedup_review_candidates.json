@@ -1,0 +1,26 @@
+[
+  {
+    "name": "长城公园",
+    "source_entity_ids": [
+      "BJ_PARKS_2026_0613",
+      "BJ_PARKS_2026_1100"
+    ],
+    "action": "retain_pending_review"
+  },
+  {
+    "name": "阳光公园",
+    "source_entity_ids": [
+      "BJ_PARKS_2026_0623",
+      "BJ_PARKS_2026_1086"
+    ],
+    "action": "retain_pending_review"
+  },
+  {
+    "name": "时光公园",
+    "source_entity_ids": [
+      "BJ_PARKS_2026_0658",
+      "BJ_PARKS_2026_1070"
+    ],
+    "action": "retain_pending_review"
+  }
+]

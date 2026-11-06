@@ -1,0 +1,6476 @@
+[
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0825",
+    "source_entity_id": "BJ_PARKS_2026_0825",
+    "entity_type": "spot",
+    "full_name": "翡翠公园",
+    "blind_name": "*翠*园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区双高路163号",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "综合公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=46",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 46,
+    "source_row": 825,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "综合公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0826",
+    "source_entity_id": "BJ_PARKS_2026_0826",
+    "entity_type": "spot",
+    "full_name": "念坛公园",
+    "blind_name": "念*公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区黄村镇新源大街",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "综合公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=47",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 47,
+    "source_row": 826,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "综合公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0827",
+    "source_entity_id": "BJ_PARKS_2026_0827",
+    "entity_type": "spot",
+    "full_name": "清源公园",
+    "blind_name": "清**园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区黄村镇清源西路南侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "综合公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=47",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 47,
+    "source_row": 827,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "综合公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0828",
+    "source_entity_id": "BJ_PARKS_2026_0828",
+    "entity_type": "spot",
+    "full_name": "永兴河湿地公园",
+    "blind_name": "**河***园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区生物医药基地",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "湿地",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "综合公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=47",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 47,
+    "source_row": 828,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "综合公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0829",
+    "source_entity_id": "BJ_PARKS_2026_0829",
+    "entity_type": "spot",
+    "full_name": "康庄公园",
+    "blind_name": "康庄**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区康庄路2号",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "综合公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=47",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 47,
+    "source_row": 829,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "综合公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0830",
+    "source_entity_id": "BJ_PARKS_2026_0830",
+    "entity_type": "spot",
+    "full_name": "金星公园",
+    "blind_name": "金**园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区滨河街",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "综合公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=47",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 47,
+    "source_row": 830,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "综合公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0831",
+    "source_entity_id": "BJ_PARKS_2026_0831",
+    "entity_type": "spot",
+    "full_name": "高米店公园",
+    "blind_name": "*米店**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区辅高路与金星路路口",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "综合公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=47",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 47,
+    "source_row": 831,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "综合公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0832",
+    "source_entity_id": "BJ_PARKS_2026_0832",
+    "entity_type": "spot",
+    "full_name": "滨河运动公园",
+    "blind_name": "滨*运***",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区兴业大街和双高路交叉口",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "综合公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=47",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 47,
+    "source_row": 832,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "综合公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0833",
+    "source_entity_id": "BJ_PARKS_2026_0833",
+    "entity_type": "spot",
+    "full_name": "黄村公园",
+    "blind_name": "黄**园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区黄村镇兴丰北大街3号",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "综合公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=47",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 47,
+    "source_row": 833,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "综合公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0834",
+    "source_entity_id": "BJ_PARKS_2026_0834",
+    "entity_type": "spot",
+    "full_name": "兴旺公园",
+    "blind_name": "兴**园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区兴旺路",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "综合公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=47",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 47,
+    "source_row": 834,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "综合公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0835",
+    "source_entity_id": "BJ_PARKS_2026_0835",
+    "entity_type": "spot",
+    "full_name": "兴华公园",
+    "blind_name": "兴华**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区西红门欣宁街北口",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "综合公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=47",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 47,
+    "source_row": 835,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "综合公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0836",
+    "source_entity_id": "BJ_PARKS_2026_0836",
+    "entity_type": "spot",
+    "full_name": "狼垡公园",
+    "blind_name": "狼**园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区芦花路与狼垡东路交叉路口往北约100米",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "综合公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=47",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 47,
+    "source_row": 836,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "综合公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0837",
+    "source_entity_id": "BJ_PARKS_2026_0837",
+    "entity_type": "spot",
+    "full_name": "九龙口公园",
+    "blind_name": "九*口**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区西红门京开高速西侧大兴--丰台交界南",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=47",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 47,
+    "source_row": 837,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0838",
+    "source_entity_id": "BJ_PARKS_2026_0838",
+    "entity_type": "spot",
+    "full_name": "街心公园",
+    "blind_name": "街*公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区兴丰大街中段197号",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=47",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 47,
+    "source_row": 838,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0839",
+    "source_entity_id": "BJ_PARKS_2026_0839",
+    "entity_type": "spot",
+    "full_name": "枣林公园",
+    "blind_name": "**公园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区黄村镇兴丰北大街",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=47",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 47,
+    "source_row": 839,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0840",
+    "source_entity_id": "BJ_PARKS_2026_0840",
+    "entity_type": "spot",
+    "full_name": "梧桐公园",
+    "blind_name": "梧*公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区东渠路北侧，天成花园东路东侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=47",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 47,
+    "source_row": 840,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0841",
+    "source_entity_id": "BJ_PARKS_2026_0841",
+    "entity_type": "spot",
+    "full_name": "金融街南园",
+    "blind_name": "*融*南*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区生物医药基地新源大街金融街小区南侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=47",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 47,
+    "source_row": 841,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0842",
+    "source_entity_id": "BJ_PARKS_2026_0842",
+    "entity_type": "spot",
+    "full_name": "国际港休闲园",
+    "blind_name": "***休闲*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区兴华大街与康庄路路口西南角",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=48",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 48,
+    "source_row": 842,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0843",
+    "source_entity_id": "BJ_PARKS_2026_0843",
+    "entity_type": "spot",
+    "full_name": "龙河路休闲园",
+    "blind_name": "**路*闲*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区龙河路与黄村大街东北角",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=48",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 48,
+    "source_row": 843,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0844",
+    "source_entity_id": "BJ_PARKS_2026_0844",
+    "entity_type": "spot",
+    "full_name": "三合庄休闲园",
+    "blind_name": "三合****",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区兴旺路与三合路路口",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=48",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 48,
+    "source_row": 844,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0845",
+    "source_entity_id": "BJ_PARKS_2026_0845",
+    "entity_type": "spot",
+    "full_name": "首邑溪谷休闲园",
+    "blind_name": "首*溪****",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区兴旺路与金星路路口东南角",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=48",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 48,
+    "source_row": 845,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0846",
+    "source_entity_id": "BJ_PARKS_2026_0846",
+    "entity_type": "spot",
+    "full_name": "德寿寺公园",
+    "blind_name": "德寿***",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区旧宫镇德寿寺西街东侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=48",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 48,
+    "source_row": 846,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0847",
+    "source_entity_id": "BJ_PARKS_2026_0847",
+    "entity_type": "spot",
+    "full_name": "亦庄公园",
+    "blind_name": "**公园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区三台山路与亦庄桥交叉路口往西南约210米",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=48",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 48,
+    "source_row": 847,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0848",
+    "source_entity_id": "BJ_PARKS_2026_0848",
+    "entity_type": "spot",
+    "full_name": "兴海公园（大兴）",
+    "blind_name": "***园*大**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区西红门镇星海家园星苑对面",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=48",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 48,
+    "source_row": 848,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0849",
+    "source_entity_id": "BJ_PARKS_2026_0849",
+    "entity_type": "spot",
+    "full_name": "新三余公园",
+    "blind_name": "**余公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区金西路与五环交叉口西北侧，新三余村东口",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=48",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 48,
+    "source_row": 849,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0850",
+    "source_entity_id": "BJ_PARKS_2026_0850",
+    "entity_type": "spot",
+    "full_name": "兴海休闲公园",
+    "blind_name": "*海**公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区瀛海镇京福路西侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=48",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 48,
+    "source_row": 850,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0851",
+    "source_entity_id": "BJ_PARKS_2026_0851",
+    "entity_type": "spot",
+    "full_name": "地铁文化公园",
+    "blind_name": "**文化**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区西红门镇欣宁街与宏康路交叉口",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "专类公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=48",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 48,
+    "source_row": 851,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "专类公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0852",
+    "source_entity_id": "BJ_PARKS_2026_0852",
+    "entity_type": "spot",
+    "full_name": "团河遗址公园",
+    "blind_name": "*河**公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区西红门镇团河行宫遗址公园",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "遗址公园",
+        "type": "strong"
+      },
+      {
+        "name": "寻古",
+        "type": "strong"
+      },
+      {
+        "name": "历史爱好者",
+        "type": "weak"
+      },
+      {
+        "name": "怀古",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "专类公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=48",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 48,
+    "source_row": 852,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "专类公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0853",
+    "source_entity_id": "BJ_PARKS_2026_0853",
+    "entity_type": "spot",
+    "full_name": "世界月季主题园",
+    "blind_name": "世*****园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区魏北路28号",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "专类公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=48",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 48,
+    "source_row": 853,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "专类公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0854",
+    "source_entity_id": "BJ_PARKS_2026_0854",
+    "entity_type": "spot",
+    "full_name": "北京野生动物园",
+    "blind_name": "北****物*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区榆垡镇万亩林",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "专类公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=48",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 48,
+    "source_row": 854,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "专类公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0855",
+    "source_entity_id": "BJ_PARKS_2026_0855",
+    "entity_type": "spot",
+    "full_name": "孙村公园",
+    "blind_name": "*村*园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区南中轴路",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "专类公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=48",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 48,
+    "source_row": 855,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "专类公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0856",
+    "source_entity_id": "BJ_PARKS_2026_0856",
+    "entity_type": "spot",
+    "full_name": "旺兴湖郊野公园（一期）",
+    "blind_name": "旺*******一**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区旧宫镇",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "专类公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=48",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 48,
+    "source_row": 856,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "专类公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0857",
+    "source_entity_id": "BJ_PARKS_2026_0857",
+    "entity_type": "spot",
+    "full_name": "旺兴湖郊野公园（二期）",
+    "blind_name": "*兴******二**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区旧宫镇",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "专类公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=48",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 48,
+    "source_row": 857,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "专类公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0858",
+    "source_entity_id": "BJ_PARKS_2026_0858",
+    "entity_type": "spot",
+    "full_name": "旧宫城市森林公园",
+    "blind_name": "旧****林**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区旧宫镇集贤村",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "森林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "专类公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=48",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 48,
+    "source_row": 858,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "专类公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0859",
+    "source_entity_id": "BJ_PARKS_2026_0859",
+    "entity_type": "spot",
+    "full_name": "亦新郊野公园",
+    "blind_name": "亦新****",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区大羊坊桥五环上口北侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "专类公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=48",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 48,
+    "source_row": 859,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "专类公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0860",
+    "source_entity_id": "BJ_PARKS_2026_0860",
+    "entity_type": "spot",
+    "full_name": "大兴区新城体育公园",
+    "blind_name": "*****体**园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区兴华大街2段15号新城体育中心西侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "专类公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=49",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 49,
+    "source_row": 860,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "专类公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0861",
+    "source_entity_id": "BJ_PARKS_2026_0861",
+    "entity_type": "spot",
+    "full_name": "物美绿地广场",
+    "blind_name": "**绿**场",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区兴丰大街与黄村大街路口东南侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=49",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 49,
+    "source_row": 861,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0862",
+    "source_entity_id": "BJ_PARKS_2026_0862",
+    "entity_type": "spot",
+    "full_name": "三合小游园",
+    "blind_name": "三***园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区兴旺路三合庄小区西侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=49",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 49,
+    "source_row": 862,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0863",
+    "source_entity_id": "BJ_PARKS_2026_0863",
+    "entity_type": "spot",
+    "full_name": "市场东巷游园",
+    "blind_name": "市场****",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区京开路工商局东侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=49",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 49,
+    "source_row": 863,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0864",
+    "source_entity_id": "BJ_PARKS_2026_0864",
+    "entity_type": "spot",
+    "full_name": "大兴桥游园",
+    "blind_name": "大兴***",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区京开路与林校北路路口西南角",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=49",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 49,
+    "source_row": 864,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0865",
+    "source_entity_id": "BJ_PARKS_2026_0865",
+    "entity_type": "spot",
+    "full_name": "宇丰苑游园",
+    "blind_name": "*丰苑**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区京开路大兴桥东南角",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=49",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 49,
+    "source_row": 865,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0866",
+    "source_entity_id": "BJ_PARKS_2026_0866",
+    "entity_type": "spot",
+    "full_name": "兴丰街小乐园",
+    "blind_name": "*丰*小**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区兴丰大街与林校北路东北角",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=49",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 49,
+    "source_row": 866,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0867",
+    "source_entity_id": "BJ_PARKS_2026_0867",
+    "entity_type": "spot",
+    "full_name": "保利春天里游园",
+    "blind_name": "**春***园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区生物医药基地新源大街保利春天里小区西侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=49",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 49,
+    "source_row": 867,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0868",
+    "source_entity_id": "BJ_PARKS_2026_0868",
+    "entity_type": "spot",
+    "full_name": "保利茉莉游园",
+    "blind_name": "保*茉***",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区兴华大街（北兴路—香园路）西侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=49",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 49,
+    "source_row": 868,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0869",
+    "source_entity_id": "BJ_PARKS_2026_0869",
+    "entity_type": "spot",
+    "full_name": "金融街西游园",
+    "blind_name": "金*街***",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区生物医药基地新源大街金融街小区西侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=49",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 49,
+    "source_row": 869,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0870",
+    "source_entity_id": "BJ_PARKS_2026_0870",
+    "entity_type": "spot",
+    "full_name": "云立方西游园",
+    "blind_name": "云****园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区生物医药基地天水大街云立方小区西侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=49",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 49,
+    "source_row": 870,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0871",
+    "source_entity_id": "BJ_PARKS_2026_0871",
+    "entity_type": "spot",
+    "full_name": "云立方东游园",
+    "blind_name": "***东游*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区生物医药基地新源大街云立方小区东侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=49",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 49,
+    "source_row": 871,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0872",
+    "source_entity_id": "BJ_PARKS_2026_0872",
+    "entity_type": "spot",
+    "full_name": "天宫院地铁C口游园",
+    "blind_name": "***地**口**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区生物医药基地新源大街天宫院地铁C口",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=49",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 49,
+    "source_row": 872,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0873",
+    "source_entity_id": "BJ_PARKS_2026_0873",
+    "entity_type": "spot",
+    "full_name": "天宫院地铁B口游园",
+    "blind_name": "***地**口**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区生物医药基地新源大街天宫院地铁B口",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=49",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 49,
+    "source_row": 873,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0874",
+    "source_entity_id": "BJ_PARKS_2026_0874",
+    "entity_type": "spot",
+    "full_name": "天宫院地铁D口游园",
+    "blind_name": "****铁**游*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区生物医药基地新源大街天宫院地铁D口",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=49",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 49,
+    "source_row": 874,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0875",
+    "source_entity_id": "BJ_PARKS_2026_0875",
+    "entity_type": "spot",
+    "full_name": "大庄小区南侧游园",
+    "blind_name": "***区**游*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区生物医药基地永大路大庄小区南侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=49",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 49,
+    "source_row": 875,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0876",
+    "source_entity_id": "BJ_PARKS_2026_0876",
+    "entity_type": "spot",
+    "full_name": "康乃馨小游园",
+    "blind_name": "康***游*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区成庄南巷康乃馨小区东侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=49",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 49,
+    "source_row": 876,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0877",
+    "source_entity_id": "BJ_PARKS_2026_0877",
+    "entity_type": "spot",
+    "full_name": "熙悦春天游园",
+    "blind_name": "*悦春***",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区通武线保利首开熙悦春天小区南侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=49",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 49,
+    "source_row": 877,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0878",
+    "source_entity_id": "BJ_PARKS_2026_0878",
+    "entity_type": "spot",
+    "full_name": "石化西游园",
+    "blind_name": "**西游*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区兴业路与丽园路交叉口东南角",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=50",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 50,
+    "source_row": 878,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0879",
+    "source_entity_id": "BJ_PARKS_2026_0879",
+    "entity_type": "spot",
+    "full_name": "滨河坊游园",
+    "blind_name": "*河**园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区龙河路滨河坊小区东北角",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=50",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 50,
+    "source_row": 879,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0880",
+    "source_entity_id": "BJ_PARKS_2026_0880",
+    "entity_type": "spot",
+    "full_name": "清源路1号小微绿地",
+    "blind_name": "**路*****地",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区清源路（兴丰大街-兴华路）路北",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=50",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 50,
+    "source_row": 880,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0881",
+    "source_entity_id": "BJ_PARKS_2026_0881",
+    "entity_type": "spot",
+    "full_name": "清源佳园东游园",
+    "blind_name": "**佳园***",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区双河北里二巷清源佳园小区东侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=50",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 50,
+    "source_row": 881,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0882",
+    "source_entity_id": "BJ_PARKS_2026_0882",
+    "entity_type": "spot",
+    "full_name": "海户新村小游园",
+    "blind_name": "海*新****",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区双河北里东街海户新村",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=50",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 50,
+    "source_row": 882,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0883",
+    "source_entity_id": "BJ_PARKS_2026_0883",
+    "entity_type": "spot",
+    "full_name": "尚城小区游园",
+    "blind_name": "**小*游*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区观音寺东街双河南里尚城小区东侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=50",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 50,
+    "source_row": 883,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0884",
+    "source_entity_id": "BJ_PARKS_2026_0884",
+    "entity_type": "spot",
+    "full_name": "八小游园",
+    "blind_name": "*小*园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区红楼西巷八小西侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=50",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 50,
+    "source_row": 884,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0885",
+    "source_entity_id": "BJ_PARKS_2026_0885",
+    "entity_type": "spot",
+    "full_name": "高米店北站广场游园",
+    "blind_name": "****站*场**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区香园路高米店北站西北出口西侧广场",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=50",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 50,
+    "source_row": 885,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0886",
+    "source_entity_id": "BJ_PARKS_2026_0886",
+    "entity_type": "spot",
+    "full_name": "高米店南站广场游园",
+    "blind_name": "*****广**园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区金星西路高米店南站东南出口东侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=50",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 50,
+    "source_row": 886,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0887",
+    "source_entity_id": "BJ_PARKS_2026_0887",
+    "entity_type": "spot",
+    "full_name": "采育文化广场",
+    "blind_name": "采*文***",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区采育镇采华路与采辛路交叉口东南",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=50",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 50,
+    "source_row": 887,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0888",
+    "source_entity_id": "BJ_PARKS_2026_0888",
+    "entity_type": "spot",
+    "full_name": "樱花公园",
+    "blind_name": "*花*园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区文化园东路1号",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "游园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=50",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 50,
+    "source_row": 888,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "游园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0889",
+    "source_entity_id": "BJ_PARKS_2026_0889",
+    "entity_type": "spot",
+    "full_name": "西红门生态休闲公园",
+    "blind_name": "***生态****",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区京开高速双星桥东西两侧北兴路北",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=50",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 50,
+    "source_row": 889,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0890",
+    "source_entity_id": "BJ_PARKS_2026_0890",
+    "entity_type": "spot",
+    "full_name": "狼垡城市森林公园",
+    "blind_name": "******公园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区芦求路与京良路交叉口两侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "森林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=50",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 50,
+    "source_row": 890,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0891",
+    "source_entity_id": "BJ_PARKS_2026_0891",
+    "entity_type": "spot",
+    "full_name": "北臧村郊野公园",
+    "blind_name": "**村***园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区北臧村镇西大营村西",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=50",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 50,
+    "source_row": 891,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0892",
+    "source_entity_id": "BJ_PARKS_2026_0892",
+    "entity_type": "spot",
+    "full_name": "安定绿馨公园",
+    "blind_name": "安*绿***",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区安定镇加油站东",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=50",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 50,
+    "source_row": 892,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0893",
+    "source_entity_id": "BJ_PARKS_2026_0893",
+    "entity_type": "spot",
+    "full_name": "半壁店森林公园",
+    "blind_name": "半*****园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区黄村南10公里半壁店地区",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "森林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=50",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 50,
+    "source_row": 893,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0894",
+    "source_entity_id": "BJ_PARKS_2026_0894",
+    "entity_type": "spot",
+    "full_name": "东西芦垡村头公园",
+    "blind_name": "****村**园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区南中轴路",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=50",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 50,
+    "source_row": 894,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "四级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0895",
+    "source_entity_id": "BJ_PARKS_2026_0895",
+    "entity_type": "spot",
+    "full_name": "东沙窝村头公园",
+    "blind_name": "东***头**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区魏善庄镇中轴路与庞安路交叉口东北角",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=51",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 51,
+    "source_row": 895,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "四级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0896",
+    "source_entity_id": "BJ_PARKS_2026_0896",
+    "entity_type": "spot",
+    "full_name": "安定御林古桑园",
+    "blind_name": "安***古**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区安采路",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=51",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 51,
+    "source_row": 896,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0897",
+    "source_entity_id": "BJ_PARKS_2026_0897",
+    "entity_type": "spot",
+    "full_name": "大兴杨各庄湿地公园",
+    "blind_name": "大**各*****",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区青云店镇杨各庄村东",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "湿地",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=51",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 51,
+    "source_row": 897,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "四级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0898",
+    "source_entity_id": "BJ_PARKS_2026_0898",
+    "entity_type": "spot",
+    "full_name": "上泽公园",
+    "blind_name": "上**园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区黄村镇丽园路30号院康乃馨城小区3号楼底商正北方向100米",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "社区公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=51",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 51,
+    "source_row": 898,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "社区公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0899",
+    "source_entity_id": "BJ_PARKS_2026_0899",
+    "entity_type": "spot",
+    "full_name": "西王庄公园",
+    "blind_name": "*王*公*",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区北臧村镇西王庄村村东100米",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "生态公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=51",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 51,
+    "source_row": 899,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "生态公园",
+    "official_park_grade": "三级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0900",
+    "source_entity_id": "BJ_PARKS_2026_0900",
+    "entity_type": "spot",
+    "full_name": "庑殿生态休闲公园",
+    "blind_name": "庑**态****",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区旧宫镇庑殿路及通久路两侧",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "专类公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=51",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 51,
+    "source_row": 900,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "专类公园",
+    "official_park_grade": "二级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_0901",
+    "source_entity_id": "BJ_PARKS_2026_0901",
+    "entity_type": "spot",
+    "full_name": "永定公园",
+    "blind_name": "**公园",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "directory_district_column",
+    "township_name": null,
+    "address": "大兴区永华路31号",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "综合公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=51",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 51,
+    "source_row": 901,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "综合公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  },
+  {
+    "raw_id": "AREA_BJ_PARKS_2026_1132",
+    "source_entity_id": "BJ_PARKS_2026_1132",
+    "entity_type": "spot",
+    "full_name": "南海子公园",
+    "blind_name": "南*子**",
+    "province_code": "11",
+    "province_name": "北京市",
+    "city_code": "1101",
+    "city_name": "北京市",
+    "area_code": "110115",
+    "area_name": "大兴区",
+    "area_assignment_basis": "address_explicit_prefix",
+    "township_name": null,
+    "address": "大兴区瀛海镇黄亦路16号",
+    "matched_search_keyword": "公园",
+    "matched_search_keywords": [
+      "公园"
+    ],
+    "search_tier": "county_level",
+    "query": "北京市公园名录（2026年度） PDF; 所属区=大兴区;市属/经开区按地址显式区名前缀匹配",
+    "query_type": "official_directory_filter",
+    "location": {
+      "lat": null,
+      "lng": null,
+      "coord_source": null,
+      "coordinate_status": "not_in_source"
+    },
+    "tags": [
+      {
+        "name": "园林",
+        "type": "strong"
+      },
+      {
+        "name": "感受自然",
+        "type": "strong"
+      },
+      {
+        "name": "慢生活",
+        "type": "weak"
+      },
+      {
+        "name": "体验派",
+        "type": "weak"
+      }
+    ],
+    "tagging_status": "editorial_rules_pending_review",
+    "tagging_basis": {
+      "official_park_type": "综合公园",
+      "rule_inputs": [
+        "official_park_type",
+        "full_name"
+      ]
+    },
+    "summary_100w": null,
+    "description": null,
+    "adult_ticket_price": null,
+    "image_url": null,
+    "source_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/P020261020575226021358.pdf#page=64",
+    "source_landing_url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202610/t20261020_4911597.shtml",
+    "source_page": 64,
+    "source_row": 1132,
+    "source_sha256": "967f6bfbfb48abe769a5e79c88bc2302915cf57d21a05878d77df687a417d500",
+    "retrieved_at": "2026-11-07T00:49:50.188818+08:00",
+    "source_channels": [
+      "Official_Site"
+    ],
+    "official_park_type": "综合公园",
+    "official_park_grade": "一级",
+    "verification_status": "catalog_indexed_pending_enrich",
+    "pending_enrich": [
+      "coordinates",
+      "ticket_price",
+      "image",
+      "description",
+      "tag_review",
+      "access_and_safety"
+    ],
+    "evolution_stats": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
+  }
+]

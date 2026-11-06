@@ -1,0 +1,5662 @@
+[
+  {
+    "master_id": "SP_BJ_PARKS_2026_0002",
+    "incoming_id": "AREA_BJ_PARKS_2026_0002",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0004",
+    "incoming_id": "AREA_BJ_PARKS_2026_0004",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0015",
+    "incoming_id": "AREA_BJ_PARKS_2026_0015",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0016",
+    "incoming_id": "AREA_BJ_PARKS_2026_0016",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0017",
+    "incoming_id": "AREA_BJ_PARKS_2026_0017",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0018",
+    "incoming_id": "AREA_BJ_PARKS_2026_0018",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0019",
+    "incoming_id": "AREA_BJ_PARKS_2026_0019",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0020",
+    "incoming_id": "AREA_BJ_PARKS_2026_0020",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0021",
+    "incoming_id": "AREA_BJ_PARKS_2026_0021",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0022",
+    "incoming_id": "AREA_BJ_PARKS_2026_0022",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0023",
+    "incoming_id": "AREA_BJ_PARKS_2026_0023",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0024",
+    "incoming_id": "AREA_BJ_PARKS_2026_0024",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0025",
+    "incoming_id": "AREA_BJ_PARKS_2026_0025",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0026",
+    "incoming_id": "AREA_BJ_PARKS_2026_0026",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0027",
+    "incoming_id": "AREA_BJ_PARKS_2026_0027",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0028",
+    "incoming_id": "AREA_BJ_PARKS_2026_0028",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0029",
+    "incoming_id": "AREA_BJ_PARKS_2026_0029",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0030",
+    "incoming_id": "AREA_BJ_PARKS_2026_0030",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0031",
+    "incoming_id": "AREA_BJ_PARKS_2026_0031",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0032",
+    "incoming_id": "AREA_BJ_PARKS_2026_0032",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0033",
+    "incoming_id": "AREA_BJ_PARKS_2026_0033",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0034",
+    "incoming_id": "AREA_BJ_PARKS_2026_0034",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0035",
+    "incoming_id": "AREA_BJ_PARKS_2026_0035",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0036",
+    "incoming_id": "AREA_BJ_PARKS_2026_0036",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0037",
+    "incoming_id": "AREA_BJ_PARKS_2026_0037",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0038",
+    "incoming_id": "AREA_BJ_PARKS_2026_0038",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0039",
+    "incoming_id": "AREA_BJ_PARKS_2026_0039",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0040",
+    "incoming_id": "AREA_BJ_PARKS_2026_0040",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0041",
+    "incoming_id": "AREA_BJ_PARKS_2026_0041",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0042",
+    "incoming_id": "AREA_BJ_PARKS_2026_0042",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0043",
+    "incoming_id": "AREA_BJ_PARKS_2026_0043",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0044",
+    "incoming_id": "AREA_BJ_PARKS_2026_0044",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0045",
+    "incoming_id": "AREA_BJ_PARKS_2026_0045",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0046",
+    "incoming_id": "AREA_BJ_PARKS_2026_0046",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0047",
+    "incoming_id": "AREA_BJ_PARKS_2026_0047",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0048",
+    "incoming_id": "AREA_BJ_PARKS_2026_0048",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0049",
+    "incoming_id": "AREA_BJ_PARKS_2026_0049",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0050",
+    "incoming_id": "AREA_BJ_PARKS_2026_0050",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0051",
+    "incoming_id": "AREA_BJ_PARKS_2026_0051",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0052",
+    "incoming_id": "AREA_BJ_PARKS_2026_0052",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0053",
+    "incoming_id": "AREA_BJ_PARKS_2026_0053",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0054",
+    "incoming_id": "AREA_BJ_PARKS_2026_0054",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0055",
+    "incoming_id": "AREA_BJ_PARKS_2026_0055",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0056",
+    "incoming_id": "AREA_BJ_PARKS_2026_0056",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0057",
+    "incoming_id": "AREA_BJ_PARKS_2026_0057",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0058",
+    "incoming_id": "AREA_BJ_PARKS_2026_0058",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0059",
+    "incoming_id": "AREA_BJ_PARKS_2026_0059",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0060",
+    "incoming_id": "AREA_BJ_PARKS_2026_0060",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0061",
+    "incoming_id": "AREA_BJ_PARKS_2026_0061",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0062",
+    "incoming_id": "AREA_BJ_PARKS_2026_0062",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0063",
+    "incoming_id": "AREA_BJ_PARKS_2026_0063",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0064",
+    "incoming_id": "AREA_BJ_PARKS_2026_0064",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0065",
+    "incoming_id": "AREA_BJ_PARKS_2026_0065",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0066",
+    "incoming_id": "AREA_BJ_PARKS_2026_0066",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0067",
+    "incoming_id": "AREA_BJ_PARKS_2026_0067",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0068",
+    "incoming_id": "AREA_BJ_PARKS_2026_0068",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0069",
+    "incoming_id": "AREA_BJ_PARKS_2026_0069",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0070",
+    "incoming_id": "AREA_BJ_PARKS_2026_0070",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0071",
+    "incoming_id": "AREA_BJ_PARKS_2026_0071",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0072",
+    "incoming_id": "AREA_BJ_PARKS_2026_0072",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0073",
+    "incoming_id": "AREA_BJ_PARKS_2026_0073",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0074",
+    "incoming_id": "AREA_BJ_PARKS_2026_0074",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0075",
+    "incoming_id": "AREA_BJ_PARKS_2026_0075",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0076",
+    "incoming_id": "AREA_BJ_PARKS_2026_0076",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0077",
+    "incoming_id": "AREA_BJ_PARKS_2026_0077",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0078",
+    "incoming_id": "AREA_BJ_PARKS_2026_0078",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0079",
+    "incoming_id": "AREA_BJ_PARKS_2026_0079",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0080",
+    "incoming_id": "AREA_BJ_PARKS_2026_0080",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0081",
+    "incoming_id": "AREA_BJ_PARKS_2026_0081",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0082",
+    "incoming_id": "AREA_BJ_PARKS_2026_0082",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0083",
+    "incoming_id": "AREA_BJ_PARKS_2026_0083",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0084",
+    "incoming_id": "AREA_BJ_PARKS_2026_0084",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0085",
+    "incoming_id": "AREA_BJ_PARKS_2026_0085",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0086",
+    "incoming_id": "AREA_BJ_PARKS_2026_0086",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0087",
+    "incoming_id": "AREA_BJ_PARKS_2026_0087",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0003",
+    "incoming_id": "AREA_BJ_PARKS_2026_0003",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0006",
+    "incoming_id": "AREA_BJ_PARKS_2026_0006",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0008",
+    "incoming_id": "AREA_BJ_PARKS_2026_0008",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0009",
+    "incoming_id": "AREA_BJ_PARKS_2026_0009",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0088",
+    "incoming_id": "AREA_BJ_PARKS_2026_0088",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0089",
+    "incoming_id": "AREA_BJ_PARKS_2026_0089",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0090",
+    "incoming_id": "AREA_BJ_PARKS_2026_0090",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0091",
+    "incoming_id": "AREA_BJ_PARKS_2026_0091",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0092",
+    "incoming_id": "AREA_BJ_PARKS_2026_0092",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0093",
+    "incoming_id": "AREA_BJ_PARKS_2026_0093",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0094",
+    "incoming_id": "AREA_BJ_PARKS_2026_0094",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0095",
+    "incoming_id": "AREA_BJ_PARKS_2026_0095",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0096",
+    "incoming_id": "AREA_BJ_PARKS_2026_0096",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0097",
+    "incoming_id": "AREA_BJ_PARKS_2026_0097",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0098",
+    "incoming_id": "AREA_BJ_PARKS_2026_0098",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0099",
+    "incoming_id": "AREA_BJ_PARKS_2026_0099",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0100",
+    "incoming_id": "AREA_BJ_PARKS_2026_0100",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0101",
+    "incoming_id": "AREA_BJ_PARKS_2026_0101",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0102",
+    "incoming_id": "AREA_BJ_PARKS_2026_0102",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0103",
+    "incoming_id": "AREA_BJ_PARKS_2026_0103",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0104",
+    "incoming_id": "AREA_BJ_PARKS_2026_0104",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0105",
+    "incoming_id": "AREA_BJ_PARKS_2026_0105",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0106",
+    "incoming_id": "AREA_BJ_PARKS_2026_0106",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0107",
+    "incoming_id": "AREA_BJ_PARKS_2026_0107",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0108",
+    "incoming_id": "AREA_BJ_PARKS_2026_0108",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0109",
+    "incoming_id": "AREA_BJ_PARKS_2026_0109",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0110",
+    "incoming_id": "AREA_BJ_PARKS_2026_0110",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0111",
+    "incoming_id": "AREA_BJ_PARKS_2026_0111",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0112",
+    "incoming_id": "AREA_BJ_PARKS_2026_0112",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0113",
+    "incoming_id": "AREA_BJ_PARKS_2026_0113",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0114",
+    "incoming_id": "AREA_BJ_PARKS_2026_0114",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0115",
+    "incoming_id": "AREA_BJ_PARKS_2026_0115",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0116",
+    "incoming_id": "AREA_BJ_PARKS_2026_0116",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0117",
+    "incoming_id": "AREA_BJ_PARKS_2026_0117",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0118",
+    "incoming_id": "AREA_BJ_PARKS_2026_0118",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0119",
+    "incoming_id": "AREA_BJ_PARKS_2026_0119",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0120",
+    "incoming_id": "AREA_BJ_PARKS_2026_0120",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0121",
+    "incoming_id": "AREA_BJ_PARKS_2026_0121",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0122",
+    "incoming_id": "AREA_BJ_PARKS_2026_0122",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0123",
+    "incoming_id": "AREA_BJ_PARKS_2026_0123",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0124",
+    "incoming_id": "AREA_BJ_PARKS_2026_0124",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0125",
+    "incoming_id": "AREA_BJ_PARKS_2026_0125",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0126",
+    "incoming_id": "AREA_BJ_PARKS_2026_0126",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0127",
+    "incoming_id": "AREA_BJ_PARKS_2026_0127",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0128",
+    "incoming_id": "AREA_BJ_PARKS_2026_0128",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0129",
+    "incoming_id": "AREA_BJ_PARKS_2026_0129",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0130",
+    "incoming_id": "AREA_BJ_PARKS_2026_0130",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0131",
+    "incoming_id": "AREA_BJ_PARKS_2026_0131",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0132",
+    "incoming_id": "AREA_BJ_PARKS_2026_0132",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0133",
+    "incoming_id": "AREA_BJ_PARKS_2026_0133",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0134",
+    "incoming_id": "AREA_BJ_PARKS_2026_0134",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0135",
+    "incoming_id": "AREA_BJ_PARKS_2026_0135",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0136",
+    "incoming_id": "AREA_BJ_PARKS_2026_0136",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0137",
+    "incoming_id": "AREA_BJ_PARKS_2026_0137",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0138",
+    "incoming_id": "AREA_BJ_PARKS_2026_0138",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0139",
+    "incoming_id": "AREA_BJ_PARKS_2026_0139",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0140",
+    "incoming_id": "AREA_BJ_PARKS_2026_0140",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0141",
+    "incoming_id": "AREA_BJ_PARKS_2026_0141",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0142",
+    "incoming_id": "AREA_BJ_PARKS_2026_0142",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0143",
+    "incoming_id": "AREA_BJ_PARKS_2026_0143",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0144",
+    "incoming_id": "AREA_BJ_PARKS_2026_0144",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0145",
+    "incoming_id": "AREA_BJ_PARKS_2026_0145",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0146",
+    "incoming_id": "AREA_BJ_PARKS_2026_0146",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0147",
+    "incoming_id": "AREA_BJ_PARKS_2026_0147",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0148",
+    "incoming_id": "AREA_BJ_PARKS_2026_0148",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0149",
+    "incoming_id": "AREA_BJ_PARKS_2026_0149",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0150",
+    "incoming_id": "AREA_BJ_PARKS_2026_0150",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0151",
+    "incoming_id": "AREA_BJ_PARKS_2026_0151",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0152",
+    "incoming_id": "AREA_BJ_PARKS_2026_0152",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0153",
+    "incoming_id": "AREA_BJ_PARKS_2026_0153",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0154",
+    "incoming_id": "AREA_BJ_PARKS_2026_0154",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0155",
+    "incoming_id": "AREA_BJ_PARKS_2026_0155",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0156",
+    "incoming_id": "AREA_BJ_PARKS_2026_0156",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0157",
+    "incoming_id": "AREA_BJ_PARKS_2026_0157",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0158",
+    "incoming_id": "AREA_BJ_PARKS_2026_0158",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0159",
+    "incoming_id": "AREA_BJ_PARKS_2026_0159",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0160",
+    "incoming_id": "AREA_BJ_PARKS_2026_0160",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0161",
+    "incoming_id": "AREA_BJ_PARKS_2026_0161",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0162",
+    "incoming_id": "AREA_BJ_PARKS_2026_0162",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0163",
+    "incoming_id": "AREA_BJ_PARKS_2026_0163",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0164",
+    "incoming_id": "AREA_BJ_PARKS_2026_0164",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0165",
+    "incoming_id": "AREA_BJ_PARKS_2026_0165",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0166",
+    "incoming_id": "AREA_BJ_PARKS_2026_0166",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0167",
+    "incoming_id": "AREA_BJ_PARKS_2026_0167",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0168",
+    "incoming_id": "AREA_BJ_PARKS_2026_0168",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0169",
+    "incoming_id": "AREA_BJ_PARKS_2026_0169",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0170",
+    "incoming_id": "AREA_BJ_PARKS_2026_0170",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0171",
+    "incoming_id": "AREA_BJ_PARKS_2026_0171",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0172",
+    "incoming_id": "AREA_BJ_PARKS_2026_0172",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0173",
+    "incoming_id": "AREA_BJ_PARKS_2026_0173",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0174",
+    "incoming_id": "AREA_BJ_PARKS_2026_0174",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0175",
+    "incoming_id": "AREA_BJ_PARKS_2026_0175",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0176",
+    "incoming_id": "AREA_BJ_PARKS_2026_0176",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0177",
+    "incoming_id": "AREA_BJ_PARKS_2026_0177",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0178",
+    "incoming_id": "AREA_BJ_PARKS_2026_0178",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0179",
+    "incoming_id": "AREA_BJ_PARKS_2026_0179",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0180",
+    "incoming_id": "AREA_BJ_PARKS_2026_0180",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0181",
+    "incoming_id": "AREA_BJ_PARKS_2026_0181",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0182",
+    "incoming_id": "AREA_BJ_PARKS_2026_0182",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0183",
+    "incoming_id": "AREA_BJ_PARKS_2026_0183",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0184",
+    "incoming_id": "AREA_BJ_PARKS_2026_0184",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0185",
+    "incoming_id": "AREA_BJ_PARKS_2026_0185",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0186",
+    "incoming_id": "AREA_BJ_PARKS_2026_0186",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0187",
+    "incoming_id": "AREA_BJ_PARKS_2026_0187",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0188",
+    "incoming_id": "AREA_BJ_PARKS_2026_0188",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0189",
+    "incoming_id": "AREA_BJ_PARKS_2026_0189",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0190",
+    "incoming_id": "AREA_BJ_PARKS_2026_0190",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0191",
+    "incoming_id": "AREA_BJ_PARKS_2026_0191",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0192",
+    "incoming_id": "AREA_BJ_PARKS_2026_0192",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0193",
+    "incoming_id": "AREA_BJ_PARKS_2026_0193",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0194",
+    "incoming_id": "AREA_BJ_PARKS_2026_0194",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0195",
+    "incoming_id": "AREA_BJ_PARKS_2026_0195",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0196",
+    "incoming_id": "AREA_BJ_PARKS_2026_0196",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0197",
+    "incoming_id": "AREA_BJ_PARKS_2026_0197",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0198",
+    "incoming_id": "AREA_BJ_PARKS_2026_0198",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0199",
+    "incoming_id": "AREA_BJ_PARKS_2026_0199",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0200",
+    "incoming_id": "AREA_BJ_PARKS_2026_0200",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0201",
+    "incoming_id": "AREA_BJ_PARKS_2026_0201",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0202",
+    "incoming_id": "AREA_BJ_PARKS_2026_0202",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0203",
+    "incoming_id": "AREA_BJ_PARKS_2026_0203",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0204",
+    "incoming_id": "AREA_BJ_PARKS_2026_0204",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0205",
+    "incoming_id": "AREA_BJ_PARKS_2026_0205",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0206",
+    "incoming_id": "AREA_BJ_PARKS_2026_0206",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0207",
+    "incoming_id": "AREA_BJ_PARKS_2026_0207",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0208",
+    "incoming_id": "AREA_BJ_PARKS_2026_0208",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0209",
+    "incoming_id": "AREA_BJ_PARKS_2026_0209",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0210",
+    "incoming_id": "AREA_BJ_PARKS_2026_0210",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0211",
+    "incoming_id": "AREA_BJ_PARKS_2026_0211",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0212",
+    "incoming_id": "AREA_BJ_PARKS_2026_0212",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0213",
+    "incoming_id": "AREA_BJ_PARKS_2026_0213",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0214",
+    "incoming_id": "AREA_BJ_PARKS_2026_0214",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0215",
+    "incoming_id": "AREA_BJ_PARKS_2026_0215",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0216",
+    "incoming_id": "AREA_BJ_PARKS_2026_0216",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0217",
+    "incoming_id": "AREA_BJ_PARKS_2026_0217",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0218",
+    "incoming_id": "AREA_BJ_PARKS_2026_0218",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0219",
+    "incoming_id": "AREA_BJ_PARKS_2026_0219",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0220",
+    "incoming_id": "AREA_BJ_PARKS_2026_0220",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0221",
+    "incoming_id": "AREA_BJ_PARKS_2026_0221",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0222",
+    "incoming_id": "AREA_BJ_PARKS_2026_0222",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0223",
+    "incoming_id": "AREA_BJ_PARKS_2026_0223",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0224",
+    "incoming_id": "AREA_BJ_PARKS_2026_0224",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0225",
+    "incoming_id": "AREA_BJ_PARKS_2026_0225",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0226",
+    "incoming_id": "AREA_BJ_PARKS_2026_0226",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0227",
+    "incoming_id": "AREA_BJ_PARKS_2026_0227",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0228",
+    "incoming_id": "AREA_BJ_PARKS_2026_0228",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0229",
+    "incoming_id": "AREA_BJ_PARKS_2026_0229",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0230",
+    "incoming_id": "AREA_BJ_PARKS_2026_0230",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0231",
+    "incoming_id": "AREA_BJ_PARKS_2026_0231",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0232",
+    "incoming_id": "AREA_BJ_PARKS_2026_0232",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0233",
+    "incoming_id": "AREA_BJ_PARKS_2026_0233",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0234",
+    "incoming_id": "AREA_BJ_PARKS_2026_0234",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0235",
+    "incoming_id": "AREA_BJ_PARKS_2026_0235",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0236",
+    "incoming_id": "AREA_BJ_PARKS_2026_0236",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0237",
+    "incoming_id": "AREA_BJ_PARKS_2026_0237",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0238",
+    "incoming_id": "AREA_BJ_PARKS_2026_0238",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0239",
+    "incoming_id": "AREA_BJ_PARKS_2026_0239",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0240",
+    "incoming_id": "AREA_BJ_PARKS_2026_0240",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0241",
+    "incoming_id": "AREA_BJ_PARKS_2026_0241",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0242",
+    "incoming_id": "AREA_BJ_PARKS_2026_0242",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0243",
+    "incoming_id": "AREA_BJ_PARKS_2026_0243",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0244",
+    "incoming_id": "AREA_BJ_PARKS_2026_0244",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0245",
+    "incoming_id": "AREA_BJ_PARKS_2026_0245",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0246",
+    "incoming_id": "AREA_BJ_PARKS_2026_0246",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0247",
+    "incoming_id": "AREA_BJ_PARKS_2026_0247",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0248",
+    "incoming_id": "AREA_BJ_PARKS_2026_0248",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0249",
+    "incoming_id": "AREA_BJ_PARKS_2026_0249",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0250",
+    "incoming_id": "AREA_BJ_PARKS_2026_0250",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0251",
+    "incoming_id": "AREA_BJ_PARKS_2026_0251",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0252",
+    "incoming_id": "AREA_BJ_PARKS_2026_0252",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0253",
+    "incoming_id": "AREA_BJ_PARKS_2026_0253",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0254",
+    "incoming_id": "AREA_BJ_PARKS_2026_0254",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0255",
+    "incoming_id": "AREA_BJ_PARKS_2026_0255",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0256",
+    "incoming_id": "AREA_BJ_PARKS_2026_0256",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0257",
+    "incoming_id": "AREA_BJ_PARKS_2026_0257",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0258",
+    "incoming_id": "AREA_BJ_PARKS_2026_0258",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0259",
+    "incoming_id": "AREA_BJ_PARKS_2026_0259",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0260",
+    "incoming_id": "AREA_BJ_PARKS_2026_0260",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0261",
+    "incoming_id": "AREA_BJ_PARKS_2026_0261",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0262",
+    "incoming_id": "AREA_BJ_PARKS_2026_0262",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0263",
+    "incoming_id": "AREA_BJ_PARKS_2026_0263",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0264",
+    "incoming_id": "AREA_BJ_PARKS_2026_0264",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0265",
+    "incoming_id": "AREA_BJ_PARKS_2026_0265",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0266",
+    "incoming_id": "AREA_BJ_PARKS_2026_0266",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0267",
+    "incoming_id": "AREA_BJ_PARKS_2026_0267",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0268",
+    "incoming_id": "AREA_BJ_PARKS_2026_0268",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0407",
+    "incoming_id": "AREA_BJ_PARKS_2026_0407",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0408",
+    "incoming_id": "AREA_BJ_PARKS_2026_0408",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0409",
+    "incoming_id": "AREA_BJ_PARKS_2026_0409",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0410",
+    "incoming_id": "AREA_BJ_PARKS_2026_0410",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0411",
+    "incoming_id": "AREA_BJ_PARKS_2026_0411",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0412",
+    "incoming_id": "AREA_BJ_PARKS_2026_0412",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0413",
+    "incoming_id": "AREA_BJ_PARKS_2026_0413",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0414",
+    "incoming_id": "AREA_BJ_PARKS_2026_0414",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0415",
+    "incoming_id": "AREA_BJ_PARKS_2026_0415",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0416",
+    "incoming_id": "AREA_BJ_PARKS_2026_0416",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0417",
+    "incoming_id": "AREA_BJ_PARKS_2026_0417",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0418",
+    "incoming_id": "AREA_BJ_PARKS_2026_0418",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0419",
+    "incoming_id": "AREA_BJ_PARKS_2026_0419",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0420",
+    "incoming_id": "AREA_BJ_PARKS_2026_0420",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0421",
+    "incoming_id": "AREA_BJ_PARKS_2026_0421",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0422",
+    "incoming_id": "AREA_BJ_PARKS_2026_0422",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0423",
+    "incoming_id": "AREA_BJ_PARKS_2026_0423",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0424",
+    "incoming_id": "AREA_BJ_PARKS_2026_0424",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0425",
+    "incoming_id": "AREA_BJ_PARKS_2026_0425",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0426",
+    "incoming_id": "AREA_BJ_PARKS_2026_0426",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0427",
+    "incoming_id": "AREA_BJ_PARKS_2026_0427",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0428",
+    "incoming_id": "AREA_BJ_PARKS_2026_0428",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0429",
+    "incoming_id": "AREA_BJ_PARKS_2026_0429",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0430",
+    "incoming_id": "AREA_BJ_PARKS_2026_0430",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0431",
+    "incoming_id": "AREA_BJ_PARKS_2026_0431",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0432",
+    "incoming_id": "AREA_BJ_PARKS_2026_0432",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0433",
+    "incoming_id": "AREA_BJ_PARKS_2026_0433",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0434",
+    "incoming_id": "AREA_BJ_PARKS_2026_0434",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0435",
+    "incoming_id": "AREA_BJ_PARKS_2026_0435",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0436",
+    "incoming_id": "AREA_BJ_PARKS_2026_0436",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0437",
+    "incoming_id": "AREA_BJ_PARKS_2026_0437",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0438",
+    "incoming_id": "AREA_BJ_PARKS_2026_0438",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0439",
+    "incoming_id": "AREA_BJ_PARKS_2026_0439",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0440",
+    "incoming_id": "AREA_BJ_PARKS_2026_0440",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0441",
+    "incoming_id": "AREA_BJ_PARKS_2026_0441",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0442",
+    "incoming_id": "AREA_BJ_PARKS_2026_0442",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0443",
+    "incoming_id": "AREA_BJ_PARKS_2026_0443",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0444",
+    "incoming_id": "AREA_BJ_PARKS_2026_0444",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0445",
+    "incoming_id": "AREA_BJ_PARKS_2026_0445",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0446",
+    "incoming_id": "AREA_BJ_PARKS_2026_0446",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0447",
+    "incoming_id": "AREA_BJ_PARKS_2026_0447",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0448",
+    "incoming_id": "AREA_BJ_PARKS_2026_0448",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0449",
+    "incoming_id": "AREA_BJ_PARKS_2026_0449",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0450",
+    "incoming_id": "AREA_BJ_PARKS_2026_0450",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0451",
+    "incoming_id": "AREA_BJ_PARKS_2026_0451",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0452",
+    "incoming_id": "AREA_BJ_PARKS_2026_0452",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0453",
+    "incoming_id": "AREA_BJ_PARKS_2026_0453",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0454",
+    "incoming_id": "AREA_BJ_PARKS_2026_0454",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0455",
+    "incoming_id": "AREA_BJ_PARKS_2026_0455",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0456",
+    "incoming_id": "AREA_BJ_PARKS_2026_0456",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0457",
+    "incoming_id": "AREA_BJ_PARKS_2026_0457",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0458",
+    "incoming_id": "AREA_BJ_PARKS_2026_0458",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0459",
+    "incoming_id": "AREA_BJ_PARKS_2026_0459",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0460",
+    "incoming_id": "AREA_BJ_PARKS_2026_0460",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0461",
+    "incoming_id": "AREA_BJ_PARKS_2026_0461",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0462",
+    "incoming_id": "AREA_BJ_PARKS_2026_0462",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0463",
+    "incoming_id": "AREA_BJ_PARKS_2026_0463",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0464",
+    "incoming_id": "AREA_BJ_PARKS_2026_0464",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0465",
+    "incoming_id": "AREA_BJ_PARKS_2026_0465",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0466",
+    "incoming_id": "AREA_BJ_PARKS_2026_0466",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0467",
+    "incoming_id": "AREA_BJ_PARKS_2026_0467",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0468",
+    "incoming_id": "AREA_BJ_PARKS_2026_0468",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0469",
+    "incoming_id": "AREA_BJ_PARKS_2026_0469",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0470",
+    "incoming_id": "AREA_BJ_PARKS_2026_0470",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0471",
+    "incoming_id": "AREA_BJ_PARKS_2026_0471",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0472",
+    "incoming_id": "AREA_BJ_PARKS_2026_0472",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0473",
+    "incoming_id": "AREA_BJ_PARKS_2026_0473",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0474",
+    "incoming_id": "AREA_BJ_PARKS_2026_0474",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0475",
+    "incoming_id": "AREA_BJ_PARKS_2026_0475",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0476",
+    "incoming_id": "AREA_BJ_PARKS_2026_0476",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0477",
+    "incoming_id": "AREA_BJ_PARKS_2026_0477",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0478",
+    "incoming_id": "AREA_BJ_PARKS_2026_0478",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0479",
+    "incoming_id": "AREA_BJ_PARKS_2026_0479",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0480",
+    "incoming_id": "AREA_BJ_PARKS_2026_0480",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0481",
+    "incoming_id": "AREA_BJ_PARKS_2026_0481",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0482",
+    "incoming_id": "AREA_BJ_PARKS_2026_0482",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0483",
+    "incoming_id": "AREA_BJ_PARKS_2026_0483",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0484",
+    "incoming_id": "AREA_BJ_PARKS_2026_0484",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0485",
+    "incoming_id": "AREA_BJ_PARKS_2026_0485",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0486",
+    "incoming_id": "AREA_BJ_PARKS_2026_0486",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0487",
+    "incoming_id": "AREA_BJ_PARKS_2026_0487",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0488",
+    "incoming_id": "AREA_BJ_PARKS_2026_0488",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0489",
+    "incoming_id": "AREA_BJ_PARKS_2026_0489",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0490",
+    "incoming_id": "AREA_BJ_PARKS_2026_0490",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0491",
+    "incoming_id": "AREA_BJ_PARKS_2026_0491",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0492",
+    "incoming_id": "AREA_BJ_PARKS_2026_0492",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0493",
+    "incoming_id": "AREA_BJ_PARKS_2026_0493",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0494",
+    "incoming_id": "AREA_BJ_PARKS_2026_0494",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0495",
+    "incoming_id": "AREA_BJ_PARKS_2026_0495",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0496",
+    "incoming_id": "AREA_BJ_PARKS_2026_0496",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0497",
+    "incoming_id": "AREA_BJ_PARKS_2026_0497",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0498",
+    "incoming_id": "AREA_BJ_PARKS_2026_0498",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0499",
+    "incoming_id": "AREA_BJ_PARKS_2026_0499",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0500",
+    "incoming_id": "AREA_BJ_PARKS_2026_0500",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0501",
+    "incoming_id": "AREA_BJ_PARKS_2026_0501",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0502",
+    "incoming_id": "AREA_BJ_PARKS_2026_0502",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0503",
+    "incoming_id": "AREA_BJ_PARKS_2026_0503",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0504",
+    "incoming_id": "AREA_BJ_PARKS_2026_0504",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0505",
+    "incoming_id": "AREA_BJ_PARKS_2026_0505",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0506",
+    "incoming_id": "AREA_BJ_PARKS_2026_0506",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0507",
+    "incoming_id": "AREA_BJ_PARKS_2026_0507",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0508",
+    "incoming_id": "AREA_BJ_PARKS_2026_0508",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0509",
+    "incoming_id": "AREA_BJ_PARKS_2026_0509",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0510",
+    "incoming_id": "AREA_BJ_PARKS_2026_0510",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0511",
+    "incoming_id": "AREA_BJ_PARKS_2026_0511",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0512",
+    "incoming_id": "AREA_BJ_PARKS_2026_0512",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0513",
+    "incoming_id": "AREA_BJ_PARKS_2026_0513",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0514",
+    "incoming_id": "AREA_BJ_PARKS_2026_0514",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0515",
+    "incoming_id": "AREA_BJ_PARKS_2026_0515",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0516",
+    "incoming_id": "AREA_BJ_PARKS_2026_0516",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0517",
+    "incoming_id": "AREA_BJ_PARKS_2026_0517",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0518",
+    "incoming_id": "AREA_BJ_PARKS_2026_0518",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0519",
+    "incoming_id": "AREA_BJ_PARKS_2026_0519",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0520",
+    "incoming_id": "AREA_BJ_PARKS_2026_0520",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0521",
+    "incoming_id": "AREA_BJ_PARKS_2026_0521",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0522",
+    "incoming_id": "AREA_BJ_PARKS_2026_0522",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0523",
+    "incoming_id": "AREA_BJ_PARKS_2026_0523",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0524",
+    "incoming_id": "AREA_BJ_PARKS_2026_0524",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0525",
+    "incoming_id": "AREA_BJ_PARKS_2026_0525",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0526",
+    "incoming_id": "AREA_BJ_PARKS_2026_0526",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0527",
+    "incoming_id": "AREA_BJ_PARKS_2026_0527",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0013",
+    "incoming_id": "AREA_BJ_PARKS_2026_0013",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0528",
+    "incoming_id": "AREA_BJ_PARKS_2026_0528",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0529",
+    "incoming_id": "AREA_BJ_PARKS_2026_0529",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0530",
+    "incoming_id": "AREA_BJ_PARKS_2026_0530",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0531",
+    "incoming_id": "AREA_BJ_PARKS_2026_0531",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0532",
+    "incoming_id": "AREA_BJ_PARKS_2026_0532",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0533",
+    "incoming_id": "AREA_BJ_PARKS_2026_0533",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0534",
+    "incoming_id": "AREA_BJ_PARKS_2026_0534",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0535",
+    "incoming_id": "AREA_BJ_PARKS_2026_0535",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0536",
+    "incoming_id": "AREA_BJ_PARKS_2026_0536",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0537",
+    "incoming_id": "AREA_BJ_PARKS_2026_0537",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0538",
+    "incoming_id": "AREA_BJ_PARKS_2026_0538",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0539",
+    "incoming_id": "AREA_BJ_PARKS_2026_0539",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0540",
+    "incoming_id": "AREA_BJ_PARKS_2026_0540",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0541",
+    "incoming_id": "AREA_BJ_PARKS_2026_0541",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0542",
+    "incoming_id": "AREA_BJ_PARKS_2026_0542",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0543",
+    "incoming_id": "AREA_BJ_PARKS_2026_0543",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0544",
+    "incoming_id": "AREA_BJ_PARKS_2026_0544",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0545",
+    "incoming_id": "AREA_BJ_PARKS_2026_0545",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0546",
+    "incoming_id": "AREA_BJ_PARKS_2026_0546",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0547",
+    "incoming_id": "AREA_BJ_PARKS_2026_0547",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0548",
+    "incoming_id": "AREA_BJ_PARKS_2026_0548",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0549",
+    "incoming_id": "AREA_BJ_PARKS_2026_0549",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0550",
+    "incoming_id": "AREA_BJ_PARKS_2026_0550",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0551",
+    "incoming_id": "AREA_BJ_PARKS_2026_0551",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0552",
+    "incoming_id": "AREA_BJ_PARKS_2026_0552",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0553",
+    "incoming_id": "AREA_BJ_PARKS_2026_0553",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0554",
+    "incoming_id": "AREA_BJ_PARKS_2026_0554",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0555",
+    "incoming_id": "AREA_BJ_PARKS_2026_0555",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0556",
+    "incoming_id": "AREA_BJ_PARKS_2026_0556",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0557",
+    "incoming_id": "AREA_BJ_PARKS_2026_0557",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0558",
+    "incoming_id": "AREA_BJ_PARKS_2026_0558",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0559",
+    "incoming_id": "AREA_BJ_PARKS_2026_0559",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0560",
+    "incoming_id": "AREA_BJ_PARKS_2026_0560",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0561",
+    "incoming_id": "AREA_BJ_PARKS_2026_0561",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0562",
+    "incoming_id": "AREA_BJ_PARKS_2026_0562",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0563",
+    "incoming_id": "AREA_BJ_PARKS_2026_0563",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0564",
+    "incoming_id": "AREA_BJ_PARKS_2026_0564",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0565",
+    "incoming_id": "AREA_BJ_PARKS_2026_0565",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0566",
+    "incoming_id": "AREA_BJ_PARKS_2026_0566",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0567",
+    "incoming_id": "AREA_BJ_PARKS_2026_0567",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0568",
+    "incoming_id": "AREA_BJ_PARKS_2026_0568",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0569",
+    "incoming_id": "AREA_BJ_PARKS_2026_0569",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0570",
+    "incoming_id": "AREA_BJ_PARKS_2026_0570",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0571",
+    "incoming_id": "AREA_BJ_PARKS_2026_0571",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0572",
+    "incoming_id": "AREA_BJ_PARKS_2026_0572",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0573",
+    "incoming_id": "AREA_BJ_PARKS_2026_0573",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0574",
+    "incoming_id": "AREA_BJ_PARKS_2026_0574",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0575",
+    "incoming_id": "AREA_BJ_PARKS_2026_0575",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0576",
+    "incoming_id": "AREA_BJ_PARKS_2026_0576",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0577",
+    "incoming_id": "AREA_BJ_PARKS_2026_0577",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0578",
+    "incoming_id": "AREA_BJ_PARKS_2026_0578",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0579",
+    "incoming_id": "AREA_BJ_PARKS_2026_0579",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0580",
+    "incoming_id": "AREA_BJ_PARKS_2026_0580",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0581",
+    "incoming_id": "AREA_BJ_PARKS_2026_0581",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0582",
+    "incoming_id": "AREA_BJ_PARKS_2026_0582",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0583",
+    "incoming_id": "AREA_BJ_PARKS_2026_0583",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0584",
+    "incoming_id": "AREA_BJ_PARKS_2026_0584",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0585",
+    "incoming_id": "AREA_BJ_PARKS_2026_0585",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0586",
+    "incoming_id": "AREA_BJ_PARKS_2026_0586",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0587",
+    "incoming_id": "AREA_BJ_PARKS_2026_0587",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0588",
+    "incoming_id": "AREA_BJ_PARKS_2026_0588",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0589",
+    "incoming_id": "AREA_BJ_PARKS_2026_0589",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0590",
+    "incoming_id": "AREA_BJ_PARKS_2026_0590",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0591",
+    "incoming_id": "AREA_BJ_PARKS_2026_0591",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0592",
+    "incoming_id": "AREA_BJ_PARKS_2026_0592",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0593",
+    "incoming_id": "AREA_BJ_PARKS_2026_0593",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0594",
+    "incoming_id": "AREA_BJ_PARKS_2026_0594",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0001",
+    "incoming_id": "AREA_BJ_PARKS_2026_0001",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0005",
+    "incoming_id": "AREA_BJ_PARKS_2026_0005",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0007",
+    "incoming_id": "AREA_BJ_PARKS_2026_0007",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0010",
+    "incoming_id": "AREA_BJ_PARKS_2026_0010",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0011",
+    "incoming_id": "AREA_BJ_PARKS_2026_0011",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0012",
+    "incoming_id": "AREA_BJ_PARKS_2026_0012",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0269",
+    "incoming_id": "AREA_BJ_PARKS_2026_0269",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0270",
+    "incoming_id": "AREA_BJ_PARKS_2026_0270",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0271",
+    "incoming_id": "AREA_BJ_PARKS_2026_0271",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0272",
+    "incoming_id": "AREA_BJ_PARKS_2026_0272",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0273",
+    "incoming_id": "AREA_BJ_PARKS_2026_0273",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0274",
+    "incoming_id": "AREA_BJ_PARKS_2026_0274",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0275",
+    "incoming_id": "AREA_BJ_PARKS_2026_0275",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0276",
+    "incoming_id": "AREA_BJ_PARKS_2026_0276",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0277",
+    "incoming_id": "AREA_BJ_PARKS_2026_0277",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0278",
+    "incoming_id": "AREA_BJ_PARKS_2026_0278",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0279",
+    "incoming_id": "AREA_BJ_PARKS_2026_0279",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0280",
+    "incoming_id": "AREA_BJ_PARKS_2026_0280",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0281",
+    "incoming_id": "AREA_BJ_PARKS_2026_0281",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0282",
+    "incoming_id": "AREA_BJ_PARKS_2026_0282",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0283",
+    "incoming_id": "AREA_BJ_PARKS_2026_0283",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0284",
+    "incoming_id": "AREA_BJ_PARKS_2026_0284",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0285",
+    "incoming_id": "AREA_BJ_PARKS_2026_0285",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0286",
+    "incoming_id": "AREA_BJ_PARKS_2026_0286",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0287",
+    "incoming_id": "AREA_BJ_PARKS_2026_0287",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0288",
+    "incoming_id": "AREA_BJ_PARKS_2026_0288",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0289",
+    "incoming_id": "AREA_BJ_PARKS_2026_0289",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0290",
+    "incoming_id": "AREA_BJ_PARKS_2026_0290",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0291",
+    "incoming_id": "AREA_BJ_PARKS_2026_0291",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0292",
+    "incoming_id": "AREA_BJ_PARKS_2026_0292",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0293",
+    "incoming_id": "AREA_BJ_PARKS_2026_0293",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0294",
+    "incoming_id": "AREA_BJ_PARKS_2026_0294",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0295",
+    "incoming_id": "AREA_BJ_PARKS_2026_0295",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0296",
+    "incoming_id": "AREA_BJ_PARKS_2026_0296",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0297",
+    "incoming_id": "AREA_BJ_PARKS_2026_0297",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0298",
+    "incoming_id": "AREA_BJ_PARKS_2026_0298",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0299",
+    "incoming_id": "AREA_BJ_PARKS_2026_0299",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0300",
+    "incoming_id": "AREA_BJ_PARKS_2026_0300",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0301",
+    "incoming_id": "AREA_BJ_PARKS_2026_0301",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0302",
+    "incoming_id": "AREA_BJ_PARKS_2026_0302",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0303",
+    "incoming_id": "AREA_BJ_PARKS_2026_0303",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0304",
+    "incoming_id": "AREA_BJ_PARKS_2026_0304",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0305",
+    "incoming_id": "AREA_BJ_PARKS_2026_0305",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0306",
+    "incoming_id": "AREA_BJ_PARKS_2026_0306",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0307",
+    "incoming_id": "AREA_BJ_PARKS_2026_0307",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0308",
+    "incoming_id": "AREA_BJ_PARKS_2026_0308",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0309",
+    "incoming_id": "AREA_BJ_PARKS_2026_0309",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0310",
+    "incoming_id": "AREA_BJ_PARKS_2026_0310",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0311",
+    "incoming_id": "AREA_BJ_PARKS_2026_0311",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0312",
+    "incoming_id": "AREA_BJ_PARKS_2026_0312",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0313",
+    "incoming_id": "AREA_BJ_PARKS_2026_0313",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0314",
+    "incoming_id": "AREA_BJ_PARKS_2026_0314",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0315",
+    "incoming_id": "AREA_BJ_PARKS_2026_0315",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0316",
+    "incoming_id": "AREA_BJ_PARKS_2026_0316",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0317",
+    "incoming_id": "AREA_BJ_PARKS_2026_0317",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0318",
+    "incoming_id": "AREA_BJ_PARKS_2026_0318",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0319",
+    "incoming_id": "AREA_BJ_PARKS_2026_0319",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0320",
+    "incoming_id": "AREA_BJ_PARKS_2026_0320",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0321",
+    "incoming_id": "AREA_BJ_PARKS_2026_0321",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0322",
+    "incoming_id": "AREA_BJ_PARKS_2026_0322",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0323",
+    "incoming_id": "AREA_BJ_PARKS_2026_0323",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0324",
+    "incoming_id": "AREA_BJ_PARKS_2026_0324",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0325",
+    "incoming_id": "AREA_BJ_PARKS_2026_0325",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0326",
+    "incoming_id": "AREA_BJ_PARKS_2026_0326",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0327",
+    "incoming_id": "AREA_BJ_PARKS_2026_0327",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0328",
+    "incoming_id": "AREA_BJ_PARKS_2026_0328",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0329",
+    "incoming_id": "AREA_BJ_PARKS_2026_0329",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0330",
+    "incoming_id": "AREA_BJ_PARKS_2026_0330",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0331",
+    "incoming_id": "AREA_BJ_PARKS_2026_0331",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0332",
+    "incoming_id": "AREA_BJ_PARKS_2026_0332",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0333",
+    "incoming_id": "AREA_BJ_PARKS_2026_0333",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0334",
+    "incoming_id": "AREA_BJ_PARKS_2026_0334",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0335",
+    "incoming_id": "AREA_BJ_PARKS_2026_0335",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0336",
+    "incoming_id": "AREA_BJ_PARKS_2026_0336",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0337",
+    "incoming_id": "AREA_BJ_PARKS_2026_0337",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0338",
+    "incoming_id": "AREA_BJ_PARKS_2026_0338",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0339",
+    "incoming_id": "AREA_BJ_PARKS_2026_0339",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0340",
+    "incoming_id": "AREA_BJ_PARKS_2026_0340",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0341",
+    "incoming_id": "AREA_BJ_PARKS_2026_0341",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0342",
+    "incoming_id": "AREA_BJ_PARKS_2026_0342",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0343",
+    "incoming_id": "AREA_BJ_PARKS_2026_0343",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0344",
+    "incoming_id": "AREA_BJ_PARKS_2026_0344",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0345",
+    "incoming_id": "AREA_BJ_PARKS_2026_0345",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0346",
+    "incoming_id": "AREA_BJ_PARKS_2026_0346",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0347",
+    "incoming_id": "AREA_BJ_PARKS_2026_0347",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0348",
+    "incoming_id": "AREA_BJ_PARKS_2026_0348",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0349",
+    "incoming_id": "AREA_BJ_PARKS_2026_0349",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0350",
+    "incoming_id": "AREA_BJ_PARKS_2026_0350",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0351",
+    "incoming_id": "AREA_BJ_PARKS_2026_0351",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0352",
+    "incoming_id": "AREA_BJ_PARKS_2026_0352",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0353",
+    "incoming_id": "AREA_BJ_PARKS_2026_0353",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0354",
+    "incoming_id": "AREA_BJ_PARKS_2026_0354",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0355",
+    "incoming_id": "AREA_BJ_PARKS_2026_0355",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0356",
+    "incoming_id": "AREA_BJ_PARKS_2026_0356",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0357",
+    "incoming_id": "AREA_BJ_PARKS_2026_0357",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0358",
+    "incoming_id": "AREA_BJ_PARKS_2026_0358",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0359",
+    "incoming_id": "AREA_BJ_PARKS_2026_0359",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0360",
+    "incoming_id": "AREA_BJ_PARKS_2026_0360",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0361",
+    "incoming_id": "AREA_BJ_PARKS_2026_0361",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0362",
+    "incoming_id": "AREA_BJ_PARKS_2026_0362",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0363",
+    "incoming_id": "AREA_BJ_PARKS_2026_0363",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0364",
+    "incoming_id": "AREA_BJ_PARKS_2026_0364",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0365",
+    "incoming_id": "AREA_BJ_PARKS_2026_0365",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0366",
+    "incoming_id": "AREA_BJ_PARKS_2026_0366",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0367",
+    "incoming_id": "AREA_BJ_PARKS_2026_0367",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0368",
+    "incoming_id": "AREA_BJ_PARKS_2026_0368",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0369",
+    "incoming_id": "AREA_BJ_PARKS_2026_0369",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0370",
+    "incoming_id": "AREA_BJ_PARKS_2026_0370",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0371",
+    "incoming_id": "AREA_BJ_PARKS_2026_0371",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0372",
+    "incoming_id": "AREA_BJ_PARKS_2026_0372",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0373",
+    "incoming_id": "AREA_BJ_PARKS_2026_0373",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0374",
+    "incoming_id": "AREA_BJ_PARKS_2026_0374",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0375",
+    "incoming_id": "AREA_BJ_PARKS_2026_0375",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0376",
+    "incoming_id": "AREA_BJ_PARKS_2026_0376",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0377",
+    "incoming_id": "AREA_BJ_PARKS_2026_0377",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0378",
+    "incoming_id": "AREA_BJ_PARKS_2026_0378",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0379",
+    "incoming_id": "AREA_BJ_PARKS_2026_0379",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0380",
+    "incoming_id": "AREA_BJ_PARKS_2026_0380",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0381",
+    "incoming_id": "AREA_BJ_PARKS_2026_0381",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0382",
+    "incoming_id": "AREA_BJ_PARKS_2026_0382",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0383",
+    "incoming_id": "AREA_BJ_PARKS_2026_0383",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0384",
+    "incoming_id": "AREA_BJ_PARKS_2026_0384",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0385",
+    "incoming_id": "AREA_BJ_PARKS_2026_0385",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0386",
+    "incoming_id": "AREA_BJ_PARKS_2026_0386",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0387",
+    "incoming_id": "AREA_BJ_PARKS_2026_0387",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0388",
+    "incoming_id": "AREA_BJ_PARKS_2026_0388",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0389",
+    "incoming_id": "AREA_BJ_PARKS_2026_0389",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0390",
+    "incoming_id": "AREA_BJ_PARKS_2026_0390",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0391",
+    "incoming_id": "AREA_BJ_PARKS_2026_0391",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0392",
+    "incoming_id": "AREA_BJ_PARKS_2026_0392",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0393",
+    "incoming_id": "AREA_BJ_PARKS_2026_0393",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0394",
+    "incoming_id": "AREA_BJ_PARKS_2026_0394",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0395",
+    "incoming_id": "AREA_BJ_PARKS_2026_0395",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0396",
+    "incoming_id": "AREA_BJ_PARKS_2026_0396",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0397",
+    "incoming_id": "AREA_BJ_PARKS_2026_0397",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0398",
+    "incoming_id": "AREA_BJ_PARKS_2026_0398",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0399",
+    "incoming_id": "AREA_BJ_PARKS_2026_0399",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0400",
+    "incoming_id": "AREA_BJ_PARKS_2026_0400",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0401",
+    "incoming_id": "AREA_BJ_PARKS_2026_0401",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0402",
+    "incoming_id": "AREA_BJ_PARKS_2026_0402",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0403",
+    "incoming_id": "AREA_BJ_PARKS_2026_0403",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0404",
+    "incoming_id": "AREA_BJ_PARKS_2026_0404",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0405",
+    "incoming_id": "AREA_BJ_PARKS_2026_0405",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0406",
+    "incoming_id": "AREA_BJ_PARKS_2026_0406",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0595",
+    "incoming_id": "AREA_BJ_PARKS_2026_0595",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0596",
+    "incoming_id": "AREA_BJ_PARKS_2026_0596",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0597",
+    "incoming_id": "AREA_BJ_PARKS_2026_0597",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0598",
+    "incoming_id": "AREA_BJ_PARKS_2026_0598",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0599",
+    "incoming_id": "AREA_BJ_PARKS_2026_0599",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0600",
+    "incoming_id": "AREA_BJ_PARKS_2026_0600",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0601",
+    "incoming_id": "AREA_BJ_PARKS_2026_0601",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0602",
+    "incoming_id": "AREA_BJ_PARKS_2026_0602",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0603",
+    "incoming_id": "AREA_BJ_PARKS_2026_0603",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0604",
+    "incoming_id": "AREA_BJ_PARKS_2026_0604",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0605",
+    "incoming_id": "AREA_BJ_PARKS_2026_0605",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0606",
+    "incoming_id": "AREA_BJ_PARKS_2026_0606",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0607",
+    "incoming_id": "AREA_BJ_PARKS_2026_0607",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0608",
+    "incoming_id": "AREA_BJ_PARKS_2026_0608",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0609",
+    "incoming_id": "AREA_BJ_PARKS_2026_0609",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0610",
+    "incoming_id": "AREA_BJ_PARKS_2026_0610",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0611",
+    "incoming_id": "AREA_BJ_PARKS_2026_0611",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0612",
+    "incoming_id": "AREA_BJ_PARKS_2026_0612",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0613",
+    "incoming_id": "AREA_BJ_PARKS_2026_0613",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0614",
+    "incoming_id": "AREA_BJ_PARKS_2026_0614",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0615",
+    "incoming_id": "AREA_BJ_PARKS_2026_0615",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0616",
+    "incoming_id": "AREA_BJ_PARKS_2026_0616",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0617",
+    "incoming_id": "AREA_BJ_PARKS_2026_0617",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0618",
+    "incoming_id": "AREA_BJ_PARKS_2026_0618",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0619",
+    "incoming_id": "AREA_BJ_PARKS_2026_0619",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0620",
+    "incoming_id": "AREA_BJ_PARKS_2026_0620",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0621",
+    "incoming_id": "AREA_BJ_PARKS_2026_0621",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0622",
+    "incoming_id": "AREA_BJ_PARKS_2026_0622",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0623",
+    "incoming_id": "AREA_BJ_PARKS_2026_0623",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0624",
+    "incoming_id": "AREA_BJ_PARKS_2026_0624",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0625",
+    "incoming_id": "AREA_BJ_PARKS_2026_0625",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0626",
+    "incoming_id": "AREA_BJ_PARKS_2026_0626",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0627",
+    "incoming_id": "AREA_BJ_PARKS_2026_0627",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0628",
+    "incoming_id": "AREA_BJ_PARKS_2026_0628",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0629",
+    "incoming_id": "AREA_BJ_PARKS_2026_0629",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0630",
+    "incoming_id": "AREA_BJ_PARKS_2026_0630",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0631",
+    "incoming_id": "AREA_BJ_PARKS_2026_0631",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0632",
+    "incoming_id": "AREA_BJ_PARKS_2026_0632",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0633",
+    "incoming_id": "AREA_BJ_PARKS_2026_0633",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0634",
+    "incoming_id": "AREA_BJ_PARKS_2026_0634",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0635",
+    "incoming_id": "AREA_BJ_PARKS_2026_0635",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0636",
+    "incoming_id": "AREA_BJ_PARKS_2026_0636",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0637",
+    "incoming_id": "AREA_BJ_PARKS_2026_0637",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0638",
+    "incoming_id": "AREA_BJ_PARKS_2026_0638",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0639",
+    "incoming_id": "AREA_BJ_PARKS_2026_0639",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0640",
+    "incoming_id": "AREA_BJ_PARKS_2026_0640",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0641",
+    "incoming_id": "AREA_BJ_PARKS_2026_0641",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0642",
+    "incoming_id": "AREA_BJ_PARKS_2026_0642",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0643",
+    "incoming_id": "AREA_BJ_PARKS_2026_0643",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0644",
+    "incoming_id": "AREA_BJ_PARKS_2026_0644",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0645",
+    "incoming_id": "AREA_BJ_PARKS_2026_0645",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0646",
+    "incoming_id": "AREA_BJ_PARKS_2026_0646",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0647",
+    "incoming_id": "AREA_BJ_PARKS_2026_0647",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0648",
+    "incoming_id": "AREA_BJ_PARKS_2026_0648",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0649",
+    "incoming_id": "AREA_BJ_PARKS_2026_0649",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0650",
+    "incoming_id": "AREA_BJ_PARKS_2026_0650",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0651",
+    "incoming_id": "AREA_BJ_PARKS_2026_0651",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0652",
+    "incoming_id": "AREA_BJ_PARKS_2026_0652",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0653",
+    "incoming_id": "AREA_BJ_PARKS_2026_0653",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0654",
+    "incoming_id": "AREA_BJ_PARKS_2026_0654",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0655",
+    "incoming_id": "AREA_BJ_PARKS_2026_0655",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0656",
+    "incoming_id": "AREA_BJ_PARKS_2026_0656",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0657",
+    "incoming_id": "AREA_BJ_PARKS_2026_0657",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0658",
+    "incoming_id": "AREA_BJ_PARKS_2026_0658",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0659",
+    "incoming_id": "AREA_BJ_PARKS_2026_0659",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0660",
+    "incoming_id": "AREA_BJ_PARKS_2026_0660",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0661",
+    "incoming_id": "AREA_BJ_PARKS_2026_0661",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0662",
+    "incoming_id": "AREA_BJ_PARKS_2026_0662",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0663",
+    "incoming_id": "AREA_BJ_PARKS_2026_0663",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0664",
+    "incoming_id": "AREA_BJ_PARKS_2026_0664",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0665",
+    "incoming_id": "AREA_BJ_PARKS_2026_0665",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0666",
+    "incoming_id": "AREA_BJ_PARKS_2026_0666",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0667",
+    "incoming_id": "AREA_BJ_PARKS_2026_0667",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0668",
+    "incoming_id": "AREA_BJ_PARKS_2026_0668",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0669",
+    "incoming_id": "AREA_BJ_PARKS_2026_0669",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0670",
+    "incoming_id": "AREA_BJ_PARKS_2026_0670",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0671",
+    "incoming_id": "AREA_BJ_PARKS_2026_0671",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0672",
+    "incoming_id": "AREA_BJ_PARKS_2026_0672",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0673",
+    "incoming_id": "AREA_BJ_PARKS_2026_0673",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0674",
+    "incoming_id": "AREA_BJ_PARKS_2026_0674",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0675",
+    "incoming_id": "AREA_BJ_PARKS_2026_0675",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0676",
+    "incoming_id": "AREA_BJ_PARKS_2026_0676",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0677",
+    "incoming_id": "AREA_BJ_PARKS_2026_0677",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0678",
+    "incoming_id": "AREA_BJ_PARKS_2026_0678",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0679",
+    "incoming_id": "AREA_BJ_PARKS_2026_0679",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0680",
+    "incoming_id": "AREA_BJ_PARKS_2026_0680",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0681",
+    "incoming_id": "AREA_BJ_PARKS_2026_0681",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0682",
+    "incoming_id": "AREA_BJ_PARKS_2026_0682",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0683",
+    "incoming_id": "AREA_BJ_PARKS_2026_0683",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0684",
+    "incoming_id": "AREA_BJ_PARKS_2026_0684",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0685",
+    "incoming_id": "AREA_BJ_PARKS_2026_0685",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0686",
+    "incoming_id": "AREA_BJ_PARKS_2026_0686",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0687",
+    "incoming_id": "AREA_BJ_PARKS_2026_0687",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0688",
+    "incoming_id": "AREA_BJ_PARKS_2026_0688",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0689",
+    "incoming_id": "AREA_BJ_PARKS_2026_0689",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0690",
+    "incoming_id": "AREA_BJ_PARKS_2026_0690",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0691",
+    "incoming_id": "AREA_BJ_PARKS_2026_0691",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0692",
+    "incoming_id": "AREA_BJ_PARKS_2026_0692",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0693",
+    "incoming_id": "AREA_BJ_PARKS_2026_0693",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0694",
+    "incoming_id": "AREA_BJ_PARKS_2026_0694",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0695",
+    "incoming_id": "AREA_BJ_PARKS_2026_0695",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0696",
+    "incoming_id": "AREA_BJ_PARKS_2026_0696",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0697",
+    "incoming_id": "AREA_BJ_PARKS_2026_0697",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0698",
+    "incoming_id": "AREA_BJ_PARKS_2026_0698",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0699",
+    "incoming_id": "AREA_BJ_PARKS_2026_0699",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0700",
+    "incoming_id": "AREA_BJ_PARKS_2026_0700",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0701",
+    "incoming_id": "AREA_BJ_PARKS_2026_0701",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0702",
+    "incoming_id": "AREA_BJ_PARKS_2026_0702",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0703",
+    "incoming_id": "AREA_BJ_PARKS_2026_0703",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0704",
+    "incoming_id": "AREA_BJ_PARKS_2026_0704",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0705",
+    "incoming_id": "AREA_BJ_PARKS_2026_0705",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0706",
+    "incoming_id": "AREA_BJ_PARKS_2026_0706",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0707",
+    "incoming_id": "AREA_BJ_PARKS_2026_0707",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0708",
+    "incoming_id": "AREA_BJ_PARKS_2026_0708",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0709",
+    "incoming_id": "AREA_BJ_PARKS_2026_0709",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0710",
+    "incoming_id": "AREA_BJ_PARKS_2026_0710",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0711",
+    "incoming_id": "AREA_BJ_PARKS_2026_0711",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0712",
+    "incoming_id": "AREA_BJ_PARKS_2026_0712",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0713",
+    "incoming_id": "AREA_BJ_PARKS_2026_0713",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0014",
+    "incoming_id": "AREA_BJ_PARKS_2026_0014",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0714",
+    "incoming_id": "AREA_BJ_PARKS_2026_0714",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0715",
+    "incoming_id": "AREA_BJ_PARKS_2026_0715",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0716",
+    "incoming_id": "AREA_BJ_PARKS_2026_0716",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0717",
+    "incoming_id": "AREA_BJ_PARKS_2026_0717",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0718",
+    "incoming_id": "AREA_BJ_PARKS_2026_0718",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0719",
+    "incoming_id": "AREA_BJ_PARKS_2026_0719",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0720",
+    "incoming_id": "AREA_BJ_PARKS_2026_0720",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0721",
+    "incoming_id": "AREA_BJ_PARKS_2026_0721",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0722",
+    "incoming_id": "AREA_BJ_PARKS_2026_0722",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0723",
+    "incoming_id": "AREA_BJ_PARKS_2026_0723",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0724",
+    "incoming_id": "AREA_BJ_PARKS_2026_0724",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0725",
+    "incoming_id": "AREA_BJ_PARKS_2026_0725",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0726",
+    "incoming_id": "AREA_BJ_PARKS_2026_0726",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0727",
+    "incoming_id": "AREA_BJ_PARKS_2026_0727",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0728",
+    "incoming_id": "AREA_BJ_PARKS_2026_0728",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0729",
+    "incoming_id": "AREA_BJ_PARKS_2026_0729",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0730",
+    "incoming_id": "AREA_BJ_PARKS_2026_0730",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0731",
+    "incoming_id": "AREA_BJ_PARKS_2026_0731",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0732",
+    "incoming_id": "AREA_BJ_PARKS_2026_0732",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0733",
+    "incoming_id": "AREA_BJ_PARKS_2026_0733",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0734",
+    "incoming_id": "AREA_BJ_PARKS_2026_0734",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0735",
+    "incoming_id": "AREA_BJ_PARKS_2026_0735",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0736",
+    "incoming_id": "AREA_BJ_PARKS_2026_0736",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0737",
+    "incoming_id": "AREA_BJ_PARKS_2026_0737",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0738",
+    "incoming_id": "AREA_BJ_PARKS_2026_0738",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0739",
+    "incoming_id": "AREA_BJ_PARKS_2026_0739",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0740",
+    "incoming_id": "AREA_BJ_PARKS_2026_0740",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0741",
+    "incoming_id": "AREA_BJ_PARKS_2026_0741",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0742",
+    "incoming_id": "AREA_BJ_PARKS_2026_0742",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0743",
+    "incoming_id": "AREA_BJ_PARKS_2026_0743",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0744",
+    "incoming_id": "AREA_BJ_PARKS_2026_0744",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0745",
+    "incoming_id": "AREA_BJ_PARKS_2026_0745",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0746",
+    "incoming_id": "AREA_BJ_PARKS_2026_0746",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0747",
+    "incoming_id": "AREA_BJ_PARKS_2026_0747",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0748",
+    "incoming_id": "AREA_BJ_PARKS_2026_0748",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0749",
+    "incoming_id": "AREA_BJ_PARKS_2026_0749",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0750",
+    "incoming_id": "AREA_BJ_PARKS_2026_0750",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0751",
+    "incoming_id": "AREA_BJ_PARKS_2026_0751",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0752",
+    "incoming_id": "AREA_BJ_PARKS_2026_0752",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0753",
+    "incoming_id": "AREA_BJ_PARKS_2026_0753",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0754",
+    "incoming_id": "AREA_BJ_PARKS_2026_0754",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0755",
+    "incoming_id": "AREA_BJ_PARKS_2026_0755",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0756",
+    "incoming_id": "AREA_BJ_PARKS_2026_0756",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0757",
+    "incoming_id": "AREA_BJ_PARKS_2026_0757",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0758",
+    "incoming_id": "AREA_BJ_PARKS_2026_0758",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0759",
+    "incoming_id": "AREA_BJ_PARKS_2026_0759",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0760",
+    "incoming_id": "AREA_BJ_PARKS_2026_0760",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0761",
+    "incoming_id": "AREA_BJ_PARKS_2026_0761",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0762",
+    "incoming_id": "AREA_BJ_PARKS_2026_0762",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0763",
+    "incoming_id": "AREA_BJ_PARKS_2026_0763",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0764",
+    "incoming_id": "AREA_BJ_PARKS_2026_0764",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0765",
+    "incoming_id": "AREA_BJ_PARKS_2026_0765",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0766",
+    "incoming_id": "AREA_BJ_PARKS_2026_0766",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0767",
+    "incoming_id": "AREA_BJ_PARKS_2026_0767",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0768",
+    "incoming_id": "AREA_BJ_PARKS_2026_0768",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0769",
+    "incoming_id": "AREA_BJ_PARKS_2026_0769",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0770",
+    "incoming_id": "AREA_BJ_PARKS_2026_0770",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0771",
+    "incoming_id": "AREA_BJ_PARKS_2026_0771",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0772",
+    "incoming_id": "AREA_BJ_PARKS_2026_0772",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0773",
+    "incoming_id": "AREA_BJ_PARKS_2026_0773",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0774",
+    "incoming_id": "AREA_BJ_PARKS_2026_0774",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0775",
+    "incoming_id": "AREA_BJ_PARKS_2026_0775",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0776",
+    "incoming_id": "AREA_BJ_PARKS_2026_0776",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0777",
+    "incoming_id": "AREA_BJ_PARKS_2026_0777",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0778",
+    "incoming_id": "AREA_BJ_PARKS_2026_0778",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0779",
+    "incoming_id": "AREA_BJ_PARKS_2026_0779",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0780",
+    "incoming_id": "AREA_BJ_PARKS_2026_0780",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0781",
+    "incoming_id": "AREA_BJ_PARKS_2026_0781",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0782",
+    "incoming_id": "AREA_BJ_PARKS_2026_0782",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0783",
+    "incoming_id": "AREA_BJ_PARKS_2026_0783",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0784",
+    "incoming_id": "AREA_BJ_PARKS_2026_0784",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0785",
+    "incoming_id": "AREA_BJ_PARKS_2026_0785",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0786",
+    "incoming_id": "AREA_BJ_PARKS_2026_0786",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0787",
+    "incoming_id": "AREA_BJ_PARKS_2026_0787",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0788",
+    "incoming_id": "AREA_BJ_PARKS_2026_0788",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0789",
+    "incoming_id": "AREA_BJ_PARKS_2026_0789",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0790",
+    "incoming_id": "AREA_BJ_PARKS_2026_0790",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0791",
+    "incoming_id": "AREA_BJ_PARKS_2026_0791",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0792",
+    "incoming_id": "AREA_BJ_PARKS_2026_0792",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0793",
+    "incoming_id": "AREA_BJ_PARKS_2026_0793",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0794",
+    "incoming_id": "AREA_BJ_PARKS_2026_0794",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0795",
+    "incoming_id": "AREA_BJ_PARKS_2026_0795",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0796",
+    "incoming_id": "AREA_BJ_PARKS_2026_0796",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0797",
+    "incoming_id": "AREA_BJ_PARKS_2026_0797",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0798",
+    "incoming_id": "AREA_BJ_PARKS_2026_0798",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0799",
+    "incoming_id": "AREA_BJ_PARKS_2026_0799",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0800",
+    "incoming_id": "AREA_BJ_PARKS_2026_0800",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0801",
+    "incoming_id": "AREA_BJ_PARKS_2026_0801",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0802",
+    "incoming_id": "AREA_BJ_PARKS_2026_0802",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0803",
+    "incoming_id": "AREA_BJ_PARKS_2026_0803",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0804",
+    "incoming_id": "AREA_BJ_PARKS_2026_0804",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0805",
+    "incoming_id": "AREA_BJ_PARKS_2026_0805",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0806",
+    "incoming_id": "AREA_BJ_PARKS_2026_0806",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0807",
+    "incoming_id": "AREA_BJ_PARKS_2026_0807",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0808",
+    "incoming_id": "AREA_BJ_PARKS_2026_0808",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0809",
+    "incoming_id": "AREA_BJ_PARKS_2026_0809",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0810",
+    "incoming_id": "AREA_BJ_PARKS_2026_0810",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0811",
+    "incoming_id": "AREA_BJ_PARKS_2026_0811",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0812",
+    "incoming_id": "AREA_BJ_PARKS_2026_0812",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0813",
+    "incoming_id": "AREA_BJ_PARKS_2026_0813",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0814",
+    "incoming_id": "AREA_BJ_PARKS_2026_0814",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0815",
+    "incoming_id": "AREA_BJ_PARKS_2026_0815",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0816",
+    "incoming_id": "AREA_BJ_PARKS_2026_0816",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0817",
+    "incoming_id": "AREA_BJ_PARKS_2026_0817",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0818",
+    "incoming_id": "AREA_BJ_PARKS_2026_0818",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0819",
+    "incoming_id": "AREA_BJ_PARKS_2026_0819",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0820",
+    "incoming_id": "AREA_BJ_PARKS_2026_0820",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0821",
+    "incoming_id": "AREA_BJ_PARKS_2026_0821",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0822",
+    "incoming_id": "AREA_BJ_PARKS_2026_0822",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0823",
+    "incoming_id": "AREA_BJ_PARKS_2026_0823",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0824",
+    "incoming_id": "AREA_BJ_PARKS_2026_0824",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0902",
+    "incoming_id": "AREA_BJ_PARKS_2026_0902",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0903",
+    "incoming_id": "AREA_BJ_PARKS_2026_0903",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0904",
+    "incoming_id": "AREA_BJ_PARKS_2026_0904",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0905",
+    "incoming_id": "AREA_BJ_PARKS_2026_0905",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0906",
+    "incoming_id": "AREA_BJ_PARKS_2026_0906",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0907",
+    "incoming_id": "AREA_BJ_PARKS_2026_0907",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0908",
+    "incoming_id": "AREA_BJ_PARKS_2026_0908",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0909",
+    "incoming_id": "AREA_BJ_PARKS_2026_0909",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0910",
+    "incoming_id": "AREA_BJ_PARKS_2026_0910",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0911",
+    "incoming_id": "AREA_BJ_PARKS_2026_0911",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0912",
+    "incoming_id": "AREA_BJ_PARKS_2026_0912",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0913",
+    "incoming_id": "AREA_BJ_PARKS_2026_0913",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0914",
+    "incoming_id": "AREA_BJ_PARKS_2026_0914",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0915",
+    "incoming_id": "AREA_BJ_PARKS_2026_0915",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0916",
+    "incoming_id": "AREA_BJ_PARKS_2026_0916",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0917",
+    "incoming_id": "AREA_BJ_PARKS_2026_0917",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0918",
+    "incoming_id": "AREA_BJ_PARKS_2026_0918",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0919",
+    "incoming_id": "AREA_BJ_PARKS_2026_0919",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0920",
+    "incoming_id": "AREA_BJ_PARKS_2026_0920",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0921",
+    "incoming_id": "AREA_BJ_PARKS_2026_0921",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0922",
+    "incoming_id": "AREA_BJ_PARKS_2026_0922",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0923",
+    "incoming_id": "AREA_BJ_PARKS_2026_0923",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0924",
+    "incoming_id": "AREA_BJ_PARKS_2026_0924",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0925",
+    "incoming_id": "AREA_BJ_PARKS_2026_0925",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0926",
+    "incoming_id": "AREA_BJ_PARKS_2026_0926",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0927",
+    "incoming_id": "AREA_BJ_PARKS_2026_0927",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0928",
+    "incoming_id": "AREA_BJ_PARKS_2026_0928",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0929",
+    "incoming_id": "AREA_BJ_PARKS_2026_0929",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0930",
+    "incoming_id": "AREA_BJ_PARKS_2026_0930",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0931",
+    "incoming_id": "AREA_BJ_PARKS_2026_0931",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0932",
+    "incoming_id": "AREA_BJ_PARKS_2026_0932",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0933",
+    "incoming_id": "AREA_BJ_PARKS_2026_0933",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0934",
+    "incoming_id": "AREA_BJ_PARKS_2026_0934",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0935",
+    "incoming_id": "AREA_BJ_PARKS_2026_0935",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0936",
+    "incoming_id": "AREA_BJ_PARKS_2026_0936",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0937",
+    "incoming_id": "AREA_BJ_PARKS_2026_0937",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0938",
+    "incoming_id": "AREA_BJ_PARKS_2026_0938",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0939",
+    "incoming_id": "AREA_BJ_PARKS_2026_0939",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0940",
+    "incoming_id": "AREA_BJ_PARKS_2026_0940",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0941",
+    "incoming_id": "AREA_BJ_PARKS_2026_0941",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0942",
+    "incoming_id": "AREA_BJ_PARKS_2026_0942",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0943",
+    "incoming_id": "AREA_BJ_PARKS_2026_0943",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0944",
+    "incoming_id": "AREA_BJ_PARKS_2026_0944",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0945",
+    "incoming_id": "AREA_BJ_PARKS_2026_0945",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0946",
+    "incoming_id": "AREA_BJ_PARKS_2026_0946",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0947",
+    "incoming_id": "AREA_BJ_PARKS_2026_0947",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0948",
+    "incoming_id": "AREA_BJ_PARKS_2026_0948",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0949",
+    "incoming_id": "AREA_BJ_PARKS_2026_0949",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0950",
+    "incoming_id": "AREA_BJ_PARKS_2026_0950",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0951",
+    "incoming_id": "AREA_BJ_PARKS_2026_0951",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0952",
+    "incoming_id": "AREA_BJ_PARKS_2026_0952",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0953",
+    "incoming_id": "AREA_BJ_PARKS_2026_0953",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0825",
+    "incoming_id": "AREA_BJ_PARKS_2026_0825",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0826",
+    "incoming_id": "AREA_BJ_PARKS_2026_0826",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0827",
+    "incoming_id": "AREA_BJ_PARKS_2026_0827",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0828",
+    "incoming_id": "AREA_BJ_PARKS_2026_0828",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0829",
+    "incoming_id": "AREA_BJ_PARKS_2026_0829",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0830",
+    "incoming_id": "AREA_BJ_PARKS_2026_0830",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0831",
+    "incoming_id": "AREA_BJ_PARKS_2026_0831",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0832",
+    "incoming_id": "AREA_BJ_PARKS_2026_0832",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0833",
+    "incoming_id": "AREA_BJ_PARKS_2026_0833",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0834",
+    "incoming_id": "AREA_BJ_PARKS_2026_0834",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0835",
+    "incoming_id": "AREA_BJ_PARKS_2026_0835",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0836",
+    "incoming_id": "AREA_BJ_PARKS_2026_0836",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0837",
+    "incoming_id": "AREA_BJ_PARKS_2026_0837",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0838",
+    "incoming_id": "AREA_BJ_PARKS_2026_0838",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0839",
+    "incoming_id": "AREA_BJ_PARKS_2026_0839",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0840",
+    "incoming_id": "AREA_BJ_PARKS_2026_0840",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0841",
+    "incoming_id": "AREA_BJ_PARKS_2026_0841",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0842",
+    "incoming_id": "AREA_BJ_PARKS_2026_0842",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0843",
+    "incoming_id": "AREA_BJ_PARKS_2026_0843",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0844",
+    "incoming_id": "AREA_BJ_PARKS_2026_0844",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0845",
+    "incoming_id": "AREA_BJ_PARKS_2026_0845",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0846",
+    "incoming_id": "AREA_BJ_PARKS_2026_0846",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0847",
+    "incoming_id": "AREA_BJ_PARKS_2026_0847",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0848",
+    "incoming_id": "AREA_BJ_PARKS_2026_0848",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0849",
+    "incoming_id": "AREA_BJ_PARKS_2026_0849",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0850",
+    "incoming_id": "AREA_BJ_PARKS_2026_0850",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0851",
+    "incoming_id": "AREA_BJ_PARKS_2026_0851",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0852",
+    "incoming_id": "AREA_BJ_PARKS_2026_0852",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0853",
+    "incoming_id": "AREA_BJ_PARKS_2026_0853",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0854",
+    "incoming_id": "AREA_BJ_PARKS_2026_0854",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0855",
+    "incoming_id": "AREA_BJ_PARKS_2026_0855",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0856",
+    "incoming_id": "AREA_BJ_PARKS_2026_0856",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0857",
+    "incoming_id": "AREA_BJ_PARKS_2026_0857",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0858",
+    "incoming_id": "AREA_BJ_PARKS_2026_0858",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0859",
+    "incoming_id": "AREA_BJ_PARKS_2026_0859",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0860",
+    "incoming_id": "AREA_BJ_PARKS_2026_0860",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0861",
+    "incoming_id": "AREA_BJ_PARKS_2026_0861",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0862",
+    "incoming_id": "AREA_BJ_PARKS_2026_0862",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0863",
+    "incoming_id": "AREA_BJ_PARKS_2026_0863",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0864",
+    "incoming_id": "AREA_BJ_PARKS_2026_0864",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0865",
+    "incoming_id": "AREA_BJ_PARKS_2026_0865",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0866",
+    "incoming_id": "AREA_BJ_PARKS_2026_0866",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0867",
+    "incoming_id": "AREA_BJ_PARKS_2026_0867",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0868",
+    "incoming_id": "AREA_BJ_PARKS_2026_0868",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0869",
+    "incoming_id": "AREA_BJ_PARKS_2026_0869",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0870",
+    "incoming_id": "AREA_BJ_PARKS_2026_0870",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0871",
+    "incoming_id": "AREA_BJ_PARKS_2026_0871",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0872",
+    "incoming_id": "AREA_BJ_PARKS_2026_0872",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0873",
+    "incoming_id": "AREA_BJ_PARKS_2026_0873",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0874",
+    "incoming_id": "AREA_BJ_PARKS_2026_0874",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0875",
+    "incoming_id": "AREA_BJ_PARKS_2026_0875",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0876",
+    "incoming_id": "AREA_BJ_PARKS_2026_0876",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0877",
+    "incoming_id": "AREA_BJ_PARKS_2026_0877",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0878",
+    "incoming_id": "AREA_BJ_PARKS_2026_0878",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0879",
+    "incoming_id": "AREA_BJ_PARKS_2026_0879",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0880",
+    "incoming_id": "AREA_BJ_PARKS_2026_0880",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0881",
+    "incoming_id": "AREA_BJ_PARKS_2026_0881",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0882",
+    "incoming_id": "AREA_BJ_PARKS_2026_0882",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0883",
+    "incoming_id": "AREA_BJ_PARKS_2026_0883",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0884",
+    "incoming_id": "AREA_BJ_PARKS_2026_0884",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0885",
+    "incoming_id": "AREA_BJ_PARKS_2026_0885",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0886",
+    "incoming_id": "AREA_BJ_PARKS_2026_0886",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0887",
+    "incoming_id": "AREA_BJ_PARKS_2026_0887",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0888",
+    "incoming_id": "AREA_BJ_PARKS_2026_0888",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0889",
+    "incoming_id": "AREA_BJ_PARKS_2026_0889",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0890",
+    "incoming_id": "AREA_BJ_PARKS_2026_0890",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0891",
+    "incoming_id": "AREA_BJ_PARKS_2026_0891",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0892",
+    "incoming_id": "AREA_BJ_PARKS_2026_0892",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0893",
+    "incoming_id": "AREA_BJ_PARKS_2026_0893",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0894",
+    "incoming_id": "AREA_BJ_PARKS_2026_0894",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0895",
+    "incoming_id": "AREA_BJ_PARKS_2026_0895",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0896",
+    "incoming_id": "AREA_BJ_PARKS_2026_0896",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0897",
+    "incoming_id": "AREA_BJ_PARKS_2026_0897",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0898",
+    "incoming_id": "AREA_BJ_PARKS_2026_0898",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0899",
+    "incoming_id": "AREA_BJ_PARKS_2026_0899",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0900",
+    "incoming_id": "AREA_BJ_PARKS_2026_0900",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0901",
+    "incoming_id": "AREA_BJ_PARKS_2026_0901",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1132",
+    "incoming_id": "AREA_BJ_PARKS_2026_1132",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0997",
+    "incoming_id": "AREA_BJ_PARKS_2026_0997",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0998",
+    "incoming_id": "AREA_BJ_PARKS_2026_0998",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0999",
+    "incoming_id": "AREA_BJ_PARKS_2026_0999",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1000",
+    "incoming_id": "AREA_BJ_PARKS_2026_1000",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1001",
+    "incoming_id": "AREA_BJ_PARKS_2026_1001",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1002",
+    "incoming_id": "AREA_BJ_PARKS_2026_1002",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1003",
+    "incoming_id": "AREA_BJ_PARKS_2026_1003",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1004",
+    "incoming_id": "AREA_BJ_PARKS_2026_1004",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1005",
+    "incoming_id": "AREA_BJ_PARKS_2026_1005",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1006",
+    "incoming_id": "AREA_BJ_PARKS_2026_1006",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1007",
+    "incoming_id": "AREA_BJ_PARKS_2026_1007",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1008",
+    "incoming_id": "AREA_BJ_PARKS_2026_1008",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1009",
+    "incoming_id": "AREA_BJ_PARKS_2026_1009",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1010",
+    "incoming_id": "AREA_BJ_PARKS_2026_1010",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1011",
+    "incoming_id": "AREA_BJ_PARKS_2026_1011",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1012",
+    "incoming_id": "AREA_BJ_PARKS_2026_1012",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1013",
+    "incoming_id": "AREA_BJ_PARKS_2026_1013",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1014",
+    "incoming_id": "AREA_BJ_PARKS_2026_1014",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1015",
+    "incoming_id": "AREA_BJ_PARKS_2026_1015",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1016",
+    "incoming_id": "AREA_BJ_PARKS_2026_1016",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1017",
+    "incoming_id": "AREA_BJ_PARKS_2026_1017",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1018",
+    "incoming_id": "AREA_BJ_PARKS_2026_1018",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1019",
+    "incoming_id": "AREA_BJ_PARKS_2026_1019",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1020",
+    "incoming_id": "AREA_BJ_PARKS_2026_1020",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1021",
+    "incoming_id": "AREA_BJ_PARKS_2026_1021",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1022",
+    "incoming_id": "AREA_BJ_PARKS_2026_1022",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1023",
+    "incoming_id": "AREA_BJ_PARKS_2026_1023",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1024",
+    "incoming_id": "AREA_BJ_PARKS_2026_1024",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1025",
+    "incoming_id": "AREA_BJ_PARKS_2026_1025",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1026",
+    "incoming_id": "AREA_BJ_PARKS_2026_1026",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1027",
+    "incoming_id": "AREA_BJ_PARKS_2026_1027",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1028",
+    "incoming_id": "AREA_BJ_PARKS_2026_1028",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1029",
+    "incoming_id": "AREA_BJ_PARKS_2026_1029",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1030",
+    "incoming_id": "AREA_BJ_PARKS_2026_1030",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1031",
+    "incoming_id": "AREA_BJ_PARKS_2026_1031",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1032",
+    "incoming_id": "AREA_BJ_PARKS_2026_1032",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1033",
+    "incoming_id": "AREA_BJ_PARKS_2026_1033",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1034",
+    "incoming_id": "AREA_BJ_PARKS_2026_1034",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1035",
+    "incoming_id": "AREA_BJ_PARKS_2026_1035",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1036",
+    "incoming_id": "AREA_BJ_PARKS_2026_1036",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1037",
+    "incoming_id": "AREA_BJ_PARKS_2026_1037",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1038",
+    "incoming_id": "AREA_BJ_PARKS_2026_1038",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1039",
+    "incoming_id": "AREA_BJ_PARKS_2026_1039",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1040",
+    "incoming_id": "AREA_BJ_PARKS_2026_1040",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1041",
+    "incoming_id": "AREA_BJ_PARKS_2026_1041",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1042",
+    "incoming_id": "AREA_BJ_PARKS_2026_1042",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1043",
+    "incoming_id": "AREA_BJ_PARKS_2026_1043",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1044",
+    "incoming_id": "AREA_BJ_PARKS_2026_1044",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1045",
+    "incoming_id": "AREA_BJ_PARKS_2026_1045",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1046",
+    "incoming_id": "AREA_BJ_PARKS_2026_1046",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1047",
+    "incoming_id": "AREA_BJ_PARKS_2026_1047",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1048",
+    "incoming_id": "AREA_BJ_PARKS_2026_1048",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1049",
+    "incoming_id": "AREA_BJ_PARKS_2026_1049",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1050",
+    "incoming_id": "AREA_BJ_PARKS_2026_1050",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1051",
+    "incoming_id": "AREA_BJ_PARKS_2026_1051",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1052",
+    "incoming_id": "AREA_BJ_PARKS_2026_1052",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1053",
+    "incoming_id": "AREA_BJ_PARKS_2026_1053",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1054",
+    "incoming_id": "AREA_BJ_PARKS_2026_1054",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1055",
+    "incoming_id": "AREA_BJ_PARKS_2026_1055",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1056",
+    "incoming_id": "AREA_BJ_PARKS_2026_1056",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1057",
+    "incoming_id": "AREA_BJ_PARKS_2026_1057",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1058",
+    "incoming_id": "AREA_BJ_PARKS_2026_1058",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0954",
+    "incoming_id": "AREA_BJ_PARKS_2026_0954",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0955",
+    "incoming_id": "AREA_BJ_PARKS_2026_0955",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0956",
+    "incoming_id": "AREA_BJ_PARKS_2026_0956",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0957",
+    "incoming_id": "AREA_BJ_PARKS_2026_0957",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0958",
+    "incoming_id": "AREA_BJ_PARKS_2026_0958",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0959",
+    "incoming_id": "AREA_BJ_PARKS_2026_0959",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0960",
+    "incoming_id": "AREA_BJ_PARKS_2026_0960",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0961",
+    "incoming_id": "AREA_BJ_PARKS_2026_0961",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0962",
+    "incoming_id": "AREA_BJ_PARKS_2026_0962",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0963",
+    "incoming_id": "AREA_BJ_PARKS_2026_0963",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0964",
+    "incoming_id": "AREA_BJ_PARKS_2026_0964",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0965",
+    "incoming_id": "AREA_BJ_PARKS_2026_0965",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0966",
+    "incoming_id": "AREA_BJ_PARKS_2026_0966",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0967",
+    "incoming_id": "AREA_BJ_PARKS_2026_0967",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0968",
+    "incoming_id": "AREA_BJ_PARKS_2026_0968",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0969",
+    "incoming_id": "AREA_BJ_PARKS_2026_0969",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0970",
+    "incoming_id": "AREA_BJ_PARKS_2026_0970",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0971",
+    "incoming_id": "AREA_BJ_PARKS_2026_0971",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0972",
+    "incoming_id": "AREA_BJ_PARKS_2026_0972",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0973",
+    "incoming_id": "AREA_BJ_PARKS_2026_0973",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0974",
+    "incoming_id": "AREA_BJ_PARKS_2026_0974",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0975",
+    "incoming_id": "AREA_BJ_PARKS_2026_0975",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0976",
+    "incoming_id": "AREA_BJ_PARKS_2026_0976",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0977",
+    "incoming_id": "AREA_BJ_PARKS_2026_0977",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0978",
+    "incoming_id": "AREA_BJ_PARKS_2026_0978",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0979",
+    "incoming_id": "AREA_BJ_PARKS_2026_0979",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0980",
+    "incoming_id": "AREA_BJ_PARKS_2026_0980",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0981",
+    "incoming_id": "AREA_BJ_PARKS_2026_0981",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0982",
+    "incoming_id": "AREA_BJ_PARKS_2026_0982",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0983",
+    "incoming_id": "AREA_BJ_PARKS_2026_0983",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0984",
+    "incoming_id": "AREA_BJ_PARKS_2026_0984",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0985",
+    "incoming_id": "AREA_BJ_PARKS_2026_0985",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0986",
+    "incoming_id": "AREA_BJ_PARKS_2026_0986",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0987",
+    "incoming_id": "AREA_BJ_PARKS_2026_0987",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0988",
+    "incoming_id": "AREA_BJ_PARKS_2026_0988",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0989",
+    "incoming_id": "AREA_BJ_PARKS_2026_0989",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0990",
+    "incoming_id": "AREA_BJ_PARKS_2026_0990",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0991",
+    "incoming_id": "AREA_BJ_PARKS_2026_0991",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0992",
+    "incoming_id": "AREA_BJ_PARKS_2026_0992",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0993",
+    "incoming_id": "AREA_BJ_PARKS_2026_0993",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0994",
+    "incoming_id": "AREA_BJ_PARKS_2026_0994",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0995",
+    "incoming_id": "AREA_BJ_PARKS_2026_0995",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_0996",
+    "incoming_id": "AREA_BJ_PARKS_2026_0996",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1059",
+    "incoming_id": "AREA_BJ_PARKS_2026_1059",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1060",
+    "incoming_id": "AREA_BJ_PARKS_2026_1060",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1061",
+    "incoming_id": "AREA_BJ_PARKS_2026_1061",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1062",
+    "incoming_id": "AREA_BJ_PARKS_2026_1062",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1063",
+    "incoming_id": "AREA_BJ_PARKS_2026_1063",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1064",
+    "incoming_id": "AREA_BJ_PARKS_2026_1064",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1065",
+    "incoming_id": "AREA_BJ_PARKS_2026_1065",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1066",
+    "incoming_id": "AREA_BJ_PARKS_2026_1066",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1067",
+    "incoming_id": "AREA_BJ_PARKS_2026_1067",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1068",
+    "incoming_id": "AREA_BJ_PARKS_2026_1068",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1069",
+    "incoming_id": "AREA_BJ_PARKS_2026_1069",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1070",
+    "incoming_id": "AREA_BJ_PARKS_2026_1070",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1071",
+    "incoming_id": "AREA_BJ_PARKS_2026_1071",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1072",
+    "incoming_id": "AREA_BJ_PARKS_2026_1072",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1073",
+    "incoming_id": "AREA_BJ_PARKS_2026_1073",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1074",
+    "incoming_id": "AREA_BJ_PARKS_2026_1074",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1075",
+    "incoming_id": "AREA_BJ_PARKS_2026_1075",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1076",
+    "incoming_id": "AREA_BJ_PARKS_2026_1076",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1077",
+    "incoming_id": "AREA_BJ_PARKS_2026_1077",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1078",
+    "incoming_id": "AREA_BJ_PARKS_2026_1078",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1079",
+    "incoming_id": "AREA_BJ_PARKS_2026_1079",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1080",
+    "incoming_id": "AREA_BJ_PARKS_2026_1080",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1081",
+    "incoming_id": "AREA_BJ_PARKS_2026_1081",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1082",
+    "incoming_id": "AREA_BJ_PARKS_2026_1082",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1083",
+    "incoming_id": "AREA_BJ_PARKS_2026_1083",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1084",
+    "incoming_id": "AREA_BJ_PARKS_2026_1084",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1085",
+    "incoming_id": "AREA_BJ_PARKS_2026_1085",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1086",
+    "incoming_id": "AREA_BJ_PARKS_2026_1086",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1087",
+    "incoming_id": "AREA_BJ_PARKS_2026_1087",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1088",
+    "incoming_id": "AREA_BJ_PARKS_2026_1088",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1089",
+    "incoming_id": "AREA_BJ_PARKS_2026_1089",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1090",
+    "incoming_id": "AREA_BJ_PARKS_2026_1090",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1091",
+    "incoming_id": "AREA_BJ_PARKS_2026_1091",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1092",
+    "incoming_id": "AREA_BJ_PARKS_2026_1092",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1093",
+    "incoming_id": "AREA_BJ_PARKS_2026_1093",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1094",
+    "incoming_id": "AREA_BJ_PARKS_2026_1094",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1095",
+    "incoming_id": "AREA_BJ_PARKS_2026_1095",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1096",
+    "incoming_id": "AREA_BJ_PARKS_2026_1096",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1097",
+    "incoming_id": "AREA_BJ_PARKS_2026_1097",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1098",
+    "incoming_id": "AREA_BJ_PARKS_2026_1098",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1099",
+    "incoming_id": "AREA_BJ_PARKS_2026_1099",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1100",
+    "incoming_id": "AREA_BJ_PARKS_2026_1100",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1101",
+    "incoming_id": "AREA_BJ_PARKS_2026_1101",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1102",
+    "incoming_id": "AREA_BJ_PARKS_2026_1102",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1103",
+    "incoming_id": "AREA_BJ_PARKS_2026_1103",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1104",
+    "incoming_id": "AREA_BJ_PARKS_2026_1104",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1105",
+    "incoming_id": "AREA_BJ_PARKS_2026_1105",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1106",
+    "incoming_id": "AREA_BJ_PARKS_2026_1106",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1107",
+    "incoming_id": "AREA_BJ_PARKS_2026_1107",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1108",
+    "incoming_id": "AREA_BJ_PARKS_2026_1108",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1109",
+    "incoming_id": "AREA_BJ_PARKS_2026_1109",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1110",
+    "incoming_id": "AREA_BJ_PARKS_2026_1110",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1111",
+    "incoming_id": "AREA_BJ_PARKS_2026_1111",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1112",
+    "incoming_id": "AREA_BJ_PARKS_2026_1112",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1113",
+    "incoming_id": "AREA_BJ_PARKS_2026_1113",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1114",
+    "incoming_id": "AREA_BJ_PARKS_2026_1114",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1115",
+    "incoming_id": "AREA_BJ_PARKS_2026_1115",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1116",
+    "incoming_id": "AREA_BJ_PARKS_2026_1116",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1117",
+    "incoming_id": "AREA_BJ_PARKS_2026_1117",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1118",
+    "incoming_id": "AREA_BJ_PARKS_2026_1118",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1119",
+    "incoming_id": "AREA_BJ_PARKS_2026_1119",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1120",
+    "incoming_id": "AREA_BJ_PARKS_2026_1120",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1121",
+    "incoming_id": "AREA_BJ_PARKS_2026_1121",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1122",
+    "incoming_id": "AREA_BJ_PARKS_2026_1122",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1123",
+    "incoming_id": "AREA_BJ_PARKS_2026_1123",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1124",
+    "incoming_id": "AREA_BJ_PARKS_2026_1124",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1125",
+    "incoming_id": "AREA_BJ_PARKS_2026_1125",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1126",
+    "incoming_id": "AREA_BJ_PARKS_2026_1126",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1127",
+    "incoming_id": "AREA_BJ_PARKS_2026_1127",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1128",
+    "incoming_id": "AREA_BJ_PARKS_2026_1128",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1129",
+    "incoming_id": "AREA_BJ_PARKS_2026_1129",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1130",
+    "incoming_id": "AREA_BJ_PARKS_2026_1130",
+    "rule": "same_official_directory_row_identity"
+  },
+  {
+    "master_id": "SP_BJ_PARKS_2026_1131",
+    "incoming_id": "AREA_BJ_PARKS_2026_1131",
+    "rule": "same_official_directory_row_identity"
+  }
+]
