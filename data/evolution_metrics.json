@@ -1,24 +1,992 @@
 {
-  "repository": "https://github.com/SpaceSQ/BlindBoxTravelAI",
-  "privacy_policy": "STRICT_ZERO_PROVENANCE_ANONYMOUS_ONLY",
-  "description": "盲盒旅行AI进化算法变量库：仅记录各景点及行程路线被标注成计划(plan_mark_count)与被点评(review_count)的匿名累计次数，绝不溯源记录或显示任何用户身份与点评来源。",
-  "last_updated": "2026-11-06T00:30:00Z",
+  "version": "phase1",
+  "plan_mark_count_scope": "app local counter",
   "spots_metrics": {
-    "SP001": { "plan_mark_count": 0, "review_count": 0 },
-    "SP002": { "plan_mark_count": 0, "review_count": 0 },
-    "SP003": { "plan_mark_count": 0, "review_count": 0 },
-    "SP004": { "plan_mark_count": 0, "review_count": 0 },
-    "SP005": { "plan_mark_count": 0, "review_count": 0 }
+    "SP001": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP002": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP003": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP004": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP005": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP006": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP007": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP008": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP009": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP010": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP011": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP012": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP013": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP014": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP015": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP016": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP017": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP018": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP019": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP020": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP021": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP022": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP023": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP024": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP025": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP026": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP027": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP028": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP029": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP030": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP031": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP032": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP033": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP034": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP035": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP036": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP037": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP038": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP039": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP040": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP041": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP042": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP043": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP044": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP045": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP046": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP047": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP048": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP049": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP050": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP051": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP052": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP053": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP054": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP055": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP056": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP057": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP058": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP059": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP060": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP061": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP062": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP063": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP064": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP065": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP066": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP067": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP068": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP069": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP070": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP071": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP072": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP073": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP074": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP075": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP076": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP077": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP078": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP079": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP080": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP081": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP082": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP083": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP084": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP085": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP086": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP087": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP088": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP089": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP090": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP091": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP092": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP093": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP094": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP095": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP096": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP097": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP098": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP099": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP100": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP101": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP102": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP103": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP104": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP105": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP106": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP107": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP108": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP109": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP110": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP111": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP112": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP113": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP114": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP115": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP116": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP117": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP118": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP119": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP120": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP121": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP122": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP123": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP124": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP125": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP126": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP127": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP128": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP129": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP130": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP131": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP132": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP133": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP134": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP135": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP136": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP137": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP138": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP139": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP140": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP141": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP142": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP143": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP144": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP145": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP146": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP147": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP148": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP149": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP150": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP151": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP152": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP153": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP154": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP155": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP156": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP157": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP158": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP159": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP160": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP161": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP162": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP163": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP164": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP165": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP166": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP167": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP168": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP169": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP170": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP171": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP172": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP173": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP174": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP175": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP176": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP177": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP178": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP179": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP180": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP181": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP182": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP183": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP184": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP185": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "SP186": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
   },
   "routes_metrics": {
-    "RT001": { "plan_mark_count": 0, "review_count": 0 },
-    "RT002": { "plan_mark_count": 0, "review_count": 0 },
-    "RT003": { "plan_mark_count": 0, "review_count": 0 },
-    "RT004": { "plan_mark_count": 0, "review_count": 0 },
-    "RT005": { "plan_mark_count": 0, "review_count": 0 },
-    "RT006": { "plan_mark_count": 0, "review_count": 0 },
-    "RT007": { "plan_mark_count": 0, "review_count": 0 },
-    "RT008": { "plan_mark_count": 0, "review_count": 0 },
-    "RT009": { "plan_mark_count": 0, "review_count": 0 }
+    "RT001": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT002": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT003": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT004": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT005": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT006": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT007": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT008": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT009": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT010": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT011": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT012": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT013": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT014": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT015": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT016": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT017": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT018": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT019": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT020": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT021": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT022": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT023": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT024": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT025": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT026": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT027": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT028": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT029": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT030": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT031": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT032": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT033": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT034": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT035": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT036": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT037": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT038": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT039": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT040": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT041": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT042": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT043": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT044": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT045": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT046": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT047": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT048": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT049": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT050": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT051": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT052": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT053": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT054": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT055": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT056": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT057": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT058": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT059": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    },
+    "RT060": {
+      "plan_mark_count": 0,
+      "review_count": 0
+    }
   }
 }

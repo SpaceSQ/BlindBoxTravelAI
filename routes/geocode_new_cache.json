@@ -1,0 +1,643 @@
+{
+  "湄洲岛 莆田市 福建省": {
+    "lat": 25.0653388,
+    "lng": 119.125711,
+    "display": "湄洲岛, 寨下村, 湄洲镇, 秀屿区, 莆田市, 福建省, 中国",
+    "query": "湄洲岛 莆田市 福建省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "泉州古城 泉州市 福建省": {
+    "lat": 24.9101614,
+    "lng": 118.5835118,
+    "display": "泉州古城, 温陵北路, 仁风社区, 东湖街道, 泉州市, 丰泽区, 泉州市, 福建省, 362000, 中国",
+    "query": "泉州古城 泉州市 福建省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "崇武古城 泉州市 福建省": {
+    "lat": 24.8791164,
+    "lng": 118.9304148,
+    "display": "崇武古城, 丹东 - 东兴, 赤湖, 山霞镇, 惠安县, 泉州市, 福建省, 362131, 中国",
+    "query": "崇武古城 泉州市 福建省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "平潭岛 福州市 福建省": {
+    "lat": 25.5324825,
+    "lng": 119.7606447,
+    "display": "海坛岛, 福州市, 福建省, 350400, 中国",
+    "query": "平潭岛 福州市 福建省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "湄洲岛 莆田": {
+    "lat": 25.0653388,
+    "lng": 119.125711,
+    "display": "湄洲岛, 东蔡村, 湄洲镇, 秀屿区, 莆田市, 福建省, 中国",
+    "query": "湄洲岛 莆田",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "沙坡尾 厦门": {
+    "lat": 24.4398901,
+    "lng": 118.0829431,
+    "display": "沙坡尾, 沙坡尾社区, 厦港街道, 思明区, 厦门市, 福建省, 361005, 中国",
+    "query": "沙坡尾 厦门",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "海坛岛 平潭": {
+    "lat": 25.5324825,
+    "lng": 119.7606447,
+    "display": "海坛岛, 福州市, 福建省, 350400, 中国",
+    "query": "海坛岛 平潭",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "青澳湾 南澳 汕头": {
+    "lat": 23.4380861,
+    "lng": 117.1356857,
+    "display": "青澳湾, 南澳县, 汕头市, 广东省, 中国",
+    "query": "青澳湾 南澳 汕头",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "黄花山森林公园 南澳": {
+    "lat": 23.4387592,
+    "lng": 116.9597725,
+    "display": "黄花山森林公园, 南澳县, 汕头市, 广东省, 中国",
+    "query": "黄花山森林公园 南澳",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "深圳梧桐山风景名胜区 深圳市 广东省": {
+    "lat": null,
+    "lng": null,
+    "display": "",
+    "query": "深圳梧桐山风景名胜区 深圳市 广东省",
+    "source": "https://nominatim.openstreetmap.org/",
+    "error": "no_result"
+  },
+  "深圳梧桐山风景名胜区 广东省": {
+    "lat": null,
+    "lng": null,
+    "display": "",
+    "query": "深圳梧桐山风景名胜区 广东省",
+    "source": "https://nominatim.openstreetmap.org/",
+    "error": "no_result"
+  },
+  "梧桐山 深圳市 广东省": {
+    "lat": 22.582268,
+    "lng": 114.2146672,
+    "display": "梧桐山, 深圳市, 广东省, 中国",
+    "query": "梧桐山 深圳市 广东省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "大鹏半岛七娘山 深圳市 广东省": {
+    "lat": null,
+    "lng": null,
+    "display": "",
+    "query": "大鹏半岛七娘山 深圳市 广东省",
+    "source": "https://nominatim.openstreetmap.org/",
+    "error": "no_result"
+  },
+  "大鹏半岛七娘山 广东省": {
+    "lat": null,
+    "lng": null,
+    "display": "",
+    "query": "大鹏半岛七娘山 广东省",
+    "source": "https://nominatim.openstreetmap.org/",
+    "error": "no_result"
+  },
+  "七娘山 深圳市 广东省": {
+    "lat": 22.5250945,
+    "lng": 114.5438048,
+    "display": "七娘山, 深圳市, 广东省, 中国",
+    "query": "七娘山 深圳市 广东省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "潮州古城 潮州市 广东省": {
+    "lat": 23.6569897,
+    "lng": 116.6201726,
+    "display": "潮州人民广场, 城西街道, 湘桥区, 潮州市, 广东省, 521000, 中国",
+    "query": "潮州古城 潮州市 广东省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "广州沙面 广州市 广东省": {
+    "lat": 23.1095929,
+    "lng": 113.2372175,
+    "display": "波兰共和国驻广州总领事馆, 63, 沙面大街, 翠洲社区, 沙面街道, 荔湾区, 广州市, 广东省, 510130, 中国",
+    "query": "广州沙面 广州市 广东省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "龙脊梯田风景名胜区 广西": {
+    "lat": 25.7734314,
+    "lng": 110.1429314,
+    "display": "龙脊梯田风景名胜区, 桂林市, 广西壮族自治区, 541701, 中国",
+    "query": "龙脊梯田风景名胜区 广西",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "阳朔西街": {
+    "lat": 24.7781732,
+    "lng": 110.4904614,
+    "display": "阳朔西街, 西街, 阳朔县, 桂林市, 广西壮族自治区, 541999, 中国",
+    "query": "阳朔西街",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "遇龙河 阳朔": {
+    "lat": 24.783666,
+    "lng": 110.4225923,
+    "display": "遇龙河, 阳朔县, 桂林市, 广西壮族自治区, 中国",
+    "query": "遇龙河 阳朔",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "泸沽湖景区 丽江市 云南省": {
+    "lat": 25.8439539,
+    "lng": 98.8562344,
+    "display": "高黎贡山国家级自然保护区泸水管护分局六库, 排路坝路, 江西社区, 六库街道, 排路坝, 泸水市, 怒江傈僳族自治州 ꓠꓳ-ꓟꓵ ꓡꓲ-ꓢꓴ ꓫꓵꓽ ꓚꓲꓸ ꓛꓬꓽ ꓗꓪꓼ ꓫꓵꓽ ꓝꓳꓴ, 云南省, 中国",
+    "query": "泸沽湖景区 丽江市 云南省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "束河古镇 丽江市 云南省": {
+    "lat": 26.9234735,
+    "lng": 100.2035898,
+    "display": "束河古镇, 西山游路, 神拖阔, 束河街道, 古城区, 丽江市, 云南省, 674100, 中国",
+    "query": "束河古镇 丽江市 云南省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "成都宽窄巷子 成都市 四川省": {
+    "lat": 30.666273,
+    "lng": 104.0514257,
+    "display": "成都巧克力博物馆, 宽巷子, 宽窄巷子, 宽巷子社区, 少城街道, 青羊区, 成都市, 四川省, 610015, 中国",
+    "query": "成都宽窄巷子 成都市 四川省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "青城山景区 成都市 四川省": {
+    "lat": 30.5754476,
+    "lng": 104.2029461,
+    "display": "井山路青台山路口, 井山路, 大面街道, 龙泉驿区, 成都市, 四川省, 610101, 中国",
+    "query": "青城山景区 成都市 四川省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "重庆洪崖洞 渝中区 重庆市": {
+    "lat": null,
+    "lng": null,
+    "display": "",
+    "query": "重庆洪崖洞 渝中区 重庆市",
+    "source": "https://nominatim.openstreetmap.org/",
+    "error": "no_result"
+  },
+  "重庆洪崖洞 重庆市": {
+    "lat": 25.0684598,
+    "lng": 121.5137802,
+    "display": "民族重慶路口, 重慶北路三段, 揚雅里, 大同區, 大龍峒, 臺北市, 103626, 臺灣",
+    "query": "重庆洪崖洞 重庆市",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "洪崖洞 渝中区 重庆市": {
+    "lat": 29.5650738,
+    "lng": 106.5753425,
+    "display": "洪崖洞, 沧白路, 朝天门街道, 渝中区, 重庆市, 400013, 中国",
+    "query": "洪崖洞 渝中区 重庆市",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "磁器口古镇 沙坪坝区 重庆市": {
+    "lat": 29.5833399,
+    "lng": 106.4466489,
+    "display": "磁器口古镇, 杨双路, 磁器口街道, 沙坪坝区, 重庆市, 400000, 中国",
+    "query": "磁器口古镇 沙坪坝区 重庆市",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "天门山 张家界": {
+    "lat": 29.0498814,
+    "lng": 110.4788895,
+    "display": "天门山, 永定区, 张家界市, 湖南省, 中国",
+    "query": "天门山 张家界",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "卓尔山 祁连": {
+    "lat": 38.1815294,
+    "lng": 100.2660073,
+    "display": "卓尔山, 祁连县, 海北藏族自治州 མཚོ་བཡྣང་བོད་རིགས་རང་སྐྱོང་ཁུལ།, 青海省, 中国",
+    "query": "卓尔山 祁连",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "丹噶尔古城 西宁市 青海省": {
+    "lat": 36.6874914,
+    "lng": 101.2722012,
+    "display": "丹噶尔古城, 万安街, 城关镇, 湟源县, 西宁市, 青海省, 中国",
+    "query": "丹噶尔古城 西宁市 青海省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "中国原子城": {
+    "lat": 36.9436415,
+    "lng": 100.9203621,
+    "display": "中国原子城, 海晏路, 西海镇, 海晏县 ཧའེ་ཡན་རྫོང།, 海北藏族自治州 མཚོ་བཡྣང་བོད་རིགས་རང་སྐྱོང་ཁུལ།, 青海省, 中国",
+    "query": "中国原子城",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "西安城墙 西安市 陕西省": {
+    "lat": 34.2651226,
+    "lng": 108.9207577,
+    "display": "西安城墙, 炭市街, 西一路街道, 新城区, 西安市, 陕西省, 710004, 中国",
+    "query": "西安城墙 西安市 陕西省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "西安钟鼓楼 西安市 陕西省": {
+    "lat": 34.2617508,
+    "lng": 108.938964,
+    "display": "西安鼓楼博物馆, 钟鼓楼广场, 社会路社区, 北院门街道, 莲湖区, 西安市, 陕西省, 710001, 中国",
+    "query": "西安钟鼓楼 西安市 陕西省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "鸣沙山月牙泉 酒泉市 甘肃省": {
+    "lat": 40.0876404,
+    "lng": 94.6753955,
+    "display": "鸣沙山月牙泉, 月牙泉镇, 月牙泉村, 敦煌市, 酒泉市, 甘肃省, 736200, 中国",
+    "query": "鸣沙山月牙泉 酒泉市 甘肃省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "南浔古镇 湖州市 浙江省": {
+    "lat": 30.8718979,
+    "lng": 120.424047,
+    "display": "南浔古镇景区, 南浔古镇景区入口, 南浔镇, 南浔区, 湖州市, 浙江省, 313009, 中国",
+    "query": "南浔古镇 湖州市 浙江省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "塘栖古镇 杭州市 浙江省": {
+    "lat": null,
+    "lng": null,
+    "display": "",
+    "query": "塘栖古镇 杭州市 浙江省",
+    "source": "https://nominatim.openstreetmap.org/",
+    "error": "no_result"
+  },
+  "塘栖古镇 浙江省": {
+    "lat": 28.8308484,
+    "lng": 118.348398,
+    "display": "浙江省第三监狱, 59号, X503, 金城岗, 球川镇, 常山县, 衢州市, 浙江省, 324207, 中国",
+    "query": "塘栖古镇 浙江省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "Tai Kwun Hong Kong": {
+    "lat": 22.2811562,
+    "lng": 114.154009,
+    "display": "大館 Tai Kwun, 10, 洗衣場石階 Laundry Steps, 蘇豪 SoHo, 半山 Mid-Levels, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "query": "Tai Kwun Hong Kong",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "香港海洋公园": {
+    "lat": 22.2347673,
+    "lng": 114.1708174,
+    "display": "香港海洋公園 Ocean Park Hong Kong, 警校道 Police School Road, 南朗山 Nam Long Shan, 深灣 Sham Wan, 南區 Southern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "query": "香港海洋公园",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "官也街 澳门": {
+    "lat": 22.1535855,
+    "lng": 113.5569741,
+    "display": "官也街 Rua do Cunha, 氹仔舊城區 Vila de Taipa, 松樹尾 Chun Su Mei, 嘉模堂區 Nossa Senhora do Carmo, 氹仔 Taipa, 澳門 Macau, 999078, 中国",
+    "query": "官也街 澳门",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "议事亭前地": {
+    "lat": 22.1938271,
+    "lng": 113.5399903,
+    "display": "議事亭前地 Largo do Senado, 中區 Centro, 大堂區 Sé, 澳門 Macau, 519020, 中国",
+    "query": "议事亭前地",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "九份": {
+    "lat": 25.1116561,
+    "lng": 121.845069,
+    "display": "九份, 新北市, 22448, 臺灣",
+    "query": "九份",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "十分 新北": {
+    "lat": 25.0436884,
+    "lng": 121.7778813,
+    "display": "十分國小, 157, 十分街, 十分里, 平溪區, 新寮, 新北市, 22643, 臺灣",
+    "query": "十分 新北",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "北投温泉": {
+    "lat": 25.1337064,
+    "lng": 121.5042416,
+    "display": "溫泉路34巷, 溫泉里, 北投區, 奇岩, 臺北市, 11241, 臺灣",
+    "query": "北投温泉",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "北投文物馆": {
+    "lat": 25.1380942,
+    "lng": 121.5144981,
+    "display": "北投文物館, 32, 幽雅路, 林泉里, 北投區, 新北投, 臺北市, 112, 臺灣",
+    "query": "北投文物馆",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "景山公园 西城区 北京市": {
+    "lat": 39.9244589,
+    "lng": 116.3903973,
+    "display": "景山公园, 首都功能核心区, 西城区, 北京市, 100032, 中国",
+    "query": "景山公园 西城区 北京市",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "开封 清明上河园": {
+    "lat": 34.8098675,
+    "lng": 114.3341353,
+    "display": "清明上河园, 5号, 龙亭西路, 午朝门街道, 龙亭区, 开封市, 河南省, 475000, 中国",
+    "query": "开封 清明上河园",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "篁岭 婺源": {
+    "lat": 29.3235898,
+    "lng": 118.1132609,
+    "display": "篁岭, 晓鳙村, 江湾镇, 婺源县, 上饶市, 江西省, 中国",
+    "query": "篁岭 婺源",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "恩施大峡谷 恩施土家族苗族自治州 湖北省": {
+    "lat": 30.424202,
+    "lng": 109.1746676,
+    "display": "恩施大峡谷, 麦里, 恩施市, 恩施土家族苗族自治州, 湖北省, 中国",
+    "query": "恩施大峡谷 恩施土家族苗族自治州 湖北省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "青岛栈桥 青岛市 山东省": {
+    "lat": 36.1761454,
+    "lng": 120.3712118,
+    "display": "青岛公交集团李沧巴士有限公司第八分公司, 站前路, 怡顺社区, 沧口街道, 李沧区, 青岛市, 山东省, 266041, 中国",
+    "query": "青岛栈桥 青岛市 山东省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "青岛八大关 青岛市 山东省": {
+    "lat": null,
+    "lng": null,
+    "display": "",
+    "query": "青岛八大关 青岛市 山东省",
+    "source": "https://nominatim.openstreetmap.org/",
+    "error": "no_result"
+  },
+  "青岛八大关 山东省": {
+    "lat": null,
+    "lng": null,
+    "display": "",
+    "query": "青岛八大关 山东省",
+    "source": "https://nominatim.openstreetmap.org/",
+    "error": "no_result"
+  },
+  "八大关 青岛市 山东省": {
+    "lat": 36.0537929,
+    "lng": 120.3456498,
+    "display": "八大关, 八大关社区, 八大关街道, 市南区, 青岛市, 山东省, 266001, 中国",
+    "query": "八大关 青岛市 山东省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "大连滨海路 大连市 辽宁省": {
+    "lat": 39.0142368,
+    "lng": 121.5442624,
+    "display": "大连地铁2号线, 滨海公路, 革镇堡街道, 夏家, 甘井子区, 大连市, 辽宁省, 中国",
+    "query": "大连滨海路 大连市 辽宁省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "哈尔滨中央大街 哈尔滨市 黑龙江省": {
+    "lat": 45.7709843,
+    "lng": 126.6127863,
+    "display": "华梅酉䝳, 中央大街, 斯大林街道, 道里区, 哈尔滨市, 香坊区, 黑龙江省, 150000, 中国",
+    "query": "哈尔滨中央大街 哈尔滨市 黑龙江省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "昆明滇池 昆明市 云南省": {
+    "lat": 25.0011183,
+    "lng": 102.6231585,
+    "display": "昆明西客运站, 龙船甸村, 马街街道, 西山区, 昆明市, 云南省, 中国",
+    "query": "昆明滇池 昆明市 云南省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "昆明西山风景区 昆明市 云南省": {
+    "lat": null,
+    "lng": null,
+    "display": "",
+    "query": "昆明西山风景区 昆明市 云南省",
+    "source": "https://nominatim.openstreetmap.org/",
+    "error": "no_result"
+  },
+  "昆明西山风景区 云南省": {
+    "lat": null,
+    "lng": null,
+    "display": "",
+    "query": "昆明西山风景区 云南省",
+    "source": "https://nominatim.openstreetmap.org/",
+    "error": "no_result"
+  },
+  "西山 昆明市 云南省": {
+    "lat": 25.0411094,
+    "lng": 102.6649565,
+    "display": "西山区, 昆明市, 云南省, 中国",
+    "query": "西山 昆明市 云南省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "三亚亚龙湾 三亚市 海南省": {
+    "lat": 18.2288692,
+    "lng": 109.6229252,
+    "display": "三亚亚龙湾铂尔曼度假酒店, 青梅路, 亚龙湾街道, 吉阳区, 三亚市, 海南省, 572000, 中国",
+    "query": "三亚亚龙湾 三亚市 海南省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "青海湖金沙湾 海南藏族自治州 青海省": {
+    "lat": null,
+    "lng": null,
+    "display": "",
+    "query": "青海湖金沙湾 海南藏族自治州 青海省",
+    "source": "https://nominatim.openstreetmap.org/",
+    "error": "no_result"
+  },
+  "青海湖金沙湾 青海省": {
+    "lat": null,
+    "lng": null,
+    "display": "",
+    "query": "青海湖金沙湾 青海省",
+    "source": "https://nominatim.openstreetmap.org/",
+    "error": "no_result"
+  },
+  "金沙湾 海南藏族自治州 青海省": {
+    "lat": null,
+    "lng": null,
+    "display": "",
+    "query": "金沙湾 海南藏族自治州 青海省",
+    "source": "https://nominatim.openstreetmap.org/",
+    "error": "no_result"
+  },
+  "金沙湾": {
+    "lat": 28.7341699,
+    "lng": 121.6630337,
+    "display": "金沙湾, 临海市, 台州市, 浙江省, 中国",
+    "query": "金沙湾",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "青海湖金沙湾": {
+    "lat": 31.8887542,
+    "lng": 117.320525,
+    "display": "万国大厦, 七里塘社区, 合肥新站高新技术开发区, 瑶海区, 合肥市, 安徽省, 中国",
+    "query": "青海湖金沙湾",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "FALLBACK::青海湖金沙湾": {
+    "lat": 36.58,
+    "lng": 100.74,
+    "display": "Qinghai Lake east-shore Jinsha Bay public approx",
+    "query": "青海湖金沙湾",
+    "source": "manual_public_approx",
+    "fallback": true,
+    "fallback_note": "Qinghai Lake east-shore Jinsha Bay public approx"
+  },
+  "M+ Museum Hong Kong": {
+    "lat": 22.3009979,
+    "lng": 114.1591398,
+    "display": "M+, 38, 文化道 Cultural Drive, 西九龍 West Kowloon, 油麻地 Yau Ma Tei, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "query": "M+ Museum Hong Kong",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "Hong Kong Palace Museum": {
+    "lat": 22.3016491,
+    "lng": 114.1553984,
+    "display": "香港故宮文化博物館 Hong Kong Palace Museum, 8, 博物館道 Museum Drive, 油麻地 Yau Ma Tei, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "query": "Hong Kong Palace Museum",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "五彩滩 布尔津": {
+    "lat": 47.829336,
+    "lng": 86.6901992,
+    "display": "五彩滩, ​克孜勒加尔村 قىزىلجار, 也格孜托别乡, 布尔津县 بۋىرشىن اۋدانى, 阿勒泰地区, 新疆维吾尔自治区 شىنجاڭ ئۇيغۇر ئاپتونوم رايونی, 中国",
+    "query": "五彩滩 布尔津",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "禾木村": {
+    "lat": 48.5692063,
+    "lng": 87.4303716,
+    "display": "禾木村 قوم ᠬᠣᠮ, 禾木哈纳斯蒙古民族乡 قومقاناس موڭعۇل ۇلتتىق اۋىلى ᠬᠣᠮ ᠬᠠᠨᠠᠰ ᠮᠣᠩᠭᠣᠯ ᠦᠨᠳᠦᠰᠦᠲᠡᠨ ᠦ ᠰᠢᠶᠠᠩ, 布尔津县 بۋىرشىن اۋدانى, 阿勒泰地区, 新疆维吾尔自治区 شىنجاڭ ئۇيغۇر ئاپتونوم رايونی, 中国",
+    "query": "禾木村",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "乌尔禾 魔鬼城": {
+    "lat": 46.1144049,
+    "lng": 85.7609614,
+    "display": "世界魔鬼城景区, 乌尔禾区 ئورقۇ رايونى, 克拉玛依市 قاراماي شەھىرى, 新疆维吾尔自治区 شىنجاڭ ئۇيغۇر ئاپتونوم رايونی, 中国",
+    "query": "乌尔禾 魔鬼城",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "那拉提旅游风景区 新源": {
+    "lat": null,
+    "lng": null,
+    "display": "",
+    "query": "那拉提旅游风景区 新源",
+    "source": "https://nominatim.openstreetmap.org/",
+    "error": "no_result"
+  },
+  "那拉提旅游风景区 伊犁哈萨克自治州 新疆维吾尔自治区": {
+    "lat": null,
+    "lng": null,
+    "display": "",
+    "query": "那拉提旅游风景区 伊犁哈萨克自治州 新疆维吾尔自治区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "error": "no_result"
+  },
+  "那拉提旅游风景区 新疆维吾尔自治区": {
+    "lat": null,
+    "lng": null,
+    "display": "",
+    "query": "那拉提旅游风景区 新疆维吾尔自治区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "error": "no_result"
+  },
+  "那拉提草原 伊犁哈萨克自治州 新疆维吾尔自治区": {
+    "lat": 43.3534678,
+    "lng": 84.3649632,
+    "display": "那拉提服务区, 独库公路, 克泽拉夏, 兵团七十一团, 新源县, 伊犁哈萨克自治州, 新疆维吾尔自治区 شىنجاڭ ئۇيغۇر ئاپتونوم رايونی, 中国",
+    "query": "那拉提草原 伊犁哈萨克自治州 新疆维吾尔自治区",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "巴音布鲁克景区 和静": {
+    "lat": 42.9770532,
+    "lng": 83.9971148,
+    "display": "和静巴音布鲁克机场, 847号, 独库公路, 巴音郭楞乡 بايانغول يېزىسى, 和静县 خېجىڭ ناھىيىسى, 巴音郭楞蒙古自治州 بايىنغولىن موڭغۇل ئاپتونوم ئوبلاستى, 新疆维吾尔自治区 شىنجاڭ ئۇيغۇر ئاپتونوم رايونی, 841300, 中国",
+    "query": "巴音布鲁克景区 和静",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "独库公路": {
+    "lat": 44.3138753,
+    "lng": 84.8808634,
+    "display": "独库公路, 西宁路街道, 独山子区 مايتاغ رايونى, 克拉玛依市 قاراماي شەھىرى, 新疆维吾尔自治区 شىنجاڭ ئۇيغۇر ئاپتونوم رايونی, 833600, 中国",
+    "query": "独库公路",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "新都桥镇": {
+    "lat": 30.046713,
+    "lng": 101.4918038,
+    "display": "新都桥镇, 康定市 དར་མདོ་གྲོང་ཁྱེར།, 甘孜藏族自治州 དཀར་མཛེས་བོད་རིགས་རང་སྐྱོང་ཁུལ།, 四川省, 626000, 中国",
+    "query": "新都桥镇",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "理塘县": {
+    "lat": 29.8454263,
+    "lng": 100.277728,
+    "display": "理塘县 ལི་ཐང་རྫོང།, 甘孜藏族自治州 དཀར་མཛེས་བོད་རིགས་རང་སྐྱོང་ཁུལ།, 四川省, 中国",
+    "query": "理塘县",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "色达县": {
+    "lat": 32.3446457,
+    "lng": 100.2615301,
+    "display": "色达县 གསེར་ཐར་རྫོང།, 甘孜藏族自治州 དཀར་མཛེས་བོད་རིགས་རང་སྐྱོང་ཁུལ།, 四川省, 626600, 中国",
+    "query": "色达县",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "甲居藏寨": {
+    "lat": 30.9431083,
+    "lng": 101.8640785,
+    "display": "甲居藏寨, 聂呷, 丹巴县 རོང་བྲག་རྫོང།, 甘孜藏族自治州 དཀར་མཛེས་བོད་རིགས་རང་སྐྱོང་ཁུལ།, 四川省, 626300, 中国",
+    "query": "甲居藏寨",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "四姑娘山": {
+    "lat": 30.9955986,
+    "lng": 102.8308521,
+    "display": "四姑娘山镇, 小金县 བཙན་ལྷ་རྫོང་།, 阿坝藏族羌族自治州 རྔ་བ་བོད་རིགས་ཆ་བ༹ང་རིགས་རང་སྐྱོང་ཁུལ་, 四川省, 624200, 中国",
+    "query": "四姑娘山",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "大理洱海 大理白族自治州 云南省": {
+    "lat": 25.6281047,
+    "lng": 100.2836744,
+    "display": "大理洱海, 红山路, 下洱阳, 满江街道, 下庄, 大理市, 大理白族自治州, 云南省, 672100, 中国",
+    "query": "大理洱海 大理白族自治州 云南省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "普达措国家公园 香格里拉": {
+    "lat": 27.9128041,
+    "lng": 99.9030771,
+    "display": "普达措国家公园, 香格里拉市 སེམས་ཀྱི་ཉི་ཟླ་གྲོང་ཁྱེར།, 迪庆藏族自治州 བདེ་ཆེན་བོད་རིགས་རང་སྐྱོང་ཁུལ།, 云南省, 中国",
+    "query": "普达措国家公园 香格里拉",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "独克宗古城 迪庆藏族自治州 云南省": {
+    "lat": 27.8105134,
+    "lng": 99.7075855,
+    "display": "独克宗古城, 仓房街, 香格里拉市 སེམས་ཀྱི་ཉི་ཟླ།, 建塘镇, 香格里拉市 སེམས་ཀྱི་ཉི་ཟླ་གྲོང་ཁྱེར།, 迪庆藏族自治州 བདེ་ཆེན་བོད་རིགས་རང་སྐྱོང་ཁུལ།, 云南省, 674400, 中国",
+    "query": "独克宗古城 迪庆藏族自治州 云南省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "圣索菲亚 哈尔滨": {
+    "lat": 45.7681948,
+    "lng": 126.6212774,
+    "display": "圣索菲亚教堂, 索菲亚广场, 兆麟街道, 道里区, 哈尔滨市, 香坊区, 黑龙江省, 150000, 中国",
+    "query": "圣索菲亚 哈尔滨",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "亚布力滑雪": {
+    "lat": 44.7752383,
+    "lng": 128.4542495,
+    "display": "亚布力滑雪旅游度假区, 尚志市, 哈尔滨市, 黑龙江省, 150600, 中国",
+    "query": "亚布力滑雪",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "雪乡 双峰": {
+    "lat": 44.333097,
+    "lng": 128.2027661,
+    "display": "雪乡, 凤凰山-雪乡, 双峰林场, 大海林林业局, 海林市, 牡丹江市, 黑龙江省, 中国",
+    "query": "雪乡 双峰",
+    "source": "https://nominatim.openstreetmap.org/"
+  }
+}

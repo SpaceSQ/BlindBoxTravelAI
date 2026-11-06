@@ -1,0 +1,35 @@
+{
+  "spots": 116,
+  "routes": 0,
+  "provinces": 34,
+  "actual_tag_entries": 475,
+  "unique_tags": 471,
+  "declared_tags": 500,
+  "dangling_spot_refs": 0,
+  "errors": [
+    "SP010: strong tag interpretation missing 古镇",
+    "SP011: strong tag interpretation missing 石窟",
+    "SP019: strong tag interpretation missing 博物馆",
+    "SP026: strong tag interpretation missing 古镇",
+    "SP030: strong tag interpretation missing 古镇",
+    "SP033: strong tag interpretation missing 古镇",
+    "SP034: strong tag interpretation missing 古镇",
+    "SP038: strong tag interpretation missing 古镇",
+    "SP051: strong tag interpretation missing 石窟",
+    "SP059: strong tag interpretation missing 古镇",
+    "SP067: strong tag interpretation missing 瀑布",
+    "SP069: strong tag interpretation missing 古镇",
+    "SP073: strong tag interpretation missing 石窟",
+    "SP080: strong tag interpretation missing 古镇",
+    "SP081: strong tag interpretation missing 瀑布",
+    "SP085: strong tag interpretation missing 古镇",
+    "SP088: strong tag interpretation missing 古镇",
+    "SP096: strong tag interpretation missing 石窟"
+  ],
+  "warnings": [],
+  "source_channel_counts": {
+    "Official_Site": 116,
+    "Search_Engine": 116
+  },
+  "duration_counts": {}
+}

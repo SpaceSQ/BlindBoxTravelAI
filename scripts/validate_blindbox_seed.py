@@ -81,9 +81,17 @@ def validate(path, allow_counts=True):
         if route.get('route_type')=='single_spot':
             if not 1<=days<=2 or len(set(route.get('spot_ids',[])))!=1:errors.append(f'{label}: single route must be 1-2d one spot')
         elif route.get('route_type')=='multi_spot':
-            if not 2<=days<=7 or len(set(route.get('spot_ids',[])))<2:errors.append(f'{label}: multi route must be 2-7d 2+ spots')
+            if not 1<=days<=7 or len(set(route.get('spot_ids',[])))<2:errors.append(f'{label}: multi route must be 1-7d 2+ spots')
         else:errors.append(f'{label}: invalid route type')
-        text=' '.join(d.get('blind_highlights','') for d in schedule)
+        for d in schedule:
+            segments=d.get('segments')
+            if segments is not None:
+                if not isinstance(segments,list) or not segments:errors.append(f'{label}: empty day segments')
+                for seg in segments:
+                    if 'spot_id' not in seg or 'blind_highlights' not in seg:errors.append(f'{label}: incomplete day segment')
+            elif d.get('spot_id') is not None:
+                d['segments']=[{'spot_id':d['spot_id'],'blind_highlights':d.get('blind_highlights','')}]
+        text=' '.join(seg.get('blind_highlights','') for d in schedule for seg in d.get('segments',[]))
         blind=route.get('blind_route_title','')+' '+text
         for sid in route.get('spot_ids',[]):
             node_refs.add(sid)
@@ -92,11 +100,12 @@ def validate(path, allow_counts=True):
                 if alias and len(alias)>=2 and alias in blind:errors.append(f'{label}: alias leaked {alias!r}')
         for d in schedule:
             if d.get('day') not in range(1,days+1):errors.append(f'{label}: invalid day')
-            sid=d.get('spot_id')
-            if sid not in ids:errors.append(f'{label}: missing daily spot ID')
-            if sid not in route.get('spot_ids',[]):errors.append(f'{label}: daily node not declared')
-            for alias in ids.get(sid,{}).get('sensitive_terms',[]):
-                if alias and alias in text:errors.append(f'{label}: sensitive daily text {alias!r}')
+            for seg in d.get('segments',[]):
+                sid=seg.get('spot_id')
+                if sid not in ids:errors.append(f'{label}: missing daily spot ID')
+                if sid not in route.get('spot_ids',[]):errors.append(f'{label}: daily node not declared')
+                for alias in ids.get(sid,{}).get('sensitive_terms',[]):
+                    if alias and alias in text:errors.append(f'{label}: sensitive daily text {alias!r}')
         if not route.get('source_refs',route.get('sources',[])):errors.append(f'{label}: no route sources')
         for ref in route.get('source_refs',route.get('sources',[])):
             if not URL.match(ref.get('url','')):errors.append(f'{label}: invalid route URL')

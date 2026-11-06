@@ -1,0 +1,24 @@
+{
+  "spots": 186,
+  "routes": 60,
+  "provinces": 34,
+  "actual_tag_entries": 475,
+  "unique_tags": 471,
+  "declared_tags": 500,
+  "unbound_spot_refs": 0,
+  "errors": [],
+  "warnings": [],
+  "source_channel_counts": {
+    "Official_Site": 4,
+    "Search_Engine": 186
+  },
+  "duration_counts": {
+    "3": 9,
+    "1": 22,
+    "2": 21,
+    "5": 1,
+    "4": 2,
+    "7": 3,
+    "6": 2
+  }
+}

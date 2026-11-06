@@ -1,0 +1,875 @@
+{
+  "故宫博物院|北京市|东城区": {
+    "lat": 39.9174311,
+    "lng": 116.3907817,
+    "display": "故宫博物院, 4号, 景山前街, 智德社区, 东华门街道, 首都功能核心区, 东城区, 北京市, 100010, 中国",
+    "query": "故宫博物院 东城区 北京市",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "八达岭长城|北京市|延庆区": {
+    "lat": 40.3603284,
+    "lng": 116.0050515,
+    "display": "八达岭长城, 出站通道, 八达岭镇, 延庆区, 北京市, 中国",
+    "query": "八达岭长城 延庆区 北京市",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "颐和园|北京市|海淀区": {
+    "lat": 39.9900983,
+    "lng": 116.2647403,
+    "display": "颐和园, 19, 新建宫门路, 青龙桥街道, 海淀区, 北京市, 100091, 中国",
+    "query": "颐和园 海淀区 北京市",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "天津古文化街旅游区|天津市|南开区": {
+    "lat": 39.1426486,
+    "lng": 117.1858862,
+    "display": "天津古文化街旅游区, 鼓楼街道, 南开区, 天津市, 中国",
+    "query": "天津古文化街旅游区 南开区 天津市",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "天津盘山风景名胜区|天津市|蓟州区": {
+    "lat": 40.1008673,
+    "lng": 117.2790857,
+    "display": "盘山风景名胜区, 砖瓦窑村, 蓟州区, 天津市, 中国",
+    "query": "天津盘山风景名胜区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "承德避暑山庄及周围寺庙景区|河北省|承德市": {
+    "lat": 40.9934927,
+    "lng": 117.9260025,
+    "display": "避暑山庄, 广仁大街, 头道牌楼街道, 双桥区, 承德市, 河北省, 067000, 中国",
+    "query": "承德避暑山庄",
+    "source": "https://nominatim.openstreetmap.org/",
+    "alt": true
+  },
+  "秦皇岛山海关景区|河北省|秦皇岛市": {
+    "lat": 39.9965782,
+    "lng": 119.7995477,
+    "display": "秦皇岛经济技术开发区第二中学, 北京东道, 王家岭, 渤海乡, 山海关区, 秦皇岛市, 河北省, 中国",
+    "query": "秦皇岛山海关景区 秦皇岛市 河北省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "保定野三坡景区|河北省|保定市": {
+    "lat": 39.6706326,
+    "lng": 115.4481434,
+    "display": "野三坡, 野三坡大道, 北流子, 涞水县, 保定市, 河北省, 中国",
+    "query": "野三坡",
+    "source": "https://nominatim.openstreetmap.org/",
+    "alt": true
+  },
+  "五台山风景名胜区|山西省|忻州市": {
+    "lat": 38.9537125,
+    "lng": 113.6331346,
+    "display": "五台山风景名胜区, 五台县, 忻州市, 山西省, 035514, 中国",
+    "query": "五台山风景名胜区 忻州市 山西省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "平遥古城景区|山西省|晋中市": {
+    "lat": 36.0691603,
+    "lng": 111.4874768,
+    "display": "御景社区, 鼓楼西街街道, 马站村, 临汾市, 尧都区, 临汾市, 山西省, 041000, 中国",
+    "query": "平遥古城景区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "云冈石窟|山西省|大同市": {
+    "lat": 40.1126526,
+    "lng": 113.1304412,
+    "display": "云冈石窟, 莲花大道, 云冈镇, 云冈区, 大同市, 山西省, 中国",
+    "query": "云冈石窟 大同市 山西省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "呼伦贝尔中俄边境旅游区|内蒙古自治区|呼伦贝尔市": {
+    "lat": 49.6293909,
+    "lng": 117.340872,
+    "display": "中华人民共和国满洲里国门, 火车头广场, 兴华街道, 满洲里市 ᠮᠠᠨᠵᠤᠤᠷ ᠬᠣᠲᠠ, 呼伦贝尔市 ᠬᠥᠯᠥᠨ ᠪᠤᠶᠢᠷ, 内蒙古自治区 ᠦᠪᠦᠷ ᠮᠣᠩᠭᠤᠯ ᠤᠨ ᠥᠪᠡᠷᠲᠡᠭᠡᠨ ᠵᠠᠰᠠᠬᠣ ᠣᠷᠣᠨ, 021400, 中国",
+    "query": "满洲里国门",
+    "source": "https://nominatim.openstreetmap.org/",
+    "alt": true
+  },
+  "响沙湾旅游景区|内蒙古自治区|鄂尔多斯市": {
+    "lat": 21.6355836,
+    "lng": 108.3360231,
+    "display": "西湾旅游景区游客中心, 滨海公路, 龙孔墩, 沙木𬇕村, 江山镇, 防城区, 防城港市, 广西壮族自治区, 538001, 中国",
+    "query": "响沙湾旅游景区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "阿尔山-柴河旅游景区|内蒙古自治区|兴安盟": {
+    "lat": 47.120858,
+    "lng": 120.3879963,
+    "display": "阿尔山国家森林公园, 内蒙古自治区 ᠦᠪᠦᠷ ᠮᠣᠩᠭᠤᠯ ᠤᠨ ᠥᠪᠡᠷᠲᠡᠭᠡᠨ ᠵᠠᠰᠠᠬᠣ ᠣᠷᠣᠨ, 中国",
+    "query": "阿尔山国家森林公园",
+    "source": "https://nominatim.openstreetmap.org/",
+    "alt": true
+  },
+  "千山景区|辽宁省|鞍山市": {
+    "lat": 41.1041524,
+    "lng": 123.0107737,
+    "display": "千山中路, 园林街道, 玉佛山风景区, 铁东区, 鞍山市, 辽宁省, 114051, 中国",
+    "query": "千山景区 鞍山市 辽宁省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "本溪水洞景区|辽宁省|本溪市": {
+    "lat": 41.2599807,
+    "lng": 124.0027219,
+    "display": "本溪水洞, 本集高速, 谢家街, 小市镇, 本溪满族自治县, 本溪市, 辽宁省, 中国",
+    "query": "本溪水洞 辽宁",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fixed": true
+  },
+  "大连老虎滩海洋公园|辽宁省|大连市": {
+    "lat": 38.8729816,
+    "lng": 121.6734492,
+    "display": "大连老虎滩海洋公园, 解放路, 桃源街道, 中山区, 甘井子区, 大连市, 辽宁省, 160013, 中国",
+    "query": "大连老虎滩海洋公园 大连市 辽宁省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "长白山景区|吉林省|延边朝鲜族自治州": {
+    "lat": 42.230923,
+    "lng": 128.1761437,
+    "display": "长白山公安局池北分局天文峰派出所, 丹阿线, 池北区, 二道白河镇 이도백하진, 长白山管委会, 安图县 안도현, 延边朝鲜族自治州 연변조선족자치주, 吉林省, 中国",
+    "query": "长白山天池",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fixed": true
+  },
+  "伪满皇宫博物馆|吉林省|长春市": {
+    "lat": 43.902856,
+    "lng": 125.3422046,
+    "display": "伪满皇宫博物院, 光复北路, 新广街道, 宽城区, 长春市, 绿园区, 吉林省, 130000, 中国",
+    "query": "伪满皇宫博物馆 长春市 吉林省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "净月潭景区|吉林省|长春市": {
+    "lat": 43.7779264,
+    "lng": 125.4722872,
+    "display": "净月潭, 南关区, 长春市, 南关区, 吉林省, 130000, 中国",
+    "query": "净月潭景区 长春市 吉林省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "五大连池景区|黑龙江省|黑河市": {
+    "lat": 48.7059647,
+    "lng": 126.239649,
+    "display": "五大连池世界地质公园, 五大连池市, 黑河市, 黑龙江省, 164300, 中国",
+    "query": "五大连池景区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "镜泊湖景区|黑龙江省|牡丹江市": {
+    "lat": 31.072764,
+    "lng": 104.4110652,
+    "display": "镜泊湖路, 八角井街道, 旌阳区, 德阳市, 四川省, 中国",
+    "query": "镜泊湖景区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "太阳岛景区|黑龙江省|哈尔滨市": {
+    "lat": 45.7753381,
+    "lng": 126.5564228,
+    "display": "哈尔滨冰雪大世界, 冰景路, 太阳岛街道, 松北区, 哈尔滨市, 道里区, 黑龙江省, 150000, 中国",
+    "query": "哈尔滨太阳岛景区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fixed": true
+  },
+  "外滩|上海市|黄浦区": {
+    "lat": 31.2353356,
+    "lng": 121.487632,
+    "display": "外滩, 新北门, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+    "query": "外滩 黄浦区 上海市",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "上海科技馆|上海市|浦东新区": {
+    "lat": 31.2206022,
+    "lng": 121.5367332,
+    "display": "上海科技馆, 2000, 世纪大道, 花木街道, 浦东新区, 上海市, 200127, 中国",
+    "query": "上海科技馆 浦东新区 上海市",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "朱家角古镇|上海市|青浦区": {
+    "lat": 31.1161007,
+    "lng": 121.0460099,
+    "display": "朱家角古镇旅客中心, 555, 课植园路, 朱家角镇, 青浦区, 上海市, 201713, 中国",
+    "query": "朱家角古镇 青浦区 上海市",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "南京夫子庙-秦淮风光带|江苏省|南京市": {
+    "lat": 32.0228156,
+    "lng": 118.7835375,
+    "display": "南京夫子庙, 95, 贡院街, 三条营社区, 夫子庙街道, 秦淮区, 南京市, 江苏省, 210006, 中国",
+    "query": "南京夫子庙",
+    "source": "https://nominatim.openstreetmap.org/",
+    "alt": true
+  },
+  "苏州园林拙政园|江苏省|苏州市": {
+    "lat": 31.3237522,
+    "lng": 120.6233194,
+    "display": "苏州博物馆 拙政园 狮子林, 临顿路, 拙政园社区, 平江街道, 姑苏区, 苏州市, 江苏省, 215005, 中国",
+    "query": "苏州园林拙政园 苏州市 江苏省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "扬州瘦西湖风景区|江苏省|扬州市": {
+    "lat": 32.4127971,
+    "lng": 119.4130057,
+    "display": "瘦西湖, 瘦西湖街道, 邗江区, 扬州市, 江苏省, 225100, 中国",
+    "query": "瘦西湖",
+    "source": "https://nominatim.openstreetmap.org/",
+    "alt": true
+  },
+  "同里古镇景区|江苏省|苏州市": {
+    "lat": 28.7328824,
+    "lng": 115.8785856,
+    "display": "丰和北互通立交, 北一环路, 凤凰村, 凤凰洲街道, 红谷滩区, 南昌经开区, 新建区, 南昌市, 江西省, 330038, 中国",
+    "query": "同里古镇景区 苏州市 江苏省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "无锡鼋头渚旅游风景区|江苏省|无锡市": {
+    "lat": 31.5246454,
+    "lng": 120.2019918,
+    "display": "太湖鼋头渚风景区, 滨湖区, 无锡市, 江苏省, 214000, 中国",
+    "query": "鼋头渚",
+    "source": "https://nominatim.openstreetmap.org/",
+    "alt": true
+  },
+  "杭州西湖风景名胜区|浙江省|杭州市": {
+    "lat": 30.2259049,
+    "lng": 120.1195323,
+    "display": "杭州西湖风景名胜区, 杭州市, 浙江省, 中国",
+    "query": "杭州西湖风景名胜区 杭州市 浙江省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "乌镇古镇旅游区|浙江省|嘉兴市": {
+    "lat": 28.8926934,
+    "lng": 115.8304303,
+    "display": "南昌珍奇植物园, 溪霞绿谷, 溪霞镇, 新建区, 南昌市, 江西省, 中国",
+    "query": "乌镇古镇旅游区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "西塘古镇旅游景区|浙江省|嘉兴市": {
+    "lat": 25.343317,
+    "lng": 114.3424296,
+    "display": "大余县梅关景区, 梅关古道, 大余县, 赣州市, 江西省, 中国",
+    "query": "西塘古镇旅游景区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "西溪湿地旅游区|浙江省|杭州市": {
+    "lat": 30.2535309,
+    "lng": 120.1387829,
+    "display": "浙江省博物馆, 孤山路, 北山街道, 西湖区, 杭州市, 浙江省, 310007, 中国",
+    "query": "西溪湿地旅游区 杭州市 浙江省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "普陀山风景名胜区|浙江省|舟山市": {
+    "lat": 30.0112928,
+    "lng": 122.3863158,
+    "display": "普陀山, 舟山市, 浙江省, 中国",
+    "query": "普陀山",
+    "source": "https://nominatim.openstreetmap.org/",
+    "alt": true
+  },
+  "黄山风景区|安徽省|黄山市": {
+    "lat": 30.1383784,
+    "lng": 118.1601569,
+    "display": "黄山风景区, 黄山区, 黄山市, 安徽省, 中国",
+    "query": "黄山风景区 黄山市 安徽省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "皖南古村落西递宏村|安徽省|黄山市": {
+    "lat": 23.0491796,
+    "lng": 113.2866307,
+    "display": "广南快速, 裕景花园西区, 洛浦街道, 番禺区, 广州市, 广东省, 511400, 中国",
+    "query": "皖南古村落西递宏村",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "天柱山风景区|安徽省|安庆市": {
+    "lat": 31.8560148,
+    "lng": 117.19317,
+    "display": "天柱路, 长江西路, 天乐社区, 天乐社区服务中心, 合肥高新技术产业开发区, 蜀山区, 合肥市, 安徽省, 230088, 中国",
+    "query": "天柱山风景区 安庆市 安徽省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "鼓浪屿风景名胜区|福建省|厦门市": {
+    "lat": 24.4487419,
+    "lng": 118.0682866,
+    "display": "鼓浪屿风景名胜区-标识牌(钢琴码头), 龙头路, 三友假日旅游城, 龙头社区, 鼓浪屿街道, 思明区, 厦门市, 福建省, 361002, 中国",
+    "query": "鼓浪屿风景名胜区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "武夷山风景名胜区|福建省|南平市": {
+    "lat": 27.6601575,
+    "lng": 117.946184,
+    "display": "武夷山国家级风景名胜区, 南平市, 福建省, 354300, 中国",
+    "query": "武夷山风景名胜区 南平市 福建省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "福建土楼永定南靖旅游景区|福建省|龙岩市": {
+    "lat": 24.6727727,
+    "lng": 116.9775831,
+    "display": "永定土楼, 漳武高速, 永定区, 龙岩市, 福建省, 中国",
+    "query": "永定土楼",
+    "source": "https://nominatim.openstreetmap.org/",
+    "alt": true
+  },
+  "泉州蟳埔村|福建省|泉州市": {
+    "lat": 24.8659896,
+    "lng": 118.6484798,
+    "display": "泉州理工学院, 通学路, 蟳埔渔村, 金崎社区, 东海街道, 泉州市, 丰泽区, 泉州市, 福建省, 362000, 中国",
+    "query": "泉州蟳埔村 泉州市 福建省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "三坊七巷景区|福建省|福州市": {
+    "lat": 26.0850946,
+    "lng": 119.2919836,
+    "display": "三坊七巷, 丰井营巷, 南街街道, 鼓楼区, 福州市, 福建省, 350001, 中国",
+    "query": "三坊七巷景区 福州市 福建省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "庐山风景名胜区|江西省|九江市": {
+    "lat": 28.9090099,
+    "lng": 118.0719177,
+    "display": "三清山风景区, 三清乡, 三清山风景名胜区, 玉山县, 上饶市, 江西省, 中国",
+    "query": "庐山风景名胜区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "井冈山风景旅游区|江西省|吉安市": {
+    "lat": 26.74998,
+    "lng": 114.2732809,
+    "display": "井冈山市体育公园, 五指峰大道, 绿地鑫城, 映山红路社区, 红星街道, 井冈山市, 吉安市, 江西省, 343600, 中国",
+    "query": "井冈山风景旅游区 吉安市 江西省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "婺源江湾景区|江西省|上饶市": {
+    "lat": 29.2793173,
+    "lng": 117.8517957,
+    "display": "婺源县博物馆, 文公北路, 井湾, 蚺城街道, 武口社区, 朱塘社区, 婺源县, 上饶市, 江西省, 中国",
+    "query": "婺源江湾景区 上饶市 江西省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "泰山景区|山东省|泰安市": {
+    "lat": 38.7295456,
+    "lng": 116.121421,
+    "display": "泰山道温泉小区, 泰山北道, 中国石油华北石化, 任丘经济开发区, 任丘市, 沧州市, 河北省, 062500, 中国",
+    "query": "泰山景区 泰安市 山东省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "曲阜明故城三孔旅游区|山东省|济宁市": {
+    "lat": 35.5951635,
+    "lng": 116.9843791,
+    "display": "孔庙, 通相圃街, 鲁城街道, 曲阜市, 济宁市, 山东省, 273100, 中国",
+    "query": "曲阜孔庙",
+    "source": "https://nominatim.openstreetmap.org/",
+    "alt": true
+  },
+  "青岛崂山景区|山东省|青岛市": {
+    "lat": 36.1293216,
+    "lng": 120.5815533,
+    "display": "青岛地铁4号线, 崂山巨峰景区公路, 沙子口街道, 崂山区, 青岛市, 山东省, 266100, 中国",
+    "query": "青岛崂山景区 青岛市 山东省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "龙门石窟景区|河南省|洛阳市": {
+    "lat": 34.5571154,
+    "lng": 112.4707112,
+    "display": "龙门石窟, 龙门大桥, 河东社区, 龙门石窟街道, 洛龙区, 洛阳市, 河南省, 中国",
+    "query": "龙门石窟 洛阳",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fixed": true
+  },
+  "嵩山少林景区|河南省|郑州市": {
+    "lat": 31.7113044,
+    "lng": 117.2394499,
+    "display": "临湖社区卫生服务中心, 玉屏南路, 临湖吉园, 临湖社区, 合肥经济技术开发区, 蜀山区, 合肥市, 安徽省, 中国",
+    "query": "嵩山少林景区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "云台山风景区|河南省|焦作市": {
+    "lat": 25.0036488,
+    "lng": 121.6867281,
+    "display": "雲台山大羅金仙府, 靜安路一段, 永定里, 石碇區, 新北市, 22341, 臺灣",
+    "query": "云台山风景区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "武汉黄鹤楼公园|湖北省|武汉市": {
+    "lat": 30.5469559,
+    "lng": 114.2922145,
+    "display": "武汉市武昌实验寄宿小学, 首义公园路, 黄鹤楼街道, 武昌区, 武汉市, 湖北省, 230060, 中国",
+    "query": "武汉黄鹤楼公园 武汉市 湖北省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "武当山风景区|湖北省|十堰市": {
+    "lat": 32.4763488,
+    "lng": 111.0721051,
+    "display": "武当山风景区, 遇真宫村, 丹江口市, 十堰市, 湖北省, 中国",
+    "query": "武当山风景区 十堰市 湖北省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "神农架生态旅游区|湖北省|神农架林区": {
+    "lat": 31.58339,
+    "lng": 110.497198,
+    "display": "神农架林区, 湖北省, 442400, 中国",
+    "query": "神农架",
+    "source": "https://nominatim.openstreetmap.org/",
+    "alt": true
+  },
+  "张家界武陵源风景区|湖南省|张家界市": {
+    "lat": 29.3387031,
+    "lng": 110.5283093,
+    "display": "武陵源风景名胜区, 军地坪街道, 武陵源区, 张家界市, 湖南省, 427400, 中国",
+    "query": "张家界武陵源风景区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "岳麓山橘子洲旅游区|湖南省|长沙市": {
+    "lat": 28.1869583,
+    "lng": 112.9283216,
+    "display": "岳麓山, 岳麓区, 湘江新区, 岳麓区, 长沙市, 湖南省, 410006, 中国",
+    "query": "岳麓山",
+    "source": "https://nominatim.openstreetmap.org/",
+    "alt": true
+  },
+  "凤凰古城旅游区|湖南省|湘西土家族苗族自治州": {
+    "lat": 28.7247885,
+    "lng": 115.8701045,
+    "display": "凤凰村, 凤凰洲街道, 红谷滩区, 南昌市, 江西省, 中国",
+    "query": "凤凰古城旅游区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "衡山旅游区|湖南省|衡阳市": {
+    "lat": 29.0160559,
+    "lng": 115.8432473,
+    "display": "横山路, 学苑社区, 丰安街道, 永修县, 九江市, 江西省, 中国",
+    "query": "衡山旅游区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "广州白云山景区|广东省|广州市": {
+    "lat": 23.1918425,
+    "lng": 113.3222472,
+    "display": "广州大道北, 白山, 同和街道, 白云区, 广州市, 广东省, 510515, 中国",
+    "query": "广州白云山景区 广州市 广东省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "丹霞山景区|广东省|韶关市": {
+    "lat": 24.7590689,
+    "lng": 113.5254187,
+    "display": "沙胆彪炭炉牛杂煲, 盆景山路, 百旺中社区, 老何屋, 下胡村, 西联镇, 武江区, 韶关市, 广东省, 512029, 中国",
+    "query": "丹霞山景区 韶关市 广东省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "开平碉楼文化旅游区|广东省|江门市": {
+    "lat": 22.3114035,
+    "lng": 112.5547518,
+    "display": "碉楼, 中阳信高速, 百合镇, 开平市, 江门市, 广东省, 中国",
+    "query": "开平碉楼",
+    "source": "https://nominatim.openstreetmap.org/",
+    "alt": true
+  },
+  "惠州西湖旅游景区|广东省|惠州市": {
+    "lat": 31.765554,
+    "lng": 117.2046737,
+    "display": "合肥供水集团有限公司经开区供水分公司, 肥西经济技术开发区, 幸福坝街道, 肥西县, 合肥市, 安徽省, 231200, 中国",
+    "query": "惠州西湖旅游景区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "海陵岛大角湾海上丝路旅游区|广东省|阳江市": {
+    "lat": 21.5703427,
+    "lng": 111.8379394,
+    "display": "大角湾, 莳元村, 闸坡镇, 海陵岛经济开发试验区, 江城区, 阳江市, 广东省, 中国",
+    "query": "海陵岛大角湾",
+    "source": "https://nominatim.openstreetmap.org/",
+    "alt": true
+  },
+  "桂林漓江风景区|广西壮族自治区|桂林市": {
+    "lat": 25.6914981,
+    "lng": 110.4768795,
+    "display": "漓江, 兴安县, 桂林市, 广西壮族自治区, 中国",
+    "query": "漓江 桂林",
+    "source": "https://nominatim.openstreetmap.org/",
+    "alt": true
+  },
+  "德天跨国瀑布景区|广西壮族自治区|崇左市": {
+    "lat": 22.821734,
+    "lng": 106.7914592,
+    "display": "德天跨国瀑布景区游客集散中心, 骨屯, 大新县, 崇左市, 广西壮族自治区, 中国",
+    "query": "德天跨国瀑布景区 崇左市 广西壮族自治区",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "涠洲岛南湾鳄鱼山景区|广西壮族自治区|北海市": {
+    "lat": 21.0402578,
+    "lng": 109.1104199,
+    "display": "涠洲岛, 涠洲镇, 海城区, 北海市, 涠洲岛和猪仔岭, 广西壮族自治区, 中国",
+    "query": "涠洲岛",
+    "source": "https://nominatim.openstreetmap.org/",
+    "alt": true
+  },
+  "黄姚古镇景区|广西壮族自治区|贺州市": {
+    "lat": 31.7456283,
+    "lng": 117.217931,
+    "display": "安徽建筑大学(南校区), 青鸾路, 天门湖居民委员会, 锦绣社区, 合肥经济技术开发区, 蜀山区, 合肥市, 安徽省, 230601, 中国",
+    "query": "黄姚古镇景区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "三亚南山文化旅游区|海南省|三亚市": {
+    "lat": 18.3000907,
+    "lng": 109.2066329,
+    "display": "南山文化旅游区, 科技城街道, 崖州区, 三亚市, 海南省, 中国",
+    "query": "三亚南山文化旅游区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "蜈支洲岛旅游区|海南省|三亚市": {
+    "lat": 18.3162081,
+    "lng": 109.2408333,
+    "display": "植物園, 海南环岛旅游公路, 红塘湾街道, 天涯区, 三亚市, 海南省, 中国",
+    "query": "蜈支洲岛旅游区 三亚市 海南省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "呀诺达雨林文化旅游区|海南省|保亭黎族苗族自治县": {
+    "lat": 18.4619138,
+    "lng": 109.6424221,
+    "display": "呀诺达雨林文化旅游区, 三道镇, 保亭黎族苗族自治县, 海南省, 中国",
+    "query": "呀诺达雨林文化旅游区 保亭黎族苗族自治县 海南省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "大足石刻景区|重庆市|大足区": {
+    "lat": 31.8565331,
+    "lng": 117.1483957,
+    "display": "合肥市蜀麓幼儿园, 雪霁路, 安徽嘉文仪器装备有限公司, 卓然社区, 合肥蜀山经济技术开发区, 蜀山区, 合肥市, 安徽省, 230088, 中国",
+    "query": "大足石刻景区 大足区 重庆市",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "武隆喀斯特旅游区|重庆市|武隆区": {
+    "lat": 29.4203599,
+    "lng": 107.7639422,
+    "display": "武隆喀斯特旅游区游客中心, 银杏大道, 仙女山街道, 武隆区, 重庆市, 中国",
+    "query": "武隆喀斯特旅游区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "小三峡旅游区|重庆市|巫山县": {
+    "lat": 31.2334268,
+    "lng": 109.8724932,
+    "display": "小小三峡, 平河乡, 巫山县, 重庆市, 中国",
+    "query": "巫山小三峡",
+    "source": "https://nominatim.openstreetmap.org/",
+    "alt": true
+  },
+  "九寨沟风景名胜区|四川省|阿坝藏族羌族自治州": {
+    "lat": 33.1183597,
+    "lng": 103.8838886,
+    "display": "九寨沟风景名胜区, 九寨沟县 གཟི་རྩ་སྡེ་དགུ་རྫོང།, 阿坝藏族羌族自治州 རྔ་བ་བོད་རིགས་ཆ་བ༹ང་རིགས་རང་སྐྱོང་ཁུལ་, 四川省, 623400, 中国",
+    "query": "九寨沟风景名胜区 阿坝藏族羌族自治州 四川省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "稻城亚丁风景区|四川省|甘孜藏族自治州": {
+    "lat": 28.5049209,
+    "lng": 100.2602987,
+    "display": "稻城亚丁国家级自然保护区, 稻城县 འདབ་པ་རྫོང།, 甘孜藏族自治州 དཀར་མཛེས་བོད་རིགས་རང་སྐྱོང་ཁུལ།, 四川省, 627700, 中国",
+    "query": "稻城亚丁",
+    "source": "https://nominatim.openstreetmap.org/",
+    "alt": true
+  },
+  "峨眉山风景区|四川省|乐山市": {
+    "lat": 29.556751,
+    "lng": 103.3519442,
+    "display": "峨眉山风景区, 黑水坪, 峨眉山市, 乐山市, 四川省, 中国",
+    "query": "峨眉山风景区 乐山市 四川省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "都江堰景区|四川省|成都市": {
+    "lat": 31.0034377,
+    "lng": 103.6093046,
+    "display": "都江堰景区, 南街, 美丽新城, 灌口街道, 都江堰市, 成都市, 四川省, 中国",
+    "query": "都江堰景区 成都市 四川省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "阆中古城旅游景区|四川省|南充市": {
+    "lat": 28.691361,
+    "lng": 115.8444181,
+    "display": "红谷滩中央绿廊广场, 丰和花园社区, 沙井街道, 岭口村, 红谷滩区, 南昌市, 江西省, 中国",
+    "query": "阆中古城旅游景区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "黄果树瀑布景区|贵州省|安顺市": {
+    "lat": 30.4922407,
+    "lng": 114.6095275,
+    "display": "左岭凤鸣社区, 左岭街道, 东湖新技术开发区, 洪山区, 武汉市, 湖北省, 中国",
+    "query": "黄果树瀑布景区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "荔波小七孔景区|贵州省|黔南布依族苗族自治州": {
+    "lat": 25.2632684,
+    "lng": 107.7114259,
+    "display": "小七孔风景区, 绿林村, 荔波县, 黔南布依族苗族自治州, 贵州省, 558000, 中国",
+    "query": "荔波小七孔景区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "西江千户苗寨|贵州省|黔东南苗族侗族自治州": {
+    "lat": 26.4955484,
+    "lng": 108.1702247,
+    "display": "西江千户苗寨, X886, 西江镇, 雷山县, 黔东南苗族侗族自治州, 贵州省, 中国",
+    "query": "西江千户苗寨 黔东南苗族侗族自治州 贵州省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "万峰林景区|贵州省|黔西南布依族苗族自治州": {
+    "lat": 24.9748741,
+    "lng": 104.9235821,
+    "display": "万峰林景区, 上纳灰村, 兴义市, 黔西南布依族苗族自治州, 贵州省, 中国",
+    "query": "万峰林景区 黔西南布依族苗族自治州 贵州省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "丽江古城|云南省|丽江市": {
+    "lat": 26.8739042,
+    "lng": 100.2352809,
+    "display": "丽江古城, 古城区, 丽江市, 云南省, 中国",
+    "query": "丽江古城 丽江市 云南省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "玉龙雪山景区|云南省|丽江市": {
+    "lat": 29.5894643,
+    "lng": 106.4855468,
+    "display": "渝北区龙山小学校, 景辉路, 天竺路社区, 龙山街道, 两江新区, 重庆市, 401147, 中国",
+    "query": "玉龙雪山景区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "石林风景区|云南省|昆明市": {
+    "lat": 24.8156992,
+    "lng": 103.3245807,
+    "display": "石林风景区, 阿诗玛北路, 石林彝族自治县, 昆明市, 云南省, 652200, 中国",
+    "query": "石林风景区 昆明市 云南省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "大理古城|云南省|大理白族自治州": {
+    "lat": 25.698269,
+    "lng": 100.162485,
+    "display": "大理古城, 复兴路, 一塔小区, 五华社区, 文献, 大理镇, 大理市, 大理白族自治州, 云南省, 671003, 中国",
+    "query": "大理古城 大理白族自治州 云南省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "西双版纳热带植物园|云南省|西双版纳傣族自治州": {
+    "lat": 21.9173632,
+    "lng": 101.272758,
+    "display": "中国科学院西双版纳热带植物园, 勐仑镇 ᦵᦙᦲᧂ ᦓᦳᧃ ᦵᦈᦲᧃᧈ, 勐腊县, 西双版纳傣族自治州, 云南省, 666303, 中国",
+    "query": "西双版纳热带植物园",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "布达拉宫|西藏自治区|拉萨市": {
+    "lat": 29.6575676,
+    "lng": 91.1170188,
+    "display": "布达拉宫, 康昂北路东段, 吉崩岗街道, 城关区 ཁྲིན་ཀོན་ཆུས།, 拉萨市 ལྷ་ས་གྲོང་ཁྱེར།, 西藏自治区 བོད་རང་སྐྱོང་ལྗོངས།, 850000, 中国",
+    "query": "布达拉宫 拉萨市 西藏自治区",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "纳木错|西藏自治区|拉萨市": {
+    "lat": 30.9165904,
+    "lng": 90.8664194,
+    "display": "纳木湖村, 拉萨市 ལྷ་ས་གྲོང་ཁྱེར།, 西藏自治区 བོད་རང་སྐྱོང་ལྗོངས།, 中国",
+    "query": "纳木错 拉萨市 西藏自治区",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "珠穆朗玛峰国家级自然保护区|西藏自治区|日喀则市": {
+    "lat": 28.4717532,
+    "lng": 86.4372542,
+    "display": "珠穆朗玛峰国家级自然保护区, 西藏自治区 བོད་རང་སྐྱོང་ལྗོངས།, 858200, 中国",
+    "query": "珠穆朗玛峰国家级自然保护区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "秦始皇兵马俑博物馆|陕西省|西安市": {
+    "lat": 34.3873627,
+    "lng": 109.277673,
+    "display": "秦始皇兵马俑博物馆, 秦陵北路, 临潼区, 西安市, 陕西省, 中国",
+    "query": "秦始皇兵马俑博物馆 西安市 陕西省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "华山景区|陕西省|渭南市": {
+    "lat": 37.611654,
+    "lng": 113.6943654,
+    "display": "昔阳县示范中学, 1, 常家街, 南关社区, 昔阳县, 晋中市, 山西省, 045300, 中国",
+    "query": "华山景区 渭南市 陕西省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "大雁塔|陕西省|西安市": {
+    "lat": 34.2197968,
+    "lng": 108.9594259,
+    "display": "大雁塔, 雁塔西步行街, 大雁塔街道, 雁塔区, 西安市, 陕西省, 710064, 中国",
+    "query": "大雁塔 西安市 陕西省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "敦煌莫高窟|甘肃省|酒泉市": {
+    "lat": 40.0373163,
+    "lng": 94.8042114,
+    "display": "莫高窟, 慈氏塔广场, 月牙泉镇, 敦煌市, 酒泉市, 甘肃省, 736200, 中国",
+    "query": "敦煌莫高窟 酒泉市 甘肃省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "嘉峪关文物景区|甘肃省|嘉峪关市": {
+    "lat": 39.8017843,
+    "lng": 98.2393877,
+    "display": "嘉峪关文物景区售票处, 博园路, 雄关街道, 嘉峪关市, 甘肃省, 735100, 中国",
+    "query": "嘉峪关文物景区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "张掖七彩丹霞旅游景区|甘肃省|张掖市": {
+    "lat": 38.952852,
+    "lng": 100.0872653,
+    "display": "张掖七彩丹霞旅游景区, 白银蒙古族乡 ᠪᠠᠶᠠᠨ ᠮᠣᠩᠭᠣᠯ ᠦᠨᠳᠦᠰᠦᠲᠡᠨ ᠦ ᠰᠤᠮᠤ, 肃南裕固族自治县, 张掖市, 甘肃省, 734400, 中国",
+    "query": "张掖七彩丹霞旅游景区 张掖市 甘肃省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "青海湖景区|青海省|海南藏族自治州": {
+    "lat": 31.9174599,
+    "lng": 118.7770805,
+    "display": "青海湖路, 秣陵街道, 江宁区, 南京市, 江苏省, 211102, 中国",
+    "query": "青海湖景区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "茶卡盐湖|青海省|海西蒙古族藏族自治州": {
+    "lat": 36.6917273,
+    "lng": 99.1136701,
+    "display": "茶卡盐湖, 乌兰县 ཝུའུ་ལན་རྫོང།, 海西蒙古族藏族自治州 མཚོ་ནུབ་སོག་རིགས་ཆ་བོད་རིགས་རང་སྐྱོང་ཁུལ།, 青海省, 817100, 中国",
+    "query": "茶卡盐湖 海西蒙古族藏族自治州 青海省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "塔尔寺|青海省|西宁市": {
+    "lat": 36.4877847,
+    "lng": 101.5670251,
+    "display": "塔尔寺, 庄和路, 湟中区, 西宁市, 青海省, 中国",
+    "query": "塔尔寺 西宁市 青海省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "沙坡头旅游景区|宁夏回族自治区|中卫市": {
+    "lat": 22.7894058,
+    "lng": 113.8138418,
+    "display": "宝安区松岗街道中心幼儿园（集团）璟城第一幼儿园, 朗碧路, 沙浦围社区, 松岗街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+    "query": "沙坡头旅游景区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "镇北堡西部影城|宁夏回族自治区|银川市": {
+    "lat": 24.767553,
+    "lng": 113.5077353,
+    "display": "韶关市振北保安押运有限公司, 老阳山新村, 沐溪村, 西联镇, 武江区, 韶关市, 广东省, 中国",
+    "query": "镇北堡西部影城",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "喀纳斯景区|新疆维吾尔自治区|阿勒泰地区": {
+    "lat": 38.9108004,
+    "lng": 121.6948452,
+    "display": "万隆托斯卡纳, 海军广场街道, 中山区, 甘井子区, 大连市, 辽宁省, 中国",
+    "query": "喀纳斯景区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "天山天池风景名胜区|新疆维吾尔自治区|昌吉回族自治州": {
+    "lat": 44.100558,
+    "lng": 88.0649791,
+    "display": "天山天池售票处, 阜康 - 天山天池, 阜康市 فۇكاڭ, 阜康市 فۇكاڭ شەھىرى, 昌吉回族自治州 سانجى خۇيزۇ ئاپتونوم ئوبلاستى, 新疆维吾尔自治区 شىنجاڭ ئۇيغۇر ئاپتونوم رايونی, 中国",
+    "query": "天山天池 阜康 新疆",
+    "source": "https://nominatim.openstreetmap.org/",
+    "alt": true,
+    "fixed": true
+  },
+  "赛里木湖景区|新疆维吾尔自治区|博尔塔拉蒙古自治州": {
+    "lat": 44.6202716,
+    "lng": 81.4066708,
+    "display": "赛里木湖水云杉度假酒店, 博乐-温泉-赛里木湖-博乐旅游经济圈, 博乐市 بۆرتالا شەھىرى ᠪᠣᠷᠣᠲᠠᠯ᠎ᠠ ᠬᠣᠲᠠ, 博尔塔拉蒙古自治州 ᠪᠣᠷᠣᠲᠠᠯ᠎ᠠ ᠶᠢᠨ ᠮᠣᠩᠭᠣᠯ ᠥᠪᠡᠷᠲᠡᠭᠡᠨ ᠵᠠᠰᠠᠬᠤ ᠵᠧᠦ, 新疆维吾尔自治区 شىنجاڭ ئۇيغۇر ئاپتونوم رايونی,",
+    "query": "赛里木湖景区 博尔塔拉蒙古自治州 新疆维吾尔自治区",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "吐鲁番葡萄沟风景区|新疆维吾尔自治区|吐鲁番市": {
+    "lat": 43.003708,
+    "lng": 89.2412283,
+    "display": "葡萄沟, 吐鲁番市 تۇرپان, 高昌区 قاراھوجا رايونى, 吐鲁番市 تۇرپان شەھىرى, 新疆维吾尔自治区 شىنجاڭ ئۇيغۇر ئاپتونوم رايونی, 中国",
+    "query": "葡萄沟 吐鲁番",
+    "source": "https://nominatim.openstreetmap.org/",
+    "alt": true
+  },
+  "香港维多利亚港|香港特别行政区|油尖旺区": {
+    "lat": 22.3235534,
+    "lng": 114.1145688,
+    "display": "維多利亞港 Victoria Harbour, 香港 Hong Kong, 中国",
+    "query": "香港维多利亚港",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "香港大屿山昂坪|香港特别行政区|离岛区": {
+    "lat": 22.2191491,
+    "lng": 113.9016836,
+    "display": "香港內觀靜坐中心 Hong Kong Vipassana Meditation Centre, 大嶼山 Lantau, 離島區 Islands District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "query": "香港大屿山昂坪 离岛区 香港特别行政区",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "香港太平山顶|香港特别行政区|中西区": {
+    "lat": 22.5575355,
+    "lng": 114.1609281,
+    "display": "白虎山定壓池 Pak Fu Shan Balance Tank, 蓮麻坑路 Lin Ma Hang Road, 上香園圍 Sheung Heung Yuen Wai, 香園圍 Heung Yuen Wai, 北區 North District, 新界 New Territories, 香港 Hong Kong, 518",
+    "query": "香港太平山顶",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "澳门历史城区|澳门特别行政区|澳门半岛": {
+    "lat": 22.4285629,
+    "lng": 114.0550863,
+    "display": "坳門, 元朗區 Yuen Long District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "query": "澳门历史城区",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "澳门大三巴牌坊|澳门特别行政区|澳门半岛": {
+    "lat": 22.197457,
+    "lng": 113.5408602,
+    "display": "大三巴牌坊 Ruínas de São Paulo, 耶穌會紀念廣場 Largo da Companhia de Jesus, 沙梨頭 Patane, 花王堂區 Santo António, 澳門 Macau, 519020, 中国",
+    "query": "澳门大三巴牌坊",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "台北故宫博物院|台湾省|台北市": {
+    "lat": 25.0133837,
+    "lng": 121.530364,
+    "display": "自來水園區, 1, 思源街, 水源里, 中正區, 公館, 臺北市, 100, 臺灣",
+    "query": "台北故宫博物院",
+    "source": "https://nominatim.openstreetmap.org/",
+    "fallback": true
+  },
+  "日月潭|台湾省|南投县": {
+    "lat": 23.8472359,
+    "lng": 120.9315152,
+    "display": "日月潭力麗溫德姆溫泉酒店, 332, 日月村, 魚池鄉, 南投縣, 臺灣",
+    "query": "日月潭 南投县 台湾省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "垦丁国家公园|台湾省|屏东县": {
+    "lat": 22.088541,
+    "lng": 120.8921144,
+    "display": "墾丁國家公園警察隊九棚小隊, 21, 南仁路, 九棚村, 滿州鄉, 屏東縣, 947, 臺灣",
+    "query": "垦丁国家公园 屏东县 台湾省",
+    "source": "https://nominatim.openstreetmap.org/"
+  },
+  "阿里山国家风景区|台湾省|嘉义县": {
+    "lat": 23.5150347,
+    "lng": 120.8097545,
+    "display": "阿里山鄉, 嘉義縣, 605, 臺灣",
+    "query": "阿里山",
+    "source": "https://nominatim.openstreetmap.org/",
+    "alt": true
+  }
+}

@@ -1,0 +1,582 @@
+[
+  {
+    "full_name": "故宫博物院",
+    "province": "北京市",
+    "city": "东城区"
+  },
+  {
+    "full_name": "八达岭长城",
+    "province": "北京市",
+    "city": "延庆区"
+  },
+  {
+    "full_name": "颐和园",
+    "province": "北京市",
+    "city": "海淀区"
+  },
+  {
+    "full_name": "天津古文化街旅游区",
+    "province": "天津市",
+    "city": "南开区"
+  },
+  {
+    "full_name": "天津盘山风景名胜区",
+    "province": "天津市",
+    "city": "蓟州区"
+  },
+  {
+    "full_name": "承德避暑山庄及周围寺庙景区",
+    "province": "河北省",
+    "city": "承德市"
+  },
+  {
+    "full_name": "秦皇岛山海关景区",
+    "province": "河北省",
+    "city": "秦皇岛市"
+  },
+  {
+    "full_name": "保定野三坡景区",
+    "province": "河北省",
+    "city": "保定市"
+  },
+  {
+    "full_name": "五台山风景名胜区",
+    "province": "山西省",
+    "city": "忻州市"
+  },
+  {
+    "full_name": "平遥古城景区",
+    "province": "山西省",
+    "city": "晋中市"
+  },
+  {
+    "full_name": "云冈石窟",
+    "province": "山西省",
+    "city": "大同市"
+  },
+  {
+    "full_name": "呼伦贝尔中俄边境旅游区",
+    "province": "内蒙古自治区",
+    "city": "呼伦贝尔市"
+  },
+  {
+    "full_name": "响沙湾旅游景区",
+    "province": "内蒙古自治区",
+    "city": "鄂尔多斯市"
+  },
+  {
+    "full_name": "阿尔山-柴河旅游景区",
+    "province": "内蒙古自治区",
+    "city": "兴安盟"
+  },
+  {
+    "full_name": "千山景区",
+    "province": "辽宁省",
+    "city": "鞍山市"
+  },
+  {
+    "full_name": "本溪水洞景区",
+    "province": "辽宁省",
+    "city": "本溪市"
+  },
+  {
+    "full_name": "大连老虎滩海洋公园",
+    "province": "辽宁省",
+    "city": "大连市"
+  },
+  {
+    "full_name": "长白山景区",
+    "province": "吉林省",
+    "city": "延边朝鲜族自治州"
+  },
+  {
+    "full_name": "伪满皇宫博物馆",
+    "province": "吉林省",
+    "city": "长春市"
+  },
+  {
+    "full_name": "净月潭景区",
+    "province": "吉林省",
+    "city": "长春市"
+  },
+  {
+    "full_name": "五大连池景区",
+    "province": "黑龙江省",
+    "city": "黑河市"
+  },
+  {
+    "full_name": "镜泊湖景区",
+    "province": "黑龙江省",
+    "city": "牡丹江市"
+  },
+  {
+    "full_name": "太阳岛景区",
+    "province": "黑龙江省",
+    "city": "哈尔滨市"
+  },
+  {
+    "full_name": "外滩",
+    "province": "上海市",
+    "city": "黄浦区"
+  },
+  {
+    "full_name": "上海科技馆",
+    "province": "上海市",
+    "city": "浦东新区"
+  },
+  {
+    "full_name": "朱家角古镇",
+    "province": "上海市",
+    "city": "青浦区"
+  },
+  {
+    "full_name": "南京夫子庙-秦淮风光带",
+    "province": "江苏省",
+    "city": "南京市"
+  },
+  {
+    "full_name": "苏州园林拙政园",
+    "province": "江苏省",
+    "city": "苏州市"
+  },
+  {
+    "full_name": "扬州瘦西湖风景区",
+    "province": "江苏省",
+    "city": "扬州市"
+  },
+  {
+    "full_name": "同里古镇景区",
+    "province": "江苏省",
+    "city": "苏州市"
+  },
+  {
+    "full_name": "无锡鼋头渚旅游风景区",
+    "province": "江苏省",
+    "city": "无锡市"
+  },
+  {
+    "full_name": "杭州西湖风景名胜区",
+    "province": "浙江省",
+    "city": "杭州市"
+  },
+  {
+    "full_name": "乌镇古镇旅游区",
+    "province": "浙江省",
+    "city": "嘉兴市"
+  },
+  {
+    "full_name": "西塘古镇旅游景区",
+    "province": "浙江省",
+    "city": "嘉兴市"
+  },
+  {
+    "full_name": "西溪湿地旅游区",
+    "province": "浙江省",
+    "city": "杭州市"
+  },
+  {
+    "full_name": "普陀山风景名胜区",
+    "province": "浙江省",
+    "city": "舟山市"
+  },
+  {
+    "full_name": "黄山风景区",
+    "province": "安徽省",
+    "city": "黄山市"
+  },
+  {
+    "full_name": "皖南古村落西递宏村",
+    "province": "安徽省",
+    "city": "黄山市"
+  },
+  {
+    "full_name": "天柱山风景区",
+    "province": "安徽省",
+    "city": "安庆市"
+  },
+  {
+    "full_name": "鼓浪屿风景名胜区",
+    "province": "福建省",
+    "city": "厦门市"
+  },
+  {
+    "full_name": "武夷山风景名胜区",
+    "province": "福建省",
+    "city": "南平市"
+  },
+  {
+    "full_name": "福建土楼永定南靖旅游景区",
+    "province": "福建省",
+    "city": "龙岩市"
+  },
+  {
+    "full_name": "泉州蟳埔村",
+    "province": "福建省",
+    "city": "泉州市"
+  },
+  {
+    "full_name": "三坊七巷景区",
+    "province": "福建省",
+    "city": "福州市"
+  },
+  {
+    "full_name": "庐山风景名胜区",
+    "province": "江西省",
+    "city": "九江市"
+  },
+  {
+    "full_name": "井冈山风景旅游区",
+    "province": "江西省",
+    "city": "吉安市"
+  },
+  {
+    "full_name": "婺源江湾景区",
+    "province": "江西省",
+    "city": "上饶市"
+  },
+  {
+    "full_name": "泰山景区",
+    "province": "山东省",
+    "city": "泰安市"
+  },
+  {
+    "full_name": "曲阜明故城三孔旅游区",
+    "province": "山东省",
+    "city": "济宁市"
+  },
+  {
+    "full_name": "青岛崂山景区",
+    "province": "山东省",
+    "city": "青岛市"
+  },
+  {
+    "full_name": "龙门石窟景区",
+    "province": "河南省",
+    "city": "洛阳市"
+  },
+  {
+    "full_name": "嵩山少林景区",
+    "province": "河南省",
+    "city": "郑州市"
+  },
+  {
+    "full_name": "云台山风景区",
+    "province": "河南省",
+    "city": "焦作市"
+  },
+  {
+    "full_name": "武汉黄鹤楼公园",
+    "province": "湖北省",
+    "city": "武汉市"
+  },
+  {
+    "full_name": "武当山风景区",
+    "province": "湖北省",
+    "city": "十堰市"
+  },
+  {
+    "full_name": "神农架生态旅游区",
+    "province": "湖北省",
+    "city": "神农架林区"
+  },
+  {
+    "full_name": "张家界武陵源风景区",
+    "province": "湖南省",
+    "city": "张家界市"
+  },
+  {
+    "full_name": "岳麓山橘子洲旅游区",
+    "province": "湖南省",
+    "city": "长沙市"
+  },
+  {
+    "full_name": "凤凰古城旅游区",
+    "province": "湖南省",
+    "city": "湘西土家族苗族自治州"
+  },
+  {
+    "full_name": "衡山旅游区",
+    "province": "湖南省",
+    "city": "衡阳市"
+  },
+  {
+    "full_name": "广州白云山景区",
+    "province": "广东省",
+    "city": "广州市"
+  },
+  {
+    "full_name": "丹霞山景区",
+    "province": "广东省",
+    "city": "韶关市"
+  },
+  {
+    "full_name": "开平碉楼文化旅游区",
+    "province": "广东省",
+    "city": "江门市"
+  },
+  {
+    "full_name": "惠州西湖旅游景区",
+    "province": "广东省",
+    "city": "惠州市"
+  },
+  {
+    "full_name": "海陵岛大角湾海上丝路旅游区",
+    "province": "广东省",
+    "city": "阳江市"
+  },
+  {
+    "full_name": "桂林漓江风景区",
+    "province": "广西壮族自治区",
+    "city": "桂林市"
+  },
+  {
+    "full_name": "德天跨国瀑布景区",
+    "province": "广西壮族自治区",
+    "city": "崇左市"
+  },
+  {
+    "full_name": "涠洲岛南湾鳄鱼山景区",
+    "province": "广西壮族自治区",
+    "city": "北海市"
+  },
+  {
+    "full_name": "黄姚古镇景区",
+    "province": "广西壮族自治区",
+    "city": "贺州市"
+  },
+  {
+    "full_name": "三亚南山文化旅游区",
+    "province": "海南省",
+    "city": "三亚市"
+  },
+  {
+    "full_name": "蜈支洲岛旅游区",
+    "province": "海南省",
+    "city": "三亚市"
+  },
+  {
+    "full_name": "呀诺达雨林文化旅游区",
+    "province": "海南省",
+    "city": "保亭黎族苗族自治县"
+  },
+  {
+    "full_name": "大足石刻景区",
+    "province": "重庆市",
+    "city": "大足区"
+  },
+  {
+    "full_name": "武隆喀斯特旅游区",
+    "province": "重庆市",
+    "city": "武隆区"
+  },
+  {
+    "full_name": "小三峡旅游区",
+    "province": "重庆市",
+    "city": "巫山县"
+  },
+  {
+    "full_name": "九寨沟风景名胜区",
+    "province": "四川省",
+    "city": "阿坝藏族羌族自治州"
+  },
+  {
+    "full_name": "稻城亚丁风景区",
+    "province": "四川省",
+    "city": "甘孜藏族自治州"
+  },
+  {
+    "full_name": "峨眉山风景区",
+    "province": "四川省",
+    "city": "乐山市"
+  },
+  {
+    "full_name": "都江堰景区",
+    "province": "四川省",
+    "city": "成都市"
+  },
+  {
+    "full_name": "阆中古城旅游景区",
+    "province": "四川省",
+    "city": "南充市"
+  },
+  {
+    "full_name": "黄果树瀑布景区",
+    "province": "贵州省",
+    "city": "安顺市"
+  },
+  {
+    "full_name": "荔波小七孔景区",
+    "province": "贵州省",
+    "city": "黔南布依族苗族自治州"
+  },
+  {
+    "full_name": "西江千户苗寨",
+    "province": "贵州省",
+    "city": "黔东南苗族侗族自治州"
+  },
+  {
+    "full_name": "万峰林景区",
+    "province": "贵州省",
+    "city": "黔西南布依族苗族自治州"
+  },
+  {
+    "full_name": "丽江古城",
+    "province": "云南省",
+    "city": "丽江市"
+  },
+  {
+    "full_name": "玉龙雪山景区",
+    "province": "云南省",
+    "city": "丽江市"
+  },
+  {
+    "full_name": "石林风景区",
+    "province": "云南省",
+    "city": "昆明市"
+  },
+  {
+    "full_name": "大理古城",
+    "province": "云南省",
+    "city": "大理白族自治州"
+  },
+  {
+    "full_name": "西双版纳热带植物园",
+    "province": "云南省",
+    "city": "西双版纳傣族自治州"
+  },
+  {
+    "full_name": "布达拉宫",
+    "province": "西藏自治区",
+    "city": "拉萨市"
+  },
+  {
+    "full_name": "纳木错",
+    "province": "西藏自治区",
+    "city": "拉萨市"
+  },
+  {
+    "full_name": "珠穆朗玛峰国家级自然保护区",
+    "province": "西藏自治区",
+    "city": "日喀则市"
+  },
+  {
+    "full_name": "秦始皇兵马俑博物馆",
+    "province": "陕西省",
+    "city": "西安市"
+  },
+  {
+    "full_name": "华山景区",
+    "province": "陕西省",
+    "city": "渭南市"
+  },
+  {
+    "full_name": "大雁塔",
+    "province": "陕西省",
+    "city": "西安市"
+  },
+  {
+    "full_name": "敦煌莫高窟",
+    "province": "甘肃省",
+    "city": "酒泉市"
+  },
+  {
+    "full_name": "嘉峪关文物景区",
+    "province": "甘肃省",
+    "city": "嘉峪关市"
+  },
+  {
+    "full_name": "张掖七彩丹霞旅游景区",
+    "province": "甘肃省",
+    "city": "张掖市"
+  },
+  {
+    "full_name": "青海湖景区",
+    "province": "青海省",
+    "city": "海南藏族自治州"
+  },
+  {
+    "full_name": "茶卡盐湖",
+    "province": "青海省",
+    "city": "海西蒙古族藏族自治州"
+  },
+  {
+    "full_name": "塔尔寺",
+    "province": "青海省",
+    "city": "西宁市"
+  },
+  {
+    "full_name": "沙坡头旅游景区",
+    "province": "宁夏回族自治区",
+    "city": "中卫市"
+  },
+  {
+    "full_name": "镇北堡西部影城",
+    "province": "宁夏回族自治区",
+    "city": "银川市"
+  },
+  {
+    "full_name": "喀纳斯景区",
+    "province": "新疆维吾尔自治区",
+    "city": "阿勒泰地区"
+  },
+  {
+    "full_name": "天山天池风景名胜区",
+    "province": "新疆维吾尔自治区",
+    "city": "昌吉回族自治州"
+  },
+  {
+    "full_name": "赛里木湖景区",
+    "province": "新疆维吾尔自治区",
+    "city": "博尔塔拉蒙古自治州"
+  },
+  {
+    "full_name": "吐鲁番葡萄沟风景区",
+    "province": "新疆维吾尔自治区",
+    "city": "吐鲁番市"
+  },
+  {
+    "full_name": "香港维多利亚港",
+    "province": "香港特别行政区",
+    "city": "油尖旺区"
+  },
+  {
+    "full_name": "香港大屿山昂坪",
+    "province": "香港特别行政区",
+    "city": "离岛区"
+  },
+  {
+    "full_name": "香港太平山顶",
+    "province": "香港特别行政区",
+    "city": "中西区"
+  },
+  {
+    "full_name": "澳门历史城区",
+    "province": "澳门特别行政区",
+    "city": "澳门半岛"
+  },
+  {
+    "full_name": "澳门大三巴牌坊",
+    "province": "澳门特别行政区",
+    "city": "澳门半岛"
+  },
+  {
+    "full_name": "台北故宫博物院",
+    "province": "台湾省",
+    "city": "台北市"
+  },
+  {
+    "full_name": "日月潭",
+    "province": "台湾省",
+    "city": "南投县"
+  },
+  {
+    "full_name": "垦丁国家公园",
+    "province": "台湾省",
+    "city": "屏东县"
+  },
+  {
+    "full_name": "阿里山国家风景区",
+    "province": "台湾省",
+    "city": "嘉义县"
+  }
+]

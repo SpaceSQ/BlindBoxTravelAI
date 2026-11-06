@@ -1,0 +1,3252 @@
+{
+  "generated_at": "2026-11-06T17:25:47+08:00",
+  "timezone": "Asia/Shanghai",
+  "source_files": {
+    "routes": "routes/routes_draft.json",
+    "spots_final": "spots/spots_final.json",
+    "additions": "routes/spots_route_additions.json"
+  },
+  "counts": {
+    "routes": 60,
+    "unique_route_spot_names": 107,
+    "map_existing": 39,
+    "create_new": 68,
+    "existing_spots_library": 116,
+    "additions_spots": 70,
+    "merged_library_size_if_applied": 186,
+    "sample_backfill_not_in_routes": 2
+  },
+  "rules": [
+    "同一真实地点唯一 spot_id；别名归并不得跨实体",
+    "香港海洋公园 ≠ 大连老虎滩海洋公园",
+    "杭州西湖 ≠ 惠州西湖",
+    "天门山 ≠ 张家界武陵源/袁家界",
+    "青城山与都江堰行程分日，保留独立 ID（都江堰已有 SP079）",
+    "未改写 routes_draft.json / spots/spots_final.json / data/*",
+    "image_url 与 adult_ticket_price 一律 null（未核）",
+    "未宣称 Mac 携程或登录社媒采集",
+    "SP185/SP186 样例补录不进入 route_bindings；勿重置 editorial_locked / spots_final"
+  ],
+  "do_not_merge_warnings": [
+    {
+      "a": "香港海洋公园",
+      "b": "大连老虎滩海洋公园",
+      "reason": "不同城市不同园区"
+    },
+    {
+      "a": "杭州西湖",
+      "b": "惠州西湖旅游景区",
+      "reason": "不同省级行政区同名水体"
+    },
+    {
+      "a": "天门山旅游景区",
+      "b": "张家界武陵源风景区",
+      "reason": "地理与经营权独立"
+    },
+    {
+      "a": "独克宗古城",
+      "b": "丽江古城",
+      "reason": "香格里拉 vs 丽江，不同古城"
+    },
+    {
+      "a": "昆明西山风景区",
+      "b": "任意其他西山",
+      "reason": "按路线语境锁定昆明滇池西岸"
+    }
+  ],
+  "mappings": [
+    {
+      "route_spot_name": "M+",
+      "action": "create_new",
+      "spot_id": "SP166",
+      "full_name": "香港M+博物馆",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT053"
+      ]
+    },
+    {
+      "route_spot_name": "七娘山",
+      "action": "create_new",
+      "spot_id": "SP125",
+      "full_name": "大鹏半岛七娘山",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT007"
+      ]
+    },
+    {
+      "route_spot_name": "三坊七巷",
+      "action": "map_existing",
+      "spot_id": "SP044",
+      "full_name": "三坊七巷景区",
+      "match_type": "alias",
+      "note": "简称→三坊七巷景区",
+      "used_by_routes": [
+        "RT041",
+        "RT042"
+      ]
+    },
+    {
+      "route_spot_name": "中国雪乡",
+      "action": "create_new",
+      "spot_id": "SP184",
+      "full_name": "中国雪乡风景区",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT059"
+      ]
+    },
+    {
+      "route_spot_name": "中央大街",
+      "action": "create_new",
+      "spot_id": "SP161",
+      "full_name": "哈尔滨中央大街",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT047",
+        "RT059"
+      ]
+    },
+    {
+      "route_spot_name": "丹噶尔古城",
+      "action": "create_new",
+      "spot_id": "SP139",
+      "full_name": "丹噶尔古城",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT018"
+      ]
+    },
+    {
+      "route_spot_name": "丹巴甲居藏寨",
+      "action": "create_new",
+      "spot_id": "SP177",
+      "full_name": "丹巴甲居藏寨",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT057"
+      ]
+    },
+    {
+      "route_spot_name": "丽江古城",
+      "action": "map_existing",
+      "spot_id": "SP085",
+      "full_name": "丽江古城",
+      "match_type": "exact",
+      "note": "exact name match",
+      "used_by_routes": [
+        "RT012",
+        "RT013",
+        "RT058"
+      ]
+    },
+    {
+      "route_spot_name": "乌尔禾魔鬼城",
+      "action": "create_new",
+      "spot_id": "SP170",
+      "full_name": "乌尔禾魔鬼城",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT056"
+      ]
+    },
+    {
+      "route_spot_name": "乌镇",
+      "action": "map_existing",
+      "spot_id": "SP033",
+      "full_name": "乌镇古镇旅游区",
+      "match_type": "alias",
+      "note": "简称→乌镇古镇旅游区",
+      "used_by_routes": [
+        "RT025"
+      ]
+    },
+    {
+      "route_spot_name": "乌镇西栅",
+      "action": "map_existing",
+      "spot_id": "SP033",
+      "full_name": "乌镇古镇旅游区",
+      "match_type": "alias",
+      "note": "西栅为乌镇古镇旅游区核心开放片区，与主库 SP033 同一官方景区实体，不另开 ID。",
+      "used_by_routes": [
+        "RT024"
+      ]
+    },
+    {
+      "route_spot_name": "九份老街",
+      "action": "create_new",
+      "spot_id": "SP150",
+      "full_name": "九份老街",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT032"
+      ]
+    },
+    {
+      "route_spot_name": "五彩滩",
+      "action": "create_new",
+      "spot_id": "SP168",
+      "full_name": "布尔津五彩滩",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT056"
+      ]
+    },
+    {
+      "route_spot_name": "亚布力国际滑雪场",
+      "action": "create_new",
+      "spot_id": "SP183",
+      "full_name": "亚布力国际滑雪场",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT059"
+      ]
+    },
+    {
+      "route_spot_name": "亚龙湾",
+      "action": "create_new",
+      "spot_id": "SP164",
+      "full_name": "三亚亚龙湾",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT049"
+      ]
+    },
+    {
+      "route_spot_name": "八大关",
+      "action": "create_new",
+      "spot_id": "SP159",
+      "full_name": "青岛八大关",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT045"
+      ]
+    },
+    {
+      "route_spot_name": "八达岭长城",
+      "action": "map_existing",
+      "spot_id": "SP002",
+      "full_name": "八达岭长城",
+      "match_type": "exact",
+      "note": "exact name match",
+      "used_by_routes": [
+        "RT034"
+      ]
+    },
+    {
+      "route_spot_name": "凤凰古城",
+      "action": "map_existing",
+      "spot_id": "SP059",
+      "full_name": "凤凰古城旅游区",
+      "match_type": "alias",
+      "note": "简称→凤凰古城旅游区",
+      "used_by_routes": [
+        "RT054"
+      ]
+    },
+    {
+      "route_spot_name": "北投文物馆",
+      "action": "create_new",
+      "spot_id": "SP153",
+      "full_name": "北投文物馆",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT033"
+      ]
+    },
+    {
+      "route_spot_name": "北投温泉区",
+      "action": "create_new",
+      "spot_id": "SP152",
+      "full_name": "北投温泉区",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT033"
+      ]
+    },
+    {
+      "route_spot_name": "十分老街",
+      "action": "create_new",
+      "spot_id": "SP151",
+      "full_name": "十分老街",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT032"
+      ]
+    },
+    {
+      "route_spot_name": "卓尔山",
+      "action": "create_new",
+      "spot_id": "SP138",
+      "full_name": "祁连卓尔山",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT017"
+      ]
+    },
+    {
+      "route_spot_name": "南浔古镇",
+      "action": "create_new",
+      "spot_id": "SP144",
+      "full_name": "南浔古镇",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT025"
+      ]
+    },
+    {
+      "route_spot_name": "南澳后花园村",
+      "action": "create_new",
+      "spot_id": "SP123",
+      "full_name": "南澳后花园村",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT005"
+      ]
+    },
+    {
+      "route_spot_name": "南澳岛青澳湾",
+      "action": "create_new",
+      "spot_id": "SP122",
+      "full_name": "南澳岛青澳湾",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT005"
+      ]
+    },
+    {
+      "route_spot_name": "喀纳斯",
+      "action": "map_existing",
+      "spot_id": "SP104",
+      "full_name": "喀纳斯景区",
+      "match_type": "alias",
+      "note": "简称→喀纳斯景区",
+      "used_by_routes": [
+        "RT056"
+      ]
+    },
+    {
+      "route_spot_name": "四姑娘山",
+      "action": "create_new",
+      "spot_id": "SP178",
+      "full_name": "四姑娘山景区",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT057"
+      ]
+    },
+    {
+      "route_spot_name": "圣索菲亚大教堂",
+      "action": "create_new",
+      "spot_id": "SP182",
+      "full_name": "哈尔滨圣索菲亚大教堂",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT059"
+      ]
+    },
+    {
+      "route_spot_name": "塔尔寺",
+      "action": "map_existing",
+      "spot_id": "SP101",
+      "full_name": "塔尔寺",
+      "match_type": "exact",
+      "note": "exact name match",
+      "used_by_routes": [
+        "RT017"
+      ]
+    },
+    {
+      "route_spot_name": "塘栖古镇",
+      "action": "create_new",
+      "spot_id": "SP145",
+      "full_name": "塘栖古镇",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT028"
+      ]
+    },
+    {
+      "route_spot_name": "外滩",
+      "action": "map_existing",
+      "spot_id": "SP024",
+      "full_name": "外滩",
+      "match_type": "exact",
+      "note": "exact name match",
+      "used_by_routes": [
+        "RT027"
+      ]
+    },
+    {
+      "route_spot_name": "大三巴牌坊",
+      "action": "map_existing",
+      "spot_id": "SP112",
+      "full_name": "澳门大三巴牌坊",
+      "match_type": "alias",
+      "note": "简称→澳门大三巴牌坊",
+      "used_by_routes": [
+        "RT031",
+        "RT060"
+      ]
+    },
+    {
+      "route_spot_name": "大理古城",
+      "action": "map_existing",
+      "spot_id": "SP088",
+      "full_name": "大理古城",
+      "match_type": "exact",
+      "note": "exact name match",
+      "used_by_routes": [
+        "RT058"
+      ]
+    },
+    {
+      "route_spot_name": "大雁塔",
+      "action": "map_existing",
+      "spot_id": "SP095",
+      "full_name": "大雁塔",
+      "match_type": "exact",
+      "note": "exact name match",
+      "used_by_routes": [
+        "RT019",
+        "RT020"
+      ]
+    },
+    {
+      "route_spot_name": "大馆",
+      "action": "create_new",
+      "spot_id": "SP146",
+      "full_name": "香港大馆",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT029",
+        "RT060"
+      ]
+    },
+    {
+      "route_spot_name": "天坛大佛",
+      "action": "map_existing",
+      "spot_id": "SP109",
+      "full_name": "香港大屿山昂坪",
+      "match_type": "alias",
+      "note": "天坛大佛位于大屿山昂坪，与主库 SP109 香港大屿山昂坪同址，不另开 ID。",
+      "used_by_routes": [
+        "RT030",
+        "RT060"
+      ]
+    },
+    {
+      "route_spot_name": "天门山",
+      "action": "create_new",
+      "spot_id": "SP137",
+      "full_name": "天门山旅游景区",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT016"
+      ]
+    },
+    {
+      "route_spot_name": "太平山顶",
+      "action": "map_existing",
+      "spot_id": "SP110",
+      "full_name": "香港太平山顶",
+      "match_type": "alias",
+      "note": "简称→香港太平山顶",
+      "used_by_routes": [
+        "RT029",
+        "RT060"
+      ]
+    },
+    {
+      "route_spot_name": "婺源江湾",
+      "action": "map_existing",
+      "spot_id": "SP047",
+      "full_name": "婺源江湾景区",
+      "match_type": "alias",
+      "note": "简称→婺源江湾景区",
+      "used_by_routes": [
+        "RT040"
+      ]
+    },
+    {
+      "route_spot_name": "婺源篁岭",
+      "action": "create_new",
+      "spot_id": "SP156",
+      "full_name": "婺源篁岭",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT040"
+      ]
+    },
+    {
+      "route_spot_name": "官也街",
+      "action": "create_new",
+      "spot_id": "SP148",
+      "full_name": "氹仔官也街",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT031",
+        "RT060"
+      ]
+    },
+    {
+      "route_spot_name": "宽窄巷子",
+      "action": "create_new",
+      "spot_id": "SP133",
+      "full_name": "成都宽窄巷子",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT014"
+      ]
+    },
+    {
+      "route_spot_name": "崇武古城",
+      "action": "create_new",
+      "spot_id": "SP119",
+      "full_name": "崇武古城",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT001"
+      ]
+    },
+    {
+      "route_spot_name": "巴音布鲁克",
+      "action": "create_new",
+      "spot_id": "SP172",
+      "full_name": "巴音布鲁克景区",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT056"
+      ]
+    },
+    {
+      "route_spot_name": "平潭岛",
+      "action": "create_new",
+      "spot_id": "SP121",
+      "full_name": "平潭海坛风景名胜区",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT004"
+      ]
+    },
+    {
+      "route_spot_name": "平遥古城",
+      "action": "map_existing",
+      "spot_id": "SP010",
+      "full_name": "平遥古城景区",
+      "match_type": "alias",
+      "note": "简称→平遥古城景区",
+      "used_by_routes": [
+        "RT037"
+      ]
+    },
+    {
+      "route_spot_name": "张家界国家森林公园",
+      "action": "map_existing",
+      "spot_id": "SP057",
+      "full_name": "张家界武陵源风景区",
+      "match_type": "alias",
+      "note": "与武陵源核心景区为同一世界遗产主体常用别称，映射 SP057；不与天门山混并。",
+      "used_by_routes": [
+        "RT016"
+      ]
+    },
+    {
+      "route_spot_name": "张掖七彩丹霞",
+      "action": "map_existing",
+      "spot_id": "SP098",
+      "full_name": "张掖七彩丹霞旅游景区",
+      "match_type": "alias",
+      "note": "简称→张掖七彩丹霞旅游景区",
+      "used_by_routes": [
+        "RT022"
+      ]
+    },
+    {
+      "route_spot_name": "恩施大峡谷",
+      "action": "create_new",
+      "spot_id": "SP157",
+      "full_name": "恩施大峡谷",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT043"
+      ]
+    },
+    {
+      "route_spot_name": "承德避暑山庄",
+      "action": "map_existing",
+      "spot_id": "SP006",
+      "full_name": "承德避暑山庄及周围寺庙景区",
+      "match_type": "alias",
+      "note": "简称→承德避暑山庄及周围寺庙景区",
+      "used_by_routes": [
+        "RT036"
+      ]
+    },
+    {
+      "route_spot_name": "拙政园",
+      "action": "map_existing",
+      "spot_id": "SP028",
+      "full_name": "苏州园林拙政园",
+      "match_type": "alias",
+      "note": "简称→苏州园林拙政园",
+      "used_by_routes": [
+        "RT026"
+      ]
+    },
+    {
+      "route_spot_name": "故宫博物院",
+      "action": "map_existing",
+      "spot_id": "SP001",
+      "full_name": "故宫博物院",
+      "match_type": "exact",
+      "note": "exact name match",
+      "used_by_routes": [
+        "RT034",
+        "RT035"
+      ]
+    },
+    {
+      "route_spot_name": "新都桥",
+      "action": "create_new",
+      "spot_id": "SP174",
+      "full_name": "新都桥",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT057"
+      ]
+    },
+    {
+      "route_spot_name": "景山公园",
+      "action": "create_new",
+      "spot_id": "SP154",
+      "full_name": "景山公园",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT035"
+      ]
+    },
+    {
+      "route_spot_name": "束河古镇",
+      "action": "create_new",
+      "spot_id": "SP132",
+      "full_name": "束河古镇",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT013"
+      ]
+    },
+    {
+      "route_spot_name": "杭州西湖",
+      "action": "map_existing",
+      "spot_id": "SP032",
+      "full_name": "杭州西湖风景名胜区",
+      "match_type": "alias",
+      "note": "简称→杭州西湖风景名胜区（勿与惠州西湖 SP064 混并）",
+      "used_by_routes": [
+        "RT023",
+        "RT024"
+      ]
+    },
+    {
+      "route_spot_name": "栈桥",
+      "action": "create_new",
+      "spot_id": "SP158",
+      "full_name": "青岛栈桥",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT045"
+      ]
+    },
+    {
+      "route_spot_name": "梧桐山",
+      "action": "create_new",
+      "spot_id": "SP124",
+      "full_name": "深圳梧桐山风景名胜区",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT006"
+      ]
+    },
+    {
+      "route_spot_name": "沙坡尾",
+      "action": "create_new",
+      "spot_id": "SP120",
+      "full_name": "厦门沙坡尾",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT003"
+      ]
+    },
+    {
+      "route_spot_name": "沙面",
+      "action": "create_new",
+      "spot_id": "SP127",
+      "full_name": "广州沙面",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT009"
+      ]
+    },
+    {
+      "route_spot_name": "泉州古城",
+      "action": "create_new",
+      "spot_id": "SP118",
+      "full_name": "泉州古城",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT002",
+        "RT042"
+      ]
+    },
+    {
+      "route_spot_name": "泸沽湖",
+      "action": "create_new",
+      "spot_id": "SP131",
+      "full_name": "泸沽湖景区",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT013",
+        "RT058"
+      ]
+    },
+    {
+      "route_spot_name": "洪崖洞",
+      "action": "create_new",
+      "spot_id": "SP135",
+      "full_name": "重庆洪崖洞",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT015"
+      ]
+    },
+    {
+      "route_spot_name": "洱海",
+      "action": "create_new",
+      "spot_id": "SP179",
+      "full_name": "大理洱海",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT058"
+      ]
+    },
+    {
+      "route_spot_name": "清明上河园",
+      "action": "create_new",
+      "spot_id": "SP155",
+      "full_name": "开封清明上河园",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT038"
+      ]
+    },
+    {
+      "route_spot_name": "湄洲岛",
+      "action": "create_new",
+      "spot_id": "SP117",
+      "full_name": "湄洲岛国家旅游度假区",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT001",
+        "RT004"
+      ]
+    },
+    {
+      "route_spot_name": "滇池",
+      "action": "create_new",
+      "spot_id": "SP162",
+      "full_name": "昆明滇池",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT048"
+      ]
+    },
+    {
+      "route_spot_name": "滨海路",
+      "action": "create_new",
+      "spot_id": "SP160",
+      "full_name": "大连滨海路",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT046"
+      ]
+    },
+    {
+      "route_spot_name": "潮州古城",
+      "action": "create_new",
+      "spot_id": "SP126",
+      "full_name": "潮州古城",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT008"
+      ]
+    },
+    {
+      "route_spot_name": "独克宗古城",
+      "action": "create_new",
+      "spot_id": "SP181",
+      "full_name": "独克宗古城",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT058"
+      ]
+    },
+    {
+      "route_spot_name": "独库公路",
+      "action": "create_new",
+      "spot_id": "SP173",
+      "full_name": "独库公路风景道",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT056"
+      ]
+    },
+    {
+      "route_spot_name": "玉龙雪山",
+      "action": "map_existing",
+      "spot_id": "SP086",
+      "full_name": "玉龙雪山景区",
+      "match_type": "alias",
+      "note": "简称→玉龙雪山景区",
+      "used_by_routes": [
+        "RT012",
+        "RT013",
+        "RT058"
+      ]
+    },
+    {
+      "route_spot_name": "理塘",
+      "action": "create_new",
+      "spot_id": "SP175",
+      "full_name": "理塘勒通古镇",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT057"
+      ]
+    },
+    {
+      "route_spot_name": "磁器口古镇",
+      "action": "create_new",
+      "spot_id": "SP136",
+      "full_name": "磁器口古镇",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT015"
+      ]
+    },
+    {
+      "route_spot_name": "禾木",
+      "action": "create_new",
+      "spot_id": "SP169",
+      "full_name": "禾木景区",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT056"
+      ]
+    },
+    {
+      "route_spot_name": "秦始皇兵马俑博物馆",
+      "action": "map_existing",
+      "spot_id": "SP093",
+      "full_name": "秦始皇兵马俑博物馆",
+      "match_type": "exact",
+      "note": "exact name match",
+      "used_by_routes": [
+        "RT019",
+        "RT020"
+      ]
+    },
+    {
+      "route_spot_name": "稻城亚丁风景区",
+      "action": "map_existing",
+      "spot_id": "SP077",
+      "full_name": "稻城亚丁风景区",
+      "match_type": "exact",
+      "note": "exact name match",
+      "used_by_routes": [
+        "RT011",
+        "RT044",
+        "RT057"
+      ]
+    },
+    {
+      "route_spot_name": "维多利亚港",
+      "action": "map_existing",
+      "spot_id": "SP108",
+      "full_name": "香港维多利亚港",
+      "match_type": "alias",
+      "note": "简称→香港维多利亚港",
+      "used_by_routes": [
+        "RT029",
+        "RT060"
+      ]
+    },
+    {
+      "route_spot_name": "色达",
+      "action": "create_new",
+      "spot_id": "SP176",
+      "full_name": "色达县风景区",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT057"
+      ]
+    },
+    {
+      "route_spot_name": "茶卡盐湖",
+      "action": "map_existing",
+      "spot_id": "SP100",
+      "full_name": "茶卡盐湖",
+      "match_type": "exact",
+      "note": "exact name match",
+      "used_by_routes": [
+        "RT017",
+        "RT018"
+      ]
+    },
+    {
+      "route_spot_name": "莫高窟",
+      "action": "map_existing",
+      "spot_id": "SP096",
+      "full_name": "敦煌莫高窟",
+      "match_type": "alias",
+      "note": "简称→敦煌莫高窟",
+      "used_by_routes": [
+        "RT021"
+      ]
+    },
+    {
+      "route_spot_name": "蟳埔村",
+      "action": "map_existing",
+      "spot_id": "SP043",
+      "full_name": "泉州蟳埔村",
+      "match_type": "alias",
+      "note": "简称→泉州蟳埔村",
+      "used_by_routes": [
+        "RT001"
+      ]
+    },
+    {
+      "route_spot_name": "袁家界",
+      "action": "map_existing",
+      "spot_id": "SP057",
+      "full_name": "张家界武陵源风景区",
+      "match_type": "alias",
+      "note": "袁家界为武陵源核心观景台区，映射 SP057；天门山仍为独立新增。",
+      "used_by_routes": [
+        "RT016"
+      ]
+    },
+    {
+      "route_spot_name": "西塘",
+      "action": "map_existing",
+      "spot_id": "SP034",
+      "full_name": "西塘古镇旅游景区",
+      "match_type": "alias",
+      "note": "简称→西塘古镇旅游景区",
+      "used_by_routes": [
+        "RT024",
+        "RT025"
+      ]
+    },
+    {
+      "route_spot_name": "西安城墙",
+      "action": "create_new",
+      "spot_id": "SP141",
+      "full_name": "西安城墙",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT019",
+        "RT020"
+      ]
+    },
+    {
+      "route_spot_name": "西山",
+      "action": "create_new",
+      "spot_id": "SP163",
+      "full_name": "昆明西山风景区",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT048"
+      ]
+    },
+    {
+      "route_spot_name": "议事亭前地",
+      "action": "create_new",
+      "spot_id": "SP149",
+      "full_name": "澳门议事亭前地",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT031"
+      ]
+    },
+    {
+      "route_spot_name": "赛里木湖",
+      "action": "map_existing",
+      "spot_id": "SP106",
+      "full_name": "赛里木湖景区",
+      "match_type": "alias",
+      "note": "简称→赛里木湖景区",
+      "used_by_routes": [
+        "RT056"
+      ]
+    },
+    {
+      "route_spot_name": "遇龙河",
+      "action": "create_new",
+      "spot_id": "SP130",
+      "full_name": "遇龙河",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT010",
+        "RT050"
+      ]
+    },
+    {
+      "route_spot_name": "那拉提草原",
+      "action": "create_new",
+      "spot_id": "SP171",
+      "full_name": "那拉提旅游风景区",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT056"
+      ]
+    },
+    {
+      "route_spot_name": "都江堰",
+      "action": "map_existing",
+      "spot_id": "SP079",
+      "full_name": "都江堰景区",
+      "match_type": "alias",
+      "note": "简称→都江堰景区（青城山仍独立新增，因行程分日）",
+      "used_by_routes": [
+        "RT014"
+      ]
+    },
+    {
+      "route_spot_name": "金沙湾",
+      "action": "create_new",
+      "spot_id": "SP165",
+      "full_name": "青海湖金沙湾",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT052"
+      ]
+    },
+    {
+      "route_spot_name": "金银滩原子城景区",
+      "action": "create_new",
+      "spot_id": "SP140",
+      "full_name": "金银滩原子城景区",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT018"
+      ]
+    },
+    {
+      "route_spot_name": "钟鼓楼",
+      "action": "create_new",
+      "spot_id": "SP142",
+      "full_name": "西安钟鼓楼",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT020"
+      ]
+    },
+    {
+      "route_spot_name": "镜泊湖风景区",
+      "action": "map_existing",
+      "spot_id": "SP022",
+      "full_name": "镜泊湖景区",
+      "match_type": "alias",
+      "note": "与主库「镜泊湖景区」同地别称。",
+      "used_by_routes": [
+        "RT059"
+      ]
+    },
+    {
+      "route_spot_name": "长白山天池",
+      "action": "map_existing",
+      "spot_id": "SP018",
+      "full_name": "长白山景区",
+      "match_type": "alias",
+      "note": "天池为长白山景区核心景观，映射 SP018；不另拆 ID。",
+      "used_by_routes": [
+        "RT059"
+      ]
+    },
+    {
+      "route_spot_name": "阳朔西街",
+      "action": "create_new",
+      "spot_id": "SP129",
+      "full_name": "阳朔西街",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT010",
+        "RT050"
+      ]
+    },
+    {
+      "route_spot_name": "青城山",
+      "action": "create_new",
+      "spot_id": "SP134",
+      "full_name": "青城山景区",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT014"
+      ]
+    },
+    {
+      "route_spot_name": "青海湖景区",
+      "action": "map_existing",
+      "spot_id": "SP099",
+      "full_name": "青海湖景区",
+      "match_type": "exact",
+      "note": "exact name match",
+      "used_by_routes": [
+        "RT017",
+        "RT018",
+        "RT052"
+      ]
+    },
+    {
+      "route_spot_name": "颐和园",
+      "action": "map_existing",
+      "spot_id": "SP003",
+      "full_name": "颐和园",
+      "match_type": "exact",
+      "note": "exact name match",
+      "used_by_routes": [
+        "RT034"
+      ]
+    },
+    {
+      "route_spot_name": "香格里拉普达措",
+      "action": "create_new",
+      "spot_id": "SP180",
+      "full_name": "普达措国家公园",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT058"
+      ]
+    },
+    {
+      "route_spot_name": "香港故宫文化博物馆",
+      "action": "create_new",
+      "spot_id": "SP167",
+      "full_name": "香港故宫文化博物馆",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT053"
+      ]
+    },
+    {
+      "route_spot_name": "香港海洋公园",
+      "action": "create_new",
+      "spot_id": "SP147",
+      "full_name": "香港海洋公园",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT030",
+        "RT060"
+      ]
+    },
+    {
+      "route_spot_name": "鸣沙山月牙泉",
+      "action": "create_new",
+      "spot_id": "SP143",
+      "full_name": "鸣沙山月牙泉",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT021"
+      ]
+    },
+    {
+      "route_spot_name": "黄山风景区",
+      "action": "map_existing",
+      "spot_id": "SP037",
+      "full_name": "黄山风景区",
+      "match_type": "exact",
+      "note": "exact name match",
+      "used_by_routes": [
+        "RT039"
+      ]
+    },
+    {
+      "route_spot_name": "鼓浪屿",
+      "action": "map_existing",
+      "spot_id": "SP040",
+      "full_name": "鼓浪屿风景名胜区",
+      "match_type": "alias",
+      "note": "简称→鼓浪屿风景名胜区",
+      "used_by_routes": [
+        "RT003",
+        "RT042",
+        "RT055"
+      ]
+    },
+    {
+      "route_spot_name": "龙脊梯田",
+      "action": "create_new",
+      "spot_id": "SP128",
+      "full_name": "龙脊梯田风景名胜区",
+      "match_type": "new_entity",
+      "note": "主库无同地实体；勿与近似名称景点混并",
+      "used_by_routes": [
+        "RT010",
+        "RT051"
+      ]
+    }
+  ],
+  "new_spots_index": [
+    {
+      "spot_id": "SP117",
+      "full_name": "湄洲岛国家旅游度假区",
+      "province": "福建省",
+      "city": "莆田市",
+      "route_aliases": [
+        "湄洲岛"
+      ]
+    },
+    {
+      "spot_id": "SP118",
+      "full_name": "泉州古城",
+      "province": "福建省",
+      "city": "泉州市",
+      "route_aliases": [
+        "泉州古城"
+      ]
+    },
+    {
+      "spot_id": "SP119",
+      "full_name": "崇武古城",
+      "province": "福建省",
+      "city": "泉州市",
+      "route_aliases": [
+        "崇武古城"
+      ]
+    },
+    {
+      "spot_id": "SP120",
+      "full_name": "厦门沙坡尾",
+      "province": "福建省",
+      "city": "厦门市",
+      "route_aliases": [
+        "沙坡尾"
+      ]
+    },
+    {
+      "spot_id": "SP121",
+      "full_name": "平潭海坛风景名胜区",
+      "province": "福建省",
+      "city": "福州市",
+      "route_aliases": [
+        "平潭岛"
+      ]
+    },
+    {
+      "spot_id": "SP122",
+      "full_name": "南澳岛青澳湾",
+      "province": "广东省",
+      "city": "汕头市",
+      "route_aliases": [
+        "南澳岛青澳湾"
+      ]
+    },
+    {
+      "spot_id": "SP123",
+      "full_name": "南澳后花园村",
+      "province": "广东省",
+      "city": "汕头市",
+      "route_aliases": [
+        "南澳后花园村"
+      ]
+    },
+    {
+      "spot_id": "SP124",
+      "full_name": "深圳梧桐山风景名胜区",
+      "province": "广东省",
+      "city": "深圳市",
+      "route_aliases": [
+        "梧桐山"
+      ]
+    },
+    {
+      "spot_id": "SP125",
+      "full_name": "大鹏半岛七娘山",
+      "province": "广东省",
+      "city": "深圳市",
+      "route_aliases": [
+        "七娘山"
+      ]
+    },
+    {
+      "spot_id": "SP126",
+      "full_name": "潮州古城",
+      "province": "广东省",
+      "city": "潮州市",
+      "route_aliases": [
+        "潮州古城"
+      ]
+    },
+    {
+      "spot_id": "SP127",
+      "full_name": "广州沙面",
+      "province": "广东省",
+      "city": "广州市",
+      "route_aliases": [
+        "沙面"
+      ]
+    },
+    {
+      "spot_id": "SP128",
+      "full_name": "龙脊梯田风景名胜区",
+      "province": "广西壮族自治区",
+      "city": "桂林市",
+      "route_aliases": [
+        "龙脊梯田"
+      ]
+    },
+    {
+      "spot_id": "SP129",
+      "full_name": "阳朔西街",
+      "province": "广西壮族自治区",
+      "city": "桂林市",
+      "route_aliases": [
+        "阳朔西街"
+      ]
+    },
+    {
+      "spot_id": "SP130",
+      "full_name": "遇龙河",
+      "province": "广西壮族自治区",
+      "city": "桂林市",
+      "route_aliases": [
+        "遇龙河"
+      ]
+    },
+    {
+      "spot_id": "SP131",
+      "full_name": "泸沽湖景区",
+      "province": "云南省",
+      "city": "丽江市",
+      "route_aliases": [
+        "泸沽湖"
+      ]
+    },
+    {
+      "spot_id": "SP132",
+      "full_name": "束河古镇",
+      "province": "云南省",
+      "city": "丽江市",
+      "route_aliases": [
+        "束河古镇"
+      ]
+    },
+    {
+      "spot_id": "SP133",
+      "full_name": "成都宽窄巷子",
+      "province": "四川省",
+      "city": "成都市",
+      "route_aliases": [
+        "宽窄巷子"
+      ]
+    },
+    {
+      "spot_id": "SP134",
+      "full_name": "青城山景区",
+      "province": "四川省",
+      "city": "成都市",
+      "route_aliases": [
+        "青城山"
+      ]
+    },
+    {
+      "spot_id": "SP135",
+      "full_name": "重庆洪崖洞",
+      "province": "重庆市",
+      "city": "渝中区",
+      "route_aliases": [
+        "洪崖洞"
+      ]
+    },
+    {
+      "spot_id": "SP136",
+      "full_name": "磁器口古镇",
+      "province": "重庆市",
+      "city": "沙坪坝区",
+      "route_aliases": [
+        "磁器口古镇"
+      ]
+    },
+    {
+      "spot_id": "SP137",
+      "full_name": "天门山旅游景区",
+      "province": "湖南省",
+      "city": "张家界市",
+      "route_aliases": [
+        "天门山"
+      ]
+    },
+    {
+      "spot_id": "SP138",
+      "full_name": "祁连卓尔山",
+      "province": "青海省",
+      "city": "海北藏族自治州",
+      "route_aliases": [
+        "卓尔山"
+      ]
+    },
+    {
+      "spot_id": "SP139",
+      "full_name": "丹噶尔古城",
+      "province": "青海省",
+      "city": "西宁市",
+      "route_aliases": [
+        "丹噶尔古城"
+      ]
+    },
+    {
+      "spot_id": "SP140",
+      "full_name": "金银滩原子城景区",
+      "province": "青海省",
+      "city": "海北藏族自治州",
+      "route_aliases": [
+        "金银滩原子城景区"
+      ]
+    },
+    {
+      "spot_id": "SP141",
+      "full_name": "西安城墙",
+      "province": "陕西省",
+      "city": "西安市",
+      "route_aliases": [
+        "西安城墙"
+      ]
+    },
+    {
+      "spot_id": "SP142",
+      "full_name": "西安钟鼓楼",
+      "province": "陕西省",
+      "city": "西安市",
+      "route_aliases": [
+        "钟鼓楼"
+      ]
+    },
+    {
+      "spot_id": "SP143",
+      "full_name": "鸣沙山月牙泉",
+      "province": "甘肃省",
+      "city": "酒泉市",
+      "route_aliases": [
+        "鸣沙山月牙泉"
+      ]
+    },
+    {
+      "spot_id": "SP144",
+      "full_name": "南浔古镇",
+      "province": "浙江省",
+      "city": "湖州市",
+      "route_aliases": [
+        "南浔古镇"
+      ]
+    },
+    {
+      "spot_id": "SP145",
+      "full_name": "塘栖古镇",
+      "province": "浙江省",
+      "city": "杭州市",
+      "route_aliases": [
+        "塘栖古镇"
+      ]
+    },
+    {
+      "spot_id": "SP146",
+      "full_name": "香港大馆",
+      "province": "香港特别行政区",
+      "city": "中西区",
+      "route_aliases": [
+        "大馆"
+      ]
+    },
+    {
+      "spot_id": "SP147",
+      "full_name": "香港海洋公园",
+      "province": "香港特别行政区",
+      "city": "南区",
+      "route_aliases": [
+        "香港海洋公园"
+      ]
+    },
+    {
+      "spot_id": "SP148",
+      "full_name": "氹仔官也街",
+      "province": "澳门特别行政区",
+      "city": "氹仔",
+      "route_aliases": [
+        "官也街"
+      ]
+    },
+    {
+      "spot_id": "SP149",
+      "full_name": "澳门议事亭前地",
+      "province": "澳门特别行政区",
+      "city": "澳门半岛",
+      "route_aliases": [
+        "议事亭前地"
+      ]
+    },
+    {
+      "spot_id": "SP150",
+      "full_name": "九份老街",
+      "province": "台湾省",
+      "city": "新北市",
+      "route_aliases": [
+        "九份老街"
+      ]
+    },
+    {
+      "spot_id": "SP151",
+      "full_name": "十分老街",
+      "province": "台湾省",
+      "city": "新北市",
+      "route_aliases": [
+        "十分老街"
+      ]
+    },
+    {
+      "spot_id": "SP152",
+      "full_name": "北投温泉区",
+      "province": "台湾省",
+      "city": "台北市",
+      "route_aliases": [
+        "北投温泉区"
+      ]
+    },
+    {
+      "spot_id": "SP153",
+      "full_name": "北投文物馆",
+      "province": "台湾省",
+      "city": "台北市",
+      "route_aliases": [
+        "北投文物馆"
+      ]
+    },
+    {
+      "spot_id": "SP154",
+      "full_name": "景山公园",
+      "province": "北京市",
+      "city": "西城区",
+      "route_aliases": [
+        "景山公园"
+      ]
+    },
+    {
+      "spot_id": "SP155",
+      "full_name": "开封清明上河园",
+      "province": "河南省",
+      "city": "开封市",
+      "route_aliases": [
+        "清明上河园"
+      ]
+    },
+    {
+      "spot_id": "SP156",
+      "full_name": "婺源篁岭",
+      "province": "江西省",
+      "city": "上饶市",
+      "route_aliases": [
+        "婺源篁岭"
+      ]
+    },
+    {
+      "spot_id": "SP157",
+      "full_name": "恩施大峡谷",
+      "province": "湖北省",
+      "city": "恩施土家族苗族自治州",
+      "route_aliases": [
+        "恩施大峡谷"
+      ]
+    },
+    {
+      "spot_id": "SP158",
+      "full_name": "青岛栈桥",
+      "province": "山东省",
+      "city": "青岛市",
+      "route_aliases": [
+        "栈桥"
+      ]
+    },
+    {
+      "spot_id": "SP159",
+      "full_name": "青岛八大关",
+      "province": "山东省",
+      "city": "青岛市",
+      "route_aliases": [
+        "八大关"
+      ]
+    },
+    {
+      "spot_id": "SP160",
+      "full_name": "大连滨海路",
+      "province": "辽宁省",
+      "city": "大连市",
+      "route_aliases": [
+        "滨海路"
+      ]
+    },
+    {
+      "spot_id": "SP161",
+      "full_name": "哈尔滨中央大街",
+      "province": "黑龙江省",
+      "city": "哈尔滨市",
+      "route_aliases": [
+        "中央大街"
+      ]
+    },
+    {
+      "spot_id": "SP162",
+      "full_name": "昆明滇池",
+      "province": "云南省",
+      "city": "昆明市",
+      "route_aliases": [
+        "滇池"
+      ]
+    },
+    {
+      "spot_id": "SP163",
+      "full_name": "昆明西山风景区",
+      "province": "云南省",
+      "city": "昆明市",
+      "route_aliases": [
+        "西山"
+      ]
+    },
+    {
+      "spot_id": "SP164",
+      "full_name": "三亚亚龙湾",
+      "province": "海南省",
+      "city": "三亚市",
+      "route_aliases": [
+        "亚龙湾"
+      ]
+    },
+    {
+      "spot_id": "SP165",
+      "full_name": "青海湖金沙湾",
+      "province": "青海省",
+      "city": "海南藏族自治州",
+      "route_aliases": [
+        "金沙湾"
+      ]
+    },
+    {
+      "spot_id": "SP166",
+      "full_name": "香港M+博物馆",
+      "province": "香港特别行政区",
+      "city": "油尖旺区",
+      "route_aliases": [
+        "M+"
+      ]
+    },
+    {
+      "spot_id": "SP167",
+      "full_name": "香港故宫文化博物馆",
+      "province": "香港特别行政区",
+      "city": "油尖旺区",
+      "route_aliases": [
+        "香港故宫文化博物馆"
+      ]
+    },
+    {
+      "spot_id": "SP168",
+      "full_name": "布尔津五彩滩",
+      "province": "新疆维吾尔自治区",
+      "city": "阿勒泰地区",
+      "route_aliases": [
+        "五彩滩"
+      ]
+    },
+    {
+      "spot_id": "SP169",
+      "full_name": "禾木景区",
+      "province": "新疆维吾尔自治区",
+      "city": "阿勒泰地区",
+      "route_aliases": [
+        "禾木"
+      ]
+    },
+    {
+      "spot_id": "SP170",
+      "full_name": "乌尔禾魔鬼城",
+      "province": "新疆维吾尔自治区",
+      "city": "克拉玛依市",
+      "route_aliases": [
+        "乌尔禾魔鬼城"
+      ]
+    },
+    {
+      "spot_id": "SP171",
+      "full_name": "那拉提旅游风景区",
+      "province": "新疆维吾尔自治区",
+      "city": "伊犁哈萨克自治州",
+      "route_aliases": [
+        "那拉提草原"
+      ]
+    },
+    {
+      "spot_id": "SP172",
+      "full_name": "巴音布鲁克景区",
+      "province": "新疆维吾尔自治区",
+      "city": "巴音郭楞蒙古自治州",
+      "route_aliases": [
+        "巴音布鲁克"
+      ]
+    },
+    {
+      "spot_id": "SP173",
+      "full_name": "独库公路风景道",
+      "province": "新疆维吾尔自治区",
+      "city": "伊犁哈萨克自治州",
+      "route_aliases": [
+        "独库公路"
+      ]
+    },
+    {
+      "spot_id": "SP174",
+      "full_name": "新都桥",
+      "province": "四川省",
+      "city": "甘孜藏族自治州",
+      "route_aliases": [
+        "新都桥"
+      ]
+    },
+    {
+      "spot_id": "SP175",
+      "full_name": "理塘勒通古镇",
+      "province": "四川省",
+      "city": "甘孜藏族自治州",
+      "route_aliases": [
+        "理塘"
+      ]
+    },
+    {
+      "spot_id": "SP176",
+      "full_name": "色达县风景区",
+      "province": "四川省",
+      "city": "甘孜藏族自治州",
+      "route_aliases": [
+        "色达"
+      ]
+    },
+    {
+      "spot_id": "SP177",
+      "full_name": "丹巴甲居藏寨",
+      "province": "四川省",
+      "city": "甘孜藏族自治州",
+      "route_aliases": [
+        "丹巴甲居藏寨"
+      ]
+    },
+    {
+      "spot_id": "SP178",
+      "full_name": "四姑娘山景区",
+      "province": "四川省",
+      "city": "阿坝藏族羌族自治州",
+      "route_aliases": [
+        "四姑娘山"
+      ]
+    },
+    {
+      "spot_id": "SP179",
+      "full_name": "大理洱海",
+      "province": "云南省",
+      "city": "大理白族自治州",
+      "route_aliases": [
+        "洱海"
+      ]
+    },
+    {
+      "spot_id": "SP180",
+      "full_name": "普达措国家公园",
+      "province": "云南省",
+      "city": "迪庆藏族自治州",
+      "route_aliases": [
+        "香格里拉普达措"
+      ]
+    },
+    {
+      "spot_id": "SP181",
+      "full_name": "独克宗古城",
+      "province": "云南省",
+      "city": "迪庆藏族自治州",
+      "route_aliases": [
+        "独克宗古城"
+      ]
+    },
+    {
+      "spot_id": "SP182",
+      "full_name": "哈尔滨圣索菲亚大教堂",
+      "province": "黑龙江省",
+      "city": "哈尔滨市",
+      "route_aliases": [
+        "圣索菲亚大教堂"
+      ]
+    },
+    {
+      "spot_id": "SP183",
+      "full_name": "亚布力国际滑雪场",
+      "province": "黑龙江省",
+      "city": "哈尔滨市",
+      "route_aliases": [
+        "亚布力国际滑雪场"
+      ]
+    },
+    {
+      "spot_id": "SP184",
+      "full_name": "中国雪乡风景区",
+      "province": "黑龙江省",
+      "city": "牡丹江市",
+      "route_aliases": [
+        "中国雪乡"
+      ]
+    },
+    {
+      "spot_id": "SP185",
+      "full_name": "柳州螺蛳粉小镇",
+      "province": "广西壮族自治区",
+      "city": "柳州市",
+      "route_aliases": []
+    },
+    {
+      "spot_id": "SP186",
+      "full_name": "乌兰察布火山地质公园",
+      "province": "内蒙古自治区",
+      "city": "乌兰察布市",
+      "route_aliases": []
+    }
+  ],
+  "route_bindings_preview": [
+    {
+      "route_id": "RT001",
+      "spot_ids_ordered_unique": [
+        "SP043",
+        "SP119",
+        "SP117"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "蟳埔村",
+          "spot_id": "SP043"
+        },
+        {
+          "day": 2,
+          "spot_name": "崇武古城",
+          "spot_id": "SP119"
+        },
+        {
+          "day": 3,
+          "spot_name": "湄洲岛",
+          "spot_id": "SP117"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT002",
+      "spot_ids_ordered_unique": [
+        "SP118"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "泉州古城",
+          "spot_id": "SP118"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT003",
+      "spot_ids_ordered_unique": [
+        "SP040",
+        "SP120"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "鼓浪屿",
+          "spot_id": "SP040"
+        },
+        {
+          "day": 2,
+          "spot_name": "沙坡尾",
+          "spot_id": "SP120"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT004",
+      "spot_ids_ordered_unique": [
+        "SP117",
+        "SP121"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "湄洲岛",
+          "spot_id": "SP117"
+        },
+        {
+          "day": 2,
+          "spot_name": "平潭岛",
+          "spot_id": "SP121"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT005",
+      "spot_ids_ordered_unique": [
+        "SP122",
+        "SP123"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "南澳岛青澳湾",
+          "spot_id": "SP122"
+        },
+        {
+          "day": 2,
+          "spot_name": "南澳后花园村",
+          "spot_id": "SP123"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT006",
+      "spot_ids_ordered_unique": [
+        "SP124"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "梧桐山",
+          "spot_id": "SP124"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT007",
+      "spot_ids_ordered_unique": [
+        "SP125"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "七娘山",
+          "spot_id": "SP125"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT008",
+      "spot_ids_ordered_unique": [
+        "SP126"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "潮州古城",
+          "spot_id": "SP126"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT009",
+      "spot_ids_ordered_unique": [
+        "SP127"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "沙面",
+          "spot_id": "SP127"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT010",
+      "spot_ids_ordered_unique": [
+        "SP128",
+        "SP129",
+        "SP130"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "龙脊梯田",
+          "spot_id": "SP128"
+        },
+        {
+          "day": 2,
+          "spot_name": "阳朔西街",
+          "spot_id": "SP129"
+        },
+        {
+          "day": 3,
+          "spot_name": "遇龙河",
+          "spot_id": "SP130"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT011",
+      "spot_ids_ordered_unique": [
+        "SP077"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "稻城亚丁风景区",
+          "spot_id": "SP077"
+        },
+        {
+          "day": 2,
+          "spot_name": "稻城亚丁风景区",
+          "spot_id": "SP077"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT012",
+      "spot_ids_ordered_unique": [
+        "SP085",
+        "SP086"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "丽江古城",
+          "spot_id": "SP085"
+        },
+        {
+          "day": 2,
+          "spot_name": "玉龙雪山",
+          "spot_id": "SP086"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT013",
+      "spot_ids_ordered_unique": [
+        "SP085",
+        "SP086",
+        "SP132",
+        "SP131"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "丽江古城",
+          "spot_id": "SP085"
+        },
+        {
+          "day": 2,
+          "spot_name": "玉龙雪山",
+          "spot_id": "SP086"
+        },
+        {
+          "day": 3,
+          "spot_name": "束河古镇",
+          "spot_id": "SP132"
+        },
+        {
+          "day": 4,
+          "spot_name": "泸沽湖",
+          "spot_id": "SP131"
+        },
+        {
+          "day": 5,
+          "spot_name": "泸沽湖",
+          "spot_id": "SP131"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT014",
+      "spot_ids_ordered_unique": [
+        "SP133",
+        "SP079",
+        "SP134"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "宽窄巷子",
+          "spot_id": "SP133"
+        },
+        {
+          "day": 2,
+          "spot_name": "都江堰",
+          "spot_id": "SP079"
+        },
+        {
+          "day": 3,
+          "spot_name": "青城山",
+          "spot_id": "SP134"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT015",
+      "spot_ids_ordered_unique": [
+        "SP135",
+        "SP136"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "洪崖洞",
+          "spot_id": "SP135"
+        },
+        {
+          "day": 2,
+          "spot_name": "磁器口古镇",
+          "spot_id": "SP136"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT016",
+      "spot_ids_ordered_unique": [
+        "SP057",
+        "SP137"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "张家界国家森林公园",
+          "spot_id": "SP057"
+        },
+        {
+          "day": 2,
+          "spot_name": "袁家界",
+          "spot_id": "SP057"
+        },
+        {
+          "day": 3,
+          "spot_name": "天门山",
+          "spot_id": "SP137"
+        }
+      ],
+      "duplicate_same_spot_days": true
+    },
+    {
+      "route_id": "RT017",
+      "spot_ids_ordered_unique": [
+        "SP101",
+        "SP099",
+        "SP100",
+        "SP138"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "塔尔寺",
+          "spot_id": "SP101"
+        },
+        {
+          "day": 2,
+          "spot_name": "青海湖景区",
+          "spot_id": "SP099"
+        },
+        {
+          "day": 3,
+          "spot_name": "茶卡盐湖",
+          "spot_id": "SP100"
+        },
+        {
+          "day": 4,
+          "spot_name": "卓尔山",
+          "spot_id": "SP138"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT018",
+      "spot_ids_ordered_unique": [
+        "SP139",
+        "SP099",
+        "SP100",
+        "SP140"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "丹噶尔古城",
+          "spot_id": "SP139"
+        },
+        {
+          "day": 2,
+          "spot_name": "青海湖景区",
+          "spot_id": "SP099"
+        },
+        {
+          "day": 3,
+          "spot_name": "茶卡盐湖",
+          "spot_id": "SP100"
+        },
+        {
+          "day": 4,
+          "spot_name": "金银滩原子城景区",
+          "spot_id": "SP140"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT019",
+      "spot_ids_ordered_unique": [
+        "SP093",
+        "SP141",
+        "SP095"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "秦始皇兵马俑博物馆",
+          "spot_id": "SP093"
+        },
+        {
+          "day": 2,
+          "spot_name": "西安城墙",
+          "spot_id": "SP141"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT020",
+      "spot_ids_ordered_unique": [
+        "SP141",
+        "SP142",
+        "SP093",
+        "SP095"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "西安城墙",
+          "spot_id": "SP141"
+        },
+        {
+          "day": 2,
+          "spot_name": "秦始皇兵马俑博物馆",
+          "spot_id": "SP093"
+        },
+        {
+          "day": 3,
+          "spot_name": "大雁塔",
+          "spot_id": "SP095"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT021",
+      "spot_ids_ordered_unique": [
+        "SP096",
+        "SP143"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "莫高窟",
+          "spot_id": "SP096"
+        },
+        {
+          "day": 2,
+          "spot_name": "鸣沙山月牙泉",
+          "spot_id": "SP143"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT022",
+      "spot_ids_ordered_unique": [
+        "SP098"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "张掖七彩丹霞",
+          "spot_id": "SP098"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT023",
+      "spot_ids_ordered_unique": [
+        "SP032"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "杭州西湖",
+          "spot_id": "SP032"
+        },
+        {
+          "day": 2,
+          "spot_name": "杭州西湖",
+          "spot_id": "SP032"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT024",
+      "spot_ids_ordered_unique": [
+        "SP033",
+        "SP034",
+        "SP032"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "乌镇西栅",
+          "spot_id": "SP033"
+        },
+        {
+          "day": 2,
+          "spot_name": "西塘",
+          "spot_id": "SP034"
+        },
+        {
+          "day": 3,
+          "spot_name": "杭州西湖",
+          "spot_id": "SP032"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT025",
+      "spot_ids_ordered_unique": [
+        "SP144",
+        "SP033",
+        "SP034"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "南浔古镇",
+          "spot_id": "SP144"
+        },
+        {
+          "day": 2,
+          "spot_name": "乌镇",
+          "spot_id": "SP033"
+        },
+        {
+          "day": 3,
+          "spot_name": "西塘",
+          "spot_id": "SP034"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT026",
+      "spot_ids_ordered_unique": [
+        "SP028"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "拙政园",
+          "spot_id": "SP028"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT027",
+      "spot_ids_ordered_unique": [
+        "SP024"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "外滩",
+          "spot_id": "SP024"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT028",
+      "spot_ids_ordered_unique": [
+        "SP145"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "塘栖古镇",
+          "spot_id": "SP145"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT029",
+      "spot_ids_ordered_unique": [
+        "SP146",
+        "SP110",
+        "SP108"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "大馆",
+          "spot_id": "SP146"
+        },
+        {
+          "day": 1,
+          "spot_name": "太平山顶",
+          "spot_id": "SP110"
+        },
+        {
+          "day": 1,
+          "spot_name": "维多利亚港",
+          "spot_id": "SP108"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT030",
+      "spot_ids_ordered_unique": [
+        "SP109",
+        "SP147"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "天坛大佛",
+          "spot_id": "SP109"
+        },
+        {
+          "day": 2,
+          "spot_name": "香港海洋公园",
+          "spot_id": "SP147"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT031",
+      "spot_ids_ordered_unique": [
+        "SP149",
+        "SP112",
+        "SP148"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "议事亭前地",
+          "spot_id": "SP149"
+        },
+        {
+          "day": 1,
+          "spot_name": "大三巴牌坊",
+          "spot_id": "SP112"
+        },
+        {
+          "day": 1,
+          "spot_name": "官也街",
+          "spot_id": "SP148"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT032",
+      "spot_ids_ordered_unique": [
+        "SP150",
+        "SP151"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "九份老街",
+          "spot_id": "SP150"
+        },
+        {
+          "day": 2,
+          "spot_name": "十分老街",
+          "spot_id": "SP151"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT033",
+      "spot_ids_ordered_unique": [
+        "SP152",
+        "SP153"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "北投温泉区",
+          "spot_id": "SP152"
+        },
+        {
+          "day": 2,
+          "spot_name": "北投文物馆",
+          "spot_id": "SP153"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT034",
+      "spot_ids_ordered_unique": [
+        "SP001",
+        "SP002",
+        "SP003"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "故宫博物院",
+          "spot_id": "SP001"
+        },
+        {
+          "day": 2,
+          "spot_name": "八达岭长城",
+          "spot_id": "SP002"
+        },
+        {
+          "day": 3,
+          "spot_name": "颐和园",
+          "spot_id": "SP003"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT035",
+      "spot_ids_ordered_unique": [
+        "SP001",
+        "SP154"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "故宫博物院",
+          "spot_id": "SP001"
+        },
+        {
+          "day": 1,
+          "spot_name": "景山公园",
+          "spot_id": "SP154"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT036",
+      "spot_ids_ordered_unique": [
+        "SP006"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "承德避暑山庄",
+          "spot_id": "SP006"
+        },
+        {
+          "day": 2,
+          "spot_name": "承德避暑山庄",
+          "spot_id": "SP006"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT037",
+      "spot_ids_ordered_unique": [
+        "SP010"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "平遥古城",
+          "spot_id": "SP010"
+        },
+        {
+          "day": 2,
+          "spot_name": "平遥古城",
+          "spot_id": "SP010"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT038",
+      "spot_ids_ordered_unique": [
+        "SP155"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "清明上河园",
+          "spot_id": "SP155"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT039",
+      "spot_ids_ordered_unique": [
+        "SP037"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "黄山风景区",
+          "spot_id": "SP037"
+        },
+        {
+          "day": 2,
+          "spot_name": "黄山风景区",
+          "spot_id": "SP037"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT040",
+      "spot_ids_ordered_unique": [
+        "SP156",
+        "SP047"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "婺源篁岭",
+          "spot_id": "SP156"
+        },
+        {
+          "day": 2,
+          "spot_name": "婺源江湾",
+          "spot_id": "SP047"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT041",
+      "spot_ids_ordered_unique": [
+        "SP044"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "三坊七巷",
+          "spot_id": "SP044"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT042",
+      "spot_ids_ordered_unique": [
+        "SP044",
+        "SP118",
+        "SP040"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "三坊七巷",
+          "spot_id": "SP044"
+        },
+        {
+          "day": 2,
+          "spot_name": "泉州古城",
+          "spot_id": "SP118"
+        },
+        {
+          "day": 3,
+          "spot_name": "鼓浪屿",
+          "spot_id": "SP040"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT043",
+      "spot_ids_ordered_unique": [
+        "SP157"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "恩施大峡谷",
+          "spot_id": "SP157"
+        },
+        {
+          "day": 2,
+          "spot_name": "恩施大峡谷",
+          "spot_id": "SP157"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT044",
+      "spot_ids_ordered_unique": [
+        "SP077"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "稻城亚丁风景区",
+          "spot_id": "SP077"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT045",
+      "spot_ids_ordered_unique": [
+        "SP158",
+        "SP159"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "栈桥",
+          "spot_id": "SP158"
+        },
+        {
+          "day": 1,
+          "spot_name": "八大关",
+          "spot_id": "SP159"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT046",
+      "spot_ids_ordered_unique": [
+        "SP160"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "滨海路",
+          "spot_id": "SP160"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT047",
+      "spot_ids_ordered_unique": [
+        "SP161"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "中央大街",
+          "spot_id": "SP161"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT048",
+      "spot_ids_ordered_unique": [
+        "SP162",
+        "SP163"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "滇池",
+          "spot_id": "SP162"
+        },
+        {
+          "day": 1,
+          "spot_name": "西山",
+          "spot_id": "SP163"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT049",
+      "spot_ids_ordered_unique": [
+        "SP164"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "亚龙湾",
+          "spot_id": "SP164"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT050",
+      "spot_ids_ordered_unique": [
+        "SP129",
+        "SP130"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "阳朔西街",
+          "spot_id": "SP129"
+        },
+        {
+          "day": 2,
+          "spot_name": "遇龙河",
+          "spot_id": "SP130"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT051",
+      "spot_ids_ordered_unique": [
+        "SP128"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "龙脊梯田",
+          "spot_id": "SP128"
+        },
+        {
+          "day": 2,
+          "spot_name": "龙脊梯田",
+          "spot_id": "SP128"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT052",
+      "spot_ids_ordered_unique": [
+        "SP099",
+        "SP165"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "青海湖景区",
+          "spot_id": "SP099"
+        },
+        {
+          "day": 2,
+          "spot_name": "金沙湾",
+          "spot_id": "SP165"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT053",
+      "spot_ids_ordered_unique": [
+        "SP166",
+        "SP167"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "M+",
+          "spot_id": "SP166"
+        },
+        {
+          "day": 1,
+          "spot_name": "香港故宫文化博物馆",
+          "spot_id": "SP167"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT054",
+      "spot_ids_ordered_unique": [
+        "SP059"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "凤凰古城",
+          "spot_id": "SP059"
+        },
+        {
+          "day": 2,
+          "spot_name": "凤凰古城",
+          "spot_id": "SP059"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT055",
+      "spot_ids_ordered_unique": [
+        "SP040"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "鼓浪屿",
+          "spot_id": "SP040"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT056",
+      "spot_ids_ordered_unique": [
+        "SP168",
+        "SP104",
+        "SP169",
+        "SP170",
+        "SP106",
+        "SP171",
+        "SP172",
+        "SP173"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "五彩滩",
+          "spot_id": "SP168"
+        },
+        {
+          "day": 2,
+          "spot_name": "喀纳斯",
+          "spot_id": "SP104"
+        },
+        {
+          "day": 3,
+          "spot_name": "禾木",
+          "spot_id": "SP169"
+        },
+        {
+          "day": 4,
+          "spot_name": "乌尔禾魔鬼城",
+          "spot_id": "SP170"
+        },
+        {
+          "day": 5,
+          "spot_name": "赛里木湖",
+          "spot_id": "SP106"
+        },
+        {
+          "day": 6,
+          "spot_name": "那拉提草原",
+          "spot_id": "SP171"
+        },
+        {
+          "day": 7,
+          "spot_name": "独库公路",
+          "spot_id": "SP173"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT057",
+      "spot_ids_ordered_unique": [
+        "SP174",
+        "SP175",
+        "SP077",
+        "SP176",
+        "SP177",
+        "SP178"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "新都桥",
+          "spot_id": "SP174"
+        },
+        {
+          "day": 2,
+          "spot_name": "理塘",
+          "spot_id": "SP175"
+        },
+        {
+          "day": 3,
+          "spot_name": "稻城亚丁风景区",
+          "spot_id": "SP077"
+        },
+        {
+          "day": 4,
+          "spot_name": "稻城亚丁风景区",
+          "spot_id": "SP077"
+        },
+        {
+          "day": 5,
+          "spot_name": "色达",
+          "spot_id": "SP176"
+        },
+        {
+          "day": 6,
+          "spot_name": "丹巴甲居藏寨",
+          "spot_id": "SP177"
+        },
+        {
+          "day": 7,
+          "spot_name": "四姑娘山",
+          "spot_id": "SP178"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT058",
+      "spot_ids_ordered_unique": [
+        "SP088",
+        "SP179",
+        "SP085",
+        "SP086",
+        "SP131",
+        "SP180",
+        "SP181"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "大理古城",
+          "spot_id": "SP088"
+        },
+        {
+          "day": 2,
+          "spot_name": "洱海",
+          "spot_id": "SP179"
+        },
+        {
+          "day": 3,
+          "spot_name": "丽江古城",
+          "spot_id": "SP085"
+        },
+        {
+          "day": 4,
+          "spot_name": "玉龙雪山",
+          "spot_id": "SP086"
+        },
+        {
+          "day": 5,
+          "spot_name": "泸沽湖",
+          "spot_id": "SP131"
+        },
+        {
+          "day": 6,
+          "spot_name": "香格里拉普达措",
+          "spot_id": "SP180"
+        },
+        {
+          "day": 7,
+          "spot_name": "独克宗古城",
+          "spot_id": "SP181"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT059",
+      "spot_ids_ordered_unique": [
+        "SP161",
+        "SP182",
+        "SP183",
+        "SP184",
+        "SP022",
+        "SP018"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "中央大街",
+          "spot_id": "SP161"
+        },
+        {
+          "day": 2,
+          "spot_name": "亚布力国际滑雪场",
+          "spot_id": "SP183"
+        },
+        {
+          "day": 3,
+          "spot_name": "中国雪乡",
+          "spot_id": "SP184"
+        },
+        {
+          "day": 4,
+          "spot_name": "镜泊湖风景区",
+          "spot_id": "SP022"
+        },
+        {
+          "day": 5,
+          "spot_name": "长白山天池",
+          "spot_id": "SP018"
+        },
+        {
+          "day": 6,
+          "spot_name": "中央大街",
+          "spot_id": "SP161"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    },
+    {
+      "route_id": "RT060",
+      "spot_ids_ordered_unique": [
+        "SP108",
+        "SP110",
+        "SP146",
+        "SP109",
+        "SP147",
+        "SP112",
+        "SP148"
+      ],
+      "daily_spot_ids": [
+        {
+          "day": 1,
+          "spot_name": "大馆",
+          "spot_id": "SP146"
+        },
+        {
+          "day": 2,
+          "spot_name": "太平山顶",
+          "spot_id": "SP110"
+        },
+        {
+          "day": 3,
+          "spot_name": "维多利亚港",
+          "spot_id": "SP108"
+        },
+        {
+          "day": 4,
+          "spot_name": "天坛大佛",
+          "spot_id": "SP109"
+        },
+        {
+          "day": 5,
+          "spot_name": "香港海洋公园",
+          "spot_id": "SP147"
+        },
+        {
+          "day": 6,
+          "spot_name": "大三巴牌坊",
+          "spot_id": "SP112"
+        }
+      ],
+      "duplicate_same_spot_days": false
+    }
+  ],
+  "generated_at_additions_revision": "2026-11-06T17:34:10+08:00",
+  "sample_backfill": [
+    {
+      "spot_id": "SP185",
+      "full_name": "柳州螺蛳粉小镇"
+    },
+    {
+      "spot_id": "SP186",
+      "full_name": "乌兰察布火山地质公园"
+    }
+  ]
+}

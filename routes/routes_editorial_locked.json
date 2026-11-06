@@ -1,0 +1,4596 @@
+{
+  "meta": {
+    "batch": "Phase1-routes-v0.3-editorial",
+    "generated_at": "2026-11-06T17:05:00+08:00",
+    "revised_at": "2026-11-06T17:40:00+08:00",
+    "timezone": "Asia/Shanghai",
+    "count": 60,
+    "revisions": [
+      "Added RT056–RT060 (6–7 day geography-supported long routes); count>=59",
+      "Repaired strong_tags_optional: prose moved to synthesis_note; remaining tags must be exact tags_500 names or omitted",
+      "Rewrote all blind_highlights with editorial templates; blocked spot_sensitive_terms aliases",
+      "Annotated each source_ref with ref_status from box curl HEAD/GET sample (reachable_http_ok | ref_source_unverified)",
+      "No invented source_channels field; channel honesty stays in meta.channel_access_summary",
+      "v0.3 de-templatized blind_highlights by spot typology; false AMS/fuel/tide removed from urban/theme/low-mountain; RT056 Kanas/Nalati sensitive terms confirmed"
+    ],
+    "duration_days_histogram": {
+      "1": 22,
+      "2": 21,
+      "3": 9,
+      "4": 2,
+      "5": 1,
+      "6": 2,
+      "7": 3
+    },
+    "source_ref_status_counts": {
+      "reachable_http_ok": 71,
+      "ref_source_unverified": 29
+    },
+    "channel_access_summary": {
+      "Ctrip_Mac": "not accessed (no Mac UI automation this run); used public Ctrip HTML itinerary pages where found",
+      "Official_Site": "partial — HK TB, Macao TB, Qinghai culture tourism via Xinhua, Yading official URLs (fetch timeout on one page), Hunan culture tourism list",
+      "Mafengwo_Doyouhike": "partial — Doyouhike topic pages via search snippets only; Mafengwo deep pages not successfully fetched this batch",
+      "Xiaohongshu_Douyin": "not directly scraped (login/anti-bot); social insights only via secondary news roundups without user IDs",
+      "Search_Engine": "primary method this batch (WebSearch + selective WebFetch)"
+    },
+    "known_weaknesses": [
+      "Ctrip Mac APP still not accessed",
+      "Xiaohongshu/Douyin not directly scraped",
+      "Several official Chinese domains returned HTTP 500 or TLS failure from this box egress — marked ref_source_unverified even if they may open in other networks",
+      "discoverhongkong.cn / thepeak.com.hk / doyouhike / some sina.cn URLs failed or 403/404 in check",
+      "Long routes are public-itinerary skeletons or geo_synthesis — not GPS-verified tracks",
+      "spot_ids still unbound; parent must map spot_names",
+      "blind_highlights are intentionally generic after leak-guard; may feel templated",
+      "New long-route source URLs mostly unchecked in first HEAD sample wave — flagged unverified until revalidated"
+    ],
+    "constraints": {
+      "write_path": "/workspace/blindbox-travel/routes",
+      "no_git": true,
+      "no_user_mac_sync": true
+    },
+    "validation": {
+      "blind_title_errors": [],
+      "invalid_tags": [],
+      "highlight_leaks_remaining": [],
+      "routes_6plus": 5,
+      "routes_7": 3,
+      "post_longroute_url_recheck": true
+    },
+    "editorial_v03": {
+      "highlights_rewritten": 145,
+      "schedule_days_total": 145,
+      "unique_highlight_hashes_before": 23,
+      "unique_highlight_hashes_after": 133,
+      "type_violations_remaining": 0,
+      "sensitive_manifest_size": 107,
+      "sensitive_missing": [],
+      "patch_pass": {
+        "direct_patches": 6,
+        "rescued_artifacts": 2,
+        "violations": 0,
+        "leaks": 0,
+        "unique_highlights": 133
+      },
+      "rt56_sensitive": {
+        "喀纳斯": [
+          "喀纳斯",
+          "月亮湾",
+          "神仙湾"
+        ],
+        "那拉提草原": [
+          "那拉提",
+          "那拉提镇",
+          "巩乃斯"
+        ],
+        "禾木": [
+          "禾木",
+          "禾木村",
+          "白桦林"
+        ]
+      }
+    }
+  },
+  "advice_revalidate_before_release": true,
+  "spot_sensitive_terms": {
+    "M+": [
+      "M+",
+      "西九"
+    ],
+    "七娘山": [
+      "七娘山",
+      "大鹏"
+    ],
+    "三坊七巷": [
+      "三坊七巷",
+      "南后街"
+    ],
+    "中国雪乡": [
+      "雪乡",
+      "双峰林场",
+      "棒槌山"
+    ],
+    "中央大街": [
+      "中央大街",
+      "索菲亚"
+    ],
+    "丹噶尔古城": [
+      "丹噶尔",
+      "湟源"
+    ],
+    "丹巴甲居藏寨": [
+      "丹巴",
+      "甲居",
+      "碉楼"
+    ],
+    "丽江古城": [
+      "丽江古城",
+      "四方街"
+    ],
+    "乌尔禾魔鬼城": [
+      "魔鬼城",
+      "乌尔禾"
+    ],
+    "乌镇": [
+      "乌镇",
+      "西栅",
+      "东栅"
+    ],
+    "乌镇西栅": [
+      "乌镇",
+      "西栅",
+      "东栅"
+    ],
+    "九份老街": [
+      "九份",
+      "老街"
+    ],
+    "五彩滩": [
+      "五彩滩",
+      "布尔津彩滩",
+      "河岸彩滩"
+    ],
+    "亚布力国际滑雪场": [
+      "亚布力",
+      "亚布",
+      "雪场"
+    ],
+    "亚龙湾": [
+      "亚龙湾",
+      "亚龙",
+      "龙湾"
+    ],
+    "八大关": [
+      "八大关",
+      "八大",
+      "大关"
+    ],
+    "八达岭长城": [
+      "八达岭",
+      "长城"
+    ],
+    "凤凰古城": [
+      "凤凰古城",
+      "沱江"
+    ],
+    "北投文物馆": [
+      "文物馆",
+      "北投",
+      "物馆"
+    ],
+    "北投温泉区": [
+      "北投",
+      "地热谷"
+    ],
+    "十分老街": [
+      "十分",
+      "天灯",
+      "平溪"
+    ],
+    "卓尔山": [
+      "卓尔山",
+      "卓尔",
+      "尔山"
+    ],
+    "南浔古镇": [
+      "南浔",
+      "百间楼",
+      "小莲庄"
+    ],
+    "南澳后花园村": [
+      "后花园村",
+      "零碳"
+    ],
+    "南澳岛青澳湾": [
+      "南澳",
+      "青澳湾",
+      "长山尾"
+    ],
+    "喀纳斯": [
+      "喀纳斯",
+      "月亮湾",
+      "神仙湾"
+    ],
+    "四姑娘山": [
+      "四姑娘山",
+      "双桥沟",
+      "猫鼻梁"
+    ],
+    "圣索菲亚大教堂": [
+      "索菲亚",
+      "圣索菲亚"
+    ],
+    "塔尔寺": [
+      "塔尔寺",
+      "塔尔",
+      "尔寺"
+    ],
+    "塘栖古镇": [
+      "塘栖",
+      "广济桥"
+    ],
+    "外滩": [
+      "外滩",
+      "豫园",
+      "陆家嘴"
+    ],
+    "大三巴牌坊": [
+      "大三巴",
+      "大炮台"
+    ],
+    "大理古城": [
+      "大理古城",
+      "洋人街"
+    ],
+    "大雁塔": [
+      "大雁塔",
+      "不夜城"
+    ],
+    "大馆": [
+      "大馆",
+      "中区警署"
+    ],
+    "天坛大佛": [
+      "天坛大佛",
+      "宝莲寺"
+    ],
+    "天门山": [
+      "天门山",
+      "天门洞",
+      "玻璃栈道"
+    ],
+    "太平山顶": [
+      "太平山",
+      "凌霄阁",
+      "摩天台"
+    ],
+    "婺源江湾": [
+      "江湾",
+      "婺源"
+    ],
+    "婺源篁岭": [
+      "篁岭",
+      "晒秋"
+    ],
+    "官也街": [
+      "官也街",
+      "龙环葡韵"
+    ],
+    "宽窄巷子": [
+      "宽窄巷子",
+      "武侯祠",
+      "锦里"
+    ],
+    "崇武古城": [
+      "崇武",
+      "西沙湾",
+      "惠安女"
+    ],
+    "巴音布鲁克": [
+      "巴音布鲁克",
+      "九曲十八弯",
+      "天鹅湖"
+    ],
+    "平潭岛": [
+      "平潭",
+      "石牌洋",
+      "68海里"
+    ],
+    "平遥古城": [
+      "平遥",
+      "古城"
+    ],
+    "张家界国家森林公园": [
+      "张家界",
+      "金鞭溪",
+      "百龙天梯"
+    ],
+    "张掖七彩丹霞": [
+      "七彩丹霞",
+      "丹霞"
+    ],
+    "恩施大峡谷": [
+      "恩施大峡谷",
+      "七星寨"
+    ],
+    "承德避暑山庄": [
+      "避暑山庄",
+      "外八庙"
+    ],
+    "拙政园": [
+      "拙政园",
+      "留园"
+    ],
+    "故宫博物院": [
+      "故宫",
+      "紫禁城",
+      "午门"
+    ],
+    "新都桥": [
+      "新都桥",
+      "新都",
+      "都桥"
+    ],
+    "景山公园": [
+      "景山公园",
+      "景山"
+    ],
+    "束河古镇": [
+      "束河",
+      "白沙"
+    ],
+    "杭州西湖": [
+      "西湖",
+      "断桥",
+      "白堤"
+    ],
+    "栈桥": [
+      "栈桥",
+      "回澜阁"
+    ],
+    "梧桐山": [
+      "梧桐山",
+      "泰山涧"
+    ],
+    "沙坡尾": [
+      "沙坡尾",
+      "避风坞"
+    ],
+    "沙面": [
+      "沙面",
+      "永庆坊",
+      "恩宁路"
+    ],
+    "泉州古城": [
+      "开元寺",
+      "西街",
+      "清净寺"
+    ],
+    "泸沽湖": [
+      "泸沽湖",
+      "里格",
+      "猪槽船"
+    ],
+    "洪崖洞": [
+      "洪崖洞",
+      "千厮门"
+    ],
+    "洱海": [
+      "洱海",
+      "双廊",
+      "喜洲"
+    ],
+    "清明上河园": [
+      "清明上河园",
+      "清明",
+      "河园"
+    ],
+    "湄洲岛": [
+      "湄洲",
+      "妈祖祖庙",
+      "黄金沙滩"
+    ],
+    "滇池": [
+      "滇池",
+      "海埂"
+    ],
+    "滨海路": [
+      "滨海路",
+      "滨海",
+      "海路"
+    ],
+    "潮州古城": [
+      "广济桥",
+      "牌坊街",
+      "广济门"
+    ],
+    "独克宗古城": [
+      "独克宗",
+      "转经筒"
+    ],
+    "独库公路": [
+      "独库公路",
+      "乔尔玛",
+      "哈希勒根"
+    ],
+    "玉龙雪山": [
+      "玉龙雪山",
+      "蓝月谷",
+      "大索道"
+    ],
+    "理塘": [
+      "理塘",
+      "勒通"
+    ],
+    "磁器口古镇": [
+      "磁器口",
+      "磁器",
+      "古镇"
+    ],
+    "禾木": [
+      "禾木",
+      "禾木村",
+      "白桦林"
+    ],
+    "秦始皇兵马俑博物馆": [
+      "兵马俑",
+      "秦始皇帝陵"
+    ],
+    "稻城亚丁风景区": [
+      "亚丁",
+      "牛奶海",
+      "五色海"
+    ],
+    "维多利亚港": [
+      "维港",
+      "维多利亚港",
+      "星光大道"
+    ],
+    "色达": [
+      "色达",
+      "五明佛学院",
+      "红房子"
+    ],
+    "茶卡盐湖": [
+      "茶卡",
+      "天空之镜"
+    ],
+    "莫高窟": [
+      "莫高窟",
+      "敦煌石窟"
+    ],
+    "蟳埔村": [
+      "蟳埔",
+      "簪花围",
+      "蚵壳厝"
+    ],
+    "袁家界": [
+      "袁家界",
+      "天子山",
+      "十里画廊"
+    ],
+    "西塘": [
+      "西塘",
+      "烟雨长廊",
+      "石皮弄"
+    ],
+    "西安城墙": [
+      "城墙",
+      "永宁门"
+    ],
+    "西山": [
+      "西山",
+      "龙门"
+    ],
+    "议事亭前地": [
+      "议事亭",
+      "恋爱巷",
+      "玫瑰堂"
+    ],
+    "赛里木湖": [
+      "赛里木湖",
+      "赛湖"
+    ],
+    "遇龙河": [
+      "遇龙河",
+      "竹筏",
+      "水厄底"
+    ],
+    "那拉提草原": [
+      "那拉提",
+      "那拉提镇",
+      "巩乃斯"
+    ],
+    "都江堰": [
+      "都江堰",
+      "南桥"
+    ],
+    "金沙湾": [
+      "金沙湾",
+      "金沙"
+    ],
+    "金银滩原子城景区": [
+      "金银滩",
+      "原子城"
+    ],
+    "钟鼓楼": [
+      "钟楼",
+      "鼓楼",
+      "回民街"
+    ],
+    "镜泊湖风景区": [
+      "镜泊湖",
+      "吊水楼"
+    ],
+    "长白山天池": [
+      "天池",
+      "长白山",
+      "长白瀑布"
+    ],
+    "阳朔西街": [
+      "阳朔",
+      "西街",
+      "十里画廊"
+    ],
+    "青城山": [
+      "青城山",
+      "前山",
+      "后山"
+    ],
+    "青海湖景区": [
+      "青海湖",
+      "二郎剑",
+      "环湖"
+    ],
+    "颐和园": [
+      "颐和园",
+      "昆明湖"
+    ],
+    "香格里拉普达措": [
+      "普达措",
+      "属都湖"
+    ],
+    "香港故宫文化博物馆": [
+      "香港故宫",
+      "故宫文化博物馆"
+    ],
+    "香港海洋公园": [
+      "海洋公园",
+      "海洋馆",
+      "水上乐园"
+    ],
+    "鸣沙山月牙泉": [
+      "鸣沙山",
+      "月牙泉"
+    ],
+    "黄山风景区": [
+      "黄山",
+      "西海",
+      "迎客松"
+    ],
+    "鼓浪屿": [
+      "鼓浪屿",
+      "日光岩",
+      "菽庄"
+    ],
+    "龙脊梯田": [
+      "龙脊",
+      "金坑",
+      "西山韶乐"
+    ]
+  },
+  "routes": [
+    {
+      "route_id": "RT001",
+      "full_route_title": "泉州蟳埔村崇武古城湄洲岛三日游",
+      "blind_route_title": "泉******古*******",
+      "duration_days": 3,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "蟳埔村",
+        "崇武古城",
+        "湄洲岛"
+      ],
+      "region_tag": "华南游",
+      "search_keywords_matched": [
+        "自由行",
+        "三日游",
+        "乡村游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "蟳埔村",
+          "blind_highlights": "晋江入海口渔村片区步行，看蚵壳民居与盘发戴花体验点，巷弄窄、人多时错峰；傍晚海风大，夜宿古城或渔村周边。首日先确认住宿落位与明日交通。岸线风浪大时远离湿滑礁石。",
+          "transport_to_next": "城际打车/包车约1小时至惠安节点方向"
+        },
+        {
+          "day": 2,
+          "spot_name": "崇武古城",
+          "blind_highlights": "海防石城墙与渔港方向慢走，午后可至岸线观浪；城内岔路多，跟标识出城，转下一站预留公路车程约一小时。转海岛日前确认港口船班。",
+          "transport_to_next": "公路转莆田秀屿港乘渡轮上岛（班次天气敏感）"
+        },
+        {
+          "day": 3,
+          "spot_name": "湄洲岛",
+          "blind_highlights": "渡轮上岛后祖庙片区与沙滩分段逛，末班船与台风停航出发前查港口公告；岛上接驳班次傍晚减少。返程日只留短时节点，预留车站或机场安检。船班与停航以港口官方为准。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "taxi/private car",
+          "ferry"
+        ],
+        "notes": "蟳埔—崇武公路约1h；湄洲岛须查秀屿港渡轮与台风停航。票价班次出发前复核。"
+      },
+      "ai_strategy": "公开攻略多建议古城/渔村与海岸分日；湄洲岛单日较紧，末班船与台风季停航必须出发前核对官方。非实测，仅综合公开行程。",
+      "source_refs": [
+        {
+          "url": "https://view.inews.qq.com/a/20240430A05RPV00",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "五一泉州攻略：古城→蟳埔→崇武/西沙湾分段",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/1.1 200 OK",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "https://hk.trip.com/blog/quanzhou-243-meizhouisland-1445940-3days-itinerary-10003527878/",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "泉州+湄洲岛3日2夜行程表",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 200",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "http://travel.fjsen.com/2024-04/17/content_31623278.htm",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "东南网/清新福建春季山海线路含湄洲岛",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:500",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        }
+      ],
+      "route_basis": "geo_synthesis",
+      "synthesis_note": "由多篇公开泉州海岸攻略与湄洲岛攻略合并为三日线，非单一原文照搬。",
+      "strong_tags_optional": [
+        "出片",
+        "非遗",
+        "海洋文化"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT002",
+      "full_route_title": "泉州古城西街开元寺一日游",
+      "blind_route_title": "泉*****开*****",
+      "duration_days": 1,
+      "route_type": "single_spot",
+      "spot_names": [
+        "泉州古城"
+      ],
+      "region_tag": "华南游",
+      "search_keywords_matched": [
+        "自由行",
+        "一日游",
+        "低价游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "泉州古城",
+          "blind_highlights": "该片区—骑楼段步行串联开放寺院与街巷小吃，寺庙开放时段以当日告示为准；适合一日慢走，少换乘。首日先确认住宿落位与明日交通。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "walk",
+          "city bus"
+        ],
+        "notes": "古城步行友好；寺庙开放时间与周一闭馆规则出发前复核。"
+      },
+      "ai_strategy": "公开City Walk与五一攻略均将西街/开元寺作为一日核心；避开节假日午高峰。",
+      "source_refs": [
+        {
+          "url": "https://view.inews.qq.com/a/20240430A05RPV00",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "DAY1泉州古城区西街开元寺钟楼中山路",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/1.1 200 OK",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "https://szb.qzwb.com/qzwb/pc/cons/202402/11/content_67975.html",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "泉州晚报：市文旅局古城City Walk主题",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "怀旧",
+        "文艺",
+        "逛吃"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT003",
+      "full_route_title": "厦门鼓浪屿沙坡尾两日游",
+      "blind_route_title": "厦****沙*****",
+      "duration_days": 2,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "鼓浪屿",
+        "沙坡尾"
+      ],
+      "region_tag": "华南游",
+      "search_keywords_matched": [
+        "自由行",
+        "两日游",
+        "民宿"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "鼓浪屿",
+          "blind_highlights": "轮渡实名预约上岛，环岛步道与历史风貌建筑区慢游，行李少带；大雾或台风可能停航，返厦盯末班船。首日先确认住宿落位与明日交通。船班与停航以港口官方为准。",
+          "transport_to_next": "轮渡返厦，公交/骑行至节点"
+        },
+        {
+          "day": 2,
+          "spot_name": "沙坡尾",
+          "blind_highlights": "港湾文创与渔港氛围半日，步行或骑行可达；与上岛日衔接时先确认轮渡时刻再安排街巷停留。返程日只留短时节点，预留车站或机场安检。岸线风浪大时远离湿滑礁石。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "ferry",
+          "bus"
+        ],
+        "notes": "鼓浪屿船票实名预约；台风/大雾可能停航。"
+      },
+      "ai_strategy": "福建文旅春季推介将鼓浪屿与沙坡尾同城串联；岛上住宿旺季紧张。",
+      "source_refs": [
+        {
+          "url": "http://travel.fjsen.com/2024-04/17/content_31623278.htm",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "推荐线路含厦门鼓浪屿—沙坡尾",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:500",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "文艺",
+        "出片",
+        "慢生活"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT004",
+      "full_route_title": "莆田湄洲岛平潭海岛两日游",
+      "blind_route_title": "莆*****潭*****",
+      "duration_days": 2,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "湄洲岛",
+        "平潭岛"
+      ],
+      "region_tag": "华南游",
+      "search_keywords_matched": [
+        "自由行",
+        "两日游",
+        "低价游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "湄洲岛",
+          "blind_highlights": "渡轮上岛后祖庙片区与沙滩分段逛，末班船与台风停航出发前查港口公告；岛上接驳班次傍晚减少。首日先确认住宿落位与明日交通。船班与停航以港口官方为准。",
+          "transport_to_next": "公路/高铁转节点，班次核对"
+        },
+        {
+          "day": 2,
+          "spot_name": "平潭岛",
+          "blind_highlights": "岛上风车田与海岸节点择一二深逛，大风天注意观景台封闭；进出岛交通以实时路况为准。返程日只留短时节点，预留车站或机场安检。船班与停航以港口官方为准。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "ferry",
+          "coach/train"
+        ],
+        "notes": "海岛大风停航常见；合成线较赶，体力要求中。"
+      },
+      "ai_strategy": "清新福建春季推介将湄洲—平潭—霞浦分段；本条压缩为两日，标记为地理可达合成。",
+      "source_refs": [
+        {
+          "url": "http://travel.fjsen.com/2024-04/17/content_31623278.htm",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "派江吻海线路：湄洲岛—平潭—宁德",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:500",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        }
+      ],
+      "route_basis": "geo_synthesis",
+      "synthesis_note": "公开三日线压缩为两日，节点取舍需自行复核。",
+      "strong_tags_optional": [
+        "海洋文化",
+        "出片"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT005",
+      "full_route_title": "汕头南澳岛乡村农家乐两日游",
+      "blind_route_title": "汕*****村******",
+      "duration_days": 2,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "南澳岛青澳湾",
+        "南澳后花园村"
+      ],
+      "region_tag": "华南游",
+      "search_keywords_matched": [
+        "两日游",
+        "乡村游",
+        "农家乐",
+        "民宿"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "南澳岛青澳湾",
+          "blind_highlights": "跨海大桥入岛后湾区步道与灯塔方向，防晒防风；岛内租车注意停车点，夜宿湾区或渔村。首日先确认住宿落位与明日交通。船班与停航以港口官方为准。",
+          "transport_to_next": "岛内短途自驾/租车"
+        },
+        {
+          "day": 2,
+          "spot_name": "南澳后花园村",
+          "blind_highlights": "乡村茶园与风车观景慢游，午餐可选合规农家乐；下午预留出岛车程，避开桥梁晚高峰。返程日只留短时节点，预留车站或机场安检。岸线风浪大时远离湿滑礁石。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "self-drive",
+          "bridge"
+        ],
+        "notes": "南澳大桥通行与岛内停车以当地公告为准。"
+      },
+      "ai_strategy": "公开周末两日攻略与南澳县政府乡村游动态可交叉参考；农家乐预订与菜价现场确认。",
+      "source_refs": [
+        {
+          "url": "https://travelnews.qunar.com/qa_strategy/shantou-nanao-island-two-day-lazy-travel-guide",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "南澳懒人两日安排",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 200",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "http://www.nanao.gov.cn/na/hddt/lydt/content/post_2443945.html",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "后花园村零碳旅游公开报道",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:500",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        }
+      ],
+      "route_basis": "geo_synthesis",
+      "synthesis_note": "两日节点组合来自公开攻略与县政府乡村游信息。",
+      "strong_tags_optional": [
+        "海洋文化",
+        "农家乐",
+        "松弛"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT006",
+      "full_route_title": "深圳梧桐山一日徒步",
+      "blind_route_title": "深***山****",
+      "duration_days": 1,
+      "route_type": "single_spot",
+      "spot_names": [
+        "梧桐山"
+      ],
+      "region_tag": "华南游",
+      "search_keywords_matched": [
+        "一日游",
+        "自由行",
+        "低价游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "梧桐山",
+          "blind_highlights": "北门或涧口等登山线择一往返，补水防晒，雨后石阶湿滑；城市近郊低山，按截山时间下山，无需按高原处理。首日先确认住宿落位与明日交通。低山行程按截山与末班索道时间返回。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "metro+bus",
+          "hike"
+        ],
+        "notes": "开放至晚间以景区当日公告为准；雨天防滑。"
+      },
+      "ai_strategy": "深圳本地宝与磨房公开帖均有梧桐山路线讨论；本条仅提炼一般动线，不作难度保证。",
+      "source_refs": [
+        {
+          "url": "http://sz.bendibao.com/tour/2019318/ly814043.html",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "梧桐山爬山攻略路线",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:500",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        },
+        {
+          "url": "https://www.doyouhike.net/topic/29130",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "磨房：梧桐山/马峦山/七娘山讨论帖（仅取客观路线信息，剥离用户身份）",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 404",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "洗肺",
+        "刺激"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT007",
+      "full_route_title": "深圳大鹏七娘山一日徒步",
+      "blind_route_title": "深****娘*****",
+      "duration_days": 1,
+      "route_type": "single_spot",
+      "spot_names": [
+        "七娘山"
+      ],
+      "region_tag": "华南游",
+      "search_keywords_matched": [
+        "一日游",
+        "自由行"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "七娘山",
+          "blind_highlights": "该片区半岛主峰线往返，截入山时间严格，备足饮水；同属低海拔徒步，量力勿赶夜路。首日先确认住宿落位与明日交通。低山行程按截山与末班索道时间返回。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "bus/taxi",
+          "hike"
+        ],
+        "notes": "科考线开放截止时间公开资料提及约16:00，出发前复核。"
+      },
+      "ai_strategy": "都市圈攻略与磨房帖提及主峰科考线里程与时长；体能不足勿强行。",
+      "source_refs": [
+        {
+          "url": "https://sz.dushiquan.net/sz/ly/20230128/5915.html",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "梧桐山+七娘山预约与路线介绍",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 200",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "https://www.doyouhike.net/topic/2",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "磨房转帖：深圳野外徒步路线简介",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 404",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "刺激",
+        "洗肺"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT008",
+      "full_route_title": "潮州古城广济桥一日游",
+      "blind_route_title": "潮****济****",
+      "duration_days": 1,
+      "route_type": "single_spot",
+      "spot_names": [
+        "潮州古城"
+      ],
+      "region_tag": "华南游",
+      "search_keywords_matched": [
+        "一日游",
+        "低价游",
+        "自由行"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "潮州古城",
+          "blind_highlights": "该片区与江边开桥时段漫步，开桥季节性调整出发前查官方；以步行美食线为主。首日先确认住宿落位与明日交通。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "walk",
+          "bus"
+        ],
+        "notes": "广济桥开桥时间季节性调整，以景区公告为准。"
+      },
+      "ai_strategy": "潮汕综合攻略常将潮州古城作为单日节点；开桥与夜游另行核对。",
+      "source_refs": [
+        {
+          "url": "https://www.zhihu.com/tardis/bd/art/51906896",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "潮汕攻略含潮州古城节点（公开专栏摘要）",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": "来源为公开长文摘要，未登录抓取用户主页。",
+      "strong_tags_optional": [
+        "怀旧",
+        "逛吃"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT009",
+      "full_route_title": "广州沙面永庆坊一日游",
+      "blind_route_title": "广****庆****",
+      "duration_days": 1,
+      "route_type": "single_spot",
+      "spot_names": [
+        "沙面"
+      ],
+      "region_tag": "华南游",
+      "search_keywords_matched": [
+        "一日游",
+        "自由行",
+        "低价游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "沙面",
+          "blind_highlights": "该片区岛欧陆街巷半日，可延伸老城活化街区；地铁接驳方便，居民区勿扰民拍摄。首日先确认住宿落位与明日交通。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "metro",
+          "walk"
+        ],
+        "notes": "沙面为开放街区，注意居民区礼仪。"
+      },
+      "ai_strategy": "华南城市微度假常见公开组合；永庆坊商业时段以现场为准。",
+      "source_refs": [
+        {
+          "url": "https://chinawandering.com/zh/posts/city-travel-guides/",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "城市旅行指南汇总页（作区域参考）",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/1.1 200 OK",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "geo_synthesis",
+      "synthesis_note": "沙面为核实地名；与恩宁路串联为常见公开City Walk合成。",
+      "strong_tags_optional": [
+        "文艺",
+        "慢生活"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT010",
+      "full_route_title": "桂林龙脊梯田阳朔三日游",
+      "blind_route_title": "桂****田*****",
+      "duration_days": 3,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "龙脊梯田",
+        "阳朔西街",
+        "遇龙河"
+      ],
+      "region_tag": "华南游",
+      "search_keywords_matched": [
+        "自由行",
+        "三日游",
+        "民宿"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "龙脊梯田",
+          "blind_highlights": "寨区步道或观光车串观景台，梯田埂勿下田踩踏；盘山路上山易晕车，雨天防滑，属中山徒步而非极高高原。首日先确认住宿落位与明日交通。低山行程按截山与末班索道时间返回。",
+          "transport_to_next": "下山大巴回桂林西后高铁赴节点，或包车直达"
+        },
+        {
+          "day": 2,
+          "spot_name": "阳朔西街",
+          "blind_highlights": "县城该片区夜市与民宿区休整，次日水上项目前早歇；租电瓶车注意头盔与禁行路段。次日返程，今晚早休息。",
+          "transport_to_next": "县城租电瓶车/包车"
+        },
+        {
+          "day": 3,
+          "spot_name": "遇龙河",
+          "blind_highlights": "该片区段须线上实名预约，汛期可能；可接骑行廊道，下水安全听船工指挥，出发前查官方水位通知。返程日只留短时节点，预留车站或机场安检。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "coach",
+          "highspeed rail",
+          "e-bike",
+          "bamboo raft"
+        ],
+        "notes": "遇龙河汛期停航；龙脊盘山路易晕车。"
+      },
+      "ai_strategy": "新浪旅游等公开3天2晚规划：龙脊住一晚再转阳朔；竹筏实名预约、汛期风险需复核。",
+      "source_refs": [
+        {
+          "url": "https://travel.sina.cn/2026-07-07/detail-inifyeez1569820.d.html?vt=4",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "龙脊+阳朔3天2晚自由行规划",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 404",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        },
+        {
+          "url": "https://www.zhunaqu.com/guilin/article/17023",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "龙脊门票三日有效与片区说明",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "200",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "https://gs.ctrip.com/html5/you/itinerary/detail/1445120/502402.html",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "携程公开行程：桂林阳朔龙脊",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "出片",
+        "震撼"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT011",
+      "full_route_title": "稻城亚丁两日深度游",
+      "blind_route_title": "稻***两****",
+      "duration_days": 2,
+      "route_type": "single_spot",
+      "spot_names": [
+        "稻城亚丁风景区"
+      ],
+      "region_tag": "西南秘境",
+      "search_keywords_matched": [
+        "自由行",
+        "两日游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "稻城亚丁风景区",
+          "blind_highlights": "短线适应后再考虑长线预约区；海拔高，头痛胸闷立刻停止行程并下撤，勿熬夜饮酒。首日先确认住宿落位与明日交通。高原日放慢节奏，不适即停。"
+        },
+        {
+          "day": 2,
+          "spot_name": "稻城亚丁风景区",
+          "blind_highlights": "短线适应后再考虑长线预约区；海拔高，头痛胸闷立刻停止行程并下撤，勿熬夜饮酒。返程日只留短时节点，预留车站或机场安检。高原日放慢节奏，不适即停。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "scenic shuttle",
+          "hike",
+          "horse optional"
+        ],
+        "notes": "牛奶海五色海限流预约；海拔4500m+，非轻装休闲线。"
+      },
+      "ai_strategy": "景区官方站点有抵达与牛奶海限流公告；两日短线+长线为公开常见拆分，非实地背书。",
+      "source_refs": [
+        {
+          "url": "https://cn.yadingtour.com/e-news/news/40-wisdom/line",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "亚丁官方：如何抵达",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:000",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        },
+        {
+          "url": "https://cn.yadingtour.com/e-news/notice/511-2022-06-08-09-01-37",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "牛奶海五色海限流预约公告",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:000",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        },
+        {
+          "url": "https://www.joyotour.com/cn/chinaguide/daocheng-yading/",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "三神山牛奶海五色海玩法综述",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": "官方页WebFetch曾超时，URL来自检索结果保留待复核。",
+      "strong_tags_optional": [
+        "雪山",
+        "重装徒步"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT012",
+      "full_route_title": "丽江古城玉龙雪山两日游",
+      "blind_route_title": "丽****龙*****",
+      "duration_days": 2,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "丽江古城",
+        "玉龙雪山"
+      ],
+      "region_tag": "西南秘境",
+      "search_keywords_matched": [
+        "自由行",
+        "两日游",
+        "民宿"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "丽江古城",
+          "blind_highlights": "古城街巷适应干燥与城海拔，少剧烈爬坡；夜宿可考虑相对安静区，次日上山留体力。首日先确认住宿落位与明日交通。",
+          "transport_to_next": "景区交通车/拼车上山"
+        },
+        {
+          "day": 2,
+          "spot_name": "玉龙雪山",
+          "blind_highlights": "该片区提前官方预约，河谷湖区可串；高原紫外线强，身体不适勿强行登高段，预留景区交通排队。返程日只留短时节点，预留车站或机场安检。高原日放慢节奏，不适即停。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "coach",
+          "cableway"
+        ],
+        "notes": "索道预约窗口紧张；高反人群评估后再上山。"
+      },
+      "ai_strategy": "公开4–5日丽江攻略将古城与雪山分日；本条为其中核心两日截取。",
+      "source_refs": [
+        {
+          "url": "https://travel.sina.cn/2026-09-02/detail-iniqkzme7882719.d.html?vt=4",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "丽江深度游含古城雪山",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 404",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        },
+        {
+          "url": "https://travelnews.qunar.com/qa_strategy/lijiang-one-stop-travel-guide-for-top-attractions",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "古城雪山泸沽湖怎么排",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "出片",
+        "震撼"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT013",
+      "full_route_title": "丽江泸沽湖五日环线",
+      "blind_route_title": "丽***湖****",
+      "duration_days": 5,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "丽江古城",
+        "玉龙雪山",
+        "束河古镇",
+        "泸沽湖"
+      ],
+      "region_tag": "西南秘境",
+      "search_keywords_matched": [
+        "自由行",
+        "民宿"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "丽江古城",
+          "blind_highlights": "古城街巷适应干燥与城海拔，少剧烈爬坡；夜宿可考虑相对安静区，次日上山留体力。首日先确认住宿落位与明日交通。"
+        },
+        {
+          "day": 2,
+          "spot_name": "玉龙雪山",
+          "blind_highlights": "该片区提前官方预约，河谷湖区可串；高原紫外线强，身体不适勿强行登高段，预留景区交通排队。高原日放慢节奏，不适即停。"
+        },
+        {
+          "day": 3,
+          "spot_name": "束河古镇",
+          "blind_highlights": "相对松弛的步行镇区，适合转场前休整；为长途赴湖区备好车与行李。",
+          "transport_to_next": "长途大巴/包车约4h赴节点"
+        },
+        {
+          "day": 4,
+          "spot_name": "泸沽湖",
+          "blind_highlights": "环湖观景与合规游船，单程山路约四小时级，建议住一晚；勿乘无资质私船，尊重民俗摄影边界。次日返程，今晚早休息。高原日放慢节奏，不适即停。"
+        },
+        {
+          "day": 5,
+          "spot_name": "泸沽湖",
+          "blind_highlights": "环湖观景与合规游船，单程山路约四小时级，建议住一晚；勿乘无资质私船，尊重民俗摄影边界。返程日只留短时节点，预留车站或机场安检。高原日放慢节奏，不适即停。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "coach",
+          "private car",
+          "cableway",
+          "boat"
+        ],
+        "notes": "泸沽湖单程约4小时，建议住一晚；勿信无资质私船。"
+      },
+      "ai_strategy": "去哪儿/新浪等公开攻略常见5日排法；合成标注，班次票务自行核实。",
+      "source_refs": [
+        {
+          "url": "https://www.ynhuiyi.com/archives/7561",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "丽江古城玉龙雪山5天4晚指南",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "200",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "https://travelnews.qunar.com/qa_strategy/lijiang-one-stop-travel-guide-for-top-attractions",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "泸沽湖住一晚建议",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "geo_synthesis",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "神秘",
+        "慢生活",
+        "出片"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT014",
+      "full_route_title": "成都宽窄巷子都江堰青城山三日游",
+      "blind_route_title": "成******江*******",
+      "duration_days": 3,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "宽窄巷子",
+        "都江堰",
+        "青城山"
+      ],
+      "region_tag": "西南秘境",
+      "search_keywords_matched": [
+        "自由行",
+        "三日游",
+        "低价游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "宽窄巷子",
+          "blind_highlights": "巷弄与邻近祠庙商街步行一日，地铁可达；暑热中午进室内歇脚。首日先确认住宿落位与明日交通。",
+          "transport_to_next": "地铁犀浦换乘城际至节点"
+        },
+        {
+          "day": 2,
+          "spot_name": "都江堰",
+          "blind_highlights": "水利工程核心区参观，城际铁路接驳成熟；桥面人流大跟导览路线，傍晚可留宿或返城。次日返程，今晚早休息。",
+          "transport_to_next": "公交/打车至节点"
+        },
+        {
+          "day": 3,
+          "spot_name": "青城山",
+          "blind_highlights": "该片区古道半日足够多数访客；山中湿气重雨天防滑，属盆地边缘山岳，无高原设定。返程日只留短时节点，预留车站或机场安检。低山行程按截山与末班索道时间返回。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "metro",
+          "CRH intercity",
+          "bus"
+        ],
+        "notes": "都江堰—青城山同城接驳成熟；暑期防暑。"
+      },
+      "ai_strategy": "HK01/榜中榜等公开3日线常见组合。",
+      "source_refs": [
+        {
+          "url": "https://global.hk01.com/%E6%97%85%E6%B8%B8/60281200/%E6%88%90%E9%83%BD%E8%87%AA%E7%94%B1%E8%A1%8C-%E5%8F%A4%E8%BF%B9%E6%99%AF%E7%82%B93%E6%97%A5%E6%B8%B8%E8%B7%AF%E7%B7%9A-%E9%9D%92%E7%BE%8A%E5%AE%AB-%E6%9D%9C%E7%94%AB%E8%8D%89%E5%A0%82-%E6%AD%A6%E4%BE%AF%E7%A5%A0-%E9%9D%92%E5%9F%8E%E5%B1%B1",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "成都古迹3日含青城山",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 200",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "https://www.sina.cn/gc/article/nipkzxr0081302.html",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "都江堰+青城山避暑3日",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 204",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "禅意",
+        "怀旧",
+        "洗肺"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT015",
+      "full_route_title": "重庆洪崖洞磁器口两日游",
+      "blind_route_title": "重****磁*****",
+      "duration_days": 2,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "洪崖洞",
+        "磁器口古镇"
+      ],
+      "region_tag": "西南秘境",
+      "search_keywords_matched": [
+        "自由行",
+        "两日游",
+        "低价游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "洪崖洞",
+          "blind_highlights": "江岸夜景与步道，台阶多、节假日拥挤；错峰早到，雨天注意脚下。首日先确认住宿落位与明日交通。",
+          "transport_to_next": "地铁/公交赴沙坪坝方向"
+        },
+        {
+          "day": 2,
+          "spot_name": "磁器口古镇",
+          "blind_highlights": "江畔该片区半日，主街商业重可钻深巷；地铁往返，下午返程即可。返程日只留短时节点，预留车站或机场安检。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "metro",
+          "walk"
+        ],
+        "notes": "洪崖洞台阶多；雨天湿滑。"
+      },
+      "ai_strategy": "西南城市公开两日打卡组合；非官方专线原文。",
+      "source_refs": [
+        {
+          "url": "https://chinawandering.com/zh/posts/city-travel-guides/",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "城市指南索引作区域背景",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/1.1 200 OK",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "geo_synthesis",
+      "synthesis_note": "两景点均为公开热门核实地名，串联为常见周末线。",
+      "strong_tags_optional": [
+        "出片",
+        "喧嚣",
+        "逛吃"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT016",
+      "full_route_title": "张家界森林公园天门山三日游",
+      "blind_route_title": "张*****园******",
+      "duration_days": 3,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "张家界国家森林公园",
+        "袁家界",
+        "天门山"
+      ],
+      "region_tag": "西南秘境",
+      "search_keywords_matched": [
+        "自由行",
+        "三日游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "张家界国家森林公园",
+          "blind_highlights": "溪谷步道入园，环保车接驳山岳观景台；区间车班次紧，按景区地图留下山时间。首日先确认住宿落位与明日交通。低山行程按截山与末班索道时间返回。"
+        },
+        {
+          "day": 2,
+          "spot_name": "袁家界",
+          "blind_highlights": "园区内台地与峡谷线择游，恐高慎选栈道；通票规则出发前查官方。次日返程，今晚早休息。低山行程按截山与末班索道时间返回。",
+          "transport_to_next": "景区交通转市区酒店"
+        },
+        {
+          "day": 3,
+          "spot_name": "天门山",
+          "blind_highlights": "索道上山，洞体与该片区量力；恐高或大风停运时改其他平台，以景区当日公告为准。返程日只留短时节点，预留车站或机场安检。低山行程按截山与末班索道时间返回。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "scenic transit",
+          "cableway"
+        ],
+        "notes": "森林公园与天门山门票交通分开；恐高慎选栈道。"
+      },
+      "ai_strategy": "湖南文旅线路与多家公开3日自由行一致：园区两日+天门山一日。",
+      "source_refs": [
+        {
+          "url": "https://whhlyt.hunan.gov.cn/whhlyt/wldhlylx/202208/t20220816_27584142.html",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "湖南省文旅厅旅游路线页",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/1.1 200 OK",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "https://hk.trip.com/blog/zhangjiajie-23-3days-itinerary-9998634472/",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "张家界3日2夜自由行",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 200",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "https://gowanderworld.com/a-three-day-self-guided-tour-strategy-of-zhangjiajie/",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "森林公园+天门山三日",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "震撼",
+        "惊险",
+        "出片"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT017",
+      "full_route_title": "西宁青海湖茶卡盐湖祁连四日游",
+      "blind_route_title": "西******盐******",
+      "duration_days": 4,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "塔尔寺",
+        "青海湖景区",
+        "茶卡盐湖",
+        "卓尔山"
+      ],
+      "region_tag": "西北自驾",
+      "search_keywords_matched": [
+        "自由行",
+        "低价游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "塔尔寺",
+          "blind_highlights": "西宁近郊寺院半日，初到高原放慢脚步；寺内禁拍区域遵从现场。首日先确认住宿落位与明日交通。高原日放慢节奏，不适即停。",
+          "transport_to_next": "自驾/包车经日月山赴节点"
+        },
+        {
+          "day": 2,
+          "spot_name": "青海湖景区",
+          "blind_highlights": "该片区观景台与核心游览区，风大温差明显；自驾注意加油站间距，海拔高不适则缩短停留。高原日放慢节奏，不适即停。",
+          "transport_to_next": "节点公路"
+        },
+        {
+          "day": 3,
+          "spot_name": "茶卡盐湖",
+          "blind_highlights": "盐湖镜面仰赖晴稳天气，鞋套防腐蚀；长途自驾日补燃油与饮水，傍晚赶路前早结束游览。次日返程，今晚早休息。高原日放慢节奏，不适即停。",
+          "transport_to_next": "经大冬树垭口赴祁连"
+        },
+        {
+          "day": 4,
+          "spot_name": "卓尔山",
+          "blind_highlights": "丹霞观景台日落前后光影好，山路弯多；衔接花海季时查花期与路况，注意轻微高原反应。返程日只留短时节点，预留车站或机场安检。高原日放慢节奏，不适即停。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "private car",
+          "self-drive"
+        ],
+        "notes": "高原高反；垭口海拔高；花海季节窗口短。"
+      },
+      "ai_strategy": "青海文旅环湖精品线路与多篇4日攻略一致；票价班次以景区当日为准。",
+      "source_refs": [
+        {
+          "url": "http://qh.news.cn/2024-11/06/c_1130216967.htm",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "新华网：青海文旅六条环青海湖精品线路",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:500",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        },
+        {
+          "url": "https://tournews.tw/qinghai-lake-travel-guide/",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "青海湖茶卡祁连4天3夜",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 200",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "https://travelnews.qunar.com/qa_strategy/qinghai-self-driving-travel-guide-11",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "青海自驾三日环线要点",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "震撼",
+        "苍凉",
+        "出片"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT018",
+      "full_route_title": "环青海湖生态体验四日游",
+      "blind_route_title": "环****态*****",
+      "duration_days": 4,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "丹噶尔古城",
+        "青海湖景区",
+        "茶卡盐湖",
+        "金银滩原子城景区"
+      ],
+      "region_tag": "西北自驾",
+      "search_keywords_matched": [
+        "自由行"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "丹噶尔古城",
+          "blind_highlights": "古城短停适应，次日该片区前休整补物资；早睡少饮酒。首日先确认住宿落位与明日交通。高原日放慢节奏，不适即停。"
+        },
+        {
+          "day": 2,
+          "spot_name": "青海湖景区",
+          "blind_highlights": "该片区观景台与核心游览区，风大温差明显；自驾注意加油站间距，海拔高不适则缩短停留。高原日放慢节奏，不适即停。"
+        },
+        {
+          "day": 3,
+          "spot_name": "茶卡盐湖",
+          "blind_highlights": "盐湖镜面仰赖晴稳天气，鞋套防腐蚀；长途自驾日补燃油与饮水，傍晚赶路前早结束游览。次日返程，今晚早休息。高原日放慢节奏，不适即停。"
+        },
+        {
+          "day": 4,
+          "spot_name": "金银滩原子城景区",
+          "blind_highlights": "草原纪念地与展陈，风大防晒；该片区东段收尾，返宁前确认高速入口。返程日只留短时节点，预留车站或机场安检。高原日放慢节奏，不适即停。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "self-drive",
+          "coach"
+        ],
+        "notes": "按省文旅“环青海湖生态体验之旅”节点抽象，细节自核。"
+      },
+      "ai_strategy": "直接对应青海文旅公布四日精品线城市节点（简化景点列表）。",
+      "source_refs": [
+        {
+          "url": "http://qh.news.cn/2024-11/06/c_1130216967.htm",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "环青海湖生态体验之旅4日：西宁—湟源—共和—青海湖—乌兰—天峻—刚察—海晏—西宁",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:500",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        }
+      ],
+      "route_basis": "official_line",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "洗涤心灵",
+        "苍凉"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT019",
+      "full_route_title": "西安兵马俑城墙大雁塔两日游",
+      "blind_route_title": "西*****墙******",
+      "duration_days": 2,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "秦始皇兵马俑博物馆",
+        "西安城墙"
+      ],
+      "region_tag": "西北自驾",
+      "search_keywords_matched": [
+        "自由行",
+        "两日游",
+        "低价游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "秦始皇兵马俑博物馆",
+          "blind_highlights": "临潼半日到一日，讲解器或预约导览；专线或地铁返城，勿信站外低价拉客。首日先确认住宿落位与明日交通。",
+          "transport_to_next": "地铁/旅游专线返城"
+        },
+        {
+          "day": 2,
+          "spot_name": "西安城墙",
+          "blind_highlights": "该片区骑行或步行择一段，注意闭城时间；傍晚可衔接灯火街区。返程日只留短时节点，预留车站或机场安检。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "metro",
+          "tourist bus",
+          "bike on wall"
+        ],
+        "notes": "兵马俑与城墙分属不同预约系统。"
+      },
+      "ai_strategy": "陕西公开旅游FAQ称两日可覆盖核心；旅行社/协会主题游行程可交叉验证。",
+      "source_refs": [
+        {
+          "url": "https://en.shaanxi.gov.cn/tourism/tt/tr/201711/t20171122_1594561.html",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "Shaanxi gov tourism FAQs: two days core",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/1.1 403 Forbidden",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        },
+        {
+          "url": "https://www.029558.com/travelroute/routeDetail/601",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "兵马俑华清池城墙大雁塔二日游线路页",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "怀旧",
+        "震撼"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT020",
+      "full_route_title": "西安古城三日游",
+      "blind_route_title": "西**城***",
+      "duration_days": 3,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "西安城墙",
+        "秦始皇兵马俑博物馆",
+        "大雁塔"
+      ],
+      "region_tag": "西北自驾",
+      "search_keywords_matched": [
+        "自由行",
+        "三日游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "西安城墙",
+          "blind_highlights": "该片区骑行或步行择一段，注意闭城时间；傍晚可衔接灯火街区。首日先确认住宿落位与明日交通。"
+        },
+        {
+          "day": 2,
+          "spot_name": "秦始皇兵马俑博物馆",
+          "blind_highlights": "临潼半日到一日，讲解器或预约导览；专线或地铁返城，勿信站外低价拉客。次日返程，今晚早休息。"
+        },
+        {
+          "day": 3,
+          "spot_name": "大雁塔",
+          "blind_highlights": "塔院与周边文化区半日，夜景人流大；地铁接驳，适合收官日。返程日只留短时节点，预留车站或机场安检。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "metro",
+          "taxi"
+        ],
+        "notes": "三日较从容，适合首次到访。"
+      },
+      "ai_strategy": "西安旅游网等三日排法公开可查。",
+      "source_refs": [
+        {
+          "url": "https://www.tang.org.cn/82268.html",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "西安三日游详细",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "怀旧",
+        "逛吃"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT021",
+      "full_route_title": "敦煌鸣沙山莫高窟两日游",
+      "blind_route_title": "敦****莫*****",
+      "duration_days": 2,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "莫高窟",
+        "鸣沙山月牙泉"
+      ],
+      "region_tag": "西北自驾",
+      "search_keywords_matched": [
+        "自由行",
+        "两日游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "莫高窟",
+          "blind_highlights": "洞窟须官方预约，馆内禁拍遵规；沙尘天备口罩，与沙漠点分日更稳。首日先确认住宿落位与明日交通。",
+          "transport_to_next": "市区至节点方向车程短"
+        },
+        {
+          "day": 2,
+          "spot_name": "鸣沙山月牙泉",
+          "blind_highlights": "沙漠防晒防沙，体验项目先问价；日落光影好，电子设备防进沙。返程日只留短时节点，预留车站或机场安检。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "coach",
+          "taxi"
+        ],
+        "notes": "莫高窟票务极度紧张；沙尘天气影响体验。"
+      },
+      "ai_strategy": "西北自驾攻略普遍将莫高窟与鸣沙山分列两日；票务以敦煌研究院为准。",
+      "source_refs": [
+        {
+          "url": "https://travelnews.qunar.com/qa_strategy/qinghai-self-driving-travel-guide-11",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "攻略提及莫高窟需提前订票、鸣沙山月牙泉",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "geo_synthesis",
+      "synthesis_note": "经典公开组合；莫高窟官方预约页未在本批成功深抓，票务请自行核敦煌研究院。",
+      "strong_tags_optional": [
+        "神秘",
+        "苍凉",
+        "震撼"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT022",
+      "full_route_title": "张掖七彩丹霞一日游",
+      "blind_route_title": "张***丹****",
+      "duration_days": 1,
+      "route_type": "single_spot",
+      "spot_names": [
+        "张掖七彩丹霞"
+      ],
+      "region_tag": "西北自驾",
+      "search_keywords_matched": [
+        "一日游",
+        "自由行"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "张掖七彩丹霞",
+          "blind_highlights": "观光车串观景台，禁入未开放区；日出日落机位以景区开放为准。首日先确认住宿落位与明日交通。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "scenic bus"
+        ],
+        "notes": "住景区附近便于日出；勿越过护栏。"
+      },
+      "ai_strategy": "西北摄影/自驾公开攻略高频单点；票价开放以景区公告为准。",
+      "source_refs": [
+        {
+          "url": "https://travelnews.qunar.com/qa_strategy/qinghai-self-driving-travel-guide-11",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "提及七彩丹霞为西北经典节点",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "出片",
+        "震撼"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT023",
+      "full_route_title": "杭州西湖深度两日游",
+      "blind_route_title": "杭***深****",
+      "duration_days": 2,
+      "route_type": "single_spot",
+      "spot_names": [
+        "杭州西湖"
+      ],
+      "region_tag": "江浙沪微度假",
+      "search_keywords_matched": [
+        "自由行",
+        "两日游",
+        "低价游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "杭州西湖",
+          "blind_highlights": "湖滨堤岛分区慢走，游船问清返程码头；需预约的寺院点另安排半日。首日先确认住宿落位与明日交通。"
+        },
+        {
+          "day": 2,
+          "spot_name": "杭州西湖",
+          "blind_highlights": "湖滨堤岛分区慢走，游船问清返程码头；需预约的寺院点另安排半日。返程日只留短时节点，预留车站或机场安检。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "metro",
+          "walk",
+          "boat optional"
+        ],
+        "notes": "灵隐预约；游船产品是否含返程须问清。"
+      },
+      "ai_strategy": "河图志西湖深度游公开两日分区建议。",
+      "source_refs": [
+        {
+          "url": "https://www.hetuzhi.com/gonglue/zhejiang/%E6%9D%AD%E5%B7%9E%E5%B8%82/%E8%A5%BF%E6%B9%96%E6%B7%B1%E5%BA%A6%E6%B8%B8%E6%94%BB%E7%95%A5/",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "西湖分区深度游两日三日建议",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "浪漫",
+        "文艺",
+        "慢生活"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT024",
+      "full_route_title": "乌镇西塘西湖三日游",
+      "blind_route_title": "乌***西****",
+      "duration_days": 3,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "乌镇西栅",
+        "西塘",
+        "杭州西湖"
+      ],
+      "region_tag": "江浙沪微度假",
+      "search_keywords_matched": [
+        "自由行",
+        "三日游",
+        "民宿"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "乌镇西栅",
+          "blind_highlights": "水乡夜景与水路，住镇内注意隔音；票务分区，勿两栅一日硬赶。首日先确认住宿落位与明日交通。",
+          "transport_to_next": "公路约0.5–1h赴节点"
+        },
+        {
+          "day": 2,
+          "spot_name": "西塘",
+          "blind_highlights": "廊棚与巷弄日夜各留一段，酒吧街噪声选房避开；次日跨城车程通常不长。次日返程，今晚早休息。",
+          "transport_to_next": "公路赴杭州"
+        },
+        {
+          "day": 3,
+          "spot_name": "杭州西湖",
+          "blind_highlights": "湖滨堤岛分区慢走，游船问清返程码头；需预约的寺院点另安排半日。返程日只留短时节点，预留车站或机场安检。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "private car",
+          "coach"
+        ],
+        "notes": "古镇票务分区；西塘夜酒吧噪声选房注意。"
+      },
+      "ai_strategy": "苏杭三日/南浔乌镇西塘顺行公开攻略常见。",
+      "source_refs": [
+        {
+          "url": "http://www.onegreen.net/news/506.html",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "苏杭3日含乌镇西塘西湖",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:500",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        },
+        {
+          "url": "https://lxs.cncn.com/88720/n1326506",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "南浔乌镇西塘杭州顺行4日逻辑",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/1.1 200 OK",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "https://www.hetuzhi.com/gonglue/zhejiang/%E6%9D%AD%E5%B7%9E%E5%B8%82/%E5%91%A8%E8%BE%B9%E5%8F%A4%E9%95%87%E6%94%BB%E7%95%A5/",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "杭州周边古镇交通与两日建议",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "geo_synthesis",
+      "synthesis_note": "三日版压缩自公开多日古镇线。",
+      "strong_tags_optional": [
+        "出片",
+        "慢生活"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT025",
+      "full_route_title": "南浔乌镇西塘水乡三日游",
+      "blind_route_title": "南****塘*****",
+      "duration_days": 3,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "南浔古镇",
+        "乌镇",
+        "西塘"
+      ],
+      "region_tag": "江浙沪微度假",
+      "search_keywords_matched": [
+        "自由行",
+        "三日游",
+        "乡村游",
+        "民宿"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "南浔古镇",
+          "blind_highlights": "宅院与沿河街巷人相对少，适合开篇慢逛；短途转下一水乡。首日先确认住宿落位与明日交通。",
+          "transport_to_next": "短途车赴节点"
+        },
+        {
+          "day": 2,
+          "spot_name": "乌镇",
+          "blind_highlights": "选定草场片区择一深逛；住宿是否含票、行李规则下单时确认。次日返程，今晚早休息。",
+          "transport_to_next": "约半小时赴节点"
+        },
+        {
+          "day": 3,
+          "spot_name": "西塘",
+          "blind_highlights": "廊棚与巷弄日夜各留一段，酒吧街噪声选房避开；次日跨城车程通常不长。返程日只留短时节点，预留车站或机场安检。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "coach",
+          "taxi"
+        ],
+        "notes": "单向东→西动线减少折返。"
+      },
+      "ai_strategy": "顺行不绕路公开规划：南浔→乌镇→西塘。",
+      "source_refs": [
+        {
+          "url": "https://lxs.cncn.com/88720/n1326506",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "正向顺行南浔乌镇西塘",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/1.1 200 OK",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "https://www.sohu.com/a/1012498530_122661589",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "乌镇南浔西塘西湖家庭三日（商导文，仅取行程骨架）",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/1.1 200 OK",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "怀旧",
+        "慢生活"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT026",
+      "full_route_title": "苏州园林拙政园一日游",
+      "blind_route_title": "苏****政****",
+      "duration_days": 1,
+      "route_type": "single_spot",
+      "spot_names": [
+        "拙政园"
+      ],
+      "region_tag": "江浙沪微度假",
+      "search_keywords_matched": [
+        "一日游",
+        "自由行",
+        "低价游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "拙政园",
+          "blind_highlights": "园林预约入园，雨天廊道湿滑；可延伸古城河道步行，博物馆闭馆日错开。首日先确认住宿落位与明日交通。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "metro",
+          "walk"
+        ],
+        "notes": "园林预约；雨天廊道湿滑。"
+      },
+      "ai_strategy": "苏杭攻略注意事项含园林与博物馆闭馆；本条单点深度。",
+      "source_refs": [
+        {
+          "url": "http://www.onegreen.net/news/506.html",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "苏州注意事项含博物馆园林",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:500",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "文艺",
+        "静谧"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT027",
+      "full_route_title": "上海外滩豫园一日游",
+      "blind_route_title": "上***豫****",
+      "duration_days": 1,
+      "route_type": "single_spot",
+      "spot_names": [
+        "外滩"
+      ],
+      "region_tag": "江浙沪微度假",
+      "search_keywords_matched": [
+        "一日游",
+        "自由行",
+        "低价游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "外滩",
+          "blind_highlights": "江岸步道观天际线，节假日人极多；可去对岸视角，拍照不越栏。首日先确认住宿落位与明日交通。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "metro",
+          "walk",
+          "ferry optional"
+        ],
+        "notes": "节假日人流极大。"
+      },
+      "ai_strategy": "江浙沪门户城市公开一日经典。",
+      "source_refs": [
+        {
+          "url": "https://chinawandering.com/zh/posts/city-travel-guides/",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "城市指南索引",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/1.1 200 OK",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "geo_synthesis",
+      "synthesis_note": "外滩/豫园为核实公共景点名。",
+      "strong_tags_optional": [
+        "喧嚣",
+        "出片"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT028",
+      "full_route_title": "杭州塘栖古镇一日微度假",
+      "blind_route_title": "杭****镇*****",
+      "duration_days": 1,
+      "route_type": "single_spot",
+      "spot_names": [
+        "塘栖古镇"
+      ],
+      "region_tag": "江浙沪微度假",
+      "search_keywords_matched": [
+        "一日游",
+        "乡村游",
+        "低价游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "塘栖古镇",
+          "blind_highlights": "运河与古桥半日近郊，适合当天往返；末班交通提前定。首日先确认住宿落位与明日交通。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "metro/bus",
+          "self-drive"
+        ],
+        "notes": "杭州范围内当天往返较现实。"
+      },
+      "ai_strategy": "河图志明确塘栖适合半日到一日近郊。",
+      "source_refs": [
+        {
+          "url": "https://www.hetuzhi.com/gonglue/zhejiang/%E6%9D%AD%E5%B7%9E%E5%B8%82/%E5%91%A8%E8%BE%B9%E5%8F%A4%E9%95%87%E6%94%BB%E7%95%A5/",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "塘栖一日建议",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "慢生活"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT029",
+      "full_route_title": "香港维港太平山顶一日游",
+      "blind_route_title": "香****平*****",
+      "duration_days": 1,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "大馆",
+        "太平山顶",
+        "维多利亚港"
+      ],
+      "region_tag": "港澳台自由行",
+      "search_keywords_matched": [
+        "一日游",
+        "自由行"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "大馆",
+          "blind_highlights": "中环古迹活化区步行开场，展演餐饮集中；随后可接缆车站，纯市区日程。首日先确认住宿落位与明日交通。",
+          "transport_to_next": "前往花园道乘节点缆车"
+        },
+        {
+          "day": 1,
+          "spot_name": "太平山顶",
+          "blind_highlights": "花园道缆车或公交上山，观景台俯瞰海港天际线；海拔仅百米级山城观景，雨雾可改看夜景。首日先确认住宿落位与明日交通。低山行程按截山与末班索道时间返回。",
+          "transport_to_next": "缆车下山，天星小轮穿节点"
+        },
+        {
+          "day": 1,
+          "spot_name": "维多利亚港",
+          "blind_highlights": "海滨长廊与小轮穿港，夜景灯光秀时段查旅发局；风浪大时渡轮或有调整。首日先确认住宿落位与明日交通。岸线风浪大时远离湿滑礁石。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "MTR",
+          "Peak Tram",
+          "Star Ferry"
+        ],
+        "notes": "缆车排队长；可购套票含摩天台。"
+      },
+      "ai_strategy": "旅发局与山顶官网公开自助行程；下方日程补全维港与山顶。",
+      "source_refs": [
+        {
+          "url": "https://www.discoverhongkong.cn/attractions/your-guide-to-experiencing-hong-kong.html",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "旅发局：维港、山顶、大馆",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 403",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        },
+        {
+          "url": "https://www.thepeak.com.hk/zh-hant/getting-to-the-peak/plan-your-journey",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "山顶半天/一天自助行程",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:404",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        },
+        {
+          "url": "https://www.taikwun.hk",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "大馆官方",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "出片",
+        "喧嚣",
+        "文艺"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT030",
+      "full_route_title": "香港昂坪大佛海洋公园两日游",
+      "blind_route_title": "香*****海******",
+      "duration_days": 2,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "天坛大佛",
+        "香港海洋公园"
+      ],
+      "region_tag": "港澳台自由行",
+      "search_keywords_matched": [
+        "两日游",
+        "自由行"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "天坛大佛",
+          "blind_highlights": "该片区缆车接驳，大佛台阶量力而行；郊野山腰非高原，台风雷暴时缆车停运出发前查运营方。首日先确认住宿落位与明日交通。低山行程按截山与末班索道时间返回。",
+          "transport_to_next": "东涌线/巴士返市区"
+        },
+        {
+          "day": 2,
+          "spot_name": "香港海洋公园",
+          "blind_highlights": "主题园全日，机动与展馆看当日开放板；地铁往返，恶劣天气部分户外项目关闭，与航线无关。返程日只留短时节点，预留车站或机场安检。项目开放以园内告示为准。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "MTR",
+          "Ngong Ping 360"
+        ],
+        "notes": "缆车恶劣天气停运；海洋公园开放项目以当日为准。"
+      },
+      "ai_strategy": "旅发局必访地标列表。",
+      "source_refs": [
+        {
+          "url": "https://www.discoverhongkong.cn/attractions/your-guide-to-experiencing-hong-kong.html",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "天坛大佛与海洋公园",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 403",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "亲子",
+        "刺激"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT031",
+      "full_route_title": "澳门半岛氹仔路环一日游",
+      "blind_route_title": "澳****仔*****",
+      "duration_days": 1,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "议事亭前地",
+        "大三巴牌坊",
+        "官也街"
+      ],
+      "region_tag": "港澳台自由行",
+      "search_keywords_matched": [
+        "一日游",
+        "自由行",
+        "低价游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "议事亭前地",
+          "blind_highlights": "广场与教堂巷弄步行串联；半岛一日宜少坐车多走路。首日先确认住宿落位与明日交通。",
+          "transport_to_next": "步行"
+        },
+        {
+          "day": 1,
+          "spot_name": "大三巴牌坊",
+          "blind_highlights": "半岛世遗步行圈核心，周边炮台遗址；人多拍照快速让路，下午可转氹仔。首日先确认住宿落位与明日交通。",
+          "transport_to_next": "公交赴氹仔"
+        },
+        {
+          "day": 1,
+          "spot_name": "官也街",
+          "blind_highlights": "氹仔小吃街与葡韵住宅区短访，公交接驳；勿与路环硬塞同一极端疲劳日。首日先确认住宿落位与明日交通。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "walk",
+          "bus"
+        ],
+        "notes": "三岛一日很赶；旅游局有智能行程规划工具。"
+      },
+      "ai_strategy": "澳门旅游局与公开一日步公交攻略。",
+      "source_refs": [
+        {
+          "url": "https://www.macaotourism.gov.mo/zh-hans/macao-full-of-fun",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "澳门旅游局满Fun",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:200",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "https://tripplanner.macaotourism.gov.mo/",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "旅游局智能行程规划",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/1.1 200 OK",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "https://travelnews.qunar.com/ugc/aomen-one-day-bus-walk",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "一日公交串联三岛讨论",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "geo_synthesis",
+      "synthesis_note": "半岛+氹仔为主，路环可选；日程中大三巴与议事亭同属半岛上午段。",
+      "strong_tags_optional": [
+        "出片",
+        "逛吃"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT032",
+      "full_route_title": "台北九份十分两日游",
+      "blind_route_title": "台***十****",
+      "duration_days": 2,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "九份老街",
+        "十分老街"
+      ],
+      "region_tag": "港澳台自由行",
+      "search_keywords_matched": [
+        "两日游",
+        "自由行",
+        "民宿"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "九份老街",
+          "blind_highlights": "山城阶梯该片区，雨天湿滑；夜宿或返市区皆可，公车站排队预留。首日先确认住宿落位与明日交通。",
+          "transport_to_next": "台铁节点线"
+        },
+        {
+          "day": 2,
+          "spot_name": "十分老街",
+          "blind_highlights": "铁路支线小站，该片区仅用指定区域；半日足够，下午火车返城。返程日只留短时节点，预留车站或机场安检。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "TRA",
+          "bus"
+        ],
+        "notes": "天灯请用指定区域；雨天山城阶梯湿滑。"
+      },
+      "ai_strategy": "交通部观光署/台北观光公开游程可参考北海岸与山城组合。",
+      "source_refs": [
+        {
+          "url": "https://www.tad.gov.tw/m1.aspx?jid=130&sNo=0000108",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "交通部观光署台北都会三日游索引",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "200",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "https://travel.taipei/zh-cn/fun/tour/details/1164",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "士林北投二日游官方页（区域官方游程示例）",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "geo_synthesis",
+      "synthesis_note": "九份十分为公开经典组合；官方页更多北投线，本条为检索综合。",
+      "strong_tags_optional": [
+        "出片",
+        "怀旧"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT033",
+      "full_route_title": "台北北投温泉两日游",
+      "blind_route_title": "台***温****",
+      "duration_days": 2,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "北投温泉区",
+        "北投文物馆"
+      ],
+      "region_tag": "港澳台自由行",
+      "search_keywords_matched": [
+        "两日游",
+        "民宿",
+        "自由行"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "北投温泉区",
+          "blind_highlights": "捷运接驳，该片区外围合规参观禁止涉水；泡汤选合法汤屋，留意泉温禁忌。首日先确认住宿落位与明日交通。"
+        },
+        {
+          "day": 2,
+          "spot_name": "北投文物馆",
+          "blind_highlights": "馆舍与周边步道半日文化线；与温泉区上下午搭配，捷运返城。返程日只留短时节点，预留车站或机场安检。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "MRT",
+          "bus"
+        ],
+        "notes": "地热谷禁止涉水；汤屋水质卫生看许可。"
+      },
+      "ai_strategy": "台北市政府观光传播局公开「士林、北投二日游」。",
+      "source_refs": [
+        {
+          "url": "https://travel.taipei/zh-cn/fun/tour/details/1164",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "士林、北投二日游",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 200",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "https://btdo.gov.taipei/News_Content.aspx?n=2D918002A913582A&s=91C5A27E13CB2E77",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "北投区公所建议旅遊路线",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/1.1 200 OK",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "official_line",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "松弛",
+        "治愈"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT034",
+      "full_route_title": "北京故宫长城颐和园三日游",
+      "blind_route_title": "北*****颐*****",
+      "duration_days": 3,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "故宫博物院",
+        "八达岭长城",
+        "颐和园"
+      ],
+      "region_tag": "华北游",
+      "search_keywords_matched": [
+        "自由行",
+        "三日游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "故宫博物院",
+          "blind_highlights": "经典中轴参观线，周一常闭馆；实名预约，出园可步行景山方向。首日先确认住宿落位与明日交通。",
+          "transport_to_next": "地铁/公交"
+        },
+        {
+          "day": 2,
+          "spot_name": "八达岭长城",
+          "blind_highlights": "旅游专线或火车上山，量力登城；核对返城末班，防暑防风，非高原。次日返程，今晚早休息。低山行程按截山与末班索道时间返回。",
+          "transport_to_next": "返城"
+        },
+        {
+          "day": 3,
+          "spot_name": "颐和园",
+          "blind_highlights": "湖区廊道半日，船与殿区人流大；预约入园，适合收官日。返程日只留短时节点，预留车站或机场安检。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "subway",
+          "tourist bus"
+        ],
+        "notes": "全部需实名预约；淡旺季放票节奏不同。"
+      },
+      "ai_strategy": "visitbeijing与去哪儿公开3天排法。",
+      "source_refs": [
+        {
+          "url": "https://www.visitbeijing.com.cn/article/4OZunAbuaEE?device=amp",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "北京三天两夜攻略",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "200",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "https://travelnews.qunar.com/ugc/beijing-3-day-1500-yuan-itinerary",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "故宫长城颐和园3天",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "震撼",
+        "怀旧"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT035",
+      "full_route_title": "北京故宫景山一日游",
+      "blind_route_title": "北***景****",
+      "duration_days": 1,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "故宫博物院",
+        "景山公园"
+      ],
+      "region_tag": "华北游",
+      "search_keywords_matched": [
+        "一日游",
+        "自由行",
+        "低价游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "故宫博物院",
+          "blind_highlights": "经典中轴参观线，周一常闭馆；实名预约，出园可步行该片区方向。首日先确认住宿落位与明日交通。",
+          "transport_to_next": "步行至节点"
+        },
+        {
+          "day": 1,
+          "spot_name": "景山公园",
+          "blind_highlights": "登高俯瞰中轴屋脊，紧接该片区半日；门票开放点查当日。首日先确认住宿落位与明日交通。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "subway",
+          "walk"
+        ],
+        "notes": "联票/分票政策以当年公告为准。"
+      },
+      "ai_strategy": "公开懒人攻略常用故宫+景山同日。",
+      "source_refs": [
+        {
+          "url": "https://www.visitbeijing.com.cn/article/4OZunAbuaEE?device=amp",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "故宫后接景山",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "出片",
+        "怀旧"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT036",
+      "full_route_title": "承德避暑山庄两日游",
+      "blind_route_title": "承***山****",
+      "duration_days": 2,
+      "route_type": "single_spot",
+      "spot_names": [
+        "承德避暑山庄"
+      ],
+      "region_tag": "华北游",
+      "search_keywords_matched": [
+        "两日游",
+        "自由行"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "承德避暑山庄",
+          "blind_highlights": "宫殿与湖区两日更从容，可加外庙之一；面积大可坐观光车减负。首日先确认住宿落位与明日交通。低山行程按截山与末班索道时间返回。"
+        },
+        {
+          "day": 2,
+          "spot_name": "承德避暑山庄",
+          "blind_highlights": "宫殿与湖区两日更从容，可加外庙之一；面积大可坐观光车减负。返程日只留短时节点，预留车站或机场安检。低山行程按截山与末班索道时间返回。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "coach",
+          "highspeed to Chengde"
+        ],
+        "notes": "山庄面积大，两日更从容。"
+      },
+      "ai_strategy": "华北皇家园林公开深度两日常见。",
+      "source_refs": [
+        {
+          "url": "https://www.visitbeijing.com.cn/article/47QqsbDYDAw",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "北京旅游攻略站点区域延伸参考",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "geo_synthesis",
+      "synthesis_note": "避暑山庄为核实5A；外八庙串联为公开常见加项。",
+      "strong_tags_optional": [
+        "静谧",
+        "怀旧"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT037",
+      "full_route_title": "平遥古城两日游",
+      "blind_route_title": "平**城***",
+      "duration_days": 2,
+      "route_type": "single_spot",
+      "spot_names": [
+        "平遥古城"
+      ],
+      "region_tag": "华北游",
+      "search_keywords_matched": [
+        "两日游",
+        "民宿",
+        "自由行"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "平遥古城",
+          "blind_highlights": "入城后城墙与票号展馆择游，夜宿城内听噪声差异；高铁往返。首日先确认住宿落位与明日交通。"
+        },
+        {
+          "day": 2,
+          "spot_name": "平遥古城",
+          "blind_highlights": "入城后城墙与票号展馆择游，夜宿城内听噪声差异；高铁往返。返程日只留短时节点，预留车站或机场安检。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "highspeed rail",
+          "walk"
+        ],
+        "notes": "城内住宿嘈杂度差异大；电瓶车规则看公告。"
+      },
+      "ai_strategy": "山西晋中世界遗产古城公开两日深度。",
+      "source_refs": [
+        {
+          "url": "https://chinawandering.com/zh/posts/city-travel-guides/",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "城市指南索引",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/1.1 200 OK",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "geo_synthesis",
+      "synthesis_note": "平遥为核实世界遗产地；日程为常见公开骨架。",
+      "strong_tags_optional": [
+        "怀旧",
+        "出片"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT038",
+      "full_route_title": "开封清明上河园一日游",
+      "blind_route_title": "开****河****",
+      "duration_days": 1,
+      "route_type": "single_spot",
+      "spot_names": [
+        "清明上河园"
+      ],
+      "region_tag": "华北游",
+      "search_keywords_matched": [
+        "一日游",
+        "自由行",
+        "低价游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "清明上河园",
+          "blind_highlights": "主题园区按官方表演时刻入场；暑期防晒，夜场另计。首日先确认住宿落位与明日交通。项目开放以园内告示为准。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "bus",
+          "taxi"
+        ],
+        "notes": "表演准时到达；暑期防晒。"
+      },
+      "ai_strategy": "中原文化园区公开一日产品。",
+      "source_refs": [
+        {
+          "url": "https://chinawandering.com/zh/posts/city-travel-guides/",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "区域索引",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/1.1 200 OK",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "geo_synthesis",
+      "synthesis_note": "景点名核实；时刻表须官方复核。",
+      "strong_tags_optional": [
+        "亲子",
+        "喧嚣"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT039",
+      "full_route_title": "黄山两日游",
+      "blind_route_title": "黄*两**",
+      "duration_days": 2,
+      "route_type": "single_spot",
+      "spot_names": [
+        "黄山风景区"
+      ],
+      "region_tag": "江浙沪微度假",
+      "search_keywords_matched": [
+        "两日游",
+        "自由行",
+        "民宿"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "黄山风景区",
+          "blind_highlights": "索道上山住山顶抢日出，冰雪大风可能封道；峡谷线量力，查景区气象。首日先确认住宿落位与明日交通。低山行程按截山与末班索道时间返回。"
+        },
+        {
+          "day": 2,
+          "spot_name": "黄山风景区",
+          "blind_highlights": "索道上山住山顶抢日出，冰雪大风可能封道；峡谷线量力，查景区气象。返程日只留短时节点，预留车站或机场安检。低山行程按截山与末班索道时间返回。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "cableway",
+          "hike"
+        ],
+        "notes": "山顶房紧张；冰雪/大风封道常见。"
+      },
+      "ai_strategy": "安徽山岳两日住山顶为公开经典玩法。",
+      "source_refs": [
+        {
+          "url": "https://chinawandering.com/zh/posts/city-travel-guides/",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "区域索引",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/1.1 200 OK",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "geo_synthesis",
+      "synthesis_note": "黄山5A核实；具体索道与房态查官方。",
+      "strong_tags_optional": [
+        "震撼",
+        "出片"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT040",
+      "full_route_title": "婺源篁岭两日乡村游",
+      "blind_route_title": "婺***两****",
+      "duration_days": 2,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "婺源篁岭",
+        "婺源江湾"
+      ],
+      "region_tag": "江浙沪微度假",
+      "search_keywords_matched": [
+        "两日游",
+        "乡村游",
+        "民宿",
+        "农家乐"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "婺源篁岭",
+          "blind_highlights": "索道村寨与梯田季节景，住村内或山脚；花海与该片区窗口不同。首日先确认住宿落位与明日交通。低山行程按截山与末班索道时间返回。",
+          "transport_to_next": "短途车"
+        },
+        {
+          "day": 2,
+          "spot_name": "婺源江湾",
+          "blind_highlights": "古村落半日，油菜花季另核花期；公路返程预留。返程日只留短时节点，预留车站或机场安检。岸线风浪大时远离湿滑礁石。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "coach",
+          "self-drive"
+        ],
+        "notes": "花海与晒秋季节窗口不同。"
+      },
+      "ai_strategy": "赣东北乡村微度假公开组合。",
+      "source_refs": [
+        {
+          "url": "https://chinawandering.com/zh/posts/city-travel-guides/",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "区域索引",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/1.1 200 OK",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "geo_synthesis",
+      "synthesis_note": "篁岭江湾为公开热门村寨名；花期需当年核实。",
+      "strong_tags_optional": [
+        "出片",
+        "农家乐"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT041",
+      "full_route_title": "福州三坊七巷一日游",
+      "blind_route_title": "福***七****",
+      "duration_days": 1,
+      "route_type": "single_spot",
+      "spot_names": [
+        "三坊七巷"
+      ],
+      "region_tag": "华南游",
+      "search_keywords_matched": [
+        "一日游",
+        "自由行",
+        "低价游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "三坊七巷",
+          "blind_highlights": "坊巷步行，部分故居收费；可加邻近历史街区视体力。首日先确认住宿落位与明日交通。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "metro",
+          "walk"
+        ],
+        "notes": "部分故居收费；商业与文保分区。"
+      },
+      "ai_strategy": "清新福建春季线路Day1：三坊七巷—上下杭—烟台山。",
+      "source_refs": [
+        {
+          "url": "http://travel.fjsen.com/2024-04/17/content_31623278.htm",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "福州三坊七巷推荐日",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:500",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "文艺",
+        "怀旧"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT042",
+      "full_route_title": "福州泉州厦门山海三日游",
+      "blind_route_title": "福****门*****",
+      "duration_days": 3,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "三坊七巷",
+        "泉州古城",
+        "鼓浪屿"
+      ],
+      "region_tag": "华南游",
+      "search_keywords_matched": [
+        "自由行",
+        "三日游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "三坊七巷",
+          "blind_highlights": "坊巷步行，部分故居收费；可加邻近历史街区视体力。首日先确认住宿落位与明日交通。",
+          "transport_to_next": "高铁赴泉州"
+        },
+        {
+          "day": 2,
+          "spot_name": "泉州古城",
+          "blind_highlights": "该片区—骑楼段步行串联开放寺院与街巷小吃，寺庙开放时段以当日告示为准；适合一日慢走，少换乘。次日返程，今晚早休息。",
+          "transport_to_next": "高铁赴厦门"
+        },
+        {
+          "day": 3,
+          "spot_name": "鼓浪屿",
+          "blind_highlights": "轮渡实名预约上岛，环岛步道与历史风貌建筑区慢游，行李少带；大雾或台风可能停航，返厦盯末班船。返程日只留短时节点，预留车站或机场安检。船班与停航以港口官方为准。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "highspeed rail",
+          "ferry"
+        ],
+        "notes": "公开春季三日山海线压缩版。"
+      },
+      "ai_strategy": "东南网清新福建推荐三日：福州—泉州—厦门。",
+      "source_refs": [
+        {
+          "url": "http://travel.fjsen.com/2024-04/17/content_31623278.htm",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "Day1福州 Day2泉州 Day3厦门",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:500",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        }
+      ],
+      "route_basis": "official_line",
+      "synthesis_note": "省级文旅推介线路摘要。",
+      "strong_tags_optional": [
+        "海洋文化",
+        "文艺"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT043",
+      "full_route_title": "恩施大峡谷两日游",
+      "blind_route_title": "恩***谷***",
+      "duration_days": 2,
+      "route_type": "single_spot",
+      "spot_names": [
+        "恩施大峡谷"
+      ],
+      "region_tag": "西南秘境",
+      "search_keywords_matched": [
+        "两日游",
+        "自由行"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "恩施大峡谷",
+          "blind_highlights": "栈道与大厅段分日更轻松，楼梯量大；雨雾能见度差时缩短户外。首日先确认住宿落位与明日交通。低山行程按截山与末班索道时间返回。"
+        },
+        {
+          "day": 2,
+          "spot_name": "恩施大峡谷",
+          "blind_highlights": "栈道与大厅段分日更轻松，楼梯量大；雨雾能见度差时缩短户外。返程日只留短时节点，预留车站或机场安检。低山行程按截山与末班索道时间返回。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "scenic bus",
+          "hike"
+        ],
+        "notes": "楼梯量大；雨雾能见度差。"
+      },
+      "ai_strategy": "鄂西峡谷公开两日拆线段。",
+      "source_refs": [
+        {
+          "url": "https://chinawandering.com/zh/posts/city-travel-guides/",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "区域索引",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/1.1 200 OK",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "geo_synthesis",
+      "synthesis_note": "景区名核实；分段以官方导览为准。",
+      "strong_tags_optional": [
+        "震撼",
+        "洗肺"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT044",
+      "full_route_title": "稻城亚丁单日短线",
+      "blind_route_title": "稻***单***",
+      "duration_days": 1,
+      "route_type": "single_spot",
+      "spot_names": [
+        "稻城亚丁风景区"
+      ],
+      "region_tag": "西南秘境",
+      "search_keywords_matched": [
+        "一日游",
+        "自由行"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "稻城亚丁风景区",
+          "blind_highlights": "短线适应后再考虑长线预约区；海拔高，头痛胸闷立刻停止行程并下撤，勿熬夜饮酒。首日先确认住宿落位与明日交通。高原日放慢节奏，不适即停。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "scenic shuttle"
+        ],
+        "notes": "一日往返仍累；未适应海拔不建议。"
+      },
+      "ai_strategy": "官方与攻略均强调短线/长线分级。",
+      "source_refs": [
+        {
+          "url": "https://www.joyotour.com/cn/chinaguide/daocheng-yading/",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "短线长线拆分说明",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 200",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "https://cn.yadingtour.com/e-news/notice/511-2022-06-08-09-01-37",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "长线限流公告",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:000",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "雪山",
+        "洗涤心灵"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT045",
+      "full_route_title": "青岛栈桥八大关一日游",
+      "blind_route_title": "青****大****",
+      "duration_days": 1,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "栈桥",
+        "八大关"
+      ],
+      "region_tag": "华北游",
+      "search_keywords_matched": [
+        "一日游",
+        "自由行",
+        "低价游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "栈桥",
+          "blind_highlights": "海滨该片区外观，风大浪高慎近水；可与别墅林荫道同日串联。首日先确认住宿落位与明日交通。岸线风浪大时远离湿滑礁石。",
+          "transport_to_next": "步行/公交"
+        },
+        {
+          "day": 1,
+          "spot_name": "八大关",
+          "blind_highlights": "别墅林荫道慢走，居民区安静礼仪；海滨城市一日收尾。首日先确认住宿落位与明日交通。岸线风浪大时远离湿滑礁石。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "walk",
+          "bus"
+        ],
+        "notes": "海滨城市一日经典。"
+      },
+      "ai_strategy": "山东半岛公开海滨一日组合。",
+      "source_refs": [
+        {
+          "url": "https://chinawandering.com/zh/posts/city-travel-guides/",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "区域索引",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/1.1 200 OK",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "geo_synthesis",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "海洋文化",
+        "浪漫"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT046",
+      "full_route_title": "大连滨海路一日游",
+      "blind_route_title": "大***路***",
+      "duration_days": 1,
+      "route_type": "single_spot",
+      "spot_names": [
+        "滨海路"
+      ],
+      "region_tag": "东北游",
+      "search_keywords_matched": [
+        "一日游",
+        "自由行"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "滨海路",
+          "blind_highlights": "沿海公路观景平台串行，自驾注意停车与行人；冬季风大路滑。首日先确认住宿落位与明日交通。岸线风浪大时远离湿滑礁石。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "self-drive",
+          "bus"
+        ],
+        "notes": "冬季风大路滑。"
+      },
+      "ai_strategy": "东北海滨公开观光廊道。",
+      "source_refs": [
+        {
+          "url": "https://chinawandering.com/zh/posts/city-travel-guides/",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "区域索引",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/1.1 200 OK",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "geo_synthesis",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "海洋文化",
+        "洗肺"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT047",
+      "full_route_title": "哈尔滨中央大街冰雪一日游",
+      "blind_route_title": "哈*****街*****",
+      "duration_days": 1,
+      "route_type": "single_spot",
+      "spot_names": [
+        "中央大街"
+      ],
+      "region_tag": "东北游",
+      "search_keywords_matched": [
+        "一日游",
+        "自由行"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "中央大街",
+          "blind_highlights": "步行街逛吃，冬季可加季节性冰雪项目（另购票）；防寒保暖第一。首日先确认住宿落位与明日交通。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "walk",
+          "metro"
+        ],
+        "notes": "严寒防冻伤；冰雪项目季节性。"
+      },
+      "ai_strategy": "东北冬季城市公开一日。",
+      "source_refs": [
+        {
+          "url": "https://chinawandering.com/zh/posts/city-travel-guides/",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "区域索引",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/1.1 200 OK",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "geo_synthesis",
+      "synthesis_note": "冰雪大世界为季节加项，须单独核票。",
+      "strong_tags_optional": [
+        "多巴胺",
+        "出片"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT048",
+      "full_route_title": "昆明滇池西山一日游",
+      "blind_route_title": "昆***西****",
+      "duration_days": 1,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "滇池",
+        "西山"
+      ],
+      "region_tag": "西南秘境",
+      "search_keywords_matched": [
+        "一日游",
+        "自由行",
+        "低价游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "滇池",
+          "blind_highlights": "大坝观湖半日，城海拔紫外线强；可接该片区索道或步道，量力。首日先确认住宿落位与明日交通。高原日放慢节奏，不适即停。",
+          "transport_to_next": "索道/上车"
+        },
+        {
+          "day": 1,
+          "spot_name": "西山",
+          "blind_highlights": "该片区台阶量大，索道减负；近郊山岳，因城海拔或有轻微不适则半途折返。首日先确认住宿落位与明日交通。高原日放慢节奏，不适即停。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "bus",
+          "cableway"
+        ],
+        "notes": "高原紫外线强。"
+      },
+      "ai_strategy": "昆明近郊公开一日。",
+      "source_refs": [
+        {
+          "url": "https://chinawandering.com/zh/posts/city-travel-guides/",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "区域索引",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/1.1 200 OK",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "geo_synthesis",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "洗肺",
+        "出片"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT049",
+      "full_route_title": "三亚亚龙湾一日海滩",
+      "blind_route_title": "三***湾****",
+      "duration_days": 1,
+      "route_type": "single_spot",
+      "spot_names": [
+        "亚龙湾"
+      ],
+      "region_tag": "华南游",
+      "search_keywords_matched": [
+        "一日游",
+        "自由行",
+        "低价游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "亚龙湾",
+          "blind_highlights": "海滩漫步与合规水上项目，看海域预警旗；台风季停运，消费先问价。首日先确认住宿落位与明日交通。岸线风浪大时远离湿滑礁石。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "taxi",
+          "bus"
+        ],
+        "notes": "台风季停运；消费项目先问价。"
+      },
+      "ai_strategy": "海南滨海公开一日节点。",
+      "source_refs": [
+        {
+          "url": "https://chinawandering.com/zh/posts/city-travel-guides/",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "区域索引",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/1.1 200 OK",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "geo_synthesis",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "海洋文化",
+        "躺平"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT050",
+      "full_route_title": "桂林阳朔遇龙河两日游",
+      "blind_route_title": "桂****龙****",
+      "duration_days": 2,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "阳朔西街",
+        "遇龙河"
+      ],
+      "region_tag": "华南游",
+      "search_keywords_matched": [
+        "两日游",
+        "民宿",
+        "自由行"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "阳朔西街",
+          "blind_highlights": "县城该片区夜市与民宿区休整，次日水上项目前早歇；租电瓶车注意头盔与禁行路段。首日先确认住宿落位与明日交通。"
+        },
+        {
+          "day": 2,
+          "spot_name": "遇龙河",
+          "blind_highlights": "该片区段须线上实名预约，汛期可能；可接骑行廊道，下水安全听船工指挥，出发前查官方水位通知。返程日只留短时节点，预留车站或机场安检。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "e-bike",
+          "bamboo raft",
+          "highspeed rail"
+        ],
+        "notes": "无龙脊版，适合体力一般或老人儿童。"
+      },
+      "ai_strategy": "公开攻略明确：带老人可只玩阳朔两日。",
+      "source_refs": [
+        {
+          "url": "https://travel.sina.cn/2026-07-07/detail-inifyeez1569820.d.html?vt=4",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "建议带老人优先只玩阳朔",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 404",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "松弛",
+        "出片"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT051",
+      "full_route_title": "龙脊梯田两日民宿游",
+      "blind_route_title": "龙***两****",
+      "duration_days": 2,
+      "route_type": "single_spot",
+      "spot_names": [
+        "龙脊梯田"
+      ],
+      "region_tag": "华南游",
+      "search_keywords_matched": [
+        "两日游",
+        "民宿",
+        "乡村游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "龙脊梯田",
+          "blind_highlights": "寨区步道或观光车串观景台，梯田埂勿下田踩踏；盘山路上山易晕车，雨天防滑，属中山徒步而非极高高原。首日先确认住宿落位与明日交通。低山行程按截山与末班索道时间返回。"
+        },
+        {
+          "day": 2,
+          "spot_name": "龙脊梯田",
+          "blind_highlights": "寨区步道或观光车串观景台，梯田埂勿下田踩踏；盘山路上山易晕车，雨天防滑，属中山徒步而非极高高原。返程日只留短时节点，预留车站或机场安检。低山行程按截山与末班索道时间返回。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "coach",
+          "cableway",
+          "hike"
+        ],
+        "notes": "门票三日有效；勿下田踩踏。"
+      },
+      "ai_strategy": "住哪去等公开两日经典。",
+      "source_refs": [
+        {
+          "url": "https://www.zhunaqu.com/guilin/article/17023",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "两日游推荐：日落+日出",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "出片"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT052",
+      "full_route_title": "环青海湖自驾两日游",
+      "blind_route_title": "环***自****",
+      "duration_days": 2,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "青海湖景区",
+        "金沙湾"
+      ],
+      "region_tag": "西北自驾",
+      "search_keywords_matched": [
+        "两日游",
+        "自由行"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "青海湖景区",
+          "blind_highlights": "该片区观景台与核心游览区，风大温差明显；自驾注意加油站间距，海拔高不适则缩短停留。首日先确认住宿落位与明日交通。高原日放慢节奏，不适即停。"
+        },
+        {
+          "day": 2,
+          "spot_name": "金沙湾",
+          "blind_highlights": "滨海步行与观景，风浪天远离湿滑礁石。返程日只留短时节点，预留车站或机场安检。岸线风浪大时远离湿滑礁石。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "self-drive"
+        ],
+        "notes": "对应文旅“环青海湖自驾体验之旅”2日。"
+      },
+      "ai_strategy": "青海文旅精品线2日自驾。",
+      "source_refs": [
+        {
+          "url": "http://qh.news.cn/2024-11/06/c_1130216967.htm",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "环青海湖自驾体验之旅2日",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:500",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        }
+      ],
+      "route_basis": "official_line",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "苍凉",
+        "出片"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT053",
+      "full_route_title": "香港西九文化区一日游",
+      "blind_route_title": "香****化****",
+      "duration_days": 1,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "M+",
+        "香港故宫文化博物馆"
+      ],
+      "region_tag": "港澳台自由行",
+      "search_keywords_matched": [
+        "一日游",
+        "自由行"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "M+",
+          "blind_highlights": "该片区当代馆预约观展，艺术公园海滨可歇；与邻近文博馆同区步行。首日先确认住宿落位与明日交通。",
+          "transport_to_next": "步行艺术公园"
+        },
+        {
+          "day": 1,
+          "spot_name": "香港故宫文化博物馆",
+          "blind_highlights": "预约入场半日，傍晚海滨散步；市区文化日，无自驾问题。首日先确认住宿落位与明日交通。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "MTR",
+          "walk"
+        ],
+        "notes": "两馆均可能需预约。"
+      },
+      "ai_strategy": "旅发局西九介绍。",
+      "source_refs": [
+        {
+          "url": "https://www.discoverhongkong.cn/attractions/your-guide-to-experiencing-hong-kong.html",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "西九M+与故宫馆",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 403",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        },
+        {
+          "url": "https://www.westkowloon.hk",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "西九文化区官方",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "403",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "文艺",
+        "静谧"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT054",
+      "full_route_title": "凤凰古城两日游",
+      "blind_route_title": "凤**城***",
+      "duration_days": 2,
+      "route_type": "single_spot",
+      "spot_names": [
+        "凤凰古城"
+      ],
+      "region_tag": "西南秘境",
+      "search_keywords_matched": [
+        "两日游",
+        "民宿",
+        "自由行"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "凤凰古城",
+          "blind_highlights": "江岸夜景，城内住宿隔音差常见；次日外围半日返程。首日先确认住宿落位与明日交通。"
+        },
+        {
+          "day": 2,
+          "spot_name": "凤凰古城",
+          "blind_highlights": "江岸夜景，城内住宿隔音差常见；次日外围半日返程。返程日只留短时节点，预留车站或机场安检。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "coach",
+          "walk"
+        ],
+        "notes": "夜游商业化强；防扒。"
+      },
+      "ai_strategy": "湘西古城公开两日；可与张家界联程但不在本条。",
+      "source_refs": [
+        {
+          "url": "https://gowanderworld.com/a-three-day-self-guided-tour-strategy-of-zhangjiajie/",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "攻略提及凤凰可延伸",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "HTTP/2 200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "geo_synthesis",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "出片",
+        "怀旧"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT055",
+      "full_route_title": "鼓浪屿单日深度",
+      "blind_route_title": "鼓**单***",
+      "duration_days": 1,
+      "route_type": "single_spot",
+      "spot_names": [
+        "鼓浪屿"
+      ],
+      "region_tag": "华南游",
+      "search_keywords_matched": [
+        "一日游",
+        "自由行"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "鼓浪屿",
+          "blind_highlights": "轮渡实名预约上岛，环岛步道与历史风貌建筑区慢游，行李少带；大雾或台风可能停航，返厦盯末班船。首日先确认住宿落位与明日交通。船班与停航以港口官方为准。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "ferry"
+        ],
+        "notes": "行李多不建议硬扛；预约船票。"
+      },
+      "ai_strategy": "世界遗产小岛公开一日。",
+      "source_refs": [
+        {
+          "url": "http://travel.fjsen.com/2024-04/17/content_31623278.htm",
+          "retrieved_at": "2026-11-06T17:05:00+08:00",
+          "claims": "鼓浪屿春季推介",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:500",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": null,
+      "strong_tags_optional": [
+        "文艺",
+        "慢生活"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT056",
+      "full_route_title": "北疆喀纳斯伊犁独库公路七日游",
+      "blind_route_title": "北******独******",
+      "duration_days": 7,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "五彩滩",
+        "喀纳斯",
+        "禾木",
+        "乌尔禾魔鬼城",
+        "赛里木湖",
+        "那拉提草原",
+        "独库公路"
+      ],
+      "region_tag": "西北自驾",
+      "search_keywords_matched": [
+        "自由行"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "五彩滩",
+          "blind_highlights": "河岸彩色岩壁傍晚光影佳，自驾北疆首日车程长；补油补水，夜宿县城方向。首日先确认住宿落位与明日交通。"
+        },
+        {
+          "day": 2,
+          "spot_name": "喀纳斯",
+          "blind_highlights": "区间车入景区后沿湖湾步道或观湖点活动；山中温差大、住宿有限，旺季预约。注意雨雪封路，放慢节奏，不适即停。"
+        },
+        {
+          "day": 3,
+          "spot_name": "禾木",
+          "blind_highlights": "村落与观景台徒步或骑马自选；次日长车程前提前收拾行李，关注山区天气管制。高原日放慢节奏，不适即停。自驾日听路况广播。"
+        },
+        {
+          "day": 4,
+          "spot_name": "乌尔禾魔鬼城",
+          "blind_highlights": "风蚀地貌区乘观光车游览，风沙大护目；转场前长距离公路留意加油站与路况广播。"
+        },
+        {
+          "day": 5,
+          "spot_name": "赛里木湖",
+          "blind_highlights": "环湖区间车或自驾，高山湖风大温低；出湖赴伊犁方向检查车辆与油量。高原日放慢节奏，不适即停。自驾日听路况广播。"
+        },
+        {
+          "day": 6,
+          "spot_name": "那拉提草原",
+          "blind_highlights": "山顶草甸或河谷草场片区择一游览，骑马项目量力；若续驶湿地过夜点，提前整理行李与车辆状态。高原日放慢节奏，不适即停；自驾听路况广播。"
+        },
+        {
+          "day": 7,
+          "spot_name": "独库公路",
+          "blind_highlights": "天山公路风景段，弯多易晕车，达坂寒冷；仅通车季且随天气封路，封则绕行，以交管公告为准。返程翻山公路，封路则绕行，以交管放行为准。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "self-drive",
+          "private car",
+          "scenic shuttle"
+        ],
+        "notes": "独库公路通常约6–9月通车，封路须绕行；喀纳斯/禾木旺季预约；边防证按需。每日车程长，非轻量线。"
+      },
+      "ai_strategy": "公开北疆7日拼车/自驾攻略普遍为：北上布尔津方向→湖区村寨→雅丹→赛湖→草原→独库返乌。本条按公开日程骨架整理，班次路况以交管与景区公告为准，非实地实测。",
+      "source_refs": [
+        {
+          "url": "https://www.xjglcits.com/news/com-news/20157.html",
+          "retrieved_at": "2026-11-06T17:20:00+08:00",
+          "claims": "新疆国旅：北疆环线+独库公路7日规划",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:200",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "https://www.cncn.com/xianlu/782075429685",
+          "retrieved_at": "2026-11-06T17:20:00+08:00",
+          "claims": "喀纳斯伊犁独库拼车7日行程页",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:200",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "https://travelnews.qunar.com/qa_strategy/beijiang-7-days-self-driving-travel-guide",
+          "retrieved_at": "2026-11-06T17:20:00+08:00",
+          "claims": "去哪儿：北疆7天自驾安排",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": "综合多家公开7日北疆线；节点取公开高频站，不做价格承诺。",
+      "strong_tags_optional": [
+        "草原",
+        "湖泊",
+        "戈壁",
+        "日出"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT057",
+      "full_route_title": "川西稻城亚丁色达丹巴七日环线",
+      "blind_route_title": "川******达******",
+      "duration_days": 7,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "新都桥",
+        "理塘",
+        "稻城亚丁风景区",
+        "色达",
+        "丹巴甲居藏寨",
+        "四姑娘山"
+      ],
+      "region_tag": "西南秘境",
+      "search_keywords_matched": [
+        "自由行"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "新都桥",
+          "blind_highlights": "光影河谷停车点多，海拔已高慢适应；次日盘山前忌饮酒暴食。首日先确认住宿落位与明日交通。高原日放慢节奏，不适即停。"
+        },
+        {
+          "day": 2,
+          "spot_name": "理塘",
+          "blind_highlights": "高城短停休整，古镇可慢走；继续南下前看身体反应。高原日放慢节奏，不适即停。自驾日听路况广播。"
+        },
+        {
+          "day": 3,
+          "spot_name": "稻城亚丁风景区",
+          "blind_highlights": "短线适应后再考虑长线预约区；海拔高，头痛胸闷立刻停止行程并下撤，勿熬夜饮酒。高原日放慢节奏，不适即停。"
+        },
+        {
+          "day": 4,
+          "spot_name": "稻城亚丁风景区",
+          "blind_highlights": "短线适应后再考虑长线预约区；海拔高，头痛胸闷立刻停止行程并下撤，勿熬夜饮酒。高原日放慢节奏，不适即停。"
+        },
+        {
+          "day": 5,
+          "spot_name": "色达",
+          "blind_highlights": "远眺山城聚落遵从属地规定与礼仪，勿擅闯限制区；自驾补油，高海拔早睡。高原日放慢节奏，不适即停。自驾日听路况广播。"
+        },
+        {
+          "day": 6,
+          "spot_name": "丹巴甲居藏寨",
+          "blind_highlights": "沿山坡上的村落公共步道慢走，留意居民院落与生产生活边界；夜宿山间住所，次日接续山岳沟谷返程。山路行程预留光线和接驳时间，高海拔不适及时下撤。"
+        },
+        {
+          "day": 7,
+          "spot_name": "四姑娘山",
+          "blind_highlights": "沟域车行加短徒步，观景台收束；返蓉高速预留，高原反应因人而异。返程日只留短时节点，预留车站或机场安检。高原日放慢节奏，不适即停。自驾日听路况广播。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "self-drive",
+          "private car",
+          "scenic shuttle"
+        ],
+        "notes": "雨季塌方风险；理塘等高海拔慢适应；景区长线预约。关注甘孜/阿坝交警路况。"
+      },
+      "ai_strategy": "综合公开川西七日环线骨架合成，安排高原适应、生态文化与山地缓冲。雨季塌方、封路、景区预约及夜间开放以属地公告为准；路线不是实测轨迹，访问宗教和居民空间遵守当地礼仪。",
+      "source_refs": [
+        {
+          "url": "https://elephant-trip.com/%E5%B7%9D%E8%A5%BF7-%E5%A4%A9-6-%E6%99%9A%E5%A4%A7%E7%8E%AF%E7%BA%BF/",
+          "retrieved_at": "2026-11-06T17:20:00+08:00",
+          "claims": "川西7天6晚大环线行程简表",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:200",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "https://h5.8pig.com/journey/30574",
+          "retrieved_at": "2026-11-06T17:20:00+08:00",
+          "claims": "色达+亚丁拼车7日游玩安排",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:200",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "https://dreamerlzl.github.io/roaming/posts/%E5%B7%9D%E8%A5%BF%E6%B8%B8%E8%AE%B0/",
+          "retrieved_at": "2026-11-06T17:20:00+08:00",
+          "claims": "川西游记：环线与路况提示",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "geo_synthesis",
+      "synthesis_note": "7日环线按公开大环线骨架合成；个别佛事参观礼仪与开放以属地规定为准。",
+      "strong_tags_optional": [
+        "雪山",
+        "高原",
+        "震撼",
+        "神秘"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT058",
+      "full_route_title": "滇西北大理丽江泸沽湖香格里拉七日游",
+      "blind_route_title": "滇*******沽********",
+      "duration_days": 7,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "大理古城",
+        "洱海",
+        "丽江古城",
+        "玉龙雪山",
+        "泸沽湖",
+        "香格里拉普达措",
+        "独克宗古城"
+      ],
+      "region_tag": "西南秘境",
+      "search_keywords_matched": [
+        "自由行",
+        "民宿"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "大理古城",
+          "blind_highlights": "古城夜市与风味餐饮，动车进出方便；次日湖滨活动前检查租车。首日先确认住宿落位与明日交通。"
+        },
+        {
+          "day": 2,
+          "spot_name": "洱海",
+          "blind_highlights": "生态廊道骑行或包车看湖湾，莫扰保护区；转下一城动车约一小时半级。岸线风浪大时远离湿滑礁石。"
+        },
+        {
+          "day": 3,
+          "spot_name": "丽江古城",
+          "blind_highlights": "古城街巷适应干燥与城海拔，少剧烈爬坡；夜宿可考虑相对安静区，次日上山留体力。"
+        },
+        {
+          "day": 4,
+          "spot_name": "玉龙雪山",
+          "blind_highlights": "该片区提前官方预约，河谷湖区可串；高原紫外线强，身体不适勿强行登高段，预留景区交通排队。高原日放慢节奏，不适即停。"
+        },
+        {
+          "day": 5,
+          "spot_name": "泸沽湖",
+          "blind_highlights": "环湖观景与合规游船，单程山路约四小时级，建议住一晚；勿乘无资质私船，尊重民俗摄影边界。高原日放慢节奏，不适即停。"
+        },
+        {
+          "day": 6,
+          "spot_name": "香格里拉普达措",
+          "blind_highlights": "高原森林湖沼环保车线，缓慢行走；防晒霜必备，不适即停。次日返程，今晚早休息。高原日放慢节奏，不适即停。"
+        },
+        {
+          "day": 7,
+          "spot_name": "独克宗古城",
+          "blind_highlights": "古城夜景短访，海拔高少跑步；可作返程日前收尾。返程日只留短时节点，预留车站或机场安检。高原日放慢节奏，不适即停。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "highspeed rail",
+          "private car",
+          "cableway",
+          "boat"
+        ],
+        "notes": "丽江至湖区/香格里拉山路约4h；索道与公园门票预约；香格里拉海拔高。"
+      },
+      "ai_strategy": "公开滇西北7天6晚环线：风花雪月城→湖滨→古城适应→雪山河谷→湖区过夜→高原森林公园→古城收尾。",
+      "source_refs": [
+        {
+          "url": "https://www.sina.cn/gc/article/nipxkcc4120630.html",
+          "retrieved_at": "2026-11-06T17:20:00+08:00",
+          "claims": "云南7天6晚滇西北环线攻略",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:200",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "https://www.klook.cn/zh-CN/activity/118107-6-days-classic-tour-lijiang-lugu-lake-shangri-la-northwest-yunnan/",
+          "retrieved_at": "2026-11-06T17:20:00+08:00",
+          "claims": "Klook滇西北5/7日套餐行程骨架",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:200",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "https://www.028-cts.com/lines/show_200.html",
+          "retrieved_at": "2026-11-06T17:20:00+08:00",
+          "claims": "丽江出发滇西北6日私家团日程参考",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "public_itinerary",
+      "synthesis_note": "以公开7日滇西北环线为主，略作节点对齐；商业团餐标不采信为事实。",
+      "strong_tags_optional": [
+        "雪山",
+        "湖泊",
+        "慢生活",
+        "出片"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT059",
+      "full_route_title": "哈尔滨雪乡长白山镜泊湖六日游",
+      "blind_route_title": "哈******山******",
+      "duration_days": 6,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "中央大街",
+        "亚布力国际滑雪场",
+        "中国雪乡",
+        "镜泊湖风景区",
+        "长白山天池"
+      ],
+      "region_tag": "东北游",
+      "search_keywords_matched": [
+        "自由行"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "中央大街",
+          "blind_highlights": "步行街逛吃，冬季可加季节性冰雪项目（另购票）；防寒保暖第一。首日先确认住宿落位与明日交通。冰雪路面慢行，电子设备贴身保温。"
+        },
+        {
+          "day": 2,
+          "spot_name": "亚布力国际滑雪场",
+          "blind_highlights": "初中级雪道与租赁装备，按需请教练；注意该片区营业时段与保暖。冰雪路面慢行，电子设备贴身保温。项目开放以园内告示为准。"
+        },
+        {
+          "day": 3,
+          "spot_name": "中国雪乡",
+          "blind_highlights": "林海雪村民宿暖炕，夜景巷弄；严寒防冻伤，消费先问价，班车预约。冰雪路面慢行，电子设备贴身保温。"
+        },
+        {
+          "day": 4,
+          "spot_name": "镜泊湖风景区",
+          "blind_highlights": "冬夏景观差异大，湖岸项目看季节；衔接该片区与山岳的中转日，车程不短。冰雪路面慢行，电子设备贴身保温。"
+        },
+        {
+          "day": 5,
+          "spot_name": "长白山天池",
+          "blind_highlights": "环保车上山，该片区开放视天气，常有云封；防滑防风保暖。次日返程，今晚早休息。冰雪路面慢行，电子设备贴身保温。"
+        },
+        {
+          "day": 6,
+          "spot_name": "中央大街",
+          "blind_highlights": "步行街逛吃，冬季可加季节性冰雪项目（另购票）；防寒保暖第一。返程日只留短时节点，预留车站或机场安检。冰雪路面慢行，电子设备贴身保温。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "coach",
+          "private car",
+          "scenic shuttle"
+        ],
+        "notes": "冬季路面结冰不建议无经验者自驾；天池开放视天气；雪乡住宿旺季紧。"
+      },
+      "ai_strategy": "公开东北冰雪6–7日线常见：冰城城市段→滑雪场过渡→雪乡过夜→堰塞湖→火山口湖→返城。严寒装备为硬前置。",
+      "source_refs": [
+        {
+          "url": "https://gs.ctrip.com/html5/you/itinerary/detail/100031/542569.html",
+          "retrieved_at": "2026-11-06T17:20:00+08:00",
+          "claims": "携程公开：哈尔滨+长白山+雪乡行程",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:200",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "https://www.klook.com/zh-CN/activity/174764-go-wild-northeast-china-7-day-6-night-coach-tour-2-28-people/",
+          "retrieved_at": "2026-11-06T17:20:00+08:00",
+          "claims": "Klook东北6日大巴团简要行程",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:403",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        },
+        {
+          "url": "https://m.gdcts.com/product/line/detail/id/18253/plan_id/340344/package_id/407503",
+          "retrieved_at": "2026-11-06T17:20:00+08:00",
+          "claims": "广东中旅东北双飞纯玩6天产品页",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:200",
+          "ref_status": "reachable_http_ok"
+        }
+      ],
+      "route_basis": "geo_synthesis",
+      "synthesis_note": "综合公开6/7日东北冰雪线；季节项目能否兑现完全取决于天气与景区管制。",
+      "strong_tags_optional": [
+        "冰天雪地",
+        "玩雪",
+        "雾凇",
+        "严寒"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    },
+    {
+      "route_id": "RT060",
+      "full_route_title": "香港澳门双城六日自由行",
+      "blind_route_title": "香****城*****",
+      "duration_days": 6,
+      "route_type": "multi_spot",
+      "spot_names": [
+        "维多利亚港",
+        "太平山顶",
+        "大馆",
+        "天坛大佛",
+        "香港海洋公园",
+        "大三巴牌坊"
+      ],
+      "region_tag": "港澳台自由行",
+      "search_keywords_matched": [
+        "自由行",
+        "低价游"
+      ],
+      "daily_schedule": [
+        {
+          "day": 1,
+          "spot_name": "大馆",
+          "blind_highlights": "中环古迹活化区步行开场，展演餐饮集中；随后可接缆车站，纯市区日程。首日先确认住宿落位与明日交通。"
+        },
+        {
+          "day": 2,
+          "spot_name": "太平山顶",
+          "blind_highlights": "花园道缆车或公交上山，观景台俯瞰海港天际线；山城观景海拔有限，不必按青藏高海拔行程准备，雨雾可改看夜景。下山后可接海港夜景。"
+        },
+        {
+          "day": 3,
+          "spot_name": "维多利亚港",
+          "blind_highlights": "海滨长廊与小轮穿港，夜景灯光秀时段查旅发局；风浪大时渡轮或有调整。岸线风浪大时远离湿滑礁石。"
+        },
+        {
+          "day": 4,
+          "spot_name": "天坛大佛",
+          "blind_highlights": "郊野缆车接驳上山，大佛台阶量力而行；台风或雷暴时缆车常停运，出发前查运营方，必要时改公交上山。"
+        },
+        {
+          "day": 5,
+          "spot_name": "香港海洋公园",
+          "blind_highlights": "主题园全日按入口开放板选择机动与展馆；地铁往返。恶劣天气部分户外项目关闭。次日赴澳预留过关，今晚早歇。"
+        },
+        {
+          "day": 6,
+          "spot_name": "大三巴牌坊",
+          "blind_highlights": "半岛世遗步行圈核心，周边炮台遗址；人多拍照快速让路，下午可转氹仔。返程日只留短时节点，预留车站或机场安检。"
+        }
+      ],
+      "transport_connectors": {
+        "modes": [
+          "MTR",
+          "ferry",
+          "Peak Tram",
+          "bus"
+        ],
+        "notes": "过关证件与签注自备；台风停运缆车/渡轮；主题园一日很满。"
+      },
+      "ai_strategy": "港旅发局地标+澳旅局半岛/氹仔公开节点，合成为六日双城：港岛经典→大屿山→主题园→澳门半岛与氹仔。属地理可达合成。",
+      "source_refs": [
+        {
+          "url": "https://www.discoverhongkong.com/tc/attractions/your-guide-to-experiencing-hong-kong.html",
+          "retrieved_at": "2026-11-06T17:20:00+08:00",
+          "claims": "港旅发局旅遊全攻略（繁中）",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:200",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "https://www.macaotourism.gov.mo/zh-hans/macao-full-of-fun",
+          "retrieved_at": "2026-11-06T17:20:00+08:00",
+          "claims": "澳门旅游局满Fun",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:200",
+          "ref_status": "reachable_http_ok"
+        },
+        {
+          "url": "https://www.thepeak.com.hk/zh-hant/getting-to-the-peak/plan-your-journey",
+          "retrieved_at": "2026-11-06T17:20:00+08:00",
+          "claims": "山顶自助行程（本机曾404，标未核实）",
+          "fetch_check_at": "2026-11-06T17:20:00+08:00",
+          "fetch_status_raw": "GET:404",
+          "ref_status": "ref_source_unverified",
+          "access_note": "本机 curl 未能稳定读到 2xx；保留 URL 供人工复核，不得宣称已可达。"
+        }
+      ],
+      "route_basis": "geo_synthesis",
+      "synthesis_note": "港澳公开地标拼装六日；非单一官方联程产品原文。",
+      "strong_tags_optional": [
+        "出片",
+        "喧嚣",
+        "逛吃",
+        "亲子"
+      ],
+      "evolution_stats": {
+        "plan_mark_count": 0,
+        "review_count": 0
+      },
+      "privacy_note": "no social nicknames/avatars/user IDs collected"
+    }
+  ]
+}

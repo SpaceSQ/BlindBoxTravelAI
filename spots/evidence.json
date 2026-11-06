@@ -1,0 +1,5210 @@
+{
+  "generated_at": "2026-11-06T17:25:06+08:00",
+  "editorial_pass": true,
+  "channel_policy": "wikipedia/OSM/news.cn => Search_Engine; Official_Site only for scenic official or gov tourism pages actually attempted, with access_status notes",
+  "spots": [
+    {
+      "spot_id": "SP001",
+      "full_name": "故宫博物院",
+      "channels": [
+        "Official_Site",
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=39.9174311",
+            "lng=116.3907817"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/故宫博物院",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        },
+        {
+          "url": "https://www.dpm.org.cn/Visit.html",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_200",
+          "channel": "Official_Site",
+          "site_kind": "scenic_official",
+          "claims": [
+            "午门单向入馆",
+            "旺季大门票60/淡季40",
+            "周一闭馆",
+            "自南向北参观"
+          ],
+          "notes": "WebFetch 成功读取导览与票务"
+        },
+        {
+          "url": "https://www.dpm.org.cn/singles_detail/257830.html",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_via_search_snippet",
+          "channel": "Official_Site",
+          "site_kind": "scenic_official",
+          "claims": [
+            "票务政策细节与优惠政策"
+          ],
+          "notes": "检索摘要确认票务页；与 Visit 页一致"
+        }
+      ],
+      "price": 60
+    },
+    {
+      "spot_id": "SP002",
+      "full_name": "八达岭长城",
+      "channels": [
+        "Official_Site",
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=40.3603284",
+            "lng=116.0050515"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/八达岭长城",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        },
+        {
+          "url": "http://www.badaling.cn/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "fetch_empty_body",
+          "channel": "Official_Site",
+          "site_kind": "scenic_official",
+          "claims": [
+            "八达岭景区官方域名存在"
+          ],
+          "notes": "WebFetch 返回空正文，不作票价依据"
+        },
+        {
+          "url": "https://s.visitbeijing.com.cn/attraction/101406",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_via_search_snippet",
+          "channel": "Official_Site",
+          "site_kind": "government_tourism_official",
+          "claims": [
+            "旺季成人40/淡季35",
+            "淡旺季检票时段"
+          ],
+          "notes": "北京文旅/VisitBeijing 景点页检索摘要"
+        }
+      ],
+      "price": 40
+    },
+    {
+      "spot_id": "SP003",
+      "full_name": "颐和园",
+      "channels": [
+        "Official_Site",
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=39.9900983",
+            "lng=116.2647403"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/颐和园",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        },
+        {
+          "url": "https://www.summerpalace-china.com/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "504_timeout",
+          "channel": "Official_Site",
+          "site_kind": "scenic_official",
+          "claims": [
+            "颐和园官方域名"
+          ],
+          "notes": "WebFetch 504；票价改用检索摘要中的官网公开价"
+        },
+        {
+          "url": "https://www.summerpalace-china.com/English/sydt/index.htm",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_via_search_snippet",
+          "channel": "Official_Site",
+          "site_kind": "scenic_official",
+          "claims": [
+            "旺季门票30/联票60",
+            "淡季门票20/联票50",
+            "园中园另计"
+          ],
+          "notes": "搜索结果摘录官网英文页票务"
+        }
+      ],
+      "price": 30
+    },
+    {
+      "spot_id": "SP004",
+      "full_name": "天津古文化街旅游区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=39.1426486",
+            "lng=117.1858862"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/天津古文化街旅游区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP005",
+      "full_name": "天津盘山风景名胜区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=40.1008673",
+            "lng=117.2790857"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/天津盘山风景名胜区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP006",
+      "full_name": "承德避暑山庄及周围寺庙景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=40.9934927",
+            "lng=117.9260025"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/承德避暑山庄及周围寺庙景",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP007",
+      "full_name": "秦皇岛山海关景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=39.9965782",
+            "lng=119.7995477"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/秦皇岛山海关景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP008",
+      "full_name": "保定野三坡景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=39.6706326",
+            "lng=115.4481434"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/保定野三坡景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP009",
+      "full_name": "五台山风景名胜区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=38.9537125",
+            "lng=113.6331346"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/五台山风景名胜区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP010",
+      "full_name": "平遥古城景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=36.0691603",
+            "lng=111.4874768"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/平遥古城景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP011",
+      "full_name": "云冈石窟",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=40.1126526",
+            "lng=113.1304412"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/云冈石窟",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP012",
+      "full_name": "呼伦贝尔中俄边境旅游区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=49.6293909",
+            "lng=117.340872"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/呼伦贝尔中俄边境旅游区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP013",
+      "full_name": "响沙湾旅游景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=21.6355836",
+            "lng=108.3360231"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/响沙湾旅游景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP014",
+      "full_name": "阿尔山-柴河旅游景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=47.120858",
+            "lng=120.3879963"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/阿尔山-柴河旅游景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP015",
+      "full_name": "千山景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=41.1041524",
+            "lng=123.0107737"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/千山景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP016",
+      "full_name": "本溪水洞景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=41.2599807",
+            "lng=124.0027219"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/本溪水洞景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP017",
+      "full_name": "大连老虎滩海洋公园",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=38.8729816",
+            "lng=121.6734492"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/大连老虎滩海洋公园",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP018",
+      "full_name": "长白山景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=42.230923",
+            "lng=128.1761437"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/长白山景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP019",
+      "full_name": "伪满皇宫博物馆",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=43.902856",
+            "lng=125.3422046"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/伪满皇宫博物馆",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP020",
+      "full_name": "净月潭景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=43.7779264",
+            "lng=125.4722872"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/净月潭景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP021",
+      "full_name": "五大连池景区",
+      "channels": [
+        "Official_Site",
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=48.7059647",
+            "lng=126.239649"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/五大连池景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        },
+        {
+          "url": "https://www.chinawdlc.org.cn/pages/sel_page?version=0",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "500_error",
+          "channel": "Official_Site",
+          "site_kind": "scenic_official",
+          "claims": [
+            "五大连池风景区官网域名"
+          ],
+          "notes": "WebFetch 500，仅作官网存在性；熔岩/矿泉描述参考检索摘要"
+        },
+        {
+          "url": "https://wdlcgwh.heihe.gov.cn/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_via_search_snippet",
+          "channel": "Official_Site",
+          "site_kind": "government_tourism_official",
+          "claims": [
+            "管委会门户",
+            "咨询电话公开"
+          ],
+          "notes": "黑河市政府体系管委会页"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP022",
+      "full_name": "镜泊湖景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=31.072764",
+            "lng=104.4110652"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/镜泊湖景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP023",
+      "full_name": "太阳岛景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=45.7753381",
+            "lng=126.5564228"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/太阳岛景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP024",
+      "full_name": "外滩",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=31.2353356",
+            "lng=121.487632"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/外滩",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP025",
+      "full_name": "上海科技馆",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=31.2206022",
+            "lng=121.5367332"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/上海科技馆",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP026",
+      "full_name": "朱家角古镇",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=31.1161007",
+            "lng=121.0460099"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/朱家角古镇",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP027",
+      "full_name": "南京夫子庙-秦淮风光带",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=32.0228156",
+            "lng=118.7835375"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/南京夫子庙-秦淮风光带",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP028",
+      "full_name": "苏州园林拙政园",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=31.3237522",
+            "lng=120.6233194"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/苏州园林拙政园",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP029",
+      "full_name": "扬州瘦西湖风景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=32.4127971",
+            "lng=119.4130057"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/扬州瘦西湖风景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP030",
+      "full_name": "同里古镇景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=28.7328824",
+            "lng=115.8785856"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/同里古镇景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP031",
+      "full_name": "无锡鼋头渚旅游风景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=31.5246454",
+            "lng=120.2019918"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/无锡鼋头渚旅游风景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP032",
+      "full_name": "杭州西湖风景名胜区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=30.2259049",
+            "lng=120.1195323"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/杭州西湖风景名胜区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP033",
+      "full_name": "乌镇古镇旅游区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=28.8926934",
+            "lng=115.8304303"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/乌镇古镇旅游区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP034",
+      "full_name": "西塘古镇旅游景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=25.343317",
+            "lng=114.3424296"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/西塘古镇旅游景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP035",
+      "full_name": "西溪湿地旅游区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=30.2535309",
+            "lng=120.1387829"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/西溪湿地旅游区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP036",
+      "full_name": "普陀山风景名胜区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=30.0112928",
+            "lng=122.3863158"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/普陀山风景名胜区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP037",
+      "full_name": "黄山风景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=30.1383784",
+            "lng=118.1601569"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/黄山风景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP038",
+      "full_name": "皖南古村落西递宏村",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=23.0491796",
+            "lng=113.2866307"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/皖南古村落西递宏村",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP039",
+      "full_name": "天柱山风景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=31.8560148",
+            "lng=117.19317"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/天柱山风景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP040",
+      "full_name": "鼓浪屿风景名胜区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=24.4487419",
+            "lng=118.0682866"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/鼓浪屿风景名胜区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP041",
+      "full_name": "武夷山风景名胜区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=27.6601575",
+            "lng=117.946184"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/武夷山风景名胜区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP042",
+      "full_name": "福建土楼永定南靖旅游景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=24.6727727",
+            "lng=116.9775831"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/福建土楼永定南靖旅游景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP043",
+      "full_name": "泉州蟳埔村",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=24.8659896",
+            "lng=118.6484798"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/泉州蟳埔村",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP044",
+      "full_name": "三坊七巷景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=26.0850946",
+            "lng=119.2919836"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/三坊七巷景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP045",
+      "full_name": "庐山风景名胜区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=28.9090099",
+            "lng=118.0719177"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/庐山风景名胜区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP046",
+      "full_name": "井冈山风景旅游区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=26.74998",
+            "lng=114.2732809"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/井冈山风景旅游区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP047",
+      "full_name": "婺源江湾景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=29.2793173",
+            "lng=117.8517957"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/婺源江湾景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP048",
+      "full_name": "泰山景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=38.7295456",
+            "lng=116.121421"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/泰山景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP049",
+      "full_name": "曲阜明故城三孔旅游区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=35.5951635",
+            "lng=116.9843791"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/曲阜明故城三孔旅游区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP050",
+      "full_name": "青岛崂山景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=36.1293216",
+            "lng=120.5815533"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/青岛崂山景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP051",
+      "full_name": "龙门石窟景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=34.5571154",
+            "lng=112.4707112"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/龙门石窟景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP052",
+      "full_name": "嵩山少林景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=31.7113044",
+            "lng=117.2394499"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/嵩山少林景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP053",
+      "full_name": "云台山风景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=25.0036488",
+            "lng=121.6867281"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/云台山风景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP054",
+      "full_name": "武汉黄鹤楼公园",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=30.5469559",
+            "lng=114.2922145"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/武汉黄鹤楼公园",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP055",
+      "full_name": "武当山风景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=32.4763488",
+            "lng=111.0721051"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/武当山风景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP056",
+      "full_name": "神农架生态旅游区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=31.58339",
+            "lng=110.497198"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/神农架生态旅游区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP057",
+      "full_name": "张家界武陵源风景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=29.3387031",
+            "lng=110.5283093"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/张家界武陵源风景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP058",
+      "full_name": "岳麓山橘子洲旅游区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=28.1869583",
+            "lng=112.9283216"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/岳麓山橘子洲旅游区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP059",
+      "full_name": "凤凰古城旅游区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=28.7247885",
+            "lng=115.8701045"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/凤凰古城旅游区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP060",
+      "full_name": "衡山旅游区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=29.0160559",
+            "lng=115.8432473"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/衡山旅游区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP061",
+      "full_name": "广州白云山景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=23.1918425",
+            "lng=113.3222472"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/广州白云山景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP062",
+      "full_name": "丹霞山景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=24.7590689",
+            "lng=113.5254187"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/丹霞山景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP063",
+      "full_name": "开平碉楼文化旅游区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=22.3114035",
+            "lng=112.5547518"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/开平碉楼文化旅游区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP064",
+      "full_name": "惠州西湖旅游景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=31.765554",
+            "lng=117.2046737"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/惠州西湖旅游景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP065",
+      "full_name": "海陵岛大角湾海上丝路旅游区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=21.5703427",
+            "lng=111.8379394"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/海陵岛大角湾海上丝路旅游",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP066",
+      "full_name": "桂林漓江风景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=25.6914981",
+            "lng=110.4768795"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/桂林漓江风景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP067",
+      "full_name": "德天跨国瀑布景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=22.821734",
+            "lng=106.7914592"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/德天跨国瀑布景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP068",
+      "full_name": "涠洲岛南湾鳄鱼山景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=21.0402578",
+            "lng=109.1104199"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/涠洲岛南湾鳄鱼山景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP069",
+      "full_name": "黄姚古镇景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=31.7456283",
+            "lng=117.217931"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/黄姚古镇景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP070",
+      "full_name": "三亚南山文化旅游区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=18.3000907",
+            "lng=109.2066329"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/三亚南山文化旅游区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP071",
+      "full_name": "蜈支洲岛旅游区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=18.3162081",
+            "lng=109.2408333"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/蜈支洲岛旅游区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP072",
+      "full_name": "呀诺达雨林文化旅游区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=18.4619138",
+            "lng=109.6424221"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/呀诺达雨林文化旅游区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP073",
+      "full_name": "大足石刻景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=31.8565331",
+            "lng=117.1483957"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/大足石刻景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP074",
+      "full_name": "武隆喀斯特旅游区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=29.4203599",
+            "lng=107.7639422"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/武隆喀斯特旅游区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP075",
+      "full_name": "小三峡旅游区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=31.2334268",
+            "lng=109.8724932"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/小三峡旅游区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP076",
+      "full_name": "九寨沟风景名胜区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=33.1183597",
+            "lng=103.8838886"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/九寨沟风景名胜区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP077",
+      "full_name": "稻城亚丁风景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=28.5049209",
+            "lng=100.2602987"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/稻城亚丁风景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP078",
+      "full_name": "峨眉山风景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=29.556751",
+            "lng=103.3519442"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/峨眉山风景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP079",
+      "full_name": "都江堰景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=31.0034377",
+            "lng=103.6093046"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/都江堰景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP080",
+      "full_name": "阆中古城旅游景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=28.691361",
+            "lng=115.8444181"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/阆中古城旅游景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP081",
+      "full_name": "黄果树瀑布景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=30.4922407",
+            "lng=114.6095275"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/黄果树瀑布景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP082",
+      "full_name": "荔波小七孔景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=25.2632684",
+            "lng=107.7114259"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/荔波小七孔景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP083",
+      "full_name": "西江千户苗寨",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=26.4955484",
+            "lng=108.1702247"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/西江千户苗寨",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP084",
+      "full_name": "万峰林景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=24.9748741",
+            "lng=104.9235821"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/万峰林景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP085",
+      "full_name": "丽江古城",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=26.8739042",
+            "lng=100.2352809"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/丽江古城",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP086",
+      "full_name": "玉龙雪山景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=29.5894643",
+            "lng=106.4855468"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/玉龙雪山景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP087",
+      "full_name": "石林风景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=24.8156992",
+            "lng=103.3245807"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/石林风景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP088",
+      "full_name": "大理古城",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=25.698269",
+            "lng=100.162485"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/大理古城",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP089",
+      "full_name": "西双版纳热带植物园",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=21.9173632",
+            "lng=101.272758"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/西双版纳热带植物园",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP090",
+      "full_name": "布达拉宫",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=29.6575676",
+            "lng=91.1170188"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/布达拉宫",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP091",
+      "full_name": "纳木错",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=30.9165904",
+            "lng=90.8664194"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/纳木错",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP092",
+      "full_name": "珠穆朗玛峰国家级自然保护区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=28.4717532",
+            "lng=86.4372542"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/珠穆朗玛峰国家级自然保护",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP093",
+      "full_name": "秦始皇兵马俑博物馆",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=34.3873627",
+            "lng=109.277673"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/秦始皇兵马俑博物馆",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP094",
+      "full_name": "华山景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=37.611654",
+            "lng=113.6943654"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/华山景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP095",
+      "full_name": "大雁塔",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=34.2197968",
+            "lng=108.9594259"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/大雁塔",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP096",
+      "full_name": "敦煌莫高窟",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=40.0373163",
+            "lng=94.8042114"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/敦煌莫高窟",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP097",
+      "full_name": "嘉峪关文物景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=39.8017843",
+            "lng=98.2393877"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/嘉峪关文物景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP098",
+      "full_name": "张掖七彩丹霞旅游景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=38.952852",
+            "lng=100.0872653"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/张掖七彩丹霞旅游景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP099",
+      "full_name": "青海湖景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=31.9174599",
+            "lng=118.7770805"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/青海湖景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP100",
+      "full_name": "茶卡盐湖",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=36.6917273",
+            "lng=99.1136701"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/茶卡盐湖",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP101",
+      "full_name": "塔尔寺",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=36.4877847",
+            "lng=101.5670251"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/塔尔寺",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP102",
+      "full_name": "沙坡头旅游景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=22.7894058",
+            "lng=113.8138418"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/沙坡头旅游景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP103",
+      "full_name": "镇北堡西部影城",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=24.767553",
+            "lng=113.5077353"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/镇北堡西部影城",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP104",
+      "full_name": "喀纳斯景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=38.9108004",
+            "lng=121.6948452"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/喀纳斯景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP105",
+      "full_name": "天山天池风景名胜区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=44.100558",
+            "lng=88.0649791"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/天山天池风景名胜区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP106",
+      "full_name": "赛里木湖景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=44.6202716",
+            "lng=81.4066708"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/赛里木湖景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP107",
+      "full_name": "吐鲁番葡萄沟风景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=43.003708",
+            "lng=89.2412283"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/吐鲁番葡萄沟风景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP108",
+      "full_name": "香港维多利亚港",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=22.3235534",
+            "lng=114.1145688"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/香港维多利亚港",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP109",
+      "full_name": "香港大屿山昂坪",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=22.2191491",
+            "lng=113.9016836"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/香港大屿山昂坪",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP110",
+      "full_name": "香港太平山顶",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=22.5575355",
+            "lng=114.1609281"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/香港太平山顶",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP111",
+      "full_name": "澳门历史城区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=22.4285629",
+            "lng=114.0550863"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/澳门历史城区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP112",
+      "full_name": "澳门大三巴牌坊",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=22.197457",
+            "lng=113.5408602"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/澳门大三巴牌坊",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP113",
+      "full_name": "台北故宫博物院",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=25.0133837",
+            "lng=121.530364"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/台北故宫博物院",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP114",
+      "full_name": "日月潭",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=23.8472359",
+            "lng=120.9315152"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/日月潭",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP115",
+      "full_name": "垦丁国家公园",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=22.088541",
+            "lng=120.8921144"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/垦丁国家公园",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    },
+    {
+      "spot_id": "SP116",
+      "full_name": "阿里山国家风景区",
+      "channels": [
+        "Search_Engine"
+      ],
+      "source_refs": [
+        {
+          "url": "https://nominatim.openstreetmap.org/",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_cached_geocode",
+          "channel": "Search_Engine",
+          "site_kind": "geocoder",
+          "claims": [
+            "lat=23.5150347",
+            "lng=120.8097545"
+          ],
+          "notes": "OpenStreetMap Nominatim，非景区官网"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/阿里山国家风景区",
+          "channel": "Search_Engine",
+          "site_kind": "encyclopedia",
+          "claims": [
+            "公开百科背景（名称/区位）"
+          ],
+          "notes": "维基百科归 Search_Engine，不作 Official_Site",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "assumed_public"
+        },
+        {
+          "url": "https://www.news.cn/politics/20250519/d65c598704d649388c26525de9a04345/c.html",
+          "channel": "Search_Engine",
+          "site_kind": "news_list",
+          "claims": [
+            "国家5A名录公开报道交叉"
+          ],
+          "notes": "新华网报道，非景区官网",
+          "retrieved_at": "2026-11-06T17:22:42+08:00",
+          "access_status": "ok_search_page"
+        }
+      ],
+      "price": null
+    }
+  ]
+}

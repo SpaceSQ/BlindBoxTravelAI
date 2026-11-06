@@ -43,6 +43,17 @@ for r in routes:
         d.pop('spot_name',None)
     if r['route_type']=='single_spot':
         if set(r['spot_ids']) != {r['daily_schedule'][0]['spot_id']}: raise ValueError('Single route node drift '+r['route_id'])
+    original_days=[d['day'] for d in r['daily_schedule']]
+    if len(original_days)!=len(set(original_days)):
+        # Preserve a city-day as one day with multiple stop segments.
+        r['daily_schedule']=[{'day':day,'segments':[
+            {'spot_id':d['spot_id'],'blind_highlights':d['blind_highlights'],
+             **({'transport_to_next':d['transport_to_next']} if 'transport_to_next' in d else {})}
+            for d in r['daily_schedule'] if d['day']==day]}
+            for day in sorted(set(original_days))]
+        r['schedule_schema']='day_segments_v1'
+    else:
+        r['schedule_schema']='day_spot_v1'
     r.pop('spot_names',None)
     r['source_channels']=['Search_Engine']
     r['source_rights']='public page knowledge only; excludes social-user profiles'

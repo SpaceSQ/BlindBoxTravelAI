@@ -1,0 +1,25 @@
+{
+  "spots": 116,
+  "routes": 0,
+  "provinces": 34,
+  "actual_tag_entries": 475,
+  "unique_tags": 471,
+  "declared_tags": 500,
+  "unbound_spot_refs": 0,
+  "errors": [
+    "Phase 1 requires >=50 routes",
+    "Phase 1 requires duration 1 days",
+    "Phase 1 requires duration 2 days",
+    "Phase 1 requires duration 3 days",
+    "Phase 1 requires duration 4 days",
+    "Phase 1 requires duration 5 days",
+    "Phase 1 requires duration 6 days",
+    "Phase 1 requires duration 7 days"
+  ],
+  "warnings": [],
+  "source_channel_counts": {
+    "Official_Site": 4,
+    "Search_Engine": 116
+  },
+  "duration_counts": {}
+}
